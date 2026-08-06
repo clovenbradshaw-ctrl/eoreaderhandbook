@@ -1,20 +1,33 @@
 # The EO Reader 6 / EO Chat Handbook — a specification
 
-**Status:** v0.3. Part 0 and Part I are now written in full, as the sample
-§8 called for. Parts II–VIII are still structure and scope only — no prose
-written against them yet.
+**Status:** v0.4. Parts 0 through VII are written in full. Only Part VIII
+(reference material) remains, and it's designed to be built incrementally
+from what the earlier parts already cite rather than drafted up front.
 
 **Purpose of this file:** decide, on paper, what the handbook teaches, in what
 order, to whom, using what material — before spending the effort to write it.
 It follows the same discipline the rest of this lineage asks of everything
 else: declare the shape, checkpoint it, then build.
 
-**v0.3 changelog (this update):** Part 0 (0.1–0.4) and Part I (1.1–1.5) are
-written, one file per chapter, in this directory — see `000-index.md` for the
-table of contents and status. Writing them required taking a provisional
-position on Q1 (location: here) and Q3 (format: one numbered file per
-chapter); both are recorded in `000-index.md` and reversible. Q2, Q4, and Q5
-are untouched and still need a decision before Part II onward is written.
+**v0.4 changelog (this update):** Parts II through VII written in full —
+see `000-index.md` for the complete table of contents. All five open
+questions from §7 ended up resolved along the way rather than needing a
+separate up-front decision: **Q1** (location) resolved by moving the whole
+handbook to the dedicated `eoreaderhandbook` repo. **Q2** (is Part VII in
+scope) resolved as "yes, but explicitly flagged" — Part VII is written, and
+every chapter in it states plainly that it describes `eoreader4.1`/
+`eoreader4.2`'s construction language, a related but separate generation,
+never the current engine. **Q3** (format) held: one numbered file per
+chapter. **Q4** (depth) resolved in favor of the full outline rather than
+stopping at Part III. **Q5** (citing fast-moving work) was handled
+per-chapter rather than by one global policy — Part III.6 and Part VI.2
+cite specific PR numbers and file paths rather than a vaguer "current
+state," so drift is at least locatable even without a standing recheck
+cadence.
+
+**v0.3 changelog:** Part 0 (0.1–0.4) and Part I (1.1–1.5) were written,
+one file per chapter — the first pass, done inside `eochat/docs/handbook/`
+before the move recorded above.
 
 **v0.2 changelog:** `eoreader6` shipped a real, dated piece of
 research since v0.1 — the "role-fold" arc (PRs #44–48), attacking Fillmore's

@@ -6,6 +6,7 @@
 
 
 
+
 **Why this matters:** Chapter 5.1 told you the application calls outside
 language models as tools it doesn't own, never as the measurement itself.
 This chapter shows exactly what that looks like in one real, small,

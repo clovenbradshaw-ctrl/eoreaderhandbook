@@ -8,6 +8,7 @@
 
 
 
+
 **Why this matters:** Part I gave you the one move (build a ground, notice a
 figure, check for pattern, speak only under witness). This chapter starts
 answering a harder question: what *kinds* of thing can actually happen during

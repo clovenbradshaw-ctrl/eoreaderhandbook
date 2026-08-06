@@ -8,6 +8,7 @@
 
 
 
+
 **Why this matters:** you've now met three different nine-cell grids —
 operators, terrains, stances — built from the same three underlying axes.
 This chapter shows what happens when they're combined carelessly, using a

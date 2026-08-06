@@ -8,6 +8,7 @@
 
 
 
+
 **Why this matters:** later in this book you'll meet words like *terrain* and
 *stance*, and they will only make sense if you already have a gut feel for
 something most people never had to name: that the same words, arranged

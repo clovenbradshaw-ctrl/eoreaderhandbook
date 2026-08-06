@@ -8,6 +8,7 @@
 
 
 
+
 **Why this matters:** you cannot understand why this system is built the way
 it is without first understanding, in plain terms, what it is deliberately
 *not*. Several of the hardest design choices later in this book — refusing

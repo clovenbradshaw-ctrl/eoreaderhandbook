@@ -7,9 +7,9 @@ written.
 
 ## Status
 
-Parts 0 through VI are written in full. Part VII is planned next; Part
-VIII (reference material) is built incrementally, from what the earlier
-parts actually cite, rather than up front.
+Parts 0 through VII are written in full. Part VIII (reference material) is
+built incrementally, from what the earlier parts actually cite, rather
+than up front.
 
 ## Part 0 — Before You Start
 
@@ -66,9 +66,26 @@ parts actually cite, rather than up front.
 - [6.3 What's actually new here](603-whats-actually-new-here.md)
 - [6.4 The honest gap list](604-the-honest-gap-list.md)
 
-## Part VII and Part VIII — not yet written
+## Part VII — Building Something With It
 
-See `HANDBOOK-SPEC.md` §6 for the planned content of every remaining part.
+**A different generation, on purpose.** Unlike every other part of this
+book, Part VII does not describe EO Reader 6 or EO Chat. It describes a
+related, earlier generation of the same lineage (`eoreader4.1`/
+`eoreader4.2`) that built a full application-construction language on the
+same nine-operator vocabulary. It's included because it's real, honestly
+sourced, and a genuinely different design choice worth understanding — not
+because it's part of the current engine. See each chapter's own opening for
+the boundary restated.
+
+- [7.1 A construction language](701-a-construction-language.md)
+- [7.2 The watchmaker's discipline](702-the-watchmakers-discipline.md)
+- [7.3 A worked build, start to finish](703-a-worked-build-start-to-finish.md)
+
+## Part VIII — not yet written
+
+See `HANDBOOK-SPEC.md` §6 for its planned content (a glossary, quick-
+reference tables, and a provenance map) — built incrementally from what
+Parts 0–VII actually cite, rather than drafted up front.
 
 ## Where this repository lives, and why
 

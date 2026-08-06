@@ -1,8 +1,9 @@
 # 6.4 — The Honest Gap List
 
 <!-- nav:start -->
-[← 6.3 — What's Actually New Here](603-whats-actually-new-here.md) · [Contents](000-index.md) · *(more chapters coming)* →
+[← 6.3 — What's Actually New Here](603-whats-actually-new-here.md) · [Contents](000-index.md) · [7.1 — A Construction Language →](701-a-construction-language.md)
 <!-- nav:end -->
+
 
 
 **Why this matters:** this book has followed one rule since Chapter 0.1 —
@@ -90,5 +91,5 @@ connections drawn between this literature and the engine's behaviour are
 mine and have not been checked against anyone else's reading of it."*
 
 <!-- nav:start -->
-[← 6.3 — What's Actually New Here](603-whats-actually-new-here.md) · [Contents](000-index.md) · *(more chapters coming)* →
+[← 6.3 — What's Actually New Here](603-whats-actually-new-here.md) · [Contents](000-index.md) · [7.1 — A Construction Language →](701-a-construction-language.md)
 <!-- nav:end -->

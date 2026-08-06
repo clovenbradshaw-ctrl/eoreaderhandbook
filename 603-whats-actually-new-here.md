@@ -5,6 +5,7 @@
 <!-- nav:end -->
 
 
+
 **Why this matters:** Chapters 6.1 and 6.2 have been mostly humbling —
 reading is an old ambition, littered with gamed benchmarks, and this
 project's own mouth ran headlong into a fifty-eight-year-old, well-known
