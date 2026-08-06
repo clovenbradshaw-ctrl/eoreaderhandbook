@@ -1,8 +1,9 @@
 # 5.5 — Writing Something Long Without Losing the Thread
 
 <!-- nav:start -->
-[← 5.4 — A Citation You Can Actually Check](504-a-citation-you-can-actually-check.md) · [Contents](000-index.md) · *(more chapters coming)* →
+[← 5.4 — A Citation You Can Actually Check](504-a-citation-you-can-actually-check.md) · [Contents](000-index.md) · [5.6 — Senses, Memory, and Borrowed Models →](506-senses-memory-and-borrowed-models.md)
 <!-- nav:end -->
+
 
 
 **Why this matters:** everything so far in Part V has been about a single
@@ -82,5 +83,5 @@ set, including the "silent truncation" line, are `eochat/server/task-
 log.js`, lines 1-8 and 333-336.
 
 <!-- nav:start -->
-[← 5.4 — A Citation You Can Actually Check](504-a-citation-you-can-actually-check.md) · [Contents](000-index.md) · *(more chapters coming)* →
+[← 5.4 — A Citation You Can Actually Check](504-a-citation-you-can-actually-check.md) · [Contents](000-index.md) · [5.6 — Senses, Memory, and Borrowed Models →](506-senses-memory-and-borrowed-models.md)
 <!-- nav:end -->

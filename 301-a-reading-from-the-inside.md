@@ -5,6 +5,7 @@
 <!-- nav:end -->
 
 
+
 **Why this matters:** every idea in Parts I and II has been abstract so far —
 grounds, figures, terrains, stances. This chapter walks one real, short,
 already-produced answer through the whole machine, act by act, so you can

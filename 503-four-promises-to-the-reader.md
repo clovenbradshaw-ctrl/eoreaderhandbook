@@ -5,6 +5,7 @@
 <!-- nav:end -->
 
 
+
 **Why this matters:** the last two chapters described how this application
 is governed and instructed. This chapter is about what it actually promises
 *you*, as the person on the other side of the screen — and, in each case,

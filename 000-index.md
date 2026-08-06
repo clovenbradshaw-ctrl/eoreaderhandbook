@@ -7,10 +7,9 @@ written.
 
 ## Status
 
-Parts 0 through IV are written in full. Part V is in progress. Parts VI
-and VII are planned next; Part VIII (reference material) is built
-incrementally, from what the earlier parts actually cite, rather than up
-front.
+Parts 0 through V are written in full. Parts VI and VII are planned next;
+Part VIII (reference material) is built incrementally, from what the
+earlier parts actually cite, rather than up front.
 
 ## Part 0 — Before You Start
 
@@ -51,14 +50,14 @@ front.
 - [4.3 A constitution that edits itself](403-a-constitution-that-edits-itself.md)
 - [4.4 One amendment, start to finish](404-one-amendment-start-to-finish.md)
 
-## Part V — EO Chat: Where You Meet It (in progress)
+## Part V — EO Chat: Where You Meet It
 
 - [5.1 A thin front door](501-a-thin-front-door.md)
 - [5.2 Instructions all the way down](502-instructions-all-the-way-down.md)
 - [5.3 Four promises to the reader, in plain language](503-four-promises-to-the-reader.md)
-- 5.4 A citation you can actually check — not yet written
-- 5.5 Writing something long without losing the thread — not yet written
-- 5.6 Senses, memory, and borrowed models — not yet written
+- [5.4 A citation you can actually check](504-a-citation-you-can-actually-check.md)
+- [5.5 Writing something long without losing the thread](505-writing-something-long-without-losing-the-thread.md)
+- [5.6 Senses, memory, and borrowed models](506-senses-memory-and-borrowed-models.md)
 
 ## Parts VI–VIII — not yet written
 

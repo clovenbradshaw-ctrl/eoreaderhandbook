@@ -5,6 +5,7 @@
 <!-- nav:end -->
 
 
+
 **Why this matters:** every chat application has *some* set of instructions
 shaping how it behaves — usually a single hidden prompt nobody outside the
 company gets to see. This chapter is about a different choice: writing that

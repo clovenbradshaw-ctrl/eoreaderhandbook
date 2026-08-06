@@ -5,6 +5,7 @@
 <!-- nav:end -->
 
 
+
 **Why this matters:** noticing something isn't the same as it *mattering*.
 This chapter draws that line precisely, because the whole system refuses to
 say anything about a figure until it's crossed — and without this
