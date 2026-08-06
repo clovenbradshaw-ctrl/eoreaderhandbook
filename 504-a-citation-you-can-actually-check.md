@@ -6,6 +6,8 @@
 
 
 
+
+
 **Why this matters:** Chapter 3.1 showed you a citation in a real answer —
 `pg84.txt @ bytes 263105–265217` — and asked you to trust that it actually
 pointed somewhere real. This chapter is about the mechanism that makes that

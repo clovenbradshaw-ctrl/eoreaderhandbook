@@ -1,8 +1,10 @@
 # 5.6 — Senses, Memory, and Borrowed Models
 
 <!-- nav:start -->
-[← 5.5 — Writing Something Long Without Losing the Thread](505-writing-something-long-without-losing-the-thread.md) · [Contents](000-index.md) · *(more chapters coming)* →
+[← 5.5 — Writing Something Long Without Losing the Thread](505-writing-something-long-without-losing-the-thread.md) · [Contents](000-index.md) · [6.1 — A Short History of Machines That Were Said to Read →](601-a-short-history-of-machines-that-were-said-to-read.md)
 <!-- nav:end -->
+
+
 
 **Why this matters:** Chapter 5.1 told you the application calls outside
 language models as tools it doesn't own, never as the measurement itself.
@@ -80,5 +82,5 @@ built after that rule was already in place.
 over... anchoring a fresh question to the thread it left"*).
 
 <!-- nav:start -->
-[← 5.5 — Writing Something Long Without Losing the Thread](505-writing-something-long-without-losing-the-thread.md) · [Contents](000-index.md) · *(more chapters coming)* →
+[← 5.5 — Writing Something Long Without Losing the Thread](505-writing-something-long-without-losing-the-thread.md) · [Contents](000-index.md) · [6.1 — A Short History of Machines That Were Said to Read →](601-a-short-history-of-machines-that-were-said-to-read.md)
 <!-- nav:end -->

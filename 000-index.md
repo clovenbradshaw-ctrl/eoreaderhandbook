@@ -7,9 +7,9 @@ written.
 
 ## Status
 
-Parts 0 through V are written in full. Parts VI and VII are planned next;
-Part VIII (reference material) is built incrementally, from what the
-earlier parts actually cite, rather than up front.
+Parts 0 through VI are written in full. Part VII is planned next; Part
+VIII (reference material) is built incrementally, from what the earlier
+parts actually cite, rather than up front.
 
 ## Part 0 — Before You Start
 
@@ -59,7 +59,14 @@ earlier parts actually cite, rather than up front.
 - [5.5 Writing something long without losing the thread](505-writing-something-long-without-losing-the-thread.md)
 - [5.6 Senses, memory, and borrowed models](506-senses-memory-and-borrowed-models.md)
 
-## Parts VI–VIII — not yet written
+## Part VI — Where This Sits in History
+
+- [6.1 A short history of machines that were said to read](601-a-short-history-of-machines-that-were-said-to-read.md)
+- [6.2 The fifty-eight-year-old objection, and where the project is actually chipping at it](602-the-fifty-year-old-objection.md)
+- [6.3 What's actually new here](603-whats-actually-new-here.md)
+- [6.4 The honest gap list](604-the-honest-gap-list.md)
+
+## Part VII and Part VIII — not yet written
 
 See `HANDBOOK-SPEC.md` §6 for the planned content of every remaining part.
 

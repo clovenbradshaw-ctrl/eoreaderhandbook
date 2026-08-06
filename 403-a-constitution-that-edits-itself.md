@@ -6,6 +6,8 @@
 
 
 
+
+
 **Why this matters:** every rule in Chapter 4.2 is written in a document
 that explicitly allows itself to be changed. This chapter is about how that
 change actually happens — because "we can edit our own rules" is easy to
