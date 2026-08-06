@@ -1,5 +1,10 @@
 # 1.4 — The Two Deaths
 
+<!-- nav:start -->
+[← 1.3 — Witness](103-witness.md) · [Contents](000-index.md) · [1.5 — Three Numbers and a Vital Sign →](105-three-numbers-and-a-vital-sign.md)
+<!-- nav:end -->
+
+
 **Why this matters:** every design choice later in this book — every organ,
 every refusal, every amendment to the rules this system lives under — is,
 in the end, a defense against exactly one of two ways this kind of system
@@ -69,3 +74,7 @@ deaths, one conformance family each: Confabulation — it speaks without
 witness. Sclerosis — the ground closes, nothing can differ from it, and it
 becomes an oracle: fluent, sourced, correct, incapable of encounter. With
 pattern in place the second is largely self-announcing."*
+
+<!-- nav:start -->
+[← 1.3 — Witness](103-witness.md) · [Contents](000-index.md) · [1.5 — Three Numbers and a Vital Sign →](105-three-numbers-and-a-vital-sign.md)
+<!-- nav:end -->

@@ -1,5 +1,10 @@
 # 3.3 — A Guided Tour of the Organs
 
+<!-- nav:start -->
+[← 3.2 — Gifts, Not Guesses](302-gifts-not-guesses.md) · [Contents](000-index.md) · [3.4 — Turns and Memory →](304-turns-and-memory.md)
+<!-- nav:end -->
+
+
 **Why this matters:** Part I taught you one move, and Part II taught you the
 grammar every act is described in. This chapter introduces the actual
 working parts — this system's word for them is **organs** — that carry the
@@ -87,3 +92,7 @@ never a language... Meaning, when it comes, is earned by higher organs."*
 several places across SEED.md's amendments (e.g. Amendment XV, *"the same
 standing `cascade` already holds"*), without a passage this book found
 sufficient to teach them fully.
+
+<!-- nav:start -->
+[← 3.2 — Gifts, Not Guesses](302-gifts-not-guesses.md) · [Contents](000-index.md) · [3.4 — Turns and Memory →](304-turns-and-memory.md)
+<!-- nav:end -->

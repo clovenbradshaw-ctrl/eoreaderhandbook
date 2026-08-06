@@ -1,5 +1,10 @@
 # 0.4 — What a Language Model Is, in Plain Terms, and Why This Project Keeps Its Distance From One
 
+<!-- nav:start -->
+[← 0.3 — A Ten-Minute Ontology and Epistemology Primer](003-ontology-and-epistemology-primer.md) · [Contents](000-index.md) · [1.1 — Noticing →](101-noticing.md)
+<!-- nav:end -->
+
+
 **Why this matters:** you cannot understand why this system is built the way
 it is without first understanding, in plain terms, what it is deliberately
 *not*. Several of the hardest design choices later in this book — refusing
@@ -79,3 +84,7 @@ from `eoreader6/prior-art-teachable-language-comprehender.md` §VI, on the
 "absorb it" strategy and its cost: *"there is no ledger. You cannot ask
 which of its knowledge was used, or what it declined to conclude, or what it
 discarded."*
+
+<!-- nav:start -->
+[← 0.3 — A Ten-Minute Ontology and Epistemology Primer](003-ontology-and-epistemology-primer.md) · [Contents](000-index.md) · [1.1 — Noticing →](101-noticing.md)
+<!-- nav:end -->

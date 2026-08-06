@@ -1,5 +1,10 @@
 # 0.2 — A Ten-Minute Grammar and Meaning Primer
 
+<!-- nav:start -->
+[← 0.1 — What This Book Is, and Isn't](001-what-this-book-is-and-isnt.md) · [Contents](000-index.md) · [0.3 — A Ten-Minute Ontology and Epistemology Primer →](003-ontology-and-epistemology-primer.md)
+<!-- nav:end -->
+
+
 **Why this matters:** later in this book you'll meet words like *terrain* and
 *stance*, and they will only make sense if you already have a gut feel for
 something most people never had to name: that the same words, arranged
@@ -65,3 +70,7 @@ different *kinds* of thing a sentence can be about and the different
 prepare the reader for Part II's operators, terrains, and stances (see
 `HANDBOOK-SPEC.md` §6, Part II). It draws no content from the codebase — it
 teaches only the general linguistic distinction the rest of the book assumes.
+
+<!-- nav:start -->
+[← 0.1 — What This Book Is, and Isn't](001-what-this-book-is-and-isnt.md) · [Contents](000-index.md) · [0.3 — A Ten-Minute Ontology and Epistemology Primer →](003-ontology-and-epistemology-primer.md)
+<!-- nav:end -->

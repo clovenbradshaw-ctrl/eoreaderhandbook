@@ -1,5 +1,10 @@
 # 5.3 — Four Promises to the Reader, in Plain Language
 
+<!-- nav:start -->
+[← 5.2 — Instructions All the Way Down](502-instructions-all-the-way-down.md) · [Contents](000-index.md) · [5.4 — A Citation You Can Actually Check →](504-a-citation-you-can-actually-check.md)
+<!-- nav:end -->
+
+
 **Why this matters:** the last two chapters described how this application
 is governed and instructed. This chapter is about what it actually promises
 *you*, as the person on the other side of the screen — and, in each case,
@@ -83,3 +88,7 @@ are from `eochat/LAWS.md` — no dead air (L1, lines 23 and 79-91, 160-165),
 audit is local (L2, lines 181 and 215-224, 237-241), no silent truncation
 (L3, lines 288 and 306-316), and no implied completeness (L6, lines
 485-487 and 493-500).
+
+<!-- nav:start -->
+[← 5.2 — Instructions All the Way Down](502-instructions-all-the-way-down.md) · [Contents](000-index.md) · [5.4 — A Citation You Can Actually Check →](504-a-citation-you-can-actually-check.md)
+<!-- nav:end -->

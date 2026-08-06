@@ -1,5 +1,10 @@
 # 3.2 — Gifts, Not Guesses
 
+<!-- nav:start -->
+[← 3.1 — A Reading, From the Inside](301-a-reading-from-the-inside.md) · [Contents](000-index.md) · [3.3 — A Guided Tour of the Organs →](303-a-guided-tour-of-the-organs.md)
+<!-- nav:end -->
+
+
 **Why this matters:** everything so far has been about what the system can
 establish for itself, from the material in front of it. But no reader,
 human or otherwise, starts from nothing — everyone brings outside knowledge
@@ -83,3 +88,7 @@ is not a property of a prior. It is a property of the meeting between a
 prior and this material, and its measure is the surprise that did not
 happen"* — including its four numbered consequences and the cross-modal
 boundary drawn in its final paragraph.
+
+<!-- nav:start -->
+[← 3.1 — A Reading, From the Inside](301-a-reading-from-the-inside.md) · [Contents](000-index.md) · [3.3 — A Guided Tour of the Organs →](303-a-guided-tour-of-the-organs.md)
+<!-- nav:end -->

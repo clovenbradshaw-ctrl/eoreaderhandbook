@@ -1,5 +1,10 @@
 # 2.1 — Nine Verbs
 
+<!-- nav:start -->
+[← 1.5 — Three Numbers and a Vital Sign](105-three-numbers-and-a-vital-sign.md) · [Contents](000-index.md) · [2.2 — The Order Things Happen In →](202-the-order-things-happen-in.md)
+<!-- nav:end -->
+
+
 **Why this matters:** Part I gave you the one move (build a ground, notice a
 figure, check for pattern, speak only under witness). This chapter starts
 answering a harder question: what *kinds* of thing can actually happen during
@@ -100,3 +105,7 @@ beds") is from a related but separate generation of this project,
 `eoreader4.2/docs/eo-for-coders.md` line 249 — flagged as such because it
 does not describe eoreader6 itself; see Part VII for why that document
 belongs to a different generation.
+
+<!-- nav:start -->
+[← 1.5 — Three Numbers and a Vital Sign](105-three-numbers-and-a-vital-sign.md) · [Contents](000-index.md) · [2.2 — The Order Things Happen In →](202-the-order-things-happen-in.md)
+<!-- nav:end -->

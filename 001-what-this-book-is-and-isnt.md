@@ -1,5 +1,10 @@
 # 0.1 — What This Book Is, and Isn't
 
+<!-- nav:start -->
+← *(start of the book)* · [Contents](000-index.md) · [0.2 — A Ten-Minute Grammar and Meaning Primer →](002-grammar-and-meaning-primer.md)
+<!-- nav:end -->
+
+
 **Why this matters:** if you come in expecting a developer manual or a product
 brochure, every chapter after this one will feel like it's answering the wrong
 question. This book has one job — to teach you what actually happens, in
@@ -84,3 +89,7 @@ out in `HANDBOOK-SPEC.md` §3, and previews the running
 examples decided in §5 (Example A: `eochat/essay.md`; Example B: the
 domain-invariant triad from the `writing-code-in-eo` reference) and the two
 deaths named in `eoreader6/SEED.md`, "The entelechy."
+
+<!-- nav:start -->
+← *(start of the book)* · [Contents](000-index.md) · [0.2 — A Ten-Minute Grammar and Meaning Primer →](002-grammar-and-meaning-primer.md)
+<!-- nav:end -->

@@ -1,5 +1,10 @@
 # 1.2 — The Difference That Makes a Difference
 
+<!-- nav:start -->
+[← 1.1 — Noticing](101-noticing.md) · [Contents](000-index.md) · [1.3 — Witness →](103-witness.md)
+<!-- nav:end -->
+
+
 **Why this matters:** noticing something isn't the same as it *mattering*.
 This chapter draws that line precisely, because the whole system refuses to
 say anything about a figure until it's crossed — and without this
@@ -58,3 +63,7 @@ that one test.
 **Where this comes from:** `eoreader6/SEED.md`, "One operation" — *"Pattern
 is Bateson's: a difference that makes a difference... A figure earns pattern
 by changing what happens next, and the only next available is the ground."*
+
+<!-- nav:start -->
+[← 1.1 — Noticing](101-noticing.md) · [Contents](000-index.md) · [1.3 — Witness →](103-witness.md)
+<!-- nav:end -->

@@ -1,5 +1,10 @@
 # 3.4 — Turns and Memory
 
+<!-- nav:start -->
+[← 3.3 — A Guided Tour of the Organs](303-a-guided-tour-of-the-organs.md) · [Contents](000-index.md) · [3.5 — Refusal as an Answer →](305-refusal-as-an-answer.md)
+<!-- nav:end -->
+
+
 **Why this matters:** Chapter 1.1 said a ground gets rebuilt fresh every
 time — never kept as a permanent fixture. So how does this system have a
 conversation at all, across separate turns, without either dragging along
@@ -60,3 +65,7 @@ locally at the turn boundary... What is still not earned is the enforcement
 that a genuinely-first ground is *received* — the engine cannot know that
 the caller read nothing before... The register is one closing scalar plus a
 declared choice, never a rollup of the trail."*
+
+<!-- nav:start -->
+[← 3.3 — A Guided Tour of the Organs](303-a-guided-tour-of-the-organs.md) · [Contents](000-index.md) · [3.5 — Refusal as an Answer →](305-refusal-as-an-answer.md)
+<!-- nav:end -->

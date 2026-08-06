@@ -1,5 +1,10 @@
 # 4.2 — The Tests, in Plain Language
 
+<!-- nav:start -->
+[← 4.1 — Four Boxes](401-four-boxes.md) · [Contents](000-index.md) · [4.3 — A Constitution That Edits Itself →](403-a-constitution-that-edits-itself.md)
+<!-- nav:end -->
+
+
 **Why this matters:** Chapter 4.1 told you every claim gets sorted into one
 of four boxes. This chapter is about the actual checklist used to do the
 sorting — a real, named sequence of questions, each one closing off a
@@ -103,3 +108,7 @@ revision of the reader?"*), the commensurability test (II.10), the
 omnimodal earning test (II.11), and the local test (II.12). The routing
 order itself is Article II's opening line: *"Ask in this order. Prior? →
 App? → what remains is engine."*
+
+<!-- nav:start -->
+[← 4.1 — Four Boxes](401-four-boxes.md) · [Contents](000-index.md) · [4.3 — A Constitution That Edits Itself →](403-a-constitution-that-edits-itself.md)
+<!-- nav:end -->

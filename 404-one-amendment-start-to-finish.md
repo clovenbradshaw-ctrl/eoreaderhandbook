@@ -1,5 +1,10 @@
 # 4.4 — One Amendment, Start to Finish
 
+<!-- nav:start -->
+[← 4.3 — A Constitution That Edits Itself](403-a-constitution-that-edits-itself.md) · [Contents](000-index.md) · [5.1 — A Thin Front Door →](501-a-thin-front-door.md)
+<!-- nav:end -->
+
+
 **Why this matters:** the last three chapters described the constitution's
 amendment machinery from above. This chapter walks one real amendment all
 the way through it, so the abstract rules from 4.3 land as something that
@@ -79,3 +84,7 @@ establishes that... Ancestors may be cited in comments. They may not name
 quantities."* The preserved old name is recorded in "The sign of health,"
 the section the amendment corrects: *"This quantity was called `ananda`
 until 2026-08-04. The name is superseded, not erased."*
+
+<!-- nav:start -->
+[← 4.3 — A Constitution That Edits Itself](403-a-constitution-that-edits-itself.md) · [Contents](000-index.md) · [5.1 — A Thin Front Door →](501-a-thin-front-door.md)
+<!-- nav:end -->

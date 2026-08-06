@@ -1,5 +1,10 @@
 # 2.2 — The Order Things Happen In
 
+<!-- nav:start -->
+[← 2.1 — Nine Verbs](201-nine-verbs.md) · [Contents](000-index.md) · [2.3 — Nine Kinds of "Where" →](203-nine-kinds-of-where.md)
+<!-- nav:end -->
+
+
 **Why this matters:** the nine verbs in Chapter 2.1 aren't interchangeable
 building blocks you can call in any sequence. Some of them can only happen
 after others already have. Understanding that ordering is what will let you
@@ -60,3 +65,7 @@ It is the same three terms; the seed's unit is one axis of this
 instrument."* The binding-organ dependency is from `eoreader6/SEED.md`,
 Amendment X: *"The binding organ ... reads an entity register — arrival
 indices of beings already admitted through the witness gate."*
+
+<!-- nav:start -->
+[← 2.1 — Nine Verbs](201-nine-verbs.md) · [Contents](000-index.md) · [2.3 — Nine Kinds of "Where" →](203-nine-kinds-of-where.md)
+<!-- nav:end -->

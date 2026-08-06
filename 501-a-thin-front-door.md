@@ -1,5 +1,10 @@
 # 5.1 — A Thin Front Door
 
+<!-- nav:start -->
+[← 4.4 — One Amendment, Start to Finish](404-one-amendment-start-to-finish.md) · [Contents](000-index.md) · [5.2 — Instructions All the Way Down →](502-instructions-all-the-way-down.md)
+<!-- nav:end -->
+
+
 **Why this matters:** everything in Parts I through IV describes a
 measurement that never touches a clock, a file, or a specific reader. But
 you're reading this book because, at some point, you actually typed a
@@ -61,3 +66,7 @@ is settled. They bind the host: clock, I/O, routing, UX. They can never
 license a change to engine reading."* The underlying test itself is
 `eo-constitution/CONSTITUTION.md`, Article I.4: *"Deleting an application
 must change no engine reading."*
+
+<!-- nav:start -->
+[← 4.4 — One Amendment, Start to Finish](404-one-amendment-start-to-finish.md) · [Contents](000-index.md) · [5.2 — Instructions All the Way Down →](502-instructions-all-the-way-down.md)
+<!-- nav:end -->

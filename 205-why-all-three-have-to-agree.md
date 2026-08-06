@@ -1,5 +1,10 @@
 # 2.5 — Why All Three Have to Agree
 
+<!-- nav:start -->
+[← 2.4 — Nine Kinds of "How"](204-nine-kinds-of-how.md) · [Contents](000-index.md) · [3.1 — A Reading, From the Inside →](301-a-reading-from-the-inside.md)
+<!-- nav:end -->
+
+
 **Why this matters:** you've now met three different nine-cell grids —
 operators, terrains, stances — built from the same three underlying axes.
 This chapter shows what happens when they're combined carelessly, using a
@@ -82,3 +87,7 @@ makes an address falsifiable."* The `eoreader5` contradiction, including
 still-unresolved status of one of them, is "A known contradiction in the
 prior engine," lines 148-166. The cube's own refutation as a content
 classifier is lines 10-14.
+
+<!-- nav:start -->
+[← 2.4 — Nine Kinds of "How"](204-nine-kinds-of-how.md) · [Contents](000-index.md) · [3.1 — A Reading, From the Inside →](301-a-reading-from-the-inside.md)
+<!-- nav:end -->

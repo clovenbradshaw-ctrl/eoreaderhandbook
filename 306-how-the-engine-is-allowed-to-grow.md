@@ -1,5 +1,10 @@
 # 3.6 — How the Engine Is Allowed to Grow
 
+<!-- nav:start -->
+[← 3.5 — Refusal as an Answer](305-refusal-as-an-answer.md) · [Contents](000-index.md) · [4.1 — Four Boxes →](401-four-boxes.md)
+<!-- nav:end -->
+
+
 **Why this matters:** everything you've read so far describes the engine as
 it stands. This chapter is about how it's allowed to change — and the rule
 turns out to be strict enough that it has refused the project's own best
@@ -128,3 +133,7 @@ distributional clustering; the cross-lingual result (PR #48, "the mouth is
 language-specific by construction, the organ isn't"); and the explicit
 "EXPERIMENTAL. Unwired. Not a golden, not a certified organ" status note at
 the top of README.md.
+
+<!-- nav:start -->
+[← 3.5 — Refusal as an Answer](305-refusal-as-an-answer.md) · [Contents](000-index.md) · [4.1 — Four Boxes →](401-four-boxes.md)
+<!-- nav:end -->

@@ -1,5 +1,10 @@
 # 1.1 — Noticing
 
+<!-- nav:start -->
+[← 0.4 — What a Language Model Is, in Plain Terms, and Why This Project Keeps Its Distance From One](004-what-a-language-model-is.md) · [Contents](000-index.md) · [1.2 — The Difference That Makes a Difference →](102-the-difference-that-makes-a-difference.md)
+<!-- nav:end -->
+
+
 **Why this matters:** almost everything else in this book — every refusal,
 every citation, every "not yet earned" — comes down to one single move this
 system makes before it says anything at all. If this chapter doesn't land,
@@ -70,3 +75,7 @@ a difference against one."* The *E. coli* comparison is drawn from
 `eo-constitution/CONSTITUTION.md` Article II.7, "The convergence test":
 *"E. coli compares the gradient against a ground it rebuilds — no receptor
 per molecule."*
+
+<!-- nav:start -->
+[← 0.4 — What a Language Model Is, in Plain Terms, and Why This Project Keeps Its Distance From One](004-what-a-language-model-is.md) · [Contents](000-index.md) · [1.2 — The Difference That Makes a Difference →](102-the-difference-that-makes-a-difference.md)
+<!-- nav:end -->

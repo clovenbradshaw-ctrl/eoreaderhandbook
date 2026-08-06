@@ -88,3 +88,7 @@ fast-moving citations like Part III.6 and Part VI.2 should be anchored and
 re-checked)** are addressed as each relevant part is written — see each
 part's own chapters for how they were actually handled, since the answer
 turned out to be chapter-specific rather than a single global policy.
+
+<!-- nav:start -->
+← *(start of the book)* · [Contents](000-index.md) · [0.1 — What This Book Is, and Isn't →](001-what-this-book-is-and-isnt.md)
+<!-- nav:end -->

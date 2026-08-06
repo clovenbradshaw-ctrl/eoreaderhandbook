@@ -1,5 +1,10 @@
 # 1.3 — Witness
 
+<!-- nav:start -->
+[← 1.2 — The Difference That Makes a Difference](102-the-difference-that-makes-a-difference.md) · [Contents](000-index.md) · [1.4 — The Two Deaths →](104-the-two-deaths.md)
+<!-- nav:end -->
+
+
 **Why this matters:** this is the chapter that explains why the system so
 often says less than you might expect, or refuses outright, instead of
 offering a plausible-sounding guess. That's not caution for its own sake —
@@ -57,3 +62,7 @@ three terms, or it is not a record. `witness` refuses a figure whose pattern
 did not move the ground — a difference that made no difference is not
 information, so it is not testimony either... The system may perceive
 anything. It may speak only of what changed the ground."*
+
+<!-- nav:start -->
+[← 1.2 — The Difference That Makes a Difference](102-the-difference-that-makes-a-difference.md) · [Contents](000-index.md) · [1.4 — The Two Deaths →](104-the-two-deaths.md)
+<!-- nav:end -->

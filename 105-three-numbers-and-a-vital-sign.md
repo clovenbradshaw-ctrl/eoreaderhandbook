@@ -1,5 +1,10 @@
 # 1.5 — Three Numbers and a Vital Sign
 
+<!-- nav:start -->
+[← 1.4 — The Two Deaths](104-the-two-deaths.md) · [Contents](000-index.md) · [2.1 — Nine Verbs →](201-nine-verbs.md)
+<!-- nav:end -->
+
+
 **Why this matters:** everything you've learned so far — ground, figure,
 pattern, witness — is a set of *moves*. This chapter gives you the small set
 of dials that control how finely and how often those moves actually get
@@ -87,3 +92,7 @@ the same file and in Amendment XVII, *"A quantity's name is a claim about
 what it is"* — *"Ananda means bliss. The identifier therefore asserted that
 an interquartile width is a state of the system, and no null in this repo
 establishes that."*
+
+<!-- nav:start -->
+[← 1.4 — The Two Deaths](104-the-two-deaths.md) · [Contents](000-index.md) · [2.1 — Nine Verbs →](201-nine-verbs.md)
+<!-- nav:end -->

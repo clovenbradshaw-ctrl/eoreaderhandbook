@@ -1,5 +1,10 @@
 # 3.5 — Refusal as an Answer
 
+<!-- nav:start -->
+[← 3.4 — Turns and Memory](304-turns-and-memory.md) · [Contents](000-index.md) · [3.6 — How the Engine Is Allowed to Grow →](306-how-the-engine-is-allowed-to-grow.md)
+<!-- nav:end -->
+
+
 **Why this matters:** most systems treat "I don't know" as a failure to
 hide or smooth over. This chapter is about why this system treats a
 refusal as a real, countable, typed piece of output — a result, not an
@@ -71,3 +76,7 @@ null... never spend a measurement on what the algebra catches") is
 `eoreader6/SEED.md`, "What follows," clause 7. The worked example is
 `eochat/essay.md`, "What this leaves out" — including the exact phrase "not
 printed rather than printed unsupported."
+
+<!-- nav:start -->
+[← 3.4 — Turns and Memory](304-turns-and-memory.md) · [Contents](000-index.md) · [3.6 — How the Engine Is Allowed to Grow →](306-how-the-engine-is-allowed-to-grow.md)
+<!-- nav:end -->

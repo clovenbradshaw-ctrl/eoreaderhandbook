@@ -1,5 +1,10 @@
 # 4.1 — Four Boxes
 
+<!-- nav:start -->
+[← 3.6 — How the Engine Is Allowed to Grow](306-how-the-engine-is-allowed-to-grow.md) · [Contents](000-index.md) · [4.2 — The Tests, in Plain Language →](402-the-tests-in-plain-language.md)
+<!-- nav:end -->
+
+
 **Why this matters:** Part III showed you an engine that measures things
 very carefully and refuses to speak past its evidence. This chapter is
 about why that engine is kept so deliberately narrow — and where everything
@@ -68,3 +73,7 @@ organ is re-earned in eoreader6 or it does not come"*; I.4 on applications,
 *"Deleting an application must change no engine reading"*; and I.5, *"No
 other domain exists. A thing that fits none of the four is a gap, not a new
 category."*
+
+<!-- nav:start -->
+[← 3.6 — How the Engine Is Allowed to Grow](306-how-the-engine-is-allowed-to-grow.md) · [Contents](000-index.md) · [4.2 — The Tests, in Plain Language →](402-the-tests-in-plain-language.md)
+<!-- nav:end -->

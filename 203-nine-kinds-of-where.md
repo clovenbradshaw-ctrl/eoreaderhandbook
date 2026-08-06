@@ -1,5 +1,10 @@
 # 2.3 — Nine Kinds of "Where"
 
+<!-- nav:start -->
+[← 2.2 — The Order Things Happen In](202-the-order-things-happen-in.md) · [Contents](000-index.md) · [2.4 — Nine Kinds of "How" →](204-nine-kinds-of-how.md)
+<!-- nav:end -->
+
+
 **Why this matters:** Chapter 0.3 gave you a reflex — before accepting a
 claim, ask what *kind* of thing it's even about: a specific individual, a
 category, or a relationship. This chapter turns that reflex into a precise,
@@ -82,3 +87,7 @@ current set of induced Kinds plus their core fields") is from the same
 file, line 19. The neighborhood-map and reading-group domains are the same
 domain-invariant triad introduced in `eoreader4.2/docs/eo-for-coders.md`
 §C.2-C.3 — a related but separate generation of this project; see Part VII.
+
+<!-- nav:start -->
+[← 2.2 — The Order Things Happen In](202-the-order-things-happen-in.md) · [Contents](000-index.md) · [2.4 — Nine Kinds of "How" →](204-nine-kinds-of-how.md)
+<!-- nav:end -->

@@ -1,5 +1,10 @@
 # 2.4 — Nine Kinds of "How"
 
+<!-- nav:start -->
+[← 2.3 — Nine Kinds of "Where"](203-nine-kinds-of-where.md) · [Contents](000-index.md) · [2.5 — Why All Three Have to Agree →](205-why-all-three-have-to-agree.md)
+<!-- nav:end -->
+
+
 **Why this matters:** Chapter 0.3's second question — measuring, tending, or
 making a judgment call — wasn't a throwaway example. It's the second half of
 a nine-way grid, exactly parallel to Chapter 2.3's, and it's the one that
@@ -64,3 +69,7 @@ shortly," cashed in.
 **Where this comes from:** the stance grid (`stance = (mode, grain)`) and
 its nine names are defined in `eoreader6/CUBE.md`, lines 45-47, including
 the rule that "a stance is not a mood and cannot be chosen" (line 50).
+
+<!-- nav:start -->
+[← 2.3 — Nine Kinds of "Where"](203-nine-kinds-of-where.md) · [Contents](000-index.md) · [2.5 — Why All Three Have to Agree →](205-why-all-three-have-to-agree.md)
+<!-- nav:end -->

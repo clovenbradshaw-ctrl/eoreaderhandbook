@@ -1,5 +1,10 @@
 # 0.3 — A Ten-Minute Ontology and Epistemology Primer
 
+<!-- nav:start -->
+[← 0.2 — A Ten-Minute Grammar and Meaning Primer](002-grammar-and-meaning-primer.md) · [Contents](000-index.md) · [0.4 — What a Language Model Is, in Plain Terms, and Why This Project Keeps Its Distance From One →](004-what-a-language-model-is.md)
+<!-- nav:end -->
+
+
 **Why this matters:** Part II of this book teaches nine "kinds of where" and
 nine "kinds of how" that everything the system reads gets placed against.
 Those two grids will look like arbitrary jargon unless you first have a feel
@@ -66,3 +71,7 @@ them names you'll meet again shortly.
 prepare the reader for Part II §2.3 ("Nine kinds of 'where'" — the terrains)
 and §2.4 ("Nine kinds of 'how'" — the stances). See `HANDBOOK-SPEC.md` §6,
 Part II.
+
+<!-- nav:start -->
+[← 0.2 — A Ten-Minute Grammar and Meaning Primer](002-grammar-and-meaning-primer.md) · [Contents](000-index.md) · [0.4 — What a Language Model Is, in Plain Terms, and Why This Project Keeps Its Distance From One →](004-what-a-language-model-is.md)
+<!-- nav:end -->

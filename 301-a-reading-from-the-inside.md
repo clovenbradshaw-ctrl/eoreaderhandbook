@@ -1,5 +1,10 @@
 # 3.1 — A Reading, From the Inside
 
+<!-- nav:start -->
+[← 2.5 — Why All Three Have to Agree](205-why-all-three-have-to-agree.md) · [Contents](000-index.md) · [3.2 — Gifts, Not Guesses →](302-gifts-not-guesses.md)
+<!-- nav:end -->
+
+
 **Why this matters:** every idea in Parts I and II has been abstract so far —
 grounds, figures, terrains, stances. This chapter walks one real, short,
 already-produced answer through the whole machine, act by act, so you can
@@ -66,3 +71,7 @@ the citation itself all the way back to the real bytes it came from.
 **Where this comes from:** `eochat/essay.md`, in full — a real, already-
 produced answer from the running system, including its own citation and its
 own "What this leaves out" accounting.
+
+<!-- nav:start -->
+[← 2.5 — Why All Three Have to Agree](205-why-all-three-have-to-agree.md) · [Contents](000-index.md) · [3.2 — Gifts, Not Guesses →](302-gifts-not-guesses.md)
+<!-- nav:end -->

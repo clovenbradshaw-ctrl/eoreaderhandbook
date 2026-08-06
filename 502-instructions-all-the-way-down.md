@@ -1,5 +1,10 @@
 # 5.2 — Instructions All the Way Down
 
+<!-- nav:start -->
+[← 5.1 — A Thin Front Door](501-a-thin-front-door.md) · [Contents](000-index.md) · [5.3 — Four Promises to the Reader, in Plain Language →](503-four-promises-to-the-reader.md)
+<!-- nav:end -->
+
+
 **Why this matters:** every chat application has *some* set of instructions
 shaping how it behaves — usually a single hidden prompt nobody outside the
 company gets to see. This chapter is about a different choice: writing that
@@ -67,3 +72,7 @@ representative quotes are from `eochat/instruction-set/010-core-identity.md`,
 `020-core-citation-law.md`, `030-core-honesty.md`, `060-core-refusal.md`,
 `100-mode-chat.md`, and `110-mode-surf.md`. The folded-instruction rule is
 `eochat/instruction-set/050-core-gate.md`.
+
+<!-- nav:start -->
+[← 5.1 — A Thin Front Door](501-a-thin-front-door.md) · [Contents](000-index.md) · [5.3 — Four Promises to the Reader, in Plain Language →](503-four-promises-to-the-reader.md)
+<!-- nav:end -->

@@ -1,5 +1,10 @@
 # 4.3 — A Constitution That Edits Itself
 
+<!-- nav:start -->
+[← 4.2 — The Tests, in Plain Language](402-the-tests-in-plain-language.md) · [Contents](000-index.md) · [4.4 — One Amendment, Start to Finish →](404-one-amendment-start-to-finish.md)
+<!-- nav:end -->
+
+
 **Why this matters:** every rule in Chapter 4.2 is written in a document
 that explicitly allows itself to be changed. This chapter is about how that
 change actually happens — because "we can edit our own rules" is easy to
@@ -77,3 +82,7 @@ erased"*). The draft-vs-applied tension is visible by comparing
 `AMENDMENT-8-PROPOSAL.md`, `AMENDMENT-9-PROPOSAL.md`, and
 `AMENDMENT-11-PROPOSAL.md`, each headed *"Status: DRAFT PROPOSAL. Not
 applied, not yet human-reviewed."*
+
+<!-- nav:start -->
+[← 4.2 — The Tests, in Plain Language](402-the-tests-in-plain-language.md) · [Contents](000-index.md) · [4.4 — One Amendment, Start to Finish →](404-one-amendment-start-to-finish.md)
+<!-- nav:end -->
