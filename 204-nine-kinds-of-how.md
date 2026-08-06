@@ -10,6 +10,7 @@
 
 
 
+
 **Why this matters:** Chapter 0.3's second question — measuring, tending, or
 making a judgment call — wasn't a throwaway example. It's the second half of
 a nine-way grid, exactly parallel to Chapter 2.3's, and it's the one that

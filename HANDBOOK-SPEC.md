@@ -1,17 +1,59 @@
 # The EO Reader 6 / EO Chat Handbook — a specification
 
-**Status:** v0.5. Parts 0 through VII are written in full, and now carry a
+**Status:** v0.6. Parts 0 through VII are written in full, and now carry a
 second layer throughout: real prior art from fields outside this project,
-run alongside every chapter's own account of the codebase. Only Part VIII
-(reference material) remains, and it's designed to be built incrementally
-from what the earlier parts already cite rather than drafted up front.
+run alongside every chapter's own account of the codebase — including a
+second pass drawing on `eoreader5`, `eoreader4.2`, and `eoreader6`'s own
+sibling material once those repositories were actually read rather than
+guessed at. Only Part VIII (reference material) remains, and it's designed
+to be built incrementally from what the earlier parts already cite rather
+than drafted up front.
 
 **Purpose of this file:** decide, on paper, what the handbook teaches, in what
 order, to whom, using what material — before spending the effort to write it.
 It follows the same discipline the rest of this lineage asks of everything
 else: declare the shape, checkpoint it, then build.
 
-**v0.5 changelog (this update):** every chapter in Parts 0 through VII
+**v0.6 changelog (this update):** a second prior-art pass, made possible by
+actually cloning and reading `eoreader5`, `eoreader6`, and `eoreader4.2`
+(including its internal wiki, `docs/eo-wiki.md`) rather than relying on
+citations already surfaced in the handbook's existing sources. Six
+chapters were sharpened with material found this way, each attributed to
+exactly where it came from: **3.2** gained a real, current worked example
+already living in eoreader6's own test suite — the `B3` golden test's use
+of Benford's Law (Newcomb 1881 / Benford 1938) as a named, receipted
+prior, checked by chi-squared against a Monte Carlo null. **3.5** and
+**2.3** were sharpened with a related generation's own historical argument
+(Łukasiewicz 1920 → Codd's 1970/1990 NULL problem; Porphyry's Tree →
+Linnaeus → Frege/Russell → Codd → BFO/DOLCE/SUMO), drawn from
+`eoreader4.2/docs/eo-wiki.md` and clearly flagged as that generation's own
+notes, not eoreader6's. **2.2** gained a noticed-not-planned convergence
+with Commons, Richards & Kuhn's Model of Hierarchical Complexity (1982),
+which a later generation's own notes had already named as convergent
+rather than ancestral. **5.6** gained a related generation's own
+literature review of conversation memory (Baars 1988; Dehaene & Naccache
+2001; Baddeley 2000; McClelland, McNaughton & O'Reilly 1995; Teyler &
+DiScenna 1986; Lewis et al. 2020; Wu et al. 2022; and Anthropic's own
+Gurnee et al. 2026), drawn from `eoreader5/docs/discourse-awareness-
+memory-synthesis.md`. **7.1** gained two comparisons (Attempto controlled
+natural language and JetBrains MPS projectional editing; ConstraintLLM,
+EMNLP 2025) that a later generation's own roadmap notes had already drawn
+about themselves. **2.5** gained a real example of a later audit
+(`eoreader4.2/docs/kernel-probe-2026-07.md`) practicing this book's own
+discipline about resemblance — finding a code mechanism that resembles
+Zurek's 2003 decoherence work, checking whether the codebase claims that
+vocabulary itself, and reporting honestly that it doesn't. One repository
+named for this pass, `EOwiki`, turned out to be empty; its would-be
+content lives instead inside `eoreader4.2/docs/eo-wiki.md`, cited as such
+throughout. Material considered and deliberately left out of this pass —
+`eo-wiki.md`'s mapping of NUL/SIG/INS onto Taoist, Buddhist, and
+Kabbalistic concepts of nothingness, and `eoreader5`'s essay arguing
+physics equations "fall out" of the fold mechanism — is recorded here
+rather than silently dropped: both were judged too speculative, or too
+close to the confabulation risk Chapter 1.4 itself warns about, to fold in
+without a much larger editorial pass than this one.
+
+**v0.5 changelog:** every chapter in Parts 0 through VII
 (excluding the worked-example chapters 3.1 and 7.3, and Part VI's own
 existing prior-art chapters 6.2–6.4, which already carry this discipline as
 their entire subject) gained a new section naming real, honestly-sourced

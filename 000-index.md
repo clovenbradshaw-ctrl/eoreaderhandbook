@@ -19,8 +19,12 @@ prior-art chapters 6.2–6.4) now also carries a short section naming real
 prior art from a field outside this project — a parallel, or an honest
 divergence — clearly marked in each chapter's own closing note as the
 handbook's own added connection, not something the codebase itself cites.
-See `HANDBOOK-SPEC.md`'s v0.5 changelog for the full account. Part VIII
-(reference material) is built incrementally, from what the earlier parts
+A second pass (v0.6) then read `eoreader5`, `eoreader6`, and `eoreader4.2`
+directly and sharpened six of those chapters with material actually found
+there — including a real, current worked example already living in
+eoreader6's own test suite. See `HANDBOOK-SPEC.md`'s v0.5 and v0.6
+changelogs for the full account. Part VIII (reference material) is built
+incrementally, from what the earlier parts
 actually cite, rather than up front.
 
 ## Part 0 — Before You Start

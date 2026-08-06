@@ -10,6 +10,7 @@
 
 
 
+
 **Why this matters:** most systems treat "I don't know" as a failure to
 hide or smooth over. This chapter is about why this system treats a
 refusal as a real, countable, typed piece of output — a result, not an
@@ -91,6 +92,35 @@ either. It's a real, standing example, from outside computing entirely, of
 a legal system building a named category for "the evidence didn't clear
 the gate" rather than forcing every case into a binary.
 
+## A related generation's own diagnosis of the same trap, in databases
+
+A different, later generation of this project (`eoreader4.2`, in its own
+internal wiki notes — not describing eoreader6 or any part of the current
+engine, but worth hearing out on this specific point) traces a precise
+parallel through the history of database design, and it sharpens exactly
+why three separate gap types matter rather than one. Edgar F. Codd's 1970
+relational model gave NULL a genuinely honest job: a marker for "the
+system doesn't know," reasoned about with three-valued logic (true /
+false / unknown) rather than forced into true-or-false. But one NULL was
+made to stand for several structurally different absences at once — a
+value that doesn't exist at all, a slot whose category hasn't even been
+decided yet, and a slot that's simply never been filled in. Codd noticed
+part of this himself: his 1990 follow-up paper proposed splitting NULL
+into two distinct markers. The database industry rejected both and kept
+the single, undifferentiated NULL, and — by this account — spent decades
+writing application-level workarounds for absences a 1970 paper had
+already told them were not the same fact.
+
+That's this chapter's own three gap types, watched failing to happen in a
+different field: a single undifferentiated "no" quietly discarding exactly
+the distinctions — a thin ground, an excess beyond resolution, an
+unreceived origin — this chapter insists on keeping separate. The
+lineage traced there goes back further still, to the logician Jan
+Łukasiewicz's 1920 introduction of a third truth value for genuine
+future contingency — and by that same account, each step from there to a
+modern mandatory form field discards a little more of the original
+precision, ending at a system where NULL isn't even allowed to exist.
+
 ## Two tiers of refusal, and why the order matters
 
 There's a strict pecking order to how a refusal happens, and it's meant to
@@ -112,7 +142,10 @@ null... never spend a measurement on what the algebra catches") is
 printed rather than printed unsupported." The reject-option, missing-data,
 and "not proven" connections above are this book's own added links to
 pattern recognition, statistics, and law, not something the codebase
-itself cites.
+itself cites. The Codd/NULL and Łukasiewicz history is drawn from
+`eoreader4.2/docs/eo-wiki.md`, "EO and Codd's Null Problem" — a related but
+separate generation's own internal notes, cited here because the parallel
+is precise, not because it describes eoreader6 itself.
 
 <!-- nav:start -->
 [← 3.4 — Turns and Memory](304-turns-and-memory.md) · [Contents](000-index.md) · [3.6 — How the Engine Is Allowed to Grow →](306-how-the-engine-is-allowed-to-grow.md)

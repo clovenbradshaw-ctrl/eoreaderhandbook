@@ -14,6 +14,7 @@
 
 
 
+
 **Why this matters:** if you come in expecting a developer manual or a product
 brochure, every chapter after this one will feel like it's answering the wrong
 question. This book has one job — to teach you what actually happens, in
@@ -102,6 +103,7 @@ deaths named in `eoreader6/SEED.md`, "The entelechy."
 ---
 
 # 0.2 — A Ten-Minute Grammar and Meaning Primer
+
 
 
 
@@ -200,6 +202,7 @@ Charles W. Morris, "Foundations of the Theory of Signs" (1938).
 ---
 
 # 0.3 — A Ten-Minute Ontology and Epistemology Primer
+
 
 
 
@@ -307,6 +310,7 @@ codebase itself cites.
 ---
 
 # 0.4 — What a Language Model Is, in Plain Terms, and Why This Project Keeps Its Distance From One
+
 
 
 
@@ -440,6 +444,7 @@ codebase itself cites.
 
 
 
+
 **Why this matters:** almost everything else in this book — every refusal,
 every citation, every "not yet earned" — comes down to one single move this
 system makes before it says anything at all. If this chapter doesn't land,
@@ -551,6 +556,7 @@ codebase itself cites.
 
 
 
+
 **Why this matters:** noticing something isn't the same as it *mattering*.
 This chapter draws that line precisely, because the whole system refuses to
 say anything about a figure until it's crossed — and without this
@@ -648,6 +654,7 @@ the wider history of the idea, not something the codebase itself cites.
 
 
 
+
 **Why this matters:** this is the chapter that explains why the system so
 often says less than you might expect, or refuses outright, instead of
 offering a plausible-sounding guess. That's not caution for its own sake —
@@ -736,6 +743,7 @@ to those fields, not something the codebase itself cites.
 ---
 
 # 1.4 — The Two Deaths
+
 
 
 
@@ -847,6 +855,7 @@ those fields — not something the codebase itself cites.
 ---
 
 # 1.5 — Three Numbers and a Vital Sign
+
 
 
 
@@ -978,6 +987,7 @@ physiology, not something the codebase itself cites.
 ## Part II — The Grammar of Everything That Happens
 
 # 2.1 — Nine Verbs
+
 
 
 
@@ -1126,6 +1136,7 @@ something the codebase itself cites.
 
 
 
+
 **Why this matters:** the nine verbs in Chapter 2.1 aren't interchangeable
 building blocks you can call in any sequence. Some of them can only happen
 after others already have. Understanding that ordering is what will let you
@@ -1190,6 +1201,34 @@ sitting outside the mechanism. The effect is the same (an out-of-order act
 can't produce a meaningful result); the enforcement is built into the
 material itself rather than bolted on as a separate validator.
 
+## A framework outside computing that landed on the same shape
+
+Developmental psychology has its own version of "a higher order only means
+something once a lower one is in place," arrived at for entirely different
+reasons. Michael Commons, Francis Richards, and Patrice Kuhn's Model of
+Hierarchical Complexity (1982, extending Piaget) scores the complexity of
+a task by three axioms: a higher-order action must be **defined in terms
+of** actions at the next order down, must **organize** those lower-order
+actions, and must do so **non-arbitrarily** — producing an outcome the
+lower order alone couldn't reach. That third axiom is doing the same work
+as this chapter's own rule: you can't get a pattern by chaining figures
+together any old way, only by a figure genuinely earning pattern-status
+against what comes next. The model also insists its stages are quantal — a
+task is at a given order or it isn't, no partial credit — and a later
+psychometric study (Commons et al., 2014) found real, empirically
+measurable gaps between the orders, not a smooth continuum.
+
+This project doesn't build on that model, and the resemblance was
+noticed, not planned: a different, later generation of this project's
+own notes name the Model of Hierarchical Complexity explicitly as a
+**convergent** framework — independently derived, mathematically
+grounded, arriving at structural conclusions about how action gets
+organized that parallel this project's own grain axis, without either
+one having been built from the other. Two unrelated attempts to formalize
+"this level of structure has to be built out of, and non-arbitrarily
+organize, the level below it" landing on the same shape is worth noting
+as exactly that: a convergence, not a shared ancestry.
+
 ## Why this matters more than it looks like it should
 
 It would be easy to read this as a boring implementation detail — of
@@ -1213,11 +1252,16 @@ Amendment X: *"The binding organ ... reads an entity register — arrival
 indices of beings already admitted through the witness gate."* The
 dependency-graph and dependent-typing connections above are this book's
 own added links to programming language theory, not something the
-codebase itself cites.
+codebase itself cites. The Model of Hierarchical Complexity connection is
+drawn from `eoreader4.2/docs/eo-wiki.md`, "Model of Hierarchical
+Complexity (Commons)" — a related but separate generation's own notes,
+which name the convergence themselves rather than this book asserting it
+from outside.
 
 ---
 
 # 2.3 — Nine Kinds of "Where"
+
 
 
 
@@ -1303,6 +1347,40 @@ Figure gets admitted) rather than to a static description of what kind of
 being something has. Aristotle was answering "what is there." This grid
 answers "what got established, by which kind of act."
 
+## A seventeen-century-long lineage of stopping at one row
+
+Worth being precise about what follows: it isn't an outside field
+converging on this grid independently. It's a related, later generation of
+this very project (`eoreader4.2`, in its own internal wiki notes — again,
+describing that generation's own thinking, not eoreader6 or the current
+engine) reusing these same nine terrain names — Void, Entity, Kind, Field,
+Link, Network, Atmosphere, Lens, Paradigm, unchanged — to make a historical
+argument about Aristotle's actual descendants. nearly every major formal ontology
+since has kept his move but never crossed it against anything else. Its
+own account, worth taking seriously as a critique even where this book
+can't independently verify every historical claim in it, runs: Porphyry's
+Tree (c. 270 CE) partitions "Substance" downward by repeated binary
+division; Linnaeus (1735) reruns the same partition on living things;
+Frege and Russell (1879–1910) formalize it as set membership; and the
+Basic Formal Ontology (BFO, 2002–present — by that account adopted by
+over 650 projects and mandated in some U.S. government contexts) still
+splits its own root, Entity, the same way. Each of these, on this account,
+stays inside a single row — Existence alone — and never asks the
+Structure or Interpretation questions this chapter's other two rows cover
+at all. The one break in the whole lineage it names is Edgar Codd's 1970
+relational database model, which abandoned hierarchical navigation for
+flat tables reachable by any path — not a better tree, but an escape from
+needing one.
+
+Whether or not every step of that lineage holds up to closer scrutiny than
+this book can give it here, the underlying diagnosis is worth sitting
+with on its own terms: a single-row ontology can tell you *what a thing
+is*, but has no native way to represent *how it connects to other things*
+or *what it means*, and has to bolt those on as an afterthought rather
+than treating all three as equally primitive from the start — which is
+exactly the gap crossing three rows against three columns is built to
+close.
+
 ## Why a mutual-aid map or a reading group would show the exact same grid
 
 None of the nine terrains above required saying anything about hospitals
@@ -1332,10 +1410,16 @@ domain-invariant triad introduced in `eoreader4.2/docs/eo-for-coders.md`
 §C.2-C.3 — a related but separate generation of this project; see Part VII.
 The Aristotle and biological-taxonomy connections above are this book's
 own added links to those fields, not something the codebase itself cites.
+The Porphyry/Linnaeus/Frege-Russell/Codd/BFO lineage is drawn from
+`eoreader4.2/docs/eo-wiki.md`, "Most Ontologies: 'It's all Entities.' EO:
+'Entities are only one of many'" — the same later generation's own wiki,
+reusing this chapter's nine terrain names to make its own historical
+argument, not a claim eoreader6 itself makes.
 
 ---
 
 # 2.4 — Nine Kinds of "How"
+
 
 
 
@@ -1445,6 +1529,7 @@ philosophy, not something the codebase itself cites.
 
 
 
+
 **Why this matters:** you've now met three different nine-cell grids —
 operators, terrains, stances — built from the same three underlying axes.
 This chapter shows what happens when they're combined carelessly, using a
@@ -1542,6 +1627,27 @@ chapters: as an instrument builders hold a proposed idea up against, to
 check whether it's internally coherent — never as a machine that looks at
 real material and decides what category it belongs to.
 
+## A later audit modeling the same discipline this book tries to follow
+
+One more example is worth adding here, not because it's about this
+chapter's cube directly, but because it's a live instance of exactly the
+honesty this whole book has tried to practice about resemblance. A later
+audit of eoreader6 (`eoreader4.2/docs/kernel-probe-2026-07.md`) went
+looking for a real code mechanism that checks whether two "frames" a
+reading produced are compatible with each other — and found one:
+`commutator()`, a genuine test of whether two readings' bases agree,
+baselined against real data rather than asserted. The audit noticed this
+resembles a real idea from physics — Wojciech Zurek's 2003 work on
+decoherence and "einselection," which asks whether two ways of describing
+a quantum system commute — and it went looking for whether the codebase
+itself ever uses that vocabulary. It found exactly one bare citation,
+sitting in a wiki page, never connected in prose or code to the actual
+mechanism. The audit's own conclusion: *"apt as an outside reading of the
+code; not a term the codebase itself claims."* That's this book's own
+rule, applied by someone else, in a different document, about a different
+generation — noticing a real resemblance, checking whether it was actually
+being claimed, and reporting honestly that it wasn't.
+
 **Where this comes from:** the coherence rule and the worked contradiction
 are both from `eoreader6/CUBE.md`. The over-determination principle is
 lines 50-53: *"Terrain and stance both carry grain, so grain is claimed
@@ -1553,7 +1659,9 @@ prior engine," lines 148-166. The cube's own refutation as a content
 classifier is lines 10-14. The error-correcting-code and
 scientific-triangulation connections above are this book's own added links
 to information theory and the philosophy of science, not something the
-codebase itself cites.
+codebase itself cites. The `commutator()`/Zurek account above is drawn
+directly from `eoreader4.2/docs/kernel-probe-2026-07.md` — that audit's
+own finding and own words, not this book's addition.
 
 ---
 
@@ -1563,6 +1671,7 @@ codebase itself cites.
 ## Part III — How EO Reader 6 Reads
 
 # 3.1 — A Reading, From the Inside
+
 
 
 
@@ -1670,6 +1779,7 @@ the codebase itself cites.
 
 
 
+
 **Why this matters:** everything so far has been about what the system can
 establish for itself, from the material in front of it. But no reader,
 human or otherwise, starts from nothing — everyone brings outside knowledge
@@ -1729,6 +1839,27 @@ that did not happen.*
   between "this helped me guess" and "this is now established" doesn't
   move, no matter how many times a prior proves useful.
 
+## A real instance of the whole rule, receipts included
+
+This isn't only a design principle stated in the abstract — the engine's
+own test suite has a live case of exactly this. One golden test hands the
+engine a suspect ledger of numbers and a named prior: **Benford's Law**, a
+real statistical regularity (first observed by Simon Newcomb in 1881,
+rediscovered and popularized by Frank Benford in 1938) which says that in
+most naturally-occurring collections of numbers, the leading digit isn't
+uniformly distributed — a 1 shows up far more often than a 9 — and it's
+been used for decades as a real fraud-detection tool, including by
+auditors and election forensics analysts checking whether reported figures
+were actually measured or quietly invented. In the engine, that law is
+handed in through `nul::received()` with its provenance stated in the code
+itself: *"Benford's Law (Newcomb 1881 / Benford 1938) — received, not
+derived from this ledger."* The suspect ledger's own digit distribution is
+then checked against it directly — a chi-squared test against a Monte
+Carlo null of genuine Benford sampling noise — and comes back a clean
+`deviates`. That's this whole chapter's rule, doing real, checkable work
+on real data: a named gift, never derived from the material it's judging,
+earning its keep by how much surprise it actually resolves.
+
 ## The same word, doing a genuinely different job in statistics
 
 "Prior" is not a word this project coined. In Bayesian statistics, a
@@ -1778,14 +1909,18 @@ exactly insofar as it lowers the surprise of what is encountered" — *"Relevanc
 is not a property of a prior. It is a property of the meeting between a
 prior and this material, and its measure is the surprise that did not
 happen"* — including its four numbered consequences and the cross-modal
-boundary drawn in its final paragraph. The Bayesian-statistics comparison
-above is this book's own added link to that field, contrasting a shared
-word with a different underlying test — not something the codebase itself
-cites.
+boundary drawn in its final paragraph. The Benford's Law worked example is
+`eoreader6/goldens/surprise/README.md`, "B3 (Benford's Law)" — a real,
+current test in the engine's own suite, quoted directly above, not an
+outside comparison this book is drawing. The Bayesian-statistics
+comparison above it is this book's own added link to that field,
+contrasting a shared word with a different underlying test — not
+something the codebase itself cites.
 
 ---
 
 # 3.3 — A Guided Tour of the Organs
+
 
 
 
@@ -1919,6 +2054,7 @@ not something the codebase itself cites.
 
 
 
+
 **Why this matters:** Chapter 1.1 said a ground gets rebuilt fresh every
 time — never kept as a permanent fixture. So how does this system have a
 conversation at all, across separate turns, without either dragging along
@@ -2022,6 +2158,7 @@ cites.
 
 
 
+
 **Why this matters:** most systems treat "I don't know" as a failure to
 hide or smooth over. This chapter is about why this system treats a
 refusal as a real, countable, typed piece of output — a result, not an
@@ -2103,6 +2240,35 @@ either. It's a real, standing example, from outside computing entirely, of
 a legal system building a named category for "the evidence didn't clear
 the gate" rather than forcing every case into a binary.
 
+## A related generation's own diagnosis of the same trap, in databases
+
+A different, later generation of this project (`eoreader4.2`, in its own
+internal wiki notes — not describing eoreader6 or any part of the current
+engine, but worth hearing out on this specific point) traces a precise
+parallel through the history of database design, and it sharpens exactly
+why three separate gap types matter rather than one. Edgar F. Codd's 1970
+relational model gave NULL a genuinely honest job: a marker for "the
+system doesn't know," reasoned about with three-valued logic (true /
+false / unknown) rather than forced into true-or-false. But one NULL was
+made to stand for several structurally different absences at once — a
+value that doesn't exist at all, a slot whose category hasn't even been
+decided yet, and a slot that's simply never been filled in. Codd noticed
+part of this himself: his 1990 follow-up paper proposed splitting NULL
+into two distinct markers. The database industry rejected both and kept
+the single, undifferentiated NULL, and — by this account — spent decades
+writing application-level workarounds for absences a 1970 paper had
+already told them were not the same fact.
+
+That's this chapter's own three gap types, watched failing to happen in a
+different field: a single undifferentiated "no" quietly discarding exactly
+the distinctions — a thin ground, an excess beyond resolution, an
+unreceived origin — this chapter insists on keeping separate. The
+lineage traced there goes back further still, to the logician Jan
+Łukasiewicz's 1920 introduction of a third truth value for genuine
+future contingency — and by that same account, each step from there to a
+modern mandatory form field discards a little more of the original
+precision, ending at a system where NULL isn't even allowed to exist.
+
 ## Two tiers of refusal, and why the order matters
 
 There's a strict pecking order to how a refusal happens, and it's meant to
@@ -2124,11 +2290,15 @@ null... never spend a measurement on what the algebra catches") is
 printed rather than printed unsupported." The reject-option, missing-data,
 and "not proven" connections above are this book's own added links to
 pattern recognition, statistics, and law, not something the codebase
-itself cites.
+itself cites. The Codd/NULL and Łukasiewicz history is drawn from
+`eoreader4.2/docs/eo-wiki.md`, "EO and Codd's Null Problem" — a related but
+separate generation's own internal notes, cited here because the parallel
+is precise, not because it describes eoreader6 itself.
 
 ---
 
 # 3.6 — How the Engine Is Allowed to Grow
+
 
 
 
@@ -2305,6 +2475,7 @@ experimental science, not something the codebase itself cites.
 
 
 
+
 **Why this matters:** Part III showed you an engine that measures things
 very carefully and refuses to speak past its evidence. This chapter is
 about why that engine is kept so deliberately narrow — and where everything
@@ -2400,6 +2571,7 @@ engineering, not something the codebase itself cites.
 ---
 
 # 4.2 — The Tests, in Plain Language
+
 
 
 
@@ -2551,6 +2723,7 @@ and software engineering, not something the codebase itself cites.
 
 
 
+
 **Why this matters:** every rule in Chapter 4.2 is written in a document
 that explicitly allows itself to be changed. This chapter is about how that
 change actually happens — because "we can edit our own rules" is easy to
@@ -2663,6 +2836,7 @@ codebase itself cites.
 ---
 
 # 4.4 — One Amendment, Start to Finish
+
 
 
 
@@ -2792,6 +2966,7 @@ codebase itself cites.
 
 
 
+
 **Why this matters:** everything in Parts I through IV describes a
 measurement that never touches a clock, a file, or a specific reader. But
 you're reading this book because, at some point, you actually typed a
@@ -2891,6 +3066,7 @@ codebase itself cites.
 
 
 
+
 **Why this matters:** every chat application has *some* set of instructions
 shaping how it behaves — usually a single hidden prompt nobody outside the
 company gets to see. This chapter is about a different choice: writing that
@@ -2981,6 +3157,7 @@ something the codebase itself cites.
 ---
 
 # 5.3 — Four Promises to the Reader, in Plain Language
+
 
 
 
@@ -3107,6 +3284,7 @@ codebase itself cites.
 
 
 
+
 **Why this matters:** Chapter 3.1 showed you a citation in a real answer —
 `pg84.txt @ bytes 263105–265217` — and asked you to trust that it actually
 pointed somewhere real. This chapter is about the mechanism that makes that
@@ -3211,6 +3389,7 @@ something the codebase itself cites.
 ---
 
 # 5.5 — Writing Something Long Without Losing the Thread
+
 
 
 
@@ -3329,6 +3508,7 @@ comments state.
 
 
 
+
 **Why this matters:** Chapter 5.1 told you the application calls outside
 language models as tools it doesn't own, never as the measurement itself.
 This chapter shows exactly what that looks like in one real, small,
@@ -3412,6 +3592,43 @@ resemblance is architectural, not technical — nothing here is jointly
 trained or gated the way a real mixture-of-experts system is; it's simply
 two separate, disposable model calls, each doing one small job.
 
+## A related generation's own literature review of this exact problem
+
+A different, later generation of this project (`eoreader5`, in its own
+internal design notes — not eochat, and not describing this feature) did
+real homework on the same problem eochat's conversation-summary solves,
+and it's worth passing on because it's precise about real citations rather
+than loose analogy. Bernard Baars's Global Workspace Theory (1988, with
+Stanislas Dehaene and Lionel Naccache's 2001 neuroscientific elaboration)
+proposes that a small, broadcast-worthy "workspace" of active content
+coordinates a much larger set of specialized, unconscious processes — a
+structural cousin of a small rolling summary sitting alongside a much
+larger raw conversation history. Alan Baddeley's own 2000 extension of
+working memory, the **episodic buffer**, is closer still: a
+limited-capacity store that binds information from several sources into
+one integrated, temporary representation — which is a fair one-line
+description of what the rolling topic/flow/entity summary actually does.
+And James McClelland, Bruce McNaughton, and Randall O'Reilly's
+**Complementary Learning Systems** theory (1995) — fast, sparse binding in
+the hippocampus paired with slow, distributed consolidation in the
+neocortex, building on Timothy Teyler and Pascal DiScenna's earlier
+hippocampal indexing theory (1986) — is a real biological parallel to
+running two different memory mechanisms (a fast verbatim window, a slow
+consolidated gist) side by side rather than trying to make one mechanism
+do both jobs.
+
+Two more of that generation's citations are worth naming because they're
+about machine memory specifically, not brains: retrieval-augmented
+generation (Lewis et al., 2020) and Memorizing Transformers (Wu et al.,
+2022), both ways of pairing a model with an external store rather than
+forcing everything into one context window — the same "small model, small
+job, separate from the one holding the conversation" instinct eochat's own
+two model calls follow. That generation's notes also cite Anthropic's own
+published research directly (Gurnee et al., 2026, on verbalizable
+representations forming something like a global workspace inside language
+models) as the most directly relevant piece of first-party evidence for
+why a small, broadcastable summary is a reasonable thing to build at all.
+
 ## Where this sits in Chapter 5.1's boundary
 
 This whole feature is a clean, concrete instance of the host/engine line
@@ -3431,7 +3648,12 @@ built after that rule was already in place.
 over... anchoring a fresh question to the thread it left"*). The
 fuzzy-trace-theory and mixture-of-experts connections above are this
 book's own added links to cognitive psychology and machine learning, not
-something the codebase itself cites.
+something the codebase itself cites. The Baars/Dehaene-Naccache,
+Baddeley, McClelland-McNaughton-O'Reilly, Teyler-DiScenna, Lewis et al.,
+Wu et al., and Gurnee et al. citations are drawn from `eoreader5/docs/
+discourse-awareness-memory-synthesis.md`, "References (Public)" — a
+related but separate generation's own literature review, written for its
+own design process, not eochat's.
 
 ---
 
@@ -3441,6 +3663,7 @@ something the codebase itself cites.
 ## Part VI — Where This Sits in History
 
 # 6.1 — A Short History of Machines That Were Said to Read
+
 
 
 
@@ -3540,6 +3763,7 @@ the codebase itself cites.
 ---
 
 # 6.2 — The Fifty-Eight-Year-Old Objection, and Where the Project Is Actually Chipping at It
+
 
 
 
@@ -3653,6 +3877,7 @@ roles) is from `FINDINGS.md` §11.4.
 
 
 
+
 **Why this matters:** Chapters 6.1 and 6.2 have been mostly humbling —
 reading is an old ambition, littered with gamed benchmarks, and this
 project's own mouth ran headlong into a fifty-eight-year-old, well-known
@@ -3741,6 +3966,7 @@ be."*
 ---
 
 # 6.4 — The Honest Gap List
+
 
 
 
@@ -3841,6 +4067,7 @@ mine and have not been checked against anyone else's reading of it."*
 
 
 
+
 **Why this matters, and a boundary to draw first:** this chapter and the two
 after it describe something real, but it isn't a description of EO Reader
 6 or EO Chat. It's a related, earlier generation of the same lineage —
@@ -3916,6 +4143,36 @@ events are allowed to touch — a narrower, more structurally specific
 vocabulary, built for one particular nine-cell grid rather than for
 general-purpose correctness.
 
+## Two comparisons this generation already drew about itself
+
+Unlike the Design-by-Contract connection above, which this book is adding
+from outside, this generation's own later roadmap notes (`eoreader4.2/
+docs/eot-coder-roadmap.md`) draw two comparisons to real, existing work on
+their own — worth passing on because they're more precise than a general
+resemblance. First, **controlled natural languages** — Attempto Controlled
+English is the field's standard example — restrict ordinary language
+grammar deliberately so that a sentence maps deterministically onto formal
+logic; EOT's punctuation-recovers-the-operator design is the same
+instinct aimed at symbols instead of restricted English sentences. Second,
+**projectional editing**, pioneered by JetBrains' MPS: instead of writing
+text and parsing it, you edit a structured tree directly and treat text as
+only ever a projection of it, so a malformed state is unreachable rather
+than merely caught after the fact. The same notes call EOT "projectional-
+adjacent already" for exactly this reason — the kernel recovering an
+operator from punctuation shape, rather than trusting a written line to
+already be valid, leans the same direction without going all the way to a
+structural editor.
+
+The same notes also name a live example of "verify during generation, not
+after" from outside this project entirely: ConstraintLLM (EMNLP 2025), a
+neurosymbolic system that extracts formal constraints from a natural-
+language requirement, generates a model, and self-corrects on violation
+before ever handing off to a solver — the roadmap's own gloss is "emit →
+checkpoint → revise wearing different clothes." That's the same shape as
+this construction language's own kernel-checks-every-emitted-event
+discipline, arrived at independently in a completely different corner of
+applied NLP research.
+
 ## A genuinely different bet about grain and dependency
 
 One difference is worth naming directly, because it's a real, substantive
@@ -3943,11 +4200,15 @@ The contrast with `eoreader6/CUBE.md`'s "instrument, not runtime" framing
 is drawn from that file directly, discussed in Chapter 2.5. The Design-by-
 Contract connection above is this book's own added link to programming
 language history (Bertrand Meyer's Eiffel, from 1986 onward), not
-something the source document itself cites.
+something the source document itself cites. The Attempto/JetBrains-MPS
+and ConstraintLLM comparisons are, by contrast, drawn directly from
+`eoreader4.2/docs/eot-coder-roadmap.md` §2.1-2.2 — that generation's own
+comparison to outside work, not this book's addition.
 
 ---
 
 # 7.2 — The Watchmaker's Discipline
+
 
 
 
@@ -4037,6 +4298,7 @@ source document states.
 ---
 
 # 7.3 — A Worked Build, Start to Finish
+
 
 
 

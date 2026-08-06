@@ -10,6 +10,7 @@
 
 
 
+
 **Why this matters:** Chapter 1.1 said a ground gets rebuilt fresh every
 time — never kept as a permanent fixture. So how does this system have a
 conversation at all, across separate turns, without either dragging along

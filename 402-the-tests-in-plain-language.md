@@ -10,6 +10,7 @@
 
 
 
+
 **Why this matters:** Chapter 4.1 told you every claim gets sorted into one
 of four boxes. This chapter is about the actual checklist used to do the
 sorting — a real, named sequence of questions, each one closing off a

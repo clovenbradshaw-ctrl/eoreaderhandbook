@@ -10,6 +10,7 @@
 
 
 
+
 **Why this matters:** every design choice later in this book — every organ,
 every refusal, every amendment to the rules this system lives under — is,
 in the end, a defense against exactly one of two ways this kind of system

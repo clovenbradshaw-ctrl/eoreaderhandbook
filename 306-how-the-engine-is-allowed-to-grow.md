@@ -10,6 +10,7 @@
 
 
 
+
 **Why this matters:** everything you've read so far describes the engine as
 it stands. This chapter is about how it's allowed to change — and the rule
 turns out to be strict enough that it has refused the project's own best
