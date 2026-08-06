@@ -1,0 +1,18 @@
+{
+  "name": "eoreaderhandbook",
+  "version": "1.0.0",
+  "description": "The EO Reader 6 / EO Chat handbook",
+  "private": true,
+  "scripts": {
+    "nav": "node scripts/add-nav.js",
+    "build": "node scripts/build-page.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clovenbradshaw-ctrl/eoreaderhandbook.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "marked": "^18.0.9"
+  }
+}
