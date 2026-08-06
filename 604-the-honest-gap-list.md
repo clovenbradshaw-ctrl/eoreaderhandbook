@@ -6,6 +6,7 @@
 
 
 
+
 **Why this matters:** this book has followed one rule since Chapter 0.1 —
 never hide a gap. This closing chapter of Part VI is where that rule gets
 applied at the largest scale in the whole book: a direct, sourced list of

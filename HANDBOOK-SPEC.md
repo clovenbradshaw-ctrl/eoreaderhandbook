@@ -1,6 +1,8 @@
 # The EO Reader 6 / EO Chat Handbook — a specification
 
-**Status:** v0.4. Parts 0 through VII are written in full. Only Part VIII
+**Status:** v0.5. Parts 0 through VII are written in full, and now carry a
+second layer throughout: real prior art from fields outside this project,
+run alongside every chapter's own account of the codebase. Only Part VIII
 (reference material) remains, and it's designed to be built incrementally
 from what the earlier parts already cite rather than drafted up front.
 
@@ -9,7 +11,26 @@ order, to whom, using what material — before spending the effort to write it.
 It follows the same discipline the rest of this lineage asks of everything
 else: declare the shape, checkpoint it, then build.
 
-**v0.4 changelog (this update):** Parts II through VII written in full —
+**v0.5 changelog (this update):** every chapter in Parts 0 through VII
+(excluding the worked-example chapters 3.1 and 7.3, and Part VI's own
+existing prior-art chapters 6.2–6.4, which already carry this discipline as
+their entire subject) gained a new section naming real, honestly-sourced
+parallels or divergences from a field outside this project — Gestalt
+psychology's figure/ground for Chapter 1.1, Bayesian statistics' "prior"
+for Chapter 3.2, Herbert Simon's 1962 Hora-and-Tempus parable named
+explicitly for Chapters 5.5 and 7.2, Bertrand Meyer's Design by Contract
+for Chapter 7.1, and so on for every other chapter. Each addition is marked,
+in the chapter's own closing provenance line, as **this book's own added
+link** to that outside field — never presented as something the codebase
+itself cites, keeping P6's discipline (provenance travels with the
+content) honest about which claims come from the source material and which
+are the handbook author's own connections. Where a resemblance is only
+partial, each addition says so directly, in the same place, rather than
+implying more overlap than the two ideas actually share — the same rule
+Chapter 6.3 already applied to the Quillian correspondence, now applied
+throughout the whole book rather than in one chapter alone.
+
+**v0.4 changelog:** Parts II through VII written in full —
 see `000-index.md` for the complete table of contents. All five open
 questions from §7 ended up resolved along the way rather than needing a
 separate up-front decision: **Q1** (location) resolved by moving the whole

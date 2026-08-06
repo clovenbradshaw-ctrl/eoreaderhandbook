@@ -9,6 +9,7 @@
 
 
 
+
 **Why this matters:** everything in Parts I through IV describes a
 measurement that never touches a clock, a file, or a specific reader. But
 you're reading this book because, at some point, you actually typed a
@@ -45,6 +46,29 @@ and the backend exists to serve it. Here, the application is explicitly
 disposable, and the measurement is the thing that has to survive being
 rebuilt from scratch in a completely different interface.
 
+## An old operating-systems argument, in new clothes
+
+Keeping the front door thin is a direct descendant of a principle
+operating-system designers have argued for since the 1970s: separate
+**mechanism** from **policy** — build the small, general capability once,
+and keep every decision about *how* and *when* to use it somewhere else,
+swappable, outside the core. A microkernel operating system pushes drivers,
+file systems, and networking out of the trusted core for exactly this
+reason: the smaller and more stable the core, the more confidently you can
+reason about what it actually guarantees, no matter what's built on top of
+it. EO Chat is policy — the clock, the specific interface, which model gets
+called for what — sitting deliberately outside a mechanism (the engine)
+built to have no opinion about any of it.
+
+Software architecture has a more recent name for the same instinct:
+**hexagonal architecture** (Alistair Cockburn, 2005), which draws the same
+line as a hard rule — the application's core logic should be able to run
+untouched whether it's driven by a web request, a test harness, or a
+command line, because nothing about the core is allowed to know which one
+is calling it. "Deleting an application must change no engine reading" is
+that same test, made concrete for this specific project rather than stated
+as a general architectural ideal.
+
 ## Why bother building it this way
 
 You might reasonably ask why this separation is worth the extra
@@ -69,7 +93,10 @@ priors, app, legacy. These decide *how this app must behave* once placement
 is settled. They bind the host: clock, I/O, routing, UX. They can never
 license a change to engine reading."* The underlying test itself is
 `eo-constitution/CONSTITUTION.md`, Article I.4: *"Deleting an application
-must change no engine reading."*
+must change no engine reading."* The mechanism/policy and hexagonal-
+architecture connections above are this book's own added links to
+operating-systems and software-architecture history, not something the
+codebase itself cites.
 
 <!-- nav:start -->
 [← 4.4 — One Amendment, Start to Finish](404-one-amendment-start-to-finish.md) · [Contents](000-index.md) · [5.2 — Instructions All the Way Down →](502-instructions-all-the-way-down.md)

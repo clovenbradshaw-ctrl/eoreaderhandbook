@@ -9,6 +9,7 @@
 
 
 
+
 **Why this matters:** everything you've learned so far — ground, figure,
 pattern, witness — is a set of *moves*. This chapter gives you the small set
 of dials that control how finely and how often those moves actually get
@@ -73,6 +74,31 @@ threshold, but because a steady trace over time tells you something a
 single reading never could. The source material's own description is worth
 keeping as-is: aperture is *"the warmth you check for."*
 
+## Two fields that already had a version of each idea
+
+`draws`, `reseeds`, and `window` have a real cousin in statistics: kernel
+density estimation, a decades-old technique for building a smooth picture
+of "what's typical" out of raw data points, has to declare a **bandwidth**
+— exactly the same kind of load-bearing dial as this system's three
+numbers, in that a narrow bandwidth draws fine distinctions and risks
+mistaking noise for structure, while a wide one smooths real structure away
+entirely. Statisticians have never treated bandwidth as something with a
+universally correct default either — it has to be chosen for the data in
+front of you, the same discipline Chapter 1.5 insists on here.
+
+Aperture's role — a single number, watched continuously, that is neither a
+pass/fail gate nor a score to maximize — has an older parallel in
+physiology itself: Walter Cannon's 1932 concept of **homeostasis**, later
+refined into **allostasis** (stability achieved through change, rather than
+around a fixed setpoint). A clinician checking a vital sign isn't hunting
+for one correct number; they're watching a trace over time, the same
+posture this chapter asks you to take toward aperture. Where the parallel
+loosens: homeostasis classically describes a system defending one narrow
+setpoint, while allostasis and aperture both describe systems that are
+supposed to *move*, appropriately, in response to real change — aperture
+narrowing or widening is not itself the problem; only the wrong kind of
+narrowing or widening is.
+
 ## A word that changed, on purpose, and the record kept
 
 This particular number wasn't always called aperture. Until early August
@@ -95,7 +121,9 @@ gate, never a score: the warmth you check for."* The rename is recorded in
 the same file and in Amendment XVII, *"A quantity's name is a claim about
 what it is"* — *"Ananda means bliss. The identifier therefore asserted that
 an interquartile width is a state of the system, and no null in this repo
-establishes that."*
+establishes that."* The kernel-density-bandwidth and homeostasis/allostasis
+connections above are this book's own added links to statistics and
+physiology, not something the codebase itself cites.
 
 <!-- nav:start -->
 [← 1.4 — The Two Deaths](104-the-two-deaths.md) · [Contents](000-index.md) · [2.1 — Nine Verbs →](201-nine-verbs.md)

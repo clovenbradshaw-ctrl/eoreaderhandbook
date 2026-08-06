@@ -9,6 +9,7 @@
 
 
 
+
 **Why this matters:** everything you've read so far describes the engine as
 it stands. This chapter is about how it's allowed to change — and the rule
 turns out to be strict enough that it has refused the project's own best
@@ -122,6 +123,27 @@ actual named roles (agent, instrument, and so on) the fifty-eight-year-old
 objection was really about. Real progress, clearly short of the goal,
 stated as one sentence rather than two different impressions.
 
+## A discipline this rule shares with experimental science generally
+
+Running a **negative control** before trusting a positive result — exactly
+what caught the turbulence case's hidden bug — is standard laboratory
+practice across the sciences: test the method against something known to
+have nothing to find, and only trust a "yes" from the real experiment once
+the control has confirmed the method doesn't manufacture yeses out of
+nothing. And the growth rule's blanket refusal of anything "unwired" —
+no partial credit for a good idea nobody actually depends on yet — echoes
+a newer discipline in science publishing: **preregistration**, where
+researchers commit in advance to exactly what test would count as success,
+specifically to stop a result from being quietly redefined as a win after
+the fact. Both are answers to the same worry: a rule that's only enforced
+after you already like the outcome isn't really a rule.
+
+The role-fold arc's specific borrowings (from child-language acquisition
+research and infant speech-segmentation research) are prior art in the
+narrowest, most literal sense — the engine's own working notes name the
+fields directly, and Chapter 6.2 walks through exactly what was and wasn't
+carried over from each one.
+
 **Where this comes from:** the growth rule itself is `eoreader6/SEED.md`,
 "The growth rule" — *"An organ joins only when the level test returns
 `above` against the core... Unwired is failing."* The turbulence case is
@@ -136,7 +158,9 @@ README.md); the citation of Mintz (2003) on the limits of pure
 distributional clustering; the cross-lingual result (PR #48, "the mouth is
 language-specific by construction, the organ isn't"); and the explicit
 "EXPERIMENTAL. Unwired. Not a golden, not a certified organ" status note at
-the top of README.md.
+the top of README.md. The negative-control and preregistration connections
+above are this book's own added links to the general practice of
+experimental science, not something the codebase itself cites.
 
 <!-- nav:start -->
 [← 3.5 — Refusal as an Answer](305-refusal-as-an-answer.md) · [Contents](000-index.md) · [4.1 — Four Boxes →](401-four-boxes.md)

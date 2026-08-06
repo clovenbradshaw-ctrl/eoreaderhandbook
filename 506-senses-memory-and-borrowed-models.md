@@ -7,6 +7,7 @@
 
 
 
+
 **Why this matters:** Chapter 5.1 told you the application calls outside
 language models as tools it doesn't own, never as the measurement itself.
 This chapter shows exactly what that looks like in one real, small,
@@ -64,6 +65,32 @@ isn't "make the summary smarter." It's "don't show it at all until it's
 actually the only thing left that still remembers something the raw
 history no longer does."
 
+## A distinction cognitive psychology already had a name for
+
+Keeping a small running summary of a conversation's *shape* — topic, flow,
+recurring entities — instead of its literal words has a real cousin in how
+human memory works. **Fuzzy-trace theory** (developed by Charles Brainerd
+and Valerie Reyna from the 1990s onward) argues that people encode
+experience along two separate tracks at once: a **verbatim trace** (the
+literal, specific details) that fades quickly, and a **gist trace** (the
+general sense and meaning of what happened) that's more durable and is
+actually what most everyday reasoning draws on. This application's
+architecture runs the same split deliberately: the verbatim history window
+is the fast-fading literal trace, and the rolling discourse summary is the
+durable gist — with the gated-injection rule (don't show the gist while
+the verbatim trace still covers it) doing something human memory doesn't
+appear to bother with at all.
+
+The two-small-model design — a distinct model call handling the fold and
+the update, separate from the model carrying the actual conversation — is
+also a miniature, deliberately simple version of a pattern used at a much
+larger scale in machine learning: **mixture-of-experts** architectures
+route different parts of a task to smaller, specialized components rather
+than routing everything through one model that does everything. The
+resemblance is architectural, not technical — nothing here is jointly
+trained or gated the way a real mixture-of-experts system is; it's simply
+two separate, disposable model calls, each doing one small job.
+
 ## Where this sits in Chapter 5.1's boundary
 
 This whole feature is a clean, concrete instance of the host/engine line
@@ -80,7 +107,10 @@ built after that rule was already in place.
 `eochat/server/turn-controller.js` (the model call itself, run via
 `setImmediate` after the answer is sent, and the gating logic quoted above
 — *"injecting it earlier only repeats the same old topic three times
-over... anchoring a fresh question to the thread it left"*).
+over... anchoring a fresh question to the thread it left"*). The
+fuzzy-trace-theory and mixture-of-experts connections above are this
+book's own added links to cognitive psychology and machine learning, not
+something the codebase itself cites.
 
 <!-- nav:start -->
 [← 5.5 — Writing Something Long Without Losing the Thread](505-writing-something-long-without-losing-the-thread.md) · [Contents](000-index.md) · [6.1 — A Short History of Machines That Were Said to Read →](601-a-short-history-of-machines-that-were-said-to-read.md)

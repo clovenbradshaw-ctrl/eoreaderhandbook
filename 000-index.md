@@ -13,9 +13,15 @@ chapter to refresh it; nothing about it is hand-maintained.
 
 ## Status
 
-Parts 0 through VII are written in full. Part VIII (reference material) is
-built incrementally, from what the earlier parts actually cite, rather
-than up front.
+Parts 0 through VII are written in full. Every chapter (other than the
+worked-example chapters 3.1 and 7.3, and Part VI's own dedicated
+prior-art chapters 6.2–6.4) now also carries a short section naming real
+prior art from a field outside this project — a parallel, or an honest
+divergence — clearly marked in each chapter's own closing note as the
+handbook's own added connection, not something the codebase itself cites.
+See `HANDBOOK-SPEC.md`'s v0.5 changelog for the full account. Part VIII
+(reference material) is built incrementally, from what the earlier parts
+actually cite, rather than up front.
 
 ## Part 0 — Before You Start
 

@@ -9,6 +9,7 @@
 
 
 
+
 **Why this matters:** Chapter 0.3 gave you a reflex — before accepting a
 claim, ask what *kind* of thing it's even about: a specific individual, a
 category, or a relationship. This chapter turns that reflex into a precise,
@@ -64,6 +65,28 @@ specific (domain, grain) pair.
   framework — the accumulated set of kinds and categories the system is
   presently reading through, always revisable, never assumed permanent.
 
+## The Existence row's oldest ancestor
+
+Sorting the world into a specific thing, a category of things, and a
+relationship between things is Aristotle's move before it's this project's
+— his *Categories* treats "primary substance" (one actual man), "secondary
+substance" (man, the species) and relations as genuinely different kinds
+of being, not just different words for the same kind of thing described at
+different zoom levels. Biological taxonomy runs a version of the same
+three-way split: one organism, a species, and an ecological relationship
+between species are treated as different *kinds* of scientific claim, not
+interchangeable ones — a fact about one tagged wolf doesn't automatically
+transfer to "wolves" as a category, and neither transfers automatically to
+"predator-prey relationship."
+
+Where this project's grid does something Aristotle's never needed to: it
+crosses this three-way existence split against two *other* three-way
+splits (structure and interpretation) to get to nine terrains total, and
+it ties each cell to a specific, checkable act (a Ground gets built, a
+Figure gets admitted) rather than to a static description of what kind of
+being something has. Aristotle was answering "what is there." This grid
+answers "what got established, by which kind of act."
+
 ## Why a mutual-aid map or a reading group would show the exact same grid
 
 None of the nine terrains above required saying anything about hospitals
@@ -91,6 +114,8 @@ current set of induced Kinds plus their core fields") is from the same
 file, line 19. The neighborhood-map and reading-group domains are the same
 domain-invariant triad introduced in `eoreader4.2/docs/eo-for-coders.md`
 §C.2-C.3 — a related but separate generation of this project; see Part VII.
+The Aristotle and biological-taxonomy connections above are this book's
+own added links to those fields, not something the codebase itself cites.
 
 <!-- nav:start -->
 [← 2.2 — The Order Things Happen In](202-the-order-things-happen-in.md) · [Contents](000-index.md) · [2.4 — Nine Kinds of "How" →](204-nine-kinds-of-how.md)

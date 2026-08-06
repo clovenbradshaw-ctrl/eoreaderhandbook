@@ -9,6 +9,7 @@
 
 
 
+
 **Why this matters:** the last two chapters described how this application
 is governed and instructed. This chapter is about what it actually promises
 *you*, as the person on the other side of the screen — and, in each case,
@@ -78,6 +79,27 @@ out. The fix computes a real *withheld total*, specifically, in the
 system's own words, "so a truncated list cannot be mistaken for the whole
 one."
 
+## A field that already named some of these promises, decades ago
+
+Interface design already has a well-known checklist covering some of this
+same ground: Jakob Nielsen's ten usability heuristics (1994) include
+**"visibility of system status"** — the system should always keep users
+informed, through appropriate feedback, within reasonable time — which is
+essentially "no dead air" stated as a general design principle rather than
+tied to a specific 39-second incident. Nielsen's heuristics are broad,
+general-purpose advice meant to apply to any interface at all; they don't
+specify a number, and they're evaluated by expert judgment ("does this
+feel responsive") rather than by a measured incident with a before-and-
+after number attached.
+
+That's the real difference worth naming: this chapter's four promises
+aren't restatements of general usability advice — each one is anchored to
+an actual, dated, measured failure (39 seconds of silence, a byte mismatch
+found by an actual audit trail, a document silently capped at 500,000
+characters, a count compared against the wrong total) rather than an
+abstract design ideal. Nielsen's heuristics tell you what to look for.
+This chapter's promises are what happened when nobody had looked yet.
+
 ## The pattern underneath all four
 
 Notice what these four promises have in common: none of them is "always
@@ -91,7 +113,9 @@ deciding what to show you and how honestly to show it.
 are from `eochat/LAWS.md` — no dead air (L1, lines 23 and 79-91, 160-165),
 audit is local (L2, lines 181 and 215-224, 237-241), no silent truncation
 (L3, lines 288 and 306-316), and no implied completeness (L6, lines
-485-487 and 493-500).
+485-487 and 493-500). The Nielsen usability-heuristics connection above is
+this book's own added link to interface-design history, not something the
+codebase itself cites.
 
 <!-- nav:start -->
 [← 5.2 — Instructions All the Way Down](502-instructions-all-the-way-down.md) · [Contents](000-index.md) · [5.4 — A Citation You Can Actually Check →](504-a-citation-you-can-actually-check.md)

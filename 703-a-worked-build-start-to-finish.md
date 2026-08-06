@@ -4,6 +4,7 @@
 [← 7.2 — The Watchmaker's Discipline](702-the-watchmakers-discipline.md) · [Contents](000-index.md) · *(more chapters coming)* →
 <!-- nav:end -->
 
+
 **Why this matters:** the last two chapters described this construction
 language in the abstract. This chapter walks one real, complete example
 from the source material — building a small hospital-ward application —

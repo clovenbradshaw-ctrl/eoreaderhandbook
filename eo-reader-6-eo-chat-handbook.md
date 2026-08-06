@@ -13,6 +13,7 @@
 
 
 
+
 **Why this matters:** if you come in expecting a developer manual or a product
 brochure, every chapter after this one will feel like it's answering the wrong
 question. This book has one job — to teach you what actually happens, in
@@ -108,6 +109,7 @@ deaths named in `eoreader6/SEED.md`, "The entelechy."
 
 
 
+
 **Why this matters:** later in this book you'll meet words like *terrain* and
 *stance*, and they will only make sense if you already have a gut feel for
 something most people never had to name: that the same words, arranged
@@ -169,14 +171,36 @@ through what counts as worth noticing at all (Part I), up through the
 different *kinds* of thing a sentence can be about and the different
 *postures* you can take toward it (Part II).
 
+## The same three-way split has a name already
+
+This isn't this book's own invention, and it isn't even linguistics'
+invention specifically. In 1938 the philosopher Charles Morris, laying out
+the foundations of semiotics — the general study of signs — split the
+study of *any* sign system into exactly three parts: **syntactics** (how
+signs relate to other signs, with no meaning attached yet), **semantics**
+(how signs relate to whatever they stand for), and **pragmatics** (how
+signs relate to the people actually using them). Linguists later narrowed
+his terms to fit sentences specifically — the version you just met — but
+the three-way cut itself is Morris's, and it's general enough to apply to
+traffic lights and musical notation as easily as to "the dog bit the man."
+
+Where the parallel actually stops: Morris was building a general theory of
+signs, with no particular stake in what a reading system ought to do with
+the distinction. This book borrows only the cut itself — structure, claim,
+and use — not any of his larger theoretical apparatus.
+
 **Where this comes from:** this chapter is original exposition written to
 prepare the reader for Part II's operators, terrains, and stances (see
 `HANDBOOK-SPEC.md` §6, Part II). It draws no content from the codebase — it
-teaches only the general linguistic distinction the rest of the book assumes.
+teaches only the general linguistic distinction the rest of the book
+assumes. The Morris connection above is this book's own added link to the
+wider history of semiotics, not a source the codebase itself cites — see
+Charles W. Morris, "Foundations of the Theory of Signs" (1938).
 
 ---
 
 # 0.3 — A Ten-Minute Ontology and Epistemology Primer
+
 
 
 
@@ -246,14 +270,44 @@ short primer is the whole reason those chapters won't feel like they're
 introducing something alien. You already had both reflexes. This just gave
 them names you'll meet again shortly.
 
+## Neither question was invented for this book
+
+The first question is older than the example. Aristotle's *Categories*
+opens by asking exactly this, and settles on substance — a specific man, a
+specific horse — as different in kind from quality, relation, and several
+others: the same basic move as telling "a specific patient" apart from
+"the category of patients" apart from "the doctor-patient relationship."
+Twentieth-century philosophy came back to the same question with new
+tools — W.V.O. Quine's 1948 essay "On What There Is" asked what a sentence
+has to assume exists for it to be meaningful at all, and left behind his
+own shorthand for it: "to be is to be the value of a variable."
+
+The second question is epistemology's oldest, running at least from
+Plato's *Theaetetus* (what separates knowledge from a merely true guess)
+through Descartes' method of doubt to one of the twentieth century's
+sharpest versions: Karl Popper's demand that a genuine claim about the
+world specify, in advance, what observation would prove it wrong. That
+last version is worth keeping in mind heading into Part II — "what would
+change your mind" turns out to be close to the question this whole project
+asks of its own measurements.
+
+Where the fit is loose: none of these philosophers were building a
+taxonomy for a reading system, and forcing "tending" and "making" cleanly
+into their frameworks would overstate the resemblance. What this book
+borrows is the two reflexes — the two questions — not any philosopher's
+particular answer to them.
+
 **Where this comes from:** this chapter is original exposition, written to
 prepare the reader for Part II §2.3 ("Nine kinds of 'where'" — the terrains)
 and §2.4 ("Nine kinds of 'how'" — the stances). See `HANDBOOK-SPEC.md` §6,
-Part II.
+Part II. The Aristotle, Quine, and Popper connections above are this
+book's own added links to the wider history of philosophy, not sources the
+codebase itself cites.
 
 ---
 
 # 0.4 — What a Language Model Is, in Plain Terms, and Why This Project Keeps Its Distance From One
+
 
 
 
@@ -332,6 +386,33 @@ ordinary language model gets its fluency by weighting what's already there;
 this system insists on building something to be surprised against first,
 and speaking only when something actually was.
 
+## Two names from the field itself for a related worry
+
+This project's argument about attention isn't a lone objection from
+outside the field. Emily Bender, Timnit Gebru, and colleagues' 2021 paper
+"On the Dangers of Stochastic Parrots" argued, from inside NLP, that a
+model trained purely to predict the next token has no mechanism connecting
+its fluent output to communicative intent or to the world the text
+describes — fluency and understanding, on their account, simply come
+apart. That's close to this chapter's own point, though not identical to
+it: stochastic-parrots is fundamentally about scale and training data (the
+model never had grounded experience of the world to begin with); this
+project's own complaint is narrower and mechanistic — even granting a
+model everything it absorbed from training, the specific move of blending
+"what's in the document" with "what the model already knew" into one
+inseparable computation is what removes the ledger. The two critiques
+point at the same family of systems from different angles and shouldn't be
+collapsed into one.
+
+The mechanism itself, attention, has a much narrower, purely technical
+origin worth naming precisely: Ashish Vaswani and colleagues' 2017 paper
+"Attention Is All You Need" introduced it as an efficient way to let a
+model weigh every part of its input against every other part, with no
+claim at all, one way or the other, about whether that constitutes
+understanding. This project's choice to treat that same mechanism as the
+place a ledger disappears is an interpretive argument layered on top of a
+technical one — not something the mechanism's own inventors asserted.
+
 **Where this comes from:** the contrast in this chapter is drawn from
 `eo-constitution/CONSTITUTION.md` Article II.8, "The difference test" (*"Does
 this mechanism build a nothing, or weight what is present? ... Attention is
@@ -339,7 +420,9 @@ the canonical instance and is refused wherever it is the measurement"*), and
 from `eoreader6/prior-art-teachable-language-comprehender.md` §VI, on the
 "absorb it" strategy and its cost: *"there is no ledger. You cannot ask
 which of its knowledge was used, or what it declined to conclude, or what it
-discarded."*
+discarded."* The Vaswani et al. and Bender et al. connections above are
+this book's own added links to the wider NLP literature, not sources the
+codebase itself cites.
 
 ---
 
@@ -349,6 +432,7 @@ discarded."*
 ## Part I — The One Idea Everything Is Built On
 
 # 1.1 — Noticing
+
 
 
 
@@ -410,6 +494,31 @@ one is due. This project treats that as the deepest reason to trust the
 approach — not because it's clever, but because it's the shape intelligence
 keeps landing on, wherever the world rewards actually getting it right.
 
+## The words themselves come from a hundred-year-old idea in psychology
+
+"Ground" and "figure" aren't a coinage invented for this project either —
+the terms are borrowed directly from Gestalt psychology, and the debt is
+worth naming precisely. Early in the twentieth century, the Danish
+psychologist Edgar Rubin studied exactly this move in ordinary vision: any
+scene splits into a **figure** (the part attention lands on, which reads as
+having shape and standing in front) and a **ground** (the part attention
+recedes into, which reads as shapeless and behind) — his own two-faced
+vase-or-profiles image is the famous demonstration. Kurt Koffka and the
+rest of the Gestalt school spent the following decades arguing this split
+is not a passive readout of what's already in the light hitting your eye —
+it's an active organizing act the perceiving mind performs.
+
+Here's where this project's version genuinely departs, and it's worth
+being precise rather than letting the shared vocabulary imply more overlap
+than there is. Rubin's ground is a fixed, static field — one scene, one
+moment, one settled figure-ground split you can even flip back and forth
+between (that's the whole trick of the vase illusion). This project's
+ground is never settled at all: it's continuously and deliberately
+rebuilt, by scrambling what's present, specifically so that nothing about
+it stays fixed long enough to become a permanent baseline. The words are
+the same. The claim about how a ground comes to exist in the first place
+is not.
+
 ## What this rules out
 
 Once you take the ground-and-figure move seriously, an obvious alternative
@@ -425,11 +534,16 @@ ground is a nothing constructed by perturbing what is present. Everything is
 a difference against one."* The *E. coli* comparison is drawn from
 `eo-constitution/CONSTITUTION.md` Article II.7, "The convergence test":
 *"E. coli compares the gradient against a ground it rebuilds — no receptor
-per molecule."*
+per molecule."* The Gestalt-psychology connection above (Rubin's 1915
+figure-ground studies, Koffka's writing on perceptual organization) is
+this book's own added link to that field's history, tracing where the
+words "ground" and "figure" actually come from — not something the
+codebase itself cites.
 
 ---
 
 # 1.2 — The Difference That Makes a Difference
+
 
 
 
@@ -483,6 +597,30 @@ something looked. It's a direct question — *did this figure move the
 ground that comes after it, or didn't it?* — with a real, computable
 answer, not a guess.
 
+## Where Bateson's phrase itself came from, and a cousin worth naming
+
+Bateson wasn't writing about machines when he coined this. The phrase
+comes from *Steps to an Ecology of Mind* (1972), a collection built out of
+his work across anthropology, psychiatry, and biology, where he was after
+a general definition of information that didn't depend on any one medium —
+exactly the same generality Chapter 2.3 will later lean on when it insists
+these ideas hold for a hospital ward, a mutual-aid map, and a reading
+group alike.
+
+It's worth naming a cousin idea from a completely different, more
+mathematical field, without overstating the connection: Claude Shannon's
+1948 theory of information measured how much a message *reduces
+uncertainty* about what could have been sent — a signal that leaves you no
+less uncertain than before carries zero information, by Shannon's own
+formal count, no matter how much energy it took to transmit. That's a
+strong family resemblance to "a difference that made no difference is not
+information" (the sentence Chapter 1.3 builds its whole gate on) — both
+refuse to call something informative just because it arrived. But
+Shannon's uncertainty is a property of a known set of possible messages and
+their probabilities, computed in advance; Bateson's pattern is a property
+of whether the *next* ground actually moved, checked after the fact. They
+rhyme. They are not the same measurement.
+
 ## One sentence to keep
 
 If Chapter 1.1 gave you "compare against something freshly rebuilt, not
@@ -495,10 +633,14 @@ that one test.
 **Where this comes from:** `eoreader6/SEED.md`, "One operation" — *"Pattern
 is Bateson's: a difference that makes a difference... A figure earns pattern
 by changing what happens next, and the only next available is the ground."*
+The framing of Bateson's own source (*Steps to an Ecology of Mind*, 1972)
+and the Shannon comparison above are this book's own added connections to
+the wider history of the idea, not something the codebase itself cites.
 
 ---
 
 # 1.3 — Witness
+
 
 
 
@@ -558,15 +700,43 @@ comes next. Everything else was seen and set aside, not suppressed —
 there's a real difference between "I looked and there was nothing worth
 reporting" and "I wasn't allowed to look."
 
+## Two fields that independently drew a similar line
+
+The word "witness" is a courtroom word on purpose, and the law's own
+version of this line is worth naming: testimony is supposed to be
+restricted to what a witness actually perceived and can speak to
+directly, not what they merely suspect or were told secondhand — hearsay
+rules exist precisely to keep a claim from being asserted past what the
+speaker can actually back. This project's witness gate is stricter in a
+specific way a courtroom's isn't: it doesn't just ask whether the speaker
+perceived the figure, it asks whether that figure went on to *move
+something* — Chapter 1.2's pattern test — before any speaking is allowed
+at all.
+
+A second, more technical cousin comes from electrical engineering: signal
+detection theory (formalized by Green and Swets in 1966) built a whole
+discipline out of the same basic problem — telling a real signal apart
+from noise that merely looks unusual — and it's careful to keep "this
+stood out statistically" and "this was actually the signal" as two
+separate questions, exactly the distinction Chapter 1.2 already drew
+between a figure and a pattern. Where the fields part ways: signal
+detection theory is normally applied against a signal whose statistical
+properties are already known in advance. This project never assumes that —
+the ground itself has to be freshly built, every time, before anything can
+even be checked against it.
+
 **Where this comes from:** `eoreader6/SEED.md`, "The unit of record" — *"All
 three terms, or it is not a record. `witness` refuses a figure whose pattern
 did not move the ground — a difference that made no difference is not
 information, so it is not testimony either... The system may perceive
-anything. It may speak only of what changed the ground."*
+anything. It may speak only of what changed the ground."* The legal and
+signal-detection-theory connections above are this book's own added links
+to those fields, not something the codebase itself cites.
 
 ---
 
 # 1.4 — The Two Deaths
+
 
 
 
@@ -619,6 +789,33 @@ wrong in a way you can't easily catch one answer at a time, because it has
 stopped being able to register that anything unexpected has happened at
 all.
 
+## Both names were already taken, on purpose
+
+Neither failure mode got a made-up name. **Confabulation** is a real
+clinical term from neurology and psychiatry, describing patients — most
+famously those with Korsakoff's syndrome, a memory disorder tied to
+chronic thiamine deficiency — who state false memories with complete,
+unhesitating confidence, not as lies but because the gap in their actual
+memory doesn't feel like a gap to them at all. That's a closer, more
+specific parallel than the more commonly used word "hallucination" (which
+this book's own Chapter 0.4 already used for the everyday version of this
+failure in language models): a hallucination suggests perceiving something
+that isn't there, while a confabulation is specifically an ungrounded
+*account*, offered fluently, of something that supposedly happened. This
+project's choice of word is the more clinically precise one.
+
+**Sclerosis** borrows from the same medical vocabulary in the other
+direction — literally, a hardening of tissue that was once flexible.
+The nearest well-known parallel outside medicine belongs to the historian
+and philosopher of science Thomas Kuhn: his 1962 account of scientific
+paradigms describes a community that has settled so completely into one
+way of seeing its evidence that genuine anomalies stop registering as
+anomalies at all, and get quietly explained away or ignored until the
+weight of them forces a crisis. A ground that's stopped rebuilding and a
+scientific paradigm that's stopped noticing its own anomalies are the same
+shape of failure, one at the scale of a single measurement and one at the
+scale of an entire field.
+
 ## Why naming both, together, changes what "safe" means
 
 It would be easy to build a system that only guards against one of these.
@@ -642,11 +839,15 @@ formally as one of the system's declared vital signs in Chapter 1.5.
 deaths, one conformance family each: Confabulation — it speaks without
 witness. Sclerosis — the ground closes, nothing can differ from it, and it
 becomes an oracle: fluent, sourced, correct, incapable of encounter. With
-pattern in place the second is largely self-announcing."*
+pattern in place the second is largely self-announcing."* The clinical
+history of "confabulation" and the parallel to Kuhn's *The Structure of
+Scientific Revolutions* (1962) above are this book's own added links to
+those fields — not something the codebase itself cites.
 
 ---
 
 # 1.5 — Three Numbers and a Vital Sign
+
 
 
 
@@ -718,6 +919,31 @@ threshold, but because a steady trace over time tells you something a
 single reading never could. The source material's own description is worth
 keeping as-is: aperture is *"the warmth you check for."*
 
+## Two fields that already had a version of each idea
+
+`draws`, `reseeds`, and `window` have a real cousin in statistics: kernel
+density estimation, a decades-old technique for building a smooth picture
+of "what's typical" out of raw data points, has to declare a **bandwidth**
+— exactly the same kind of load-bearing dial as this system's three
+numbers, in that a narrow bandwidth draws fine distinctions and risks
+mistaking noise for structure, while a wide one smooths real structure away
+entirely. Statisticians have never treated bandwidth as something with a
+universally correct default either — it has to be chosen for the data in
+front of you, the same discipline Chapter 1.5 insists on here.
+
+Aperture's role — a single number, watched continuously, that is neither a
+pass/fail gate nor a score to maximize — has an older parallel in
+physiology itself: Walter Cannon's 1932 concept of **homeostasis**, later
+refined into **allostasis** (stability achieved through change, rather than
+around a fixed setpoint). A clinician checking a vital sign isn't hunting
+for one correct number; they're watching a trace over time, the same
+posture this chapter asks you to take toward aperture. Where the parallel
+loosens: homeostasis classically describes a system defending one narrow
+setpoint, while allostasis and aperture both describe systems that are
+supposed to *move*, appropriately, in response to real change — aperture
+narrowing or widening is not itself the problem; only the wrong kind of
+narrowing or widening is.
+
 ## A word that changed, on purpose, and the record kept
 
 This particular number wasn't always called aperture. Until early August
@@ -740,7 +966,9 @@ gate, never a score: the warmth you check for."* The rename is recorded in
 the same file and in Amendment XVII, *"A quantity's name is a claim about
 what it is"* — *"Ananda means bliss. The identifier therefore asserted that
 an interquartile width is a state of the system, and no null in this repo
-establishes that."*
+establishes that."* The kernel-density-bandwidth and homeostasis/allostasis
+connections above are this book's own added links to statistics and
+physiology, not something the codebase itself cites.
 
 ---
 
@@ -750,6 +978,7 @@ establishes that."*
 ## Part II — The Grammar of Everything That Happens
 
 # 2.1 — Nine Verbs
+
 
 
 
@@ -827,6 +1056,32 @@ three verbs are unused or unimportant. It just means this book isn't going
 to pretend to a confidence it doesn't have — exactly the discipline Chapter
 1.5 showed you with "Not yet earned."
 
+## A strikingly similar 3×3 grid, built for an entirely different purpose
+
+Crossing three modes against three domains to get nine named cells isn't
+unique to this project. The philosopher and logician Charles Sanders
+Peirce — working decades before modern linguistics or computing existed —
+built his own theory of signs out of three independent three-way
+distinctions (his own terms were denser: firstness/secondness/thirdness
+crossed against a sign's relation to itself, its object, and its
+interpreter), and used the resulting grid to name ten classes of signs,
+including the well-known icon/index/symbol trio. Nobody in this project's
+own working notes claims Peirce as an ancestor, and this book isn't
+asserting one — the resemblance was noticed independently, the same
+honest way Chapter 6.3 later describes an unrelated fifty-seven-year
+correspondence. What the two grids share structurally is a bet that a
+messy space of possible acts is better handled by crossing a small number
+of orthogonal questions than by writing one label per case — the same bet
+this chapter's own "why nine, and not some other number" section is about
+to make explicit.
+
+Where the two projects diverge matters more than the shared shape: Peirce
+was classifying static *kinds of sign*, once, as a piece of philosophy.
+This project's grid classifies *acts* — things the engine actually does,
+checked against real measurements — and Chapter 2.5 will show you what
+happens when a cell in a grid like this is filled in by hand rather than
+derived from its own axes.
+
 ## Why nine, and not some other number
 
 Notice what this grid is actually doing: it's turning "what happened" into
@@ -856,11 +1111,14 @@ which describes the binding organ's output as "Structure-tier relations
 beds") is from a related but separate generation of this project,
 `eoreader4.2/docs/eo-for-coders.md` line 249 — flagged as such because it
 does not describe eoreader6 itself; see Part VII for why that document
-belongs to a different generation.
+belongs to a different generation. The Peirce connection earlier in this
+chapter is this book's own added link to the history of semiotics, not
+something the codebase itself cites.
 
 ---
 
 # 2.2 — The Order Things Happen In
+
 
 
 
@@ -907,6 +1165,31 @@ those things exist as things worth tracking in the first place. Connecting
 comes after admitting. There's no way to run it the other way around and
 have the result mean anything.
 
+## A discipline computer science already leans on hard
+
+The rule "you cannot use something before it's been established" is a
+load-bearing idea in programming language design too, under a different
+name: a **dependency graph**, or more specifically a topological
+ordering — the same discipline that stops a spreadsheet from letting one
+cell's formula depend on a value that depends right back on it, or stops
+a compiler from letting code reference a variable declared later in the
+file. Modern "dependently typed" programming languages generalize this
+further, requiring that a *type* itself only reference values that were
+already established earlier in the same proof — you can't build a claim
+about something before you've built the something. This project's grain
+axis (Ground, then Figure, then Pattern) and its cross-verb dependency
+(admission before binding) are the same shape of rule, applied to acts of
+reading rather than to lines of code.
+
+The two fields part ways on what enforces the rule. A type checker or a
+build system rejects a violation at compile time, mechanically, before the
+program ever runs. This project's ordering is enforced by what the organs
+actually operate *on* — the binding organ simply has nothing to read until
+an entity register exists — rather than by a separate checking pass
+sitting outside the mechanism. The effect is the same (an out-of-order act
+can't produce a meaningful result); the enforcement is built into the
+material itself rather than bolted on as a separate validator.
+
 ## Why this matters more than it looks like it should
 
 It would be easy to read this as a boring implementation detail — of
@@ -927,11 +1210,15 @@ of the cube's three axes, alongside mode and domain, is set out in
 It is the same three terms; the seed's unit is one axis of this
 instrument."* The binding-organ dependency is from `eoreader6/SEED.md`,
 Amendment X: *"The binding organ ... reads an entity register — arrival
-indices of beings already admitted through the witness gate."*
+indices of beings already admitted through the witness gate."* The
+dependency-graph and dependent-typing connections above are this book's
+own added links to programming language theory, not something the
+codebase itself cites.
 
 ---
 
 # 2.3 — Nine Kinds of "Where"
+
 
 
 
@@ -994,6 +1281,28 @@ specific (domain, grain) pair.
   framework — the accumulated set of kinds and categories the system is
   presently reading through, always revisable, never assumed permanent.
 
+## The Existence row's oldest ancestor
+
+Sorting the world into a specific thing, a category of things, and a
+relationship between things is Aristotle's move before it's this project's
+— his *Categories* treats "primary substance" (one actual man), "secondary
+substance" (man, the species) and relations as genuinely different kinds
+of being, not just different words for the same kind of thing described at
+different zoom levels. Biological taxonomy runs a version of the same
+three-way split: one organism, a species, and an ecological relationship
+between species are treated as different *kinds* of scientific claim, not
+interchangeable ones — a fact about one tagged wolf doesn't automatically
+transfer to "wolves" as a category, and neither transfers automatically to
+"predator-prey relationship."
+
+Where this project's grid does something Aristotle's never needed to: it
+crosses this three-way existence split against two *other* three-way
+splits (structure and interpretation) to get to nine terrains total, and
+it ties each cell to a specific, checkable act (a Ground gets built, a
+Figure gets admitted) rather than to a static description of what kind of
+being something has. Aristotle was answering "what is there." This grid
+answers "what got established, by which kind of act."
+
 ## Why a mutual-aid map or a reading group would show the exact same grid
 
 None of the nine terrains above required saying anything about hospitals
@@ -1021,10 +1330,13 @@ current set of induced Kinds plus their core fields") is from the same
 file, line 19. The neighborhood-map and reading-group domains are the same
 domain-invariant triad introduced in `eoreader4.2/docs/eo-for-coders.md`
 §C.2-C.3 — a related but separate generation of this project; see Part VII.
+The Aristotle and biological-taxonomy connections above are this book's
+own added links to those fields, not something the codebase itself cites.
 
 ---
 
 # 2.4 — Nine Kinds of "How"
+
 
 
 
@@ -1082,6 +1394,29 @@ necessarily took, not a separate decision layered on top.
   parts that have already, collectively, earned pattern-status — assembling
   a whole from pieces that have already proven they belong together.
 
+## Three postures Aristotle also refused to collapse into one
+
+Tending, Making, and something close to Dissecting have an old philosophical
+ancestor worth naming directly: in the *Nicomachean Ethics* (Book VI),
+Aristotle distinguished **episteme** (theoretical, demonstrable knowledge —
+the kind you measure and prove), **techne** (craft knowledge, the kind that
+produces a specific made thing), and **phronesis** (practical wisdom — the
+judgment a person exercises in a particular, unrepeatable situation, which
+can't be reduced to a formula). He insisted these were genuinely different
+*kinds* of knowing, not one kind at three levels of rigor — you don't get
+phronesis by doing more episteme. That's the same insistence this
+chapter's opening rule makes about stances: "a stance is not a mood, and it
+cannot be chosen." A nurse's tending judgment over a shift isn't an
+imprecise version of a lab measurement; it's a different posture toward
+the same fever, doing different work.
+
+The mapping isn't exact, and it's worth saying where it bends: Aristotle's
+three are about the *knower's* relationship to different kinds of truth in
+general, while this chapter's nine stances are about a specific relationship
+— mode crossed with grain — for one particular act inside one particular
+system. Borrow the insistence that these are different in kind, not the
+detail of which of his three lines up with which of these nine cells.
+
 ## Why the same word can show up twice in this book
 
 Notice that "Tending" and "Making" here are the exact same words Chapter
@@ -1095,11 +1430,14 @@ shortly," cashed in.
 
 **Where this comes from:** the stance grid (`stance = (mode, grain)`) and
 its nine names are defined in `eoreader6/CUBE.md`, lines 45-47, including
-the rule that "a stance is not a mood and cannot be chosen" (line 50).
+the rule that "a stance is not a mood and cannot be chosen" (line 50). The
+Aristotle connection above is this book's own added link to the history of
+philosophy, not something the codebase itself cites.
 
 ---
 
 # 2.5 — Why All Three Have to Agree
+
 
 
 
@@ -1159,6 +1497,30 @@ against that rule. That's the entire value of "over-determination" — naming
 grain twice isn't redundant bookkeeping, it's what makes a bad label
 *catchable* instead of merely sounding a little off.
 
+## Redundancy-as-a-check is a much older engineering trick
+
+Naming grain twice so a contradiction becomes catchable is the same basic
+idea behind **error-detecting codes** in information theory: a parity bit
+or a checksum carries no new content of its own — it's redundant, by
+design — and that redundancy is exactly what lets a corrupted message be
+caught instead of silently accepted as valid. Richard Hamming's 1950 codes
+are the classic engineering version of this: extra bits, added on purpose,
+whose entire job is to make an error visible rather than to say anything
+new. Empirical science leans on the same logic under the name
+**triangulation** — a claim checked by two independent methods that could
+fail in different ways is worth more than the same claim checked twice by
+the same method, precisely because the methods are unlikely to agree by
+accident if the claim is actually wrong.
+
+All three examples share the same shape: over-determination isn't waste,
+it's how you get a system that can be caught being wrong rather than one
+that merely sounds confident. Where this project's version is more
+specific than either: a parity bit or a triangulated finding tells you
+*that* something disagrees; the coherent cube additionally tells you
+*which* two labels (terrain's grain versus stance's grain) are the ones in
+conflict, because the redundancy is structural rather than an extra
+number bolted on afterward.
+
 ## What this rules out, and what it doesn't resolve
 
 This isn't presented in the source material as a tidy, fully-closed case.
@@ -1188,7 +1550,10 @@ makes an address falsifiable."* The `eoreader5` contradiction, including
 `SEG · Field · Dissecting` and the four other mismatched cells, and the
 still-unresolved status of one of them, is "A known contradiction in the
 prior engine," lines 148-166. The cube's own refutation as a content
-classifier is lines 10-14.
+classifier is lines 10-14. The error-correcting-code and
+scientific-triangulation connections above are this book's own added links
+to information theory and the philosophy of science, not something the
+codebase itself cites.
 
 ---
 
@@ -1198,6 +1563,7 @@ classifier is lines 10-14.
 ## Part III — How EO Reader 6 Reads
 
 # 3.1 — A Reading, From the Inside
+
 
 
 
@@ -1252,6 +1618,25 @@ to the rest:
   the one piece of testimony that earned witness: a real figure, backed by
   real evidence, that the system was willing to speak about.
 
+## An old discipline this resembles, and where it stops resembling it
+
+Literary scholarship has its own long-standing name for reading this
+closely and accounting for exactly what's used and what's set aside: close
+reading, the practice mid-twentieth-century critics like the New Critics
+built into a method — attend only to what's actually on the page, resist
+filling gaps with outside biography or assumption, and be able to point to
+the specific words a claim rests on. The Frankenstein answer above does
+something structurally similar: it doesn't reach for what everyone already
+assumes about Frankenstein, it reaches for one particular passage and
+reports exactly what got left out along the way.
+
+The resemblance stops at method, not result. Close reading is a human
+critical practice aimed at richer interpretation, argued in prose, judged
+by other readers. What you just watched is a measurement — a passage
+either cleared the witness gate or it didn't, reported with a byte range
+rather than a critical argument. Both refuse to answer from assumption
+alone. Only one of them is a formal test with a computable outcome.
+
 ## What "reading" meant, here, end to end
 
 Nothing about this required the system to have any general opinion about
@@ -1270,11 +1655,14 @@ the citation itself all the way back to the real bytes it came from.
 
 **Where this comes from:** `eochat/essay.md`, in full — a real, already-
 produced answer from the running system, including its own citation and its
-own "What this leaves out" accounting.
+own "What this leaves out" accounting. The close-reading connection above
+is this book's own added link to literary-critical practice, not something
+the codebase itself cites.
 
 ---
 
 # 3.2 — Gifts, Not Guesses
+
 
 
 
@@ -1341,6 +1729,32 @@ that did not happen.*
   between "this helped me guess" and "this is now established" doesn't
   move, no matter how many times a prior proves useful.
 
+## The same word, doing a genuinely different job in statistics
+
+"Prior" is not a word this project coined. In Bayesian statistics, a
+**prior** is a probability distribution representing what you believed
+before seeing new evidence, which then gets mathematically updated by that
+evidence into a **posterior** — a formal apparatus going back to Thomas
+Bayes's own 1763 theorem and central to statistical practice ever since.
+It's worth being precise about how much this project's "prior" actually
+shares with that one, because the word is identical and the concept
+underneath it is not.
+
+What they share: both name something brought in from *before* the current
+measurement, and both are explicit that this incoming thing shapes what
+gets concluded rather than standing outside the process untouched. What
+they don't share is the whole test for whether a prior is any good. A
+Bayesian prior is graded by calibration — does it, combined with the
+evidence, produce well-calibrated beliefs — and it's a mathematical object,
+a distribution, with no requirement that it come from a *named* source.
+This project's prior is graded by a completely different, non-probabilistic
+test (does bringing it to the meeting lower surprise) and carries a
+requirement Bayesian statistics has no equivalent for at all: a prior here
+has to arrive with a giver's name attached, or it isn't admitted, full
+stop. Reusing the word without reusing the machinery is a real risk of
+confusion worth flagging directly, rather than letting a reader with some
+statistics background assume more overlap than there actually is.
+
 ## The one thing this buys for free
 
 Because the test is "did surprise go down," not "does this look like the
@@ -1364,11 +1778,15 @@ exactly insofar as it lowers the surprise of what is encountered" — *"Relevanc
 is not a property of a prior. It is a property of the meeting between a
 prior and this material, and its measure is the surprise that did not
 happen"* — including its four numbered consequences and the cross-modal
-boundary drawn in its final paragraph.
+boundary drawn in its final paragraph. The Bayesian-statistics comparison
+above is this book's own added link to that field, contrasting a shared
+word with a different underlying test — not something the codebase itself
+cites.
 
 ---
 
 # 3.3 — A Guided Tour of the Organs
+
 
 
 
@@ -1434,6 +1852,30 @@ say what a relationship *means*. It reports that two things are linked, and
 in which direction one seems to drive the other — meaning, if it comes, is
 somebody else's job.
 
+## Two old philosophical problems these organs are built to dodge
+
+Splitting the work into separate organs, each with one job and one
+explicit refusal, has a real cousin in philosophy of mind: Jerry Fodor's
+1983 book *The Modularity of Mind* argued that at least some mental
+processes are handled by dedicated, encapsulated modules — each one fast,
+specialized, and unable to see or be second-guessed by the others'
+internal workings — rather than by one general-purpose reasoning process
+doing everything. `nul`, `frame`, `temporality`, and the binding organ, each
+with a one-line job and a one-line refusal, are the same design instinct:
+narrow, specialized competence instead of one thing that tries to do
+everything.
+
+`frame`'s refusal to watch its own trail is worth naming against an older
+problem still: the **homunculus regress**, a standard objection in
+philosophy of perception. If seeing requires a little person inside your
+head looking at an image on your retina, then how does *that* homunculus
+see — do you need a smaller homunculus inside its head, and so on forever?
+Any theory that explains a capacity by positing a smaller version of the
+same capacity watching it has explained nothing; it's just pushed the
+question back one layer. `frame` refuses this exact trap by construction,
+declining to let a ground be the first act of its own trail, rather than
+declaring the regress solved and hoping nobody checks.
+
 ## Four more organs, honestly under-described
 
 This book can also point you to the *names* `discourse`, `formation`,
@@ -1462,11 +1904,14 @@ never a language... Meaning, when it comes, is earned by higher organs."*
 `verdict` and `cascade` are named in `eoreader6/CUBE.md` line 120 and in
 several places across SEED.md's amendments (e.g. Amendment XV, *"the same
 standing `cascade` already holds"*), without a passage this book found
-sufficient to teach them fully.
+sufficient to teach them fully. The Fodor and homunculus-regress
+connections above are this book's own added links to philosophy of mind,
+not something the codebase itself cites.
 
 ---
 
 # 3.4 — Turns and Memory
+
 
 
 
@@ -1515,6 +1960,34 @@ lying around by accident. It's the same discipline from Chapter 3.2, run
 on the conversation itself: the engine will tell you honestly what it can
 verify about its own sequence, and will not quietly claim more than that.
 
+## Two fields that already chose small handoffs over full history
+
+Web architecture solved a related problem the same way. HTTP, the
+protocol underneath most of the web, is deliberately **stateless** — a
+server isn't required to remember anything about a previous request on its
+own — and the practice that grew up around that constraint is to pass a
+small token (a session ID, a cookie) forward instead, letting the *client*
+carry continuity rather than making the server accumulate a growing
+history of every past interaction. The register this chapter describes is
+the same trade: a small, constant-sized handoff instead of an
+ever-growing log the engine would have to keep re-reading.
+
+Cognitive psychology draws a related line inside human memory itself.
+Alan Baddeley's working-memory model (developed from the 1970s onward)
+treats the small amount you're actively holding onto right now as
+functionally distinct from the vast, separately-organized store of
+long-term memory — a deliberately narrow, bounded workspace, not a
+window onto everything you've ever experienced. The register is closer to
+this project's version of working memory than to a full transcript: small
+on purpose, refreshed every turn, never itself the archive.
+
+Neither parallel is exact. HTTP's statelessness is a protocol-level
+convenience that says nothing about cognition, and working memory is a
+claim about human brains, not turn-taking software. What both share with
+this chapter's register is the same underlying bet: continuity doesn't
+require carrying the whole past forward, only a small enough piece of it
+that the next step can pick up correctly.
+
 ## Why this avoids Chapter 3.3's watching problem
 
 You might notice this sounds close to `frame`'s job from the last chapter —
@@ -1533,11 +2006,15 @@ partially earned: the turn holds a sequence" — *"`runTurn` now receives a
 locally at the turn boundary... What is still not earned is the enforcement
 that a genuinely-first ground is *received* — the engine cannot know that
 the caller read nothing before... The register is one closing scalar plus a
-declared choice, never a rollup of the trail."*
+declared choice, never a rollup of the trail."* The HTTP-statelessness and
+working-memory connections above are this book's own added links to web
+architecture and cognitive psychology, not something the codebase itself
+cites.
 
 ---
 
 # 3.5 — Refusal as an Answer
+
 
 
 
@@ -1597,6 +2074,35 @@ outside, right up until it quietly starts asserting things it never
 checked. This system refuses that shortcut by naming the limit instead of
 hiding it.
 
+## Three fields that already built a category for "no, and here's why"
+
+Pattern recognition had this idea decades before language models existed.
+C.K. Chow's 1970 paper "On Optimum Recognition Error and Reject Tradeoff"
+formalized the **reject option**: a classifier is allowed to output "I
+decline to classify this one" rather than forcing a guess, whenever
+guessing would cost more than admitting uncertainty. That's a direct,
+well-established ancestor of gap types being a real, typed output rather
+than a failure — the field calls this "selective prediction" today, and
+it's built on exactly the same insight this chapter states in different
+words: a wrong answer isn't the only failure mode; a forced answer where a
+refusal was the honest move is its own kind of failure.
+
+Statistics has a parallel three-way split for a related problem: Donald
+Rubin's 1976 taxonomy of *why* data goes missing (missing completely at
+random, missing at random, missing not at random) insists that "we don't
+have this" is not one undifferentiated fact — the reason data is absent
+changes what you're allowed to conclude from what remains, the same way
+this chapter's three gap types (a thin ground, an excess beyond
+resolution, an unreceived origin) are different facts, not interchangeable
+shrugs.
+
+And Scots law has, for centuries, recognized a third verdict alongside
+guilty and not guilty: **not proven** — a formal acknowledgment that the
+evidence didn't clear the bar for conviction without asserting innocence
+either. It's a real, standing example, from outside computing entirely, of
+a legal system building a named category for "the evidence didn't clear
+the gate" rather than forcing every case into a binary.
+
 ## Two tiers of refusal, and why the order matters
 
 There's a strict pecking order to how a refusal happens, and it's meant to
@@ -1615,11 +2121,15 @@ unrelated failure modes." The two-tier refusal rule ("type error before
 null... never spend a measurement on what the algebra catches") is
 `eoreader6/SEED.md`, "What follows," clause 7. The worked example is
 `eochat/essay.md`, "What this leaves out" — including the exact phrase "not
-printed rather than printed unsupported."
+printed rather than printed unsupported." The reject-option, missing-data,
+and "not proven" connections above are this book's own added links to
+pattern recognition, statistics, and law, not something the codebase
+itself cites.
 
 ---
 
 # 3.6 — How the Engine Is Allowed to Grow
+
 
 
 
@@ -1740,6 +2250,27 @@ actual named roles (agent, instrument, and so on) the fifty-eight-year-old
 objection was really about. Real progress, clearly short of the goal,
 stated as one sentence rather than two different impressions.
 
+## A discipline this rule shares with experimental science generally
+
+Running a **negative control** before trusting a positive result — exactly
+what caught the turbulence case's hidden bug — is standard laboratory
+practice across the sciences: test the method against something known to
+have nothing to find, and only trust a "yes" from the real experiment once
+the control has confirmed the method doesn't manufacture yeses out of
+nothing. And the growth rule's blanket refusal of anything "unwired" —
+no partial credit for a good idea nobody actually depends on yet — echoes
+a newer discipline in science publishing: **preregistration**, where
+researchers commit in advance to exactly what test would count as success,
+specifically to stop a result from being quietly redefined as a win after
+the fact. Both are answers to the same worry: a rule that's only enforced
+after you already like the outcome isn't really a rule.
+
+The role-fold arc's specific borrowings (from child-language acquisition
+research and infant speech-segmentation research) are prior art in the
+narrowest, most literal sense — the engine's own working notes name the
+fields directly, and Chapter 6.2 walks through exactly what was and wasn't
+carried over from each one.
+
 **Where this comes from:** the growth rule itself is `eoreader6/SEED.md`,
 "The growth rule" — *"An organ joins only when the level test returns
 `above` against the core... Unwired is failing."* The turbulence case is
@@ -1754,7 +2285,9 @@ README.md); the citation of Mintz (2003) on the limits of pure
 distributional clustering; the cross-lingual result (PR #48, "the mouth is
 language-specific by construction, the organ isn't"); and the explicit
 "EXPERIMENTAL. Unwired. Not a golden, not a certified organ" status note at
-the top of README.md.
+the top of README.md. The negative-control and preregistration connections
+above are this book's own added links to the general practice of
+experimental science, not something the codebase itself cites.
 
 ---
 
@@ -1764,6 +2297,7 @@ the top of README.md.
 ## Part IV — Why the Rules Are the Rules
 
 # 4.1 — Four Boxes
+
 
 
 
@@ -1820,6 +2354,27 @@ ask what the measurement itself actually established, independent of where
 it happened to run or what it happened to be reading. Keeping the box
 empty is what keeps the measurement checkable at all.
 
+## Two much older versions of "keep these apart, on purpose"
+
+Political philosophy has its own name for splitting power across
+boxes precisely so that none of them can quietly absorb another's job:
+Montesquieu's 1748 argument for **separation of powers** — legislative,
+executive, and judicial kept apart specifically so that whoever writes a
+law isn't also the one enforcing it or judging it. The four boxes here
+aren't branches of government, but the underlying worry is the same one:
+a system where one part can reach into another's job stops being checkable
+by anyone standing outside it.
+
+Software engineering has run the identical argument for decades under the
+name **separation of concerns**, a phrase usually credited to Edsger
+Dijkstra, who argued a system is only reasoned about reliably when each
+part can be understood on its own, without having to hold the whole thing
+in your head simultaneously. "Deleting an application must change no
+engine reading" is that principle turned into an actual, runnable test
+rather than a design slogan — most software that claims separation of
+concerns has no equivalent check that would catch a violation the moment
+it happened.
+
 ## What doesn't fit any of the four boxes
 
 The rule for anything that doesn't cleanly land in one of the four is
@@ -1838,11 +2393,14 @@ legacy, *"Their dead-end logs are load-bearing and must be trusted... every
 organ is re-earned in eoreader6 or it does not come"*; I.4 on applications,
 *"Deleting an application must change no engine reading"*; and I.5, *"No
 other domain exists. A thing that fits none of the four is a gap, not a new
-category."*
+category."* The Montesquieu and separation-of-concerns connections above
+are this book's own added links to political philosophy and software
+engineering, not something the codebase itself cites.
 
 ---
 
 # 4.2 — The Tests, in Plain Language
+
 
 
 
@@ -1944,6 +2502,32 @@ supposed to have to run. If the check itself can't be run on the same
 machine doing the reading, it isn't a real check — it's a claim about a
 machine that doesn't exist for this project's purposes.
 
+## The shape all eight tests share with two other disciplines
+
+Karl Popper's demarcation criterion — already named in Chapter 0.3 — is
+the deepest ancestor of this whole checklist: a genuine scientific claim
+has to specify in advance what would count as evidence against it. Every
+one of these eight tests is that same demand, made specific to one
+particular failure mode instead of stated once in the abstract — "does
+this build a nothing or lean on what's present" is Popper's falsifiability
+demand aimed squarely at one mechanism (attention) rather than at claims in
+general.
+
+Software engineering's **test-driven development** movement (popularized
+by Kent Beck in the early 2000s) runs a related discipline day to day:
+write the test a piece of code has to pass *before* writing the code
+itself, so the code is built to satisfy a pre-declared check rather than
+graded against one invented afterward to match whatever it happened to do.
+That's close to the spirit of asking these eight questions of a proposed
+mechanism before it's allowed to count as engine — the checklist exists
+before the candidate does, not the other way around.
+
+Where this project's version is stricter than either ancestor: Popper and
+TDD both leave it to the individual scientist or engineer to decide which
+test applies. Here the order is fixed and the tests are named once, for
+everyone, so a candidate can't be graded by whichever question happens to
+flatter it.
+
 **Where this comes from:** all eight tests are Article II of
 `eo-constitution/CONSTITUTION.md` — the omnimodal test (II.1), the giver
 test (II.2), the convergence test (II.7), the difference test (II.8, *"Does
@@ -1952,11 +2536,14 @@ test (II.9, *"Does this mechanism measure a property of the arrival, or a
 revision of the reader?"*), the commensurability test (II.10), the
 omnimodal earning test (II.11), and the local test (II.12). The routing
 order itself is Article II's opening line: *"Ask in this order. Prior? →
-App? → what remains is engine."*
+App? → what remains is engine."* The Popper and test-driven-development
+connections above are this book's own added links to philosophy of science
+and software engineering, not something the codebase itself cites.
 
 ---
 
 # 4.3 — A Constitution That Edits Itself
+
 
 
 
@@ -2013,6 +2600,34 @@ still on the record, dated, next to the reason it no longer applies. A
 document that corrects itself by deleting the mistake isn't actually
 keeping a history of being wrong. It's just hiding one.
 
+## Two real institutions that already keep their own history of being wrong
+
+Actual constitutional law works this way on purpose. The U.S. Constitution
+doesn't delete a superseded clause when it's amended — the Eighteenth
+Amendment (Prohibition) is still printed in the document, immediately
+followed by the Twenty-First Amendment that repealed it, so the historical
+record of what the country tried and reversed stays visible rather than
+vanishing. That's the same discipline as "old text is corrected, not
+rewritten," applied to an actual nation's founding document instead of a
+codebase.
+
+Scientific publishing has converged on something structurally similar for
+the same reason: a **retraction notice** doesn't erase the original paper
+from the record. It stays findable, now flagged, with the retraction
+explaining what was wrong and why — because a field that quietly deleted
+its own mistakes would lose the ability to show anyone, including itself,
+what it had already learned not to trust. Both institutions independently
+arrived at "keep the wrong version on the record, dated, with the
+correction attached" rather than "make it look like the mistake never
+happened."
+
+Where this project's amendment log is stricter than either: a constitution
+can be amended by a vote of confidence in prose, and a retraction can be
+issued because reviewers or replication attempts raised doubt. This
+project's rule is narrower than both — no amendment is even eligible
+unless it's expressible as a specific test that used to pass and now
+fails, changed in the same edit as the rule.
+
 ## An honest tension, worth naming rather than smoothing over
 
 This book's own rule — never hide a gap — applies to what this chapter just
@@ -2040,11 +2655,15 @@ erased"*). The draft-vs-applied tension is visible by comparing
 `CONSTITUTION.md`'s own amendment log (lines 333-359) against
 `AMENDMENT-8-PROPOSAL.md`, `AMENDMENT-9-PROPOSAL.md`, and
 `AMENDMENT-11-PROPOSAL.md`, each headed *"Status: DRAFT PROPOSAL. Not
-applied, not yet human-reviewed."*
+applied, not yet human-reviewed."* The U.S. Constitution and
+scientific-retraction connections above are this book's own added links
+to constitutional law and scientific publishing, not something the
+codebase itself cites.
 
 ---
 
 # 4.4 — One Amendment, Start to Finish
+
 
 
 
@@ -2111,6 +2730,28 @@ allowed to write, in a header, that an idea traces back to a particular
 thinker or a particular field. You are not allowed to let a variable's own
 name assert more than the number underneath it has actually earned.
 
+## A field that renames things constantly, and keeps the old name on file
+
+Biological taxonomy has an entire formal apparatus for exactly this
+situation: when a species turns out to have been named twice, or a name
+turns out to rest on a mistaken classification, taxonomists don't just
+start using the new name and drop the old one. The old name becomes a
+**synonym**, permanently recorded and cross-referenced in the taxonomic
+literature, so anyone who encounters the old name in an older paper can
+still trace it to what it's now called and why the change happened. `ananda`
+becoming `aperture`, with the old name "superseded, not erased," is the
+same discipline: the fix corrects an overclaim, and the correction itself
+becomes part of the permanent record rather than a silent edit.
+
+Software has a milder version of the same idea in **deprecation**: an old
+function name kept around, marked as retired, sometimes still callable
+with a warning, specifically so nothing that already depended on the old
+name breaks silently or vanishes without a trace. This project's rename
+goes further than ordinary deprecation in one respect worth noting: it
+isn't just backward-compatible plumbing, it's an argument, on the record,
+about why the old name was actively misleading — the equivalent of a
+taxonomist explaining, not just noting, why a species needed a new name.
+
 ## What didn't change, stated plainly
 
 The amendment is careful to record what this rename does *not* touch. The
@@ -2130,7 +2771,10 @@ interquartile width is a state of the system, and no null in this repo
 establishes that... Ancestors may be cited in comments. They may not name
 quantities."* The preserved old name is recorded in "The sign of health,"
 the section the amendment corrects: *"This quantity was called `ananda`
-until 2026-08-04. The name is superseded, not erased."*
+until 2026-08-04. The name is superseded, not erased."* The taxonomic-
+synonymy and software-deprecation connections above are this book's own
+added links to biology and software engineering, not something the
+codebase itself cites.
 
 ---
 
@@ -2140,6 +2784,7 @@ until 2026-08-04. The name is superseded, not erased."*
 ## Part V — EO Chat: Where You Meet It
 
 # 5.1 — A Thin Front Door
+
 
 
 
@@ -2183,6 +2828,29 @@ and the backend exists to serve it. Here, the application is explicitly
 disposable, and the measurement is the thing that has to survive being
 rebuilt from scratch in a completely different interface.
 
+## An old operating-systems argument, in new clothes
+
+Keeping the front door thin is a direct descendant of a principle
+operating-system designers have argued for since the 1970s: separate
+**mechanism** from **policy** — build the small, general capability once,
+and keep every decision about *how* and *when* to use it somewhere else,
+swappable, outside the core. A microkernel operating system pushes drivers,
+file systems, and networking out of the trusted core for exactly this
+reason: the smaller and more stable the core, the more confidently you can
+reason about what it actually guarantees, no matter what's built on top of
+it. EO Chat is policy — the clock, the specific interface, which model gets
+called for what — sitting deliberately outside a mechanism (the engine)
+built to have no opinion about any of it.
+
+Software architecture has a more recent name for the same instinct:
+**hexagonal architecture** (Alistair Cockburn, 2005), which draws the same
+line as a hard rule — the application's core logic should be able to run
+untouched whether it's driven by a web request, a test harness, or a
+command line, because nothing about the core is allowed to know which one
+is calling it. "Deleting an application must change no engine reading" is
+that same test, made concrete for this specific project rather than stated
+as a general architectural ideal.
+
 ## Why bother building it this way
 
 You might reasonably ask why this separation is worth the extra
@@ -2207,11 +2875,15 @@ priors, app, legacy. These decide *how this app must behave* once placement
 is settled. They bind the host: clock, I/O, routing, UX. They can never
 license a change to engine reading."* The underlying test itself is
 `eo-constitution/CONSTITUTION.md`, Article I.4: *"Deleting an application
-must change no engine reading."*
+must change no engine reading."* The mechanism/policy and hexagonal-
+architecture connections above are this book's own added links to
+operating-systems and software-architecture history, not something the
+codebase itself cites.
 
 ---
 
 # 5.2 — Instructions All the Way Down
+
 
 
 
@@ -2262,6 +2934,23 @@ And two of the mode-specific files:
 - **Surf mode:** *"Surf mode returns the evidence, not an answer. The
   reader asked to see what the retrieval actually found."*
 
+## A distinction legal systems have needed for the same reason
+
+Splitting the assistant's behavior into small, numbered, individually
+citable files has a real cousin in how law itself is organized. **Civil
+law** legal systems (continental Europe, and most of the world following
+that tradition) codify rules into numbered statutes and articles you can
+point to directly and read on their own. **Common law** systems (the
+United States, the United Kingdom) instead build up rules through
+precedent — a governing principle has to be reconstructed from how past
+cases were actually decided, often across many long rulings, rather than
+read off a single numbered clause. Whatever its other tradeoffs, codified
+law is far easier for an outsider to audit for exactly the reason this
+chapter cares about: you can point at rule 020, not reconstruct a norm
+from scattered practice. This project's instruction set is codification,
+not precedent — the opposite structure of a single hidden system prompt
+nobody outside the company gets to read.
+
 ## Why this matters more than it looks like it should
 
 Splitting the instructions apart this way means each rule can be pointed
@@ -2285,11 +2974,14 @@ system isn't allowed to hint that it's there.
 representative quotes are from `eochat/instruction-set/010-core-identity.md`,
 `020-core-citation-law.md`, `030-core-honesty.md`, `060-core-refusal.md`,
 `100-mode-chat.md`, and `110-mode-surf.md`. The folded-instruction rule is
-`eochat/instruction-set/050-core-gate.md`.
+`eochat/instruction-set/050-core-gate.md`. The civil-law/common-law
+connection above is this book's own added link to legal history, not
+something the codebase itself cites.
 
 ---
 
 # 5.3 — Four Promises to the Reader, in Plain Language
+
 
 
 
@@ -2366,6 +3058,27 @@ out. The fix computes a real *withheld total*, specifically, in the
 system's own words, "so a truncated list cannot be mistaken for the whole
 one."
 
+## A field that already named some of these promises, decades ago
+
+Interface design already has a well-known checklist covering some of this
+same ground: Jakob Nielsen's ten usability heuristics (1994) include
+**"visibility of system status"** — the system should always keep users
+informed, through appropriate feedback, within reasonable time — which is
+essentially "no dead air" stated as a general design principle rather than
+tied to a specific 39-second incident. Nielsen's heuristics are broad,
+general-purpose advice meant to apply to any interface at all; they don't
+specify a number, and they're evaluated by expert judgment ("does this
+feel responsive") rather than by a measured incident with a before-and-
+after number attached.
+
+That's the real difference worth naming: this chapter's four promises
+aren't restatements of general usability advice — each one is anchored to
+an actual, dated, measured failure (39 seconds of silence, a byte mismatch
+found by an actual audit trail, a document silently capped at 500,000
+characters, a count compared against the wrong total) rather than an
+abstract design ideal. Nielsen's heuristics tell you what to look for.
+This chapter's promises are what happened when nobody had looked yet.
+
 ## The pattern underneath all four
 
 Notice what these four promises have in common: none of them is "always
@@ -2379,11 +3092,14 @@ deciding what to show you and how honestly to show it.
 are from `eochat/LAWS.md` — no dead air (L1, lines 23 and 79-91, 160-165),
 audit is local (L2, lines 181 and 215-224, 237-241), no silent truncation
 (L3, lines 288 and 306-316), and no implied completeness (L6, lines
-485-487 and 493-500).
+485-487 and 493-500). The Nielsen usability-heuristics connection above is
+this book's own added link to interface-design history, not something the
+codebase itself cites.
 
 ---
 
 # 5.4 — A Citation You Can Actually Check
+
 
 
 
@@ -2450,6 +3166,29 @@ underlying index serving both a real file path and something you'd
 attached directly, so the two cases produce identical offsets instead of
 two different addressing schemes quietly disagreeing with each other.
 
+## The same problem, at a much larger scale, in science itself
+
+This mechanism is a small, automated answer to a problem that's caused a
+genuine crisis in published research. John Ioannidis's widely cited 2005
+paper "Why Most Published Research Findings Are False" argued that a
+large fraction of scientific claims can't actually be traced back,
+reliably, to the evidence that supposedly supports them — and the
+so-called **replication crisis** that followed found that a striking share
+of results in fields like psychology couldn't be reproduced at all when
+someone actually tried. The common thread: a citation, in a paper or in a
+chat answer, is only as good as the round trip back to what it claims to
+rest on, and for years the scientific literature simply didn't check that
+round trip systematically, at scale, before publication.
+
+Forensic science's **chain of custody** is the older, more literal version
+of the same idea: evidence has to be traceable, unbroken, from the moment
+it's collected to the moment it's presented, or it doesn't count as
+admissible regardless of how compelling it looks. The mechanism this
+chapter describes — citation, to span, to source bytes, checked before
+display — is a chain of custody for a quoted sentence, run automatically,
+on every single claim, rather than assumed to hold and audited only when
+someone happens to complain.
+
 ## What this actually buys you as a reader
 
 None of this promises the *interpretation* in an answer is correct — Part
@@ -2464,11 +3203,15 @@ if you'd bothered to look.
 **Where this comes from:** the citation-scope rule is `eochat/instruction-
 set/020-core-citation-law.md`, lines 12-14. The round-trip law (L2f) and
 the pre-display fabrication check (L8) are `eochat/LAWS.md`, lines 215-217
-and 627-634. The incident and its fix are `eochat/LAWS.md`, lines 220-248.
+and 627-634. The incident and its fix are `eochat/LAWS.md`, lines 220-248. The
+reproducibility-crisis and chain-of-custody connections above are this
+book's own added links to the philosophy of science and forensics, not
+something the codebase itself cites.
 
 ---
 
 # 5.5 — Writing Something Long Without Losing the Thread
+
 
 
 
@@ -2511,6 +3254,28 @@ something long: never one continuous, unvalidated sequence, always a chain
 of small, separately-checkable pieces, each one closed out and confirmed
 before the next one starts.
 
+## Where the parable actually comes from
+
+Worth naming directly, since the project's own code comments tell the
+story without a byline: Hora and Tempus are Herbert Simon's, from his 1962
+paper "The Architecture of Complexity" (later the title essay of his book
+*The Sciences of the Artificial*). Simon used the parable to argue for
+**near-decomposability** — that complex systems which actually survive and
+evolve tend to be built from stable, semi-independent sub-assemblies,
+because a system with no such structure has to get everything right at
+once, and one that's built of small verified pieces can recover from a
+local failure without losing everything achieved so far. Simon's own
+target was general systems theory and evolutionary biology, not language
+models — he was asking why complex things exist in a universe where most
+random arrangements of parts don't work at all. This chapter is that same
+fifty-year-old argument, aimed at a specific, narrower case: a chat
+application generating a long piece of writing one small, verified piece
+at a time. Chapter 7.2 tells you where this exact parable shows up again,
+independently, in a different, earlier generation of this project's own
+history — and is honest that this book can't establish whether that
+telling drew on Simon directly or reached for the same well-known parable
+on its own.
+
 ## A real mistake, caught, and fixed the same way
 
 The discipline wasn't perfect on the first try, and the fix is itself a
@@ -2550,11 +3315,15 @@ caught and fixed) and lines 21-35 (the six domains sharing one mechanism).
 The Hora/Tempus parable in full is told directly in `eochat/server/code-
 longform.js`, lines 571-576. The append-only log and its bounded working
 set, including the "silent truncation" line, are `eochat/server/task-
-log.js`, lines 1-8 and 333-336.
+log.js`, lines 1-8 and 333-336. The identification of Herbert Simon's 1962
+"The Architecture of Complexity" as the parable's actual origin is this
+book's own added link to that field, not something the codebase's own
+comments state.
 
 ---
 
 # 5.6 — Senses, Memory, and Borrowed Models
+
 
 
 
@@ -2617,6 +3386,32 @@ isn't "make the summary smarter." It's "don't show it at all until it's
 actually the only thing left that still remembers something the raw
 history no longer does."
 
+## A distinction cognitive psychology already had a name for
+
+Keeping a small running summary of a conversation's *shape* — topic, flow,
+recurring entities — instead of its literal words has a real cousin in how
+human memory works. **Fuzzy-trace theory** (developed by Charles Brainerd
+and Valerie Reyna from the 1990s onward) argues that people encode
+experience along two separate tracks at once: a **verbatim trace** (the
+literal, specific details) that fades quickly, and a **gist trace** (the
+general sense and meaning of what happened) that's more durable and is
+actually what most everyday reasoning draws on. This application's
+architecture runs the same split deliberately: the verbatim history window
+is the fast-fading literal trace, and the rolling discourse summary is the
+durable gist — with the gated-injection rule (don't show the gist while
+the verbatim trace still covers it) doing something human memory doesn't
+appear to bother with at all.
+
+The two-small-model design — a distinct model call handling the fold and
+the update, separate from the model carrying the actual conversation — is
+also a miniature, deliberately simple version of a pattern used at a much
+larger scale in machine learning: **mixture-of-experts** architectures
+route different parts of a task to smaller, specialized components rather
+than routing everything through one model that does everything. The
+resemblance is architectural, not technical — nothing here is jointly
+trained or gated the way a real mixture-of-experts system is; it's simply
+two separate, disposable model calls, each doing one small job.
+
 ## Where this sits in Chapter 5.1's boundary
 
 This whole feature is a clean, concrete instance of the host/engine line
@@ -2633,7 +3428,10 @@ built after that rule was already in place.
 `eochat/server/turn-controller.js` (the model call itself, run via
 `setImmediate` after the answer is sent, and the gating logic quoted above
 — *"injecting it earlier only repeats the same old topic three times
-over... anchoring a fresh question to the thread it left"*).
+over... anchoring a fresh question to the thread it left"*). The
+fuzzy-trace-theory and mixture-of-experts connections above are this
+book's own added links to cognitive psychology and machine learning, not
+something the codebase itself cites.
 
 ---
 
@@ -2643,6 +3441,7 @@ over... anchoring a fresh question to the thread it left"*).
 ## Part VI — Where This Sits in History
 
 # 6.1 — A Short History of Machines That Were Said to Read
+
 
 
 
@@ -2699,6 +3498,25 @@ structure to audit, no record of what was actually used to produce the
 answer. The system either satisfies you, or it doesn't, and there's
 nothing else to check.
 
+## A pattern with a name in philosophy of science generally
+
+"Reading is whatever the current benchmark measures" isn't a complaint
+unique to this field. The physicist Percy Bridgman named the general
+version of it in 1927: **operationalism**, the position that a concept
+just *is* the set of operations used to measure it — mass is whatever a
+particular measuring procedure returns, nothing more and nothing less.
+Bridgman meant this as a discipline for physics, forcing concepts to stay
+tied to something actually measurable. Applied to a field without physics'
+precision, the same idea curdles into exactly the trap Chapter 6.1
+describes: if "reading" is simply whatever the current benchmark measures,
+then a system that games the benchmark has, by that same definition,
+learned to read — right up until the benchmark gets replaced and the
+whole cycle starts over. Bridgman's own discipline and this field's
+repeated experience are two sides of the same fact: tying a concept
+tightly to one measurement procedure is powerful and honest exactly until
+that procedure turns out to be gameable, at which point the concept and
+the measurement quietly come apart.
+
 ## What all four have in common
 
 Each one of these was operationalized by whatever could actually be
@@ -2715,11 +3533,14 @@ its scoreboard," including the framing sentence quoted at the top of this
 chapter and the account of Schank's conceptual dependency (1972), the
 Message Understanding Conferences (1987–1998), span-selection benchmarks
 from Deep Read (1999) through SQuAD (2016), and the human-preference
-definition dominant today.
+definition dominant today. The Bridgman/operationalism connection above is
+this book's own added link to the philosophy of science, not something
+the codebase itself cites.
 
 ---
 
 # 6.2 — The Fifty-Eight-Year-Old Objection, and Where the Project Is Actually Chipping at It
+
 
 
 
@@ -2831,6 +3652,7 @@ roles) is from `FINDINGS.md` §11.4.
 
 
 
+
 **Why this matters:** Chapters 6.1 and 6.2 have been mostly humbling —
 reading is an old ambition, littered with gamed benchmarks, and this
 project's own mouth ran headlong into a fifty-eight-year-old, well-known
@@ -2919,6 +3741,7 @@ be."*
 ---
 
 # 6.4 — The Honest Gap List
+
 
 
 
@@ -3017,6 +3840,7 @@ mine and have not been checked against anyone else's reading of it."*
 # 7.1 — A Construction Language
 
 
+
 **Why this matters, and a boundary to draw first:** this chapter and the two
 after it describe something real, but it isn't a description of EO Reader
 6 or EO Chat. It's a related, earlier generation of the same lineage —
@@ -3069,6 +3893,29 @@ never choose which of the nine operators a line of EOT invokes; the
 kernel recovers that from the punctuation shape itself, and it validates
 your output rather than trusting you to have validated it yourself.
 
+## The contract idea itself has a well-known name
+
+Every part declaring, in advance, exactly what it's allowed to do, checked
+mechanically by a kernel rather than trusted to the programmer, is the
+central idea of **Design by Contract**, a discipline Bertrand Meyer built
+directly into the Eiffel programming language starting in 1986: every
+routine declares a precondition (what has to be true to call it) and a
+postcondition (what it guarantees in return), and the language itself
+enforces both rather than leaving them as comments a programmer might or
+might not honor. This construction language's "every part declares a
+contract... a kernel checks every emitted event against it" is that same
+idea, with the contract's shape fixed to exactly three fields (operators,
+terrains, stances) instead of Meyer's more general pre/postcondition
+pairs.
+
+Where they part ways: Meyer's contracts are about a routine's inputs and
+outputs in the ordinary programming sense — arguments, return values,
+invariants on an object's internal state. This language's contracts are
+about which of nine specific operators, terrains, and stances a part's
+events are allowed to touch — a narrower, more structurally specific
+vocabulary, built for one particular nine-cell grid rather than for
+general-purpose correctness.
+
 ## A genuinely different bet about grain and dependency
 
 One difference is worth naming directly, because it's a real, substantive
@@ -3093,11 +3940,15 @@ table and the "propose; the kernel disposes" line are from "Layer 0 — The
 Legend." The linear dependency chain ("the helix") and its claim about
 1,295 of 1,296 orderings failing is from "Layer 1 — The Nine Operators."
 The contrast with `eoreader6/CUBE.md`'s "instrument, not runtime" framing
-is drawn from that file directly, discussed in Chapter 2.5.
+is drawn from that file directly, discussed in Chapter 2.5. The Design-by-
+Contract connection above is this book's own added link to programming
+language history (Bertrand Meyer's Eiffel, from 1986 onward), not
+something the source document itself cites.
 
 ---
 
 # 7.2 — The Watchmaker's Discipline
+
 
 
 **Why this matters:** you've already met this discipline once, in Chapter
@@ -3140,6 +3991,22 @@ discipline isn't presented as a separate convention layered on top of the
 operator algebra here — it's presented as that same algebra, applied to
 the act of building itself.
 
+## The parable's actual, nameable source
+
+One thing this book *can* say, stated plainly here rather than left
+implicit: Hora and Tempus did not originate in either generation of this
+project. They're Herbert Simon's, from "The Architecture of Complexity"
+(1962), where he used them to argue for near-decomposability — that
+complex systems able to survive disruption tend to be built from stable
+sub-assemblies, because a system with no such structure has to succeed all
+at once. Chapter 5.5 names this same source for the chat-application
+telling. Knowing the parable's real origin doesn't resolve the harder
+question below — whether either generation drew on Simon directly, or
+independently reached for a well-known fifty-year-old engineering parable
+because it's simply the right shape for the problem — but it does mean
+neither telling is inventing the story from nothing, which is itself worth
+being precise about.
+
 ## What this book knows, and doesn't know, about the connection
 
 Here's where this book has to be careful rather than tidy. The same
@@ -3162,11 +4029,15 @@ are `eoreader4.2/docs/eo-for-coders.md`, "The two laws" — *"Two watchmakers,
 Hora and Tempus, both made watches of a thousand parts... Hora prospered;
 Tempus went broke"* — and "Layer 1," on `DEF`/`EVA`/`REC` as the watchmaker
 discipline "wearing glyphs." The chat-application telling is `eochat/
-server/code-longform.js`, lines 571-576, already cited in Chapter 5.5.
+server/code-longform.js`, lines 571-576, already cited in Chapter 5.5. The
+identification of Herbert Simon's 1962 essay as the parable's actual
+source is this book's own added link to that field, not something either
+source document states.
 
 ---
 
 # 7.3 — A Worked Build, Start to Finish
+
 
 
 **Why this matters:** the last two chapters described this construction

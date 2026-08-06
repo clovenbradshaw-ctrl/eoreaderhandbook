@@ -9,6 +9,7 @@
 
 
 
+
 **Why this matters:** Chapter 4.1 told you every claim gets sorted into one
 of four boxes. This chapter is about the actual checklist used to do the
 sorting — a real, named sequence of questions, each one closing off a
@@ -103,6 +104,32 @@ supposed to have to run. If the check itself can't be run on the same
 machine doing the reading, it isn't a real check — it's a claim about a
 machine that doesn't exist for this project's purposes.
 
+## The shape all eight tests share with two other disciplines
+
+Karl Popper's demarcation criterion — already named in Chapter 0.3 — is
+the deepest ancestor of this whole checklist: a genuine scientific claim
+has to specify in advance what would count as evidence against it. Every
+one of these eight tests is that same demand, made specific to one
+particular failure mode instead of stated once in the abstract — "does
+this build a nothing or lean on what's present" is Popper's falsifiability
+demand aimed squarely at one mechanism (attention) rather than at claims in
+general.
+
+Software engineering's **test-driven development** movement (popularized
+by Kent Beck in the early 2000s) runs a related discipline day to day:
+write the test a piece of code has to pass *before* writing the code
+itself, so the code is built to satisfy a pre-declared check rather than
+graded against one invented afterward to match whatever it happened to do.
+That's close to the spirit of asking these eight questions of a proposed
+mechanism before it's allowed to count as engine — the checklist exists
+before the candidate does, not the other way around.
+
+Where this project's version is stricter than either ancestor: Popper and
+TDD both leave it to the individual scientist or engineer to decide which
+test applies. Here the order is fixed and the tests are named once, for
+everyone, so a candidate can't be graded by whichever question happens to
+flatter it.
+
 **Where this comes from:** all eight tests are Article II of
 `eo-constitution/CONSTITUTION.md` — the omnimodal test (II.1), the giver
 test (II.2), the convergence test (II.7), the difference test (II.8, *"Does
@@ -111,7 +138,9 @@ test (II.9, *"Does this mechanism measure a property of the arrival, or a
 revision of the reader?"*), the commensurability test (II.10), the
 omnimodal earning test (II.11), and the local test (II.12). The routing
 order itself is Article II's opening line: *"Ask in this order. Prior? →
-App? → what remains is engine."*
+App? → what remains is engine."* The Popper and test-driven-development
+connections above are this book's own added links to philosophy of science
+and software engineering, not something the codebase itself cites.
 
 <!-- nav:start -->
 [← 4.1 — Four Boxes](401-four-boxes.md) · [Contents](000-index.md) · [4.3 — A Constitution That Edits Itself →](403-a-constitution-that-edits-itself.md)

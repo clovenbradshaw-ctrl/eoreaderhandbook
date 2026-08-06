@@ -9,6 +9,7 @@
 
 
 
+
 **Why this matters:** most systems treat "I don't know" as a failure to
 hide or smooth over. This chapter is about why this system treats a
 refusal as a real, countable, typed piece of output — a result, not an
@@ -61,6 +62,35 @@ outside, right up until it quietly starts asserting things it never
 checked. This system refuses that shortcut by naming the limit instead of
 hiding it.
 
+## Three fields that already built a category for "no, and here's why"
+
+Pattern recognition had this idea decades before language models existed.
+C.K. Chow's 1970 paper "On Optimum Recognition Error and Reject Tradeoff"
+formalized the **reject option**: a classifier is allowed to output "I
+decline to classify this one" rather than forcing a guess, whenever
+guessing would cost more than admitting uncertainty. That's a direct,
+well-established ancestor of gap types being a real, typed output rather
+than a failure — the field calls this "selective prediction" today, and
+it's built on exactly the same insight this chapter states in different
+words: a wrong answer isn't the only failure mode; a forced answer where a
+refusal was the honest move is its own kind of failure.
+
+Statistics has a parallel three-way split for a related problem: Donald
+Rubin's 1976 taxonomy of *why* data goes missing (missing completely at
+random, missing at random, missing not at random) insists that "we don't
+have this" is not one undifferentiated fact — the reason data is absent
+changes what you're allowed to conclude from what remains, the same way
+this chapter's three gap types (a thin ground, an excess beyond
+resolution, an unreceived origin) are different facts, not interchangeable
+shrugs.
+
+And Scots law has, for centuries, recognized a third verdict alongside
+guilty and not guilty: **not proven** — a formal acknowledgment that the
+evidence didn't clear the bar for conviction without asserting innocence
+either. It's a real, standing example, from outside computing entirely, of
+a legal system building a named category for "the evidence didn't clear
+the gate" rather than forcing every case into a binary.
+
 ## Two tiers of refusal, and why the order matters
 
 There's a strict pecking order to how a refusal happens, and it's meant to
@@ -79,7 +109,10 @@ unrelated failure modes." The two-tier refusal rule ("type error before
 null... never spend a measurement on what the algebra catches") is
 `eoreader6/SEED.md`, "What follows," clause 7. The worked example is
 `eochat/essay.md`, "What this leaves out" — including the exact phrase "not
-printed rather than printed unsupported."
+printed rather than printed unsupported." The reject-option, missing-data,
+and "not proven" connections above are this book's own added links to
+pattern recognition, statistics, and law, not something the codebase
+itself cites.
 
 <!-- nav:start -->
 [← 3.4 — Turns and Memory](304-turns-and-memory.md) · [Contents](000-index.md) · [3.6 — How the Engine Is Allowed to Grow →](306-how-the-engine-is-allowed-to-grow.md)

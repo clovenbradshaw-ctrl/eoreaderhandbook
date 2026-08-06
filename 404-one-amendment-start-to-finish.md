@@ -9,6 +9,7 @@
 
 
 
+
 **Why this matters:** the last three chapters described the constitution's
 amendment machinery from above. This chapter walks one real amendment all
 the way through it, so the abstract rules from 4.3 land as something that
@@ -68,6 +69,28 @@ allowed to write, in a header, that an idea traces back to a particular
 thinker or a particular field. You are not allowed to let a variable's own
 name assert more than the number underneath it has actually earned.
 
+## A field that renames things constantly, and keeps the old name on file
+
+Biological taxonomy has an entire formal apparatus for exactly this
+situation: when a species turns out to have been named twice, or a name
+turns out to rest on a mistaken classification, taxonomists don't just
+start using the new name and drop the old one. The old name becomes a
+**synonym**, permanently recorded and cross-referenced in the taxonomic
+literature, so anyone who encounters the old name in an older paper can
+still trace it to what it's now called and why the change happened. `ananda`
+becoming `aperture`, with the old name "superseded, not erased," is the
+same discipline: the fix corrects an overclaim, and the correction itself
+becomes part of the permanent record rather than a silent edit.
+
+Software has a milder version of the same idea in **deprecation**: an old
+function name kept around, marked as retired, sometimes still callable
+with a warning, specifically so nothing that already depended on the old
+name breaks silently or vanishes without a trace. This project's rename
+goes further than ordinary deprecation in one respect worth noting: it
+isn't just backward-compatible plumbing, it's an argument, on the record,
+about why the old name was actively misleading — the equivalent of a
+taxonomist explaining, not just noting, why a species needed a new name.
+
 ## What didn't change, stated plainly
 
 The amendment is careful to record what this rename does *not* touch. The
@@ -87,7 +110,10 @@ interquartile width is a state of the system, and no null in this repo
 establishes that... Ancestors may be cited in comments. They may not name
 quantities."* The preserved old name is recorded in "The sign of health,"
 the section the amendment corrects: *"This quantity was called `ananda`
-until 2026-08-04. The name is superseded, not erased."*
+until 2026-08-04. The name is superseded, not erased."* The taxonomic-
+synonymy and software-deprecation connections above are this book's own
+added links to biology and software engineering, not something the
+codebase itself cites.
 
 <!-- nav:start -->
 [← 4.3 — A Constitution That Edits Itself](403-a-constitution-that-edits-itself.md) · [Contents](000-index.md) · [5.1 — A Thin Front Door →](501-a-thin-front-door.md)

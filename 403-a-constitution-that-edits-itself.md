@@ -9,6 +9,7 @@
 
 
 
+
 **Why this matters:** every rule in Chapter 4.2 is written in a document
 that explicitly allows itself to be changed. This chapter is about how that
 change actually happens — because "we can edit our own rules" is easy to
@@ -58,6 +59,34 @@ still on the record, dated, next to the reason it no longer applies. A
 document that corrects itself by deleting the mistake isn't actually
 keeping a history of being wrong. It's just hiding one.
 
+## Two real institutions that already keep their own history of being wrong
+
+Actual constitutional law works this way on purpose. The U.S. Constitution
+doesn't delete a superseded clause when it's amended — the Eighteenth
+Amendment (Prohibition) is still printed in the document, immediately
+followed by the Twenty-First Amendment that repealed it, so the historical
+record of what the country tried and reversed stays visible rather than
+vanishing. That's the same discipline as "old text is corrected, not
+rewritten," applied to an actual nation's founding document instead of a
+codebase.
+
+Scientific publishing has converged on something structurally similar for
+the same reason: a **retraction notice** doesn't erase the original paper
+from the record. It stays findable, now flagged, with the retraction
+explaining what was wrong and why — because a field that quietly deleted
+its own mistakes would lose the ability to show anyone, including itself,
+what it had already learned not to trust. Both institutions independently
+arrived at "keep the wrong version on the record, dated, with the
+correction attached" rather than "make it look like the mistake never
+happened."
+
+Where this project's amendment log is stricter than either: a constitution
+can be amended by a vote of confidence in prose, and a retraction can be
+issued because reviewers or replication attempts raised doubt. This
+project's rule is narrower than both — no amendment is even eligible
+unless it's expressible as a specific test that used to pass and now
+fails, changed in the same edit as the rule.
+
 ## An honest tension, worth naming rather than smoothing over
 
 This book's own rule — never hide a gap — applies to what this chapter just
@@ -85,7 +114,10 @@ erased"*). The draft-vs-applied tension is visible by comparing
 `CONSTITUTION.md`'s own amendment log (lines 333-359) against
 `AMENDMENT-8-PROPOSAL.md`, `AMENDMENT-9-PROPOSAL.md`, and
 `AMENDMENT-11-PROPOSAL.md`, each headed *"Status: DRAFT PROPOSAL. Not
-applied, not yet human-reviewed."*
+applied, not yet human-reviewed."* The U.S. Constitution and
+scientific-retraction connections above are this book's own added links
+to constitutional law and scientific publishing, not something the
+codebase itself cites.
 
 <!-- nav:start -->
 [← 4.2 — The Tests, in Plain Language](402-the-tests-in-plain-language.md) · [Contents](000-index.md) · [4.4 — One Amendment, Start to Finish →](404-one-amendment-start-to-finish.md)

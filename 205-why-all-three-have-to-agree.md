@@ -9,6 +9,7 @@
 
 
 
+
 **Why this matters:** you've now met three different nine-cell grids —
 operators, terrains, stances — built from the same three underlying axes.
 This chapter shows what happens when they're combined carelessly, using a
@@ -61,6 +62,30 @@ against that rule. That's the entire value of "over-determination" — naming
 grain twice isn't redundant bookkeeping, it's what makes a bad label
 *catchable* instead of merely sounding a little off.
 
+## Redundancy-as-a-check is a much older engineering trick
+
+Naming grain twice so a contradiction becomes catchable is the same basic
+idea behind **error-detecting codes** in information theory: a parity bit
+or a checksum carries no new content of its own — it's redundant, by
+design — and that redundancy is exactly what lets a corrupted message be
+caught instead of silently accepted as valid. Richard Hamming's 1950 codes
+are the classic engineering version of this: extra bits, added on purpose,
+whose entire job is to make an error visible rather than to say anything
+new. Empirical science leans on the same logic under the name
+**triangulation** — a claim checked by two independent methods that could
+fail in different ways is worth more than the same claim checked twice by
+the same method, precisely because the methods are unlikely to agree by
+accident if the claim is actually wrong.
+
+All three examples share the same shape: over-determination isn't waste,
+it's how you get a system that can be caught being wrong rather than one
+that merely sounds confident. Where this project's version is more
+specific than either: a parity bit or a triangulated finding tells you
+*that* something disagrees; the coherent cube additionally tells you
+*which* two labels (terrain's grain versus stance's grain) are the ones in
+conflict, because the redundancy is structural rather than an extra
+number bolted on afterward.
+
 ## What this rules out, and what it doesn't resolve
 
 This isn't presented in the source material as a tidy, fully-closed case.
@@ -90,7 +115,10 @@ makes an address falsifiable."* The `eoreader5` contradiction, including
 `SEG · Field · Dissecting` and the four other mismatched cells, and the
 still-unresolved status of one of them, is "A known contradiction in the
 prior engine," lines 148-166. The cube's own refutation as a content
-classifier is lines 10-14.
+classifier is lines 10-14. The error-correcting-code and
+scientific-triangulation connections above are this book's own added links
+to information theory and the philosophy of science, not something the
+codebase itself cites.
 
 <!-- nav:start -->
 [← 2.4 — Nine Kinds of "How"](204-nine-kinds-of-how.md) · [Contents](000-index.md) · [3.1 — A Reading, From the Inside →](301-a-reading-from-the-inside.md)

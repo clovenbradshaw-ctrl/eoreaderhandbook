@@ -9,6 +9,7 @@
 
 
 
+
 **Why this matters:** everything so far in Part V has been about a single
 answer, checked against a single source. This chapter is about something
 harder: how this application writes something genuinely long — an essay, a
@@ -43,6 +44,28 @@ This application is built to be Hora, on purpose, everywhere it writes
 something long: never one continuous, unvalidated sequence, always a chain
 of small, separately-checkable pieces, each one closed out and confirmed
 before the next one starts.
+
+## Where the parable actually comes from
+
+Worth naming directly, since the project's own code comments tell the
+story without a byline: Hora and Tempus are Herbert Simon's, from his 1962
+paper "The Architecture of Complexity" (later the title essay of his book
+*The Sciences of the Artificial*). Simon used the parable to argue for
+**near-decomposability** — that complex systems which actually survive and
+evolve tend to be built from stable, semi-independent sub-assemblies,
+because a system with no such structure has to get everything right at
+once, and one that's built of small verified pieces can recover from a
+local failure without losing everything achieved so far. Simon's own
+target was general systems theory and evolutionary biology, not language
+models — he was asking why complex things exist in a universe where most
+random arrangements of parts don't work at all. This chapter is that same
+fifty-year-old argument, aimed at a specific, narrower case: a chat
+application generating a long piece of writing one small, verified piece
+at a time. Chapter 7.2 tells you where this exact parable shows up again,
+independently, in a different, earlier generation of this project's own
+history — and is honest that this book can't establish whether that
+telling drew on Simon directly or reached for the same well-known parable
+on its own.
 
 ## A real mistake, caught, and fixed the same way
 
@@ -83,7 +106,10 @@ caught and fixed) and lines 21-35 (the six domains sharing one mechanism).
 The Hora/Tempus parable in full is told directly in `eochat/server/code-
 longform.js`, lines 571-576. The append-only log and its bounded working
 set, including the "silent truncation" line, are `eochat/server/task-
-log.js`, lines 1-8 and 333-336.
+log.js`, lines 1-8 and 333-336. The identification of Herbert Simon's 1962
+"The Architecture of Complexity" as the parable's actual origin is this
+book's own added link to that field, not something the codebase's own
+comments state.
 
 <!-- nav:start -->
 [← 5.4 — A Citation You Can Actually Check](504-a-citation-you-can-actually-check.md) · [Contents](000-index.md) · [5.6 — Senses, Memory, and Borrowed Models →](506-senses-memory-and-borrowed-models.md)

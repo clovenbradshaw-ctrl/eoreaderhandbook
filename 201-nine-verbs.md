@@ -9,6 +9,7 @@
 
 
 
+
 **Why this matters:** Part I gave you the one move (build a ground, notice a
 figure, check for pattern, speak only under witness). This chapter starts
 answering a harder question: what *kinds* of thing can actually happen during
@@ -79,6 +80,32 @@ three verbs are unused or unimportant. It just means this book isn't going
 to pretend to a confidence it doesn't have — exactly the discipline Chapter
 1.5 showed you with "Not yet earned."
 
+## A strikingly similar 3×3 grid, built for an entirely different purpose
+
+Crossing three modes against three domains to get nine named cells isn't
+unique to this project. The philosopher and logician Charles Sanders
+Peirce — working decades before modern linguistics or computing existed —
+built his own theory of signs out of three independent three-way
+distinctions (his own terms were denser: firstness/secondness/thirdness
+crossed against a sign's relation to itself, its object, and its
+interpreter), and used the resulting grid to name ten classes of signs,
+including the well-known icon/index/symbol trio. Nobody in this project's
+own working notes claims Peirce as an ancestor, and this book isn't
+asserting one — the resemblance was noticed independently, the same
+honest way Chapter 6.3 later describes an unrelated fifty-seven-year
+correspondence. What the two grids share structurally is a bet that a
+messy space of possible acts is better handled by crossing a small number
+of orthogonal questions than by writing one label per case — the same bet
+this chapter's own "why nine, and not some other number" section is about
+to make explicit.
+
+Where the two projects diverge matters more than the shared shape: Peirce
+was classifying static *kinds of sign*, once, as a piece of philosophy.
+This project's grid classifies *acts* — things the engine actually does,
+checked against real measurements — and Chapter 2.5 will show you what
+happens when a cell in a grid like this is filled in by hand rather than
+derived from its own axes.
+
 ## Why nine, and not some other number
 
 Notice what this grid is actually doing: it's turning "what happened" into
@@ -108,7 +135,9 @@ which describes the binding organ's output as "Structure-tier relations
 beds") is from a related but separate generation of this project,
 `eoreader4.2/docs/eo-for-coders.md` line 249 — flagged as such because it
 does not describe eoreader6 itself; see Part VII for why that document
-belongs to a different generation.
+belongs to a different generation. The Peirce connection earlier in this
+chapter is this book's own added link to the history of semiotics, not
+something the codebase itself cites.
 
 <!-- nav:start -->
 [← 1.5 — Three Numbers and a Vital Sign](105-three-numbers-and-a-vital-sign.md) · [Contents](000-index.md) · [2.2 — The Order Things Happen In →](202-the-order-things-happen-in.md)

@@ -9,6 +9,7 @@
 
 
 
+
 **Why this matters:** this is the chapter that explains why the system so
 often says less than you might expect, or refuses outright, instead of
 offering a plausible-sounding guess. That's not caution for its own sake —
@@ -61,11 +62,38 @@ comes next. Everything else was seen and set aside, not suppressed —
 there's a real difference between "I looked and there was nothing worth
 reporting" and "I wasn't allowed to look."
 
+## Two fields that independently drew a similar line
+
+The word "witness" is a courtroom word on purpose, and the law's own
+version of this line is worth naming: testimony is supposed to be
+restricted to what a witness actually perceived and can speak to
+directly, not what they merely suspect or were told secondhand — hearsay
+rules exist precisely to keep a claim from being asserted past what the
+speaker can actually back. This project's witness gate is stricter in a
+specific way a courtroom's isn't: it doesn't just ask whether the speaker
+perceived the figure, it asks whether that figure went on to *move
+something* — Chapter 1.2's pattern test — before any speaking is allowed
+at all.
+
+A second, more technical cousin comes from electrical engineering: signal
+detection theory (formalized by Green and Swets in 1966) built a whole
+discipline out of the same basic problem — telling a real signal apart
+from noise that merely looks unusual — and it's careful to keep "this
+stood out statistically" and "this was actually the signal" as two
+separate questions, exactly the distinction Chapter 1.2 already drew
+between a figure and a pattern. Where the fields part ways: signal
+detection theory is normally applied against a signal whose statistical
+properties are already known in advance. This project never assumes that —
+the ground itself has to be freshly built, every time, before anything can
+even be checked against it.
+
 **Where this comes from:** `eoreader6/SEED.md`, "The unit of record" — *"All
 three terms, or it is not a record. `witness` refuses a figure whose pattern
 did not move the ground — a difference that made no difference is not
 information, so it is not testimony either... The system may perceive
-anything. It may speak only of what changed the ground."*
+anything. It may speak only of what changed the ground."* The legal and
+signal-detection-theory connections above are this book's own added links
+to those fields, not something the codebase itself cites.
 
 <!-- nav:start -->
 [← 1.2 — The Difference That Makes a Difference](102-the-difference-that-makes-a-difference.md) · [Contents](000-index.md) · [1.4 — The Two Deaths →](104-the-two-deaths.md)

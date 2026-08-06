@@ -4,6 +4,7 @@
 [← 6.4 — The Honest Gap List](604-the-honest-gap-list.md) · [Contents](000-index.md) · [7.2 — The Watchmaker's Discipline →](702-the-watchmakers-discipline.md)
 <!-- nav:end -->
 
+
 **Why this matters, and a boundary to draw first:** this chapter and the two
 after it describe something real, but it isn't a description of EO Reader
 6 or EO Chat. It's a related, earlier generation of the same lineage —
@@ -56,6 +57,29 @@ never choose which of the nine operators a line of EOT invokes; the
 kernel recovers that from the punctuation shape itself, and it validates
 your output rather than trusting you to have validated it yourself.
 
+## The contract idea itself has a well-known name
+
+Every part declaring, in advance, exactly what it's allowed to do, checked
+mechanically by a kernel rather than trusted to the programmer, is the
+central idea of **Design by Contract**, a discipline Bertrand Meyer built
+directly into the Eiffel programming language starting in 1986: every
+routine declares a precondition (what has to be true to call it) and a
+postcondition (what it guarantees in return), and the language itself
+enforces both rather than leaving them as comments a programmer might or
+might not honor. This construction language's "every part declares a
+contract... a kernel checks every emitted event against it" is that same
+idea, with the contract's shape fixed to exactly three fields (operators,
+terrains, stances) instead of Meyer's more general pre/postcondition
+pairs.
+
+Where they part ways: Meyer's contracts are about a routine's inputs and
+outputs in the ordinary programming sense — arguments, return values,
+invariants on an object's internal state. This language's contracts are
+about which of nine specific operators, terrains, and stances a part's
+events are allowed to touch — a narrower, more structurally specific
+vocabulary, built for one particular nine-cell grid rather than for
+general-purpose correctness.
+
 ## A genuinely different bet about grain and dependency
 
 One difference is worth naming directly, because it's a real, substantive
@@ -80,7 +104,10 @@ table and the "propose; the kernel disposes" line are from "Layer 0 — The
 Legend." The linear dependency chain ("the helix") and its claim about
 1,295 of 1,296 orderings failing is from "Layer 1 — The Nine Operators."
 The contrast with `eoreader6/CUBE.md`'s "instrument, not runtime" framing
-is drawn from that file directly, discussed in Chapter 2.5.
+is drawn from that file directly, discussed in Chapter 2.5. The Design-by-
+Contract connection above is this book's own added link to programming
+language history (Bertrand Meyer's Eiffel, from 1986 onward), not
+something the source document itself cites.
 
 <!-- nav:start -->
 [← 6.4 — The Honest Gap List](604-the-honest-gap-list.md) · [Contents](000-index.md) · [7.2 — The Watchmaker's Discipline →](702-the-watchmakers-discipline.md)

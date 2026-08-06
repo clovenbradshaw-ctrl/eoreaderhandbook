@@ -9,6 +9,7 @@
 
 
 
+
 **Why this matters:** Chapter 0.3's second question — measuring, tending, or
 making a judgment call — wasn't a throwaway example. It's the second half of
 a nine-way grid, exactly parallel to Chapter 2.3's, and it's the one that
@@ -59,6 +60,29 @@ necessarily took, not a separate decision layered on top.
   parts that have already, collectively, earned pattern-status — assembling
   a whole from pieces that have already proven they belong together.
 
+## Three postures Aristotle also refused to collapse into one
+
+Tending, Making, and something close to Dissecting have an old philosophical
+ancestor worth naming directly: in the *Nicomachean Ethics* (Book VI),
+Aristotle distinguished **episteme** (theoretical, demonstrable knowledge —
+the kind you measure and prove), **techne** (craft knowledge, the kind that
+produces a specific made thing), and **phronesis** (practical wisdom — the
+judgment a person exercises in a particular, unrepeatable situation, which
+can't be reduced to a formula). He insisted these were genuinely different
+*kinds* of knowing, not one kind at three levels of rigor — you don't get
+phronesis by doing more episteme. That's the same insistence this
+chapter's opening rule makes about stances: "a stance is not a mood, and it
+cannot be chosen." A nurse's tending judgment over a shift isn't an
+imprecise version of a lab measurement; it's a different posture toward
+the same fever, doing different work.
+
+The mapping isn't exact, and it's worth saying where it bends: Aristotle's
+three are about the *knower's* relationship to different kinds of truth in
+general, while this chapter's nine stances are about a specific relationship
+— mode crossed with grain — for one particular act inside one particular
+system. Borrow the insistence that these are different in kind, not the
+detail of which of his three lines up with which of these nine cells.
+
 ## Why the same word can show up twice in this book
 
 Notice that "Tending" and "Making" here are the exact same words Chapter
@@ -72,7 +96,9 @@ shortly," cashed in.
 
 **Where this comes from:** the stance grid (`stance = (mode, grain)`) and
 its nine names are defined in `eoreader6/CUBE.md`, lines 45-47, including
-the rule that "a stance is not a mood and cannot be chosen" (line 50).
+the rule that "a stance is not a mood and cannot be chosen" (line 50). The
+Aristotle connection above is this book's own added link to the history of
+philosophy, not something the codebase itself cites.
 
 <!-- nav:start -->
 [← 2.3 — Nine Kinds of "Where"](203-nine-kinds-of-where.md) · [Contents](000-index.md) · [2.5 — Why All Three Have to Agree →](205-why-all-three-have-to-agree.md)
