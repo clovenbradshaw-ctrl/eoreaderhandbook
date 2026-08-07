@@ -1,8 +1,9 @@
 # 3.1 — A Reading, From the Inside
 
 <!-- nav:start -->
-[← 2.5 — Why All Three Have to Agree](205-why-all-three-have-to-agree.md) · [Contents](000-index.md) · [3.2 — Gifts, Not Guesses →](302-gifts-not-guesses.md)
+[← 2.6 — Checked Against Language Itself](206-checked-against-language-itself.md) · [Contents](000-index.md) · [3.2 — Gifts, Not Guesses →](302-gifts-not-guesses.md)
 <!-- nav:end -->
+
 
 
 
@@ -100,5 +101,5 @@ is this book's own added link to literary-critical practice, not something
 the codebase itself cites.
 
 <!-- nav:start -->
-[← 2.5 — Why All Three Have to Agree](205-why-all-three-have-to-agree.md) · [Contents](000-index.md) · [3.2 — Gifts, Not Guesses →](302-gifts-not-guesses.md)
+[← 2.6 — Checked Against Language Itself](206-checked-against-language-itself.md) · [Contents](000-index.md) · [3.2 — Gifts, Not Guesses →](302-gifts-not-guesses.md)
 <!-- nav:end -->

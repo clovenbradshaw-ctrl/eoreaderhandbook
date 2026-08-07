@@ -8,6 +8,7 @@
 
 
 
+
 **Why this matters:** Chapter 3.6 already showed you the role-fold arc as a
 worked example of the growth rule in action. This chapter is about the
 actual problem that arc is trying to solve — a specific, named, decades-old

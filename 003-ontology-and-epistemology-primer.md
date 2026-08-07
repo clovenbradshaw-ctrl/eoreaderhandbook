@@ -11,6 +11,7 @@
 
 
 
+
 **Why this matters:** Part II of this book teaches nine "kinds of where" and
 nine "kinds of how" that everything the system reads gets placed against.
 Those two grids will look like arbitrary jargon unless you first have a feel

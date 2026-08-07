@@ -1,20 +1,50 @@
 # The EO Reader 6 / EO Chat Handbook — a specification
 
-**Status:** v0.6. Parts 0 through VII are written in full, and now carry a
-second layer throughout: real prior art from fields outside this project,
-run alongside every chapter's own account of the codebase — including a
-second pass drawing on `eoreader5`, `eoreader4.2`, and `eoreader6`'s own
-sibling material once those repositories were actually read rather than
-guessed at. Only Part VIII (reference material) remains, and it's designed
-to be built incrementally from what the earlier parts already cite rather
-than drafted up front.
+**Status:** v0.7. Parts 0 through VII are written in full, Part II now
+carries a sixth chapter, and Part VIII has been started — out of its
+originally-planned order — with a provenance audit of every prior-art
+comparison the handbook has made. Real prior art from fields outside this
+project runs alongside every chapter's own account of the codebase,
+including two passes drawing on `eoreader5`, `eoreader4.2`, and
+`eoreader6`'s own sibling material once those repositories were actually
+read rather than guessed at. Only the rest of Part VIII (a glossary,
+quick-reference tables, an index of worked examples) remains, and it's
+designed to be built incrementally from what the earlier parts already
+cite rather than drafted up front.
 
 **Purpose of this file:** decide, on paper, what the handbook teaches, in what
 order, to whom, using what material — before spending the effort to write it.
 It follows the same discipline the rest of this lineage asks of everything
 else: declare the shape, checkpoint it, then build.
 
-**v0.6 changelog (this update):** a second prior-art pass, made possible by
+**v0.7 changelog (this update):** two additions, both requested directly
+rather than discovered incidentally. First, **Chapter 2.6, "Checked
+Against Language Itself"** — a related generation's own empirical test of
+Part II's three-axis structure (`eoreader4.2/docs/eo-wiki.md`, "EO Lexical
+Analysis v2"): three plain-language questions, asked of real sentences in
+41 languages, embedded blind by a model that never saw this project's
+vocabulary, and checked for whether sentences classified the same way
+sit closer together in that blind space than chance would predict. Real
+predictions were locked in advance; several held (monotonicity, axis-level
+z-scores, cross-linguistic replication, inter-model agreement) and several
+did not (full axis independence; every one of the three predicted
+coordinate-geometry relationships), reported at the same length either
+way. Second, **Chapter 8.1, "Telling a Rhyme From a Borrowing,"** opening
+Part VIII ahead of schedule: a mechanical audit, styled directly on a real
+document in this lineage (`eoreader4.2/docs/eo-compliance-2026-07.md`'s own
+scorecard format), sorting every prior-art comparison added in the v0.5
+and v0.6 passes into **witnessed** (the project names the source itself —
+9 of roughly 50), **unreceived origin, now named** (a specific, distinctive
+borrowing — Herbert Simon's watchmakers, the clinical term
+"confabulation" — this book supplies the attribution for), or **rhymes**
+(a resemblance this book noticed on its own, the large majority of the
+total, offered as a parallel and explicitly not a claimed lineage). The
+rubric itself is built from three tools this project already had —
+Chapter 3.2's prior test, Chapter 1.2/1.3's witness test, and Chapter
+3.5's gap-typing discipline — applied to the handbook's own prose instead
+of to the engine's own claims.
+
+**v0.6 changelog:** a second prior-art pass, made possible by
 actually cloning and reading `eoreader5`, `eoreader6`, and `eoreader4.2`
 (including its internal wiki, `docs/eo-wiki.md`) rather than relying on
 citations already surfaced in the handbook's existing sources. Six

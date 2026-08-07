@@ -1,8 +1,9 @@
 # 2.5 — Why All Three Have to Agree
 
 <!-- nav:start -->
-[← 2.4 — Nine Kinds of "How"](204-nine-kinds-of-how.md) · [Contents](000-index.md) · [3.1 — A Reading, From the Inside →](301-a-reading-from-the-inside.md)
+[← 2.4 — Nine Kinds of "How"](204-nine-kinds-of-how.md) · [Contents](000-index.md) · [2.6 — Checked Against Language Itself →](206-checked-against-language-itself.md)
 <!-- nav:end -->
+
 
 
 
@@ -145,5 +146,5 @@ directly from `eoreader4.2/docs/kernel-probe-2026-07.md` — that audit's
 own finding and own words, not this book's addition.
 
 <!-- nav:start -->
-[← 2.4 — Nine Kinds of "How"](204-nine-kinds-of-how.md) · [Contents](000-index.md) · [3.1 — A Reading, From the Inside →](301-a-reading-from-the-inside.md)
+[← 2.4 — Nine Kinds of "How"](204-nine-kinds-of-how.md) · [Contents](000-index.md) · [2.6 — Checked Against Language Itself →](206-checked-against-language-itself.md)
 <!-- nav:end -->

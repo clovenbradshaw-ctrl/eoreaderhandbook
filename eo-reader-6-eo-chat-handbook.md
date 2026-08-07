@@ -15,6 +15,7 @@
 
 
 
+
 **Why this matters:** if you come in expecting a developer manual or a product
 brochure, every chapter after this one will feel like it's answering the wrong
 question. This book has one job — to teach you what actually happens, in
@@ -103,6 +104,7 @@ deaths named in `eoreader6/SEED.md`, "The entelechy."
 ---
 
 # 0.2 — A Ten-Minute Grammar and Meaning Primer
+
 
 
 
@@ -211,6 +213,7 @@ Charles W. Morris, "Foundations of the Theory of Signs" (1938).
 
 
 
+
 **Why this matters:** Part II of this book teaches nine "kinds of where" and
 nine "kinds of how" that everything the system reads gets placed against.
 Those two grids will look like arbitrary jargon unless you first have a feel
@@ -310,6 +313,7 @@ codebase itself cites.
 ---
 
 # 0.4 — What a Language Model Is, in Plain Terms, and Why This Project Keeps Its Distance From One
+
 
 
 
@@ -445,6 +449,7 @@ codebase itself cites.
 
 
 
+
 **Why this matters:** almost everything else in this book — every refusal,
 every citation, every "not yet earned" — comes down to one single move this
 system makes before it says anything at all. If this chapter doesn't land,
@@ -557,6 +562,7 @@ codebase itself cites.
 
 
 
+
 **Why this matters:** noticing something isn't the same as it *mattering*.
 This chapter draws that line precisely, because the whole system refuses to
 say anything about a figure until it's crossed — and without this
@@ -655,6 +661,7 @@ the wider history of the idea, not something the codebase itself cites.
 
 
 
+
 **Why this matters:** this is the chapter that explains why the system so
 often says less than you might expect, or refuses outright, instead of
 offering a plausible-sounding guess. That's not caution for its own sake —
@@ -743,6 +750,7 @@ to those fields, not something the codebase itself cites.
 ---
 
 # 1.4 — The Two Deaths
+
 
 
 
@@ -855,6 +863,7 @@ those fields — not something the codebase itself cites.
 ---
 
 # 1.5 — Three Numbers and a Vital Sign
+
 
 
 
@@ -987,6 +996,7 @@ physiology, not something the codebase itself cites.
 ## Part II — The Grammar of Everything That Happens
 
 # 2.1 — Nine Verbs
+
 
 
 
@@ -1137,6 +1147,7 @@ something the codebase itself cites.
 
 
 
+
 **Why this matters:** the nine verbs in Chapter 2.1 aren't interchangeable
 building blocks you can call in any sequence. Some of them can only happen
 after others already have. Understanding that ordering is what will let you
@@ -1261,6 +1272,7 @@ from outside.
 ---
 
 # 2.3 — Nine Kinds of "Where"
+
 
 
 
@@ -1428,6 +1440,7 @@ argument, not a claim eoreader6 itself makes.
 
 
 
+
 **Why this matters:** Chapter 0.3's second question — measuring, tending, or
 making a judgment call — wasn't a throwaway example. It's the second half of
 a nine-way grid, exactly parallel to Chapter 2.3's, and it's the one that
@@ -1521,6 +1534,7 @@ philosophy, not something the codebase itself cites.
 ---
 
 # 2.5 — Why All Three Have to Agree
+
 
 
 
@@ -1665,12 +1679,145 @@ own finding and own words, not this book's addition.
 
 ---
 
+# 2.6 — Checked Against Language Itself
+
+
+**Why this matters, and a boundary to draw first:** this chapter, like Part
+VII, describes a related but separate generation of this project
+(`eoreader4.2`), not eoreader6 or the current engine — but unlike Part VII,
+what it describes isn't a different design choice. It's an actual empirical
+test of the very three-axis structure Chapters 2.1, 2.3, and 2.4 just taught
+you, run against real sentences in 41 languages, with its predictions
+locked in advance and its failures reported as plainly as its successes.
+
+## The question this study asked
+
+Chapters 2.1 through 2.4 crossed three yes-or-no-or-neither questions —
+what kind of change, what kind of territory, what grain — to build three
+nine-cell grids. That's a claim about the shape of *any* transformation,
+not just something read into eoreader6's own material after the fact. A
+claim that general ought to be checkable against something completely
+outside the project — and a related generation of this lineage actually
+went and checked it, against language itself, across dozens of languages,
+without ever showing the test's own vocabulary to whatever was doing the
+checking.
+
+## The method, stated plainly
+
+Real sentences were pulled from real corpora in 41 languages. Each one was
+asked three plain-language questions, with no mention anywhere of
+"operator," "terrain," "stance," or any other word from this book:
+
+- **Is this transformation separating, connecting, or producing?**
+- **Is it operating on existence, organization, or meaning?**
+- **Is the target a background condition, a specific thing, or a
+  recurring pattern?**
+
+Two different AI systems (Claude and GPT-4) answered independently, never
+told what the answers would later be mapped onto. Only afterward were the
+three answers translated into this project's own three axes — mode,
+domain, grain — the same crossing Chapter 2.1 built the nine operators
+from, Chapter 2.3 built the nine terrains from, and Chapter 2.4 built the
+nine stances from. Separately, each original sentence was embedded by a
+model that had never seen any of this project's vocabulary either. The
+test then asked a simple question: do sentences that got the *same*
+three answers end up sitting *closer together* in that blind embedding
+space than sentences picked at random? If the three questions are tracking
+something real about language, they should. If they're an arbitrary
+grid imposed from outside, they shouldn't.
+
+## What held up
+
+The predictions were locked in before the results were read, and several
+of them held. Sentences differing on more of the three axes really were
+farther apart in embedding space, and the relationship was monotonic — one
+axis of difference produced more distance than none, two more than one,
+three more than two. Each of the three axes alone showed real, positive
+geometric coherence (the "domain" axis showing the strongest signal, as
+predicted in advance). Crossing two axes at once — producing this book's
+own nine operators, nine terrains, and nine stances — showed *stronger*
+coherence than any single axis alone, and the full 27-cell address stronger
+still. Two independent AI judges agreed with each other at a real,
+moderate-to-good rate on all three questions, not just a chance level. And
+the structure wasn't an English artifact: 30 of 41 languages tested, from
+Arabic to Vietnamese, showed the same signal at a real, checkable
+strength, with the weakest results concentrated in the languages with the
+least available text (Gothic, Wolof, Swahili) rather than scattered
+randomly.
+
+## What didn't, stated with the same plainness
+
+Exactly the discipline this whole book has asked you to expect: several of
+the study's own locked-in predictions failed, and its own report says so
+in the same document, at the same length as the successes. The prediction
+that all three axes would be statistically independent of one another
+did not hold — mode and domain showed a real, stable correlation across
+every version of the test, not just noise, and a follow-up check found no
+support for the hope that this was an artifact of one axis simply having
+sparser cells. More strikingly, a separate test asked whether the exact
+numeric spacing this project's own coordinate system predicts for each
+axis — equal steps for mode, a specific 4.8-to-1 asymmetry for domain, a
+specific additive relationship for grain — actually shows up as real
+distances in the embedding space. It came back negative on all three
+counts: the steps were unequal in the wrong ratio, the domain asymmetry
+ran in the opposite direction from what was predicted, and the grain
+distances didn't add up the way the coordinate system says they should. The study's own
+one-line verdict on itself is worth quoting exactly: *"Empirically strong
+on proportionality and face-level clustering; mixed on axis independence;
+coordinate geometry predictions not met."*
+
+## A working exemplar set, as a side effect
+
+Because the study needed real sentences to test against, it left behind
+something usable on its own terms: close to 20,000 real clauses across 41
+languages, each one independently tagged with which of the 27 cells it
+falls into. That corpus is a genuine resource for a question this book has
+answered so far only with invented illustrations — a hospital ward, a
+mutual-aid map, a reading group. Wanting to know what an actual sentence at
+`CON(Link, Binding)` or `EVA(Paradigm, Tracing)` looks like, in Spanish or
+in Korean, has a real answer sitting in this corpus, not just a plausible-
+sounding hospital analogy.
+
+## Why this belongs next to Chapter 2.5, not instead of it
+
+Chapter 2.5 told you the cube was tried once as a machine that reads real
+content and assigns it a cell, and that this failed — shuffling the words
+in real paragraphs left most cell assignments unchanged, meaning the
+assignment was tracking something other than meaning. This study is not
+that same test run again with a different result. It never asks the cube
+to read a sentence and guess its cell; it asks two independent judges,
+using plain language with no EO vocabulary in it at all, and only checks
+afterward whether their answers correspond to real geometric structure.
+Both findings can be true at once, and this book isn't going to blur them:
+the cube still shouldn't be trusted to classify content on its own, and
+the three-axis structure it's built from still shows up as something real
+in blind, independent judgments of actual language — a claim about the
+axes, not a vindication of the cube-as-classifier Chapter 2.5 already
+retired.
+
+**Where this comes from:** everything in this chapter is `eoreader4.2/docs/
+eo-wiki.md`, "EO Lexical Analysis v2 — Results Report" and its companion
+entry "The Lexical Analysis: EO's Preliminary Empirical Grounding" (the
+latter carrying the exact epistemic-status line quoted above and the full
+pre-committed-prediction table), describing a related but separate
+generation's own empirical work — not eoreader6, and not a claim this book
+is making about the current engine. The corpus size (19,764 clauses
+embedded, 9,221 in consensus across 41 languages), the three-question
+design and its verbatim prompt text, the z-scores and monotonicity result,
+the ARI independence figures and the cell-exclusion follow-up, the
+inter-model kappa figures, the per-language z-score table, and the
+coordinate-geometry (α/η/Ω) test and its three negative results are all
+drawn directly from those two entries.
+
+---
+
 
 \newpage
 
 ## Part III — How EO Reader 6 Reads
 
 # 3.1 — A Reading, From the Inside
+
 
 
 
@@ -1771,6 +1918,7 @@ the codebase itself cites.
 ---
 
 # 3.2 — Gifts, Not Guesses
+
 
 
 
@@ -1929,6 +2077,7 @@ something the codebase itself cites.
 
 
 
+
 **Why this matters:** Part I taught you one move, and Part II taught you the
 grammar every act is described in. This chapter introduces the actual
 working parts — this system's word for them is **organs** — that carry the
@@ -2055,6 +2204,7 @@ not something the codebase itself cites.
 
 
 
+
 **Why this matters:** Chapter 1.1 said a ground gets rebuilt fresh every
 time — never kept as a permanent fixture. So how does this system have a
 conversation at all, across separate turns, without either dragging along
@@ -2150,6 +2300,7 @@ cites.
 ---
 
 # 3.5 — Refusal as an Answer
+
 
 
 
@@ -2298,6 +2449,7 @@ is precise, not because it describes eoreader6 itself.
 ---
 
 # 3.6 — How the Engine Is Allowed to Grow
+
 
 
 
@@ -2476,6 +2628,7 @@ experimental science, not something the codebase itself cites.
 
 
 
+
 **Why this matters:** Part III showed you an engine that measures things
 very carefully and refuses to speak past its evidence. This chapter is
 about why that engine is kept so deliberately narrow — and where everything
@@ -2571,6 +2724,7 @@ engineering, not something the codebase itself cites.
 ---
 
 # 4.2 — The Tests, in Plain Language
+
 
 
 
@@ -2724,6 +2878,7 @@ and software engineering, not something the codebase itself cites.
 
 
 
+
 **Why this matters:** every rule in Chapter 4.2 is written in a document
 that explicitly allows itself to be changed. This chapter is about how that
 change actually happens — because "we can edit our own rules" is easy to
@@ -2836,6 +2991,7 @@ codebase itself cites.
 ---
 
 # 4.4 — One Amendment, Start to Finish
+
 
 
 
@@ -2967,6 +3123,7 @@ codebase itself cites.
 
 
 
+
 **Why this matters:** everything in Parts I through IV describes a
 measurement that never touches a clock, a file, or a specific reader. But
 you're reading this book because, at some point, you actually typed a
@@ -3067,6 +3224,7 @@ codebase itself cites.
 
 
 
+
 **Why this matters:** every chat application has *some* set of instructions
 shaping how it behaves — usually a single hidden prompt nobody outside the
 company gets to see. This chapter is about a different choice: writing that
@@ -3157,6 +3315,7 @@ something the codebase itself cites.
 ---
 
 # 5.3 — Four Promises to the Reader, in Plain Language
+
 
 
 
@@ -3285,6 +3444,7 @@ codebase itself cites.
 
 
 
+
 **Why this matters:** Chapter 3.1 showed you a citation in a real answer —
 `pg84.txt @ bytes 263105–265217` — and asked you to trust that it actually
 pointed somewhere real. This chapter is about the mechanism that makes that
@@ -3398,6 +3558,7 @@ something the codebase itself cites.
 
 
 
+
 **Why this matters:** everything so far in Part V has been about a single
 answer, checked against a single source. This chapter is about something
 harder: how this application writes something genuinely long — an essay, a
@@ -3502,6 +3663,7 @@ comments state.
 ---
 
 # 5.6 — Senses, Memory, and Borrowed Models
+
 
 
 
@@ -3669,6 +3831,7 @@ own design process, not eochat's.
 
 
 
+
 **Why this matters:** everything you've read so far might sound like the
 first serious attempt at any of this. It isn't, and the people who built
 this project are explicit about that. This chapter is the honest history —
@@ -3763,6 +3926,7 @@ the codebase itself cites.
 ---
 
 # 6.2 — The Fifty-Eight-Year-Old Objection, and Where the Project Is Actually Chipping at It
+
 
 
 
@@ -3878,6 +4042,7 @@ roles) is from `FINDINGS.md` §11.4.
 
 
 
+
 **Why this matters:** Chapters 6.1 and 6.2 have been mostly humbling —
 reading is an old ambition, littered with gamed benchmarks, and this
 project's own mouth ran headlong into a fifty-eight-year-old, well-known
@@ -3966,6 +4131,7 @@ be."*
 ---
 
 # 6.4 — The Honest Gap List
+
 
 
 
@@ -4064,6 +4230,7 @@ mine and have not been checked against anyone else's reading of it."*
 ## Part VII — Building Something With It
 
 # 7.1 — A Construction Language
+
 
 
 
@@ -4212,6 +4379,7 @@ comparison to outside work, not this book's addition.
 
 
 
+
 **Why this matters:** you've already met this discipline once, in Chapter
 5.5, governing how EO Chat writes something long. This chapter shows you
 the same parable, doing the same job, in a completely different corner of
@@ -4302,6 +4470,7 @@ source document states.
 
 
 
+
 **Why this matters:** the last two chapters described this construction
 language in the abstract. This chapter walks one real, complete example
 from the source material — building a small hospital-ward application —
@@ -4374,6 +4543,187 @@ every field and every checkpoint, is `eoreader4.2/docs/eo-for-coders.md`,
 patients room ──`. The closing quote about assembly 4's failure and
 assembly 5 not yet starting is from the same section, immediately following
 the code block.
+
+---
+
+
+\newpage
+
+## Part 8
+
+# 8.1 — Telling a Rhyme From a Borrowing
+
+
+**Why this matters:** every chapter from Part 0 through Part VII now carries
+at least one comparison to something outside this project — Gestalt
+psychology, Bayesian statistics, a related generation's own wiki, Herbert
+Simon's watchmakers. Some of those comparisons are things the project
+itself demonstrably drew on. Most of them are this book's own noticed
+resemblance, offered honestly as a parallel and nothing more. A reader
+has no way to tell the two apart from the prose alone — plausible writing
+sounds the same whether it's reporting a fact or performing one. This
+chapter is the mechanical check that tells them apart, applied to every
+comparison this book has made, with the failures kept on the record
+exactly as visibly as the passes.
+
+## Borrowing the project's own test, rather than inventing a new one
+
+This project already has a working discipline for exactly this problem,
+built for a different purpose. Chapter 3.2 taught you that a **prior**
+only earns standing if it arrives with a **named giver** and demonstrably
+**lowers surprise** — resemblance alone was explicitly ruled out as the
+test. Chapter 1.2 and 1.3 taught you that a **figure** — something that
+merely stood out — only becomes a **pattern** worth speaking about if it
+provably moved something; noticing is free, testifying is not. Chapter
+3.5 taught you that an absence gets a **type**, named plainly, rather than
+a single undifferentiated shrug. This chapter runs all three of those
+disciplines on the handbook's own prior-art claims, using the same
+vocabulary rather than a new one invented for the occasion.
+
+## Three verdicts, and what each one actually requires
+
+- **Witnessed.** The connection is not this book's observation at all —
+  some generation of this project's own materials names the outside
+  source directly, in text this book can quote. The giver is named, by
+  the project itself, not supplied by this book after the fact. This is
+  the only verdict that means "the project itself said so."
+- **Unreceived origin, now named.** Borrowing the exact phrase Chapter
+  3.5 used for a claim that depended on a source nobody actually
+  named. Reserved for cases where the project reuses something
+  *distinctive* enough — a named parable with named characters, a rare
+  and precise technical term — that landing on it by coincidence is
+  very unlikely, but no source material anywhere names where it came
+  from. This book supplies the attribution the project itself never
+  gave.
+- **Rhymes.** A real structural or terminological resemblance this book
+  noticed on its own, with no evidence in any generation's materials
+  that the project ever encountered the source. A figure, in Chapter
+  1.2's sense — it stood out to whoever was writing this book — that
+  has not been shown to have moved anything. Offered as worth knowing.
+  Not offered as history.
+
+A fourth label, **background fact**, appears a small number of times below
+for citations that aren't resemblance claims at all — naming what a
+technical term the chapter already uses (attention, a Bayesian prior)
+actually, factually refers to. These aren't scored, because there's
+nothing to score: nobody is claiming the project drew on them, only that
+the definition is accurate.
+
+## A method borrowed openly, and named as such
+
+The table format below — claim, verdict, evidence, one row each — is
+itself lifted from a real document in this lineage: a related, later
+generation's own internal audit of whether its code actually complied
+with its declared architecture (`eoreader4.2/docs/eo-compliance-2026-07.md`),
+which scores each of its own stated rules as **holds**, **did not hold —
+repaired**, or **does not hold — recorded, not repaired**, with evidence
+for every row and no law scored by assertion alone. This chapter's table
+is that same discipline, aimed at prose claims instead of import graphs —
+which makes it, itself, a **witnessed** borrowing, named here rather than
+left silent.
+
+## An honest limit on this audit itself
+
+One thing this chapter cannot claim: independence. Every comparison below
+was written by the same author auditing it now, which is a weaker check
+than an outside reviewer would provide — the same limitation Chapter 6.4
+named plainly about its own source material's self-assessment. Where a
+verdict below reads **rhymes**, take it as this book's own honest
+best-effort judgment that no source names the connection, checked by
+searching the actual repositories rather than assumed — not as proof no
+connection exists that a closer search might still find.
+
+## The scorecard — Part 0 and Part I
+
+| Chapter | Connection | Verdict | Evidence |
+|---|---|---|---|
+| 0.2 | Charles Morris's syntax/semantics/pragmatics (1938) | Rhymes | Not named in any source material this book found |
+| 0.3 | Aristotle's *Categories*; Quine, "On What There Is" (1948); Popper's falsifiability | Rhymes | Not named in any source material |
+| 0.4 | Bender et al., "Stochastic Parrots" (2021) | Rhymes | Not named in any source material |
+| 0.4 | Vaswani et al., "Attention Is All You Need" (2017) | Background fact | Names what the mechanism the chapter already discusses actually is; not a resemblance claim |
+| 1.1 | Gestalt psychology's ground/figure (Rubin, 1915; Koffka) | Rhymes | "Ground" and "figure" are common enough words that this book cannot rule out independent coinage; no source names Gestalt psychology |
+| 1.2 | Bateson, *Steps to an Ecology of Mind* (1972) | **Witnessed** | `eoreader6/SEED.md` names it directly: *"Pattern is Bateson's: a difference that makes a difference"* |
+| 1.2 | Shannon's information theory (1948) | Rhymes | Not named in any source material |
+| 1.3 | Legal witness/hearsay standards; signal detection theory (Green & Swets, 1966) | Rhymes | Not named in any source material |
+| 1.4 | Clinical "confabulation" (Korsakoff's syndrome) | **Unreceived origin, now named** | `SEED.md` uses the precise clinical term itself — *"Confabulation — it speaks without witness"* — without ever citing its clinical origin; a term this specific is unlikely to be independent coinage, though this book cannot confirm intent |
+| 1.4 | Kuhn's paradigm rigidity (1962) | Rhymes | Not named in any source material |
+| 1.5 | Kernel density bandwidth; homeostasis/allostasis (Cannon, 1932) | Rhymes | Not named in any source material |
+
+## The scorecard — Part II
+
+| Chapter | Connection | Verdict | Evidence |
+|---|---|---|---|
+| 2.1 | Peirce's sign trichotomies | Rhymes | Chapter 2.1 already states this plainly in-text: noticed independently, not claimed as an ancestor |
+| 2.2 | Dependency graphs / dependently-typed languages | Rhymes | Not named in any source material |
+| 2.2 | Commons, Richards & Kuhn, Model of Hierarchical Complexity (1982) | **Witnessed, as convergence** | `eoreader4.2/docs/eo-wiki.md` names it directly and calls it *"an important convergent instance"* — self-named, but explicitly not claimed as an influence, only as an independently-arrived-at parallel |
+| 2.3 | Aristotle's *Categories*; biological taxonomy | Rhymes | Not named in any source material |
+| 2.3 | Porphyry → Linnaeus → Frege/Russell → Codd → BFO/DOLCE/SUMO | **Witnessed** | `eoreader4.2/docs/eo-wiki.md`, "Most Ontologies: 'It's all Entities'" makes this exact historical argument itself, reusing this project's own terrain names |
+| 2.4 | Aristotle's episteme/techne/phronesis | Rhymes | Not named in any source material |
+| 2.5 | Hamming's error-correcting codes (1950); scientific triangulation | Rhymes | Not named in any source material |
+| 2.5 | Zurek's decoherence/einselection (2003) | **Witnessed** | `eoreader4.2/docs/eo-wiki.md` cites Zurek by name; a separate audit (`kernel-probe-2026-07.md`) confirms the citation exists but is never connected in code or prose to the actual mechanism — witnessed as a citation, explicitly *not* witnessed as a claim about the code |
+| 2.6 | The Lexical Analysis v2 empirical study | *(not scored)* | Original empirical work by a related generation, not a comparison to an outside field — nothing to audit here |
+
+## The scorecard — Part III
+
+| Chapter | Connection | Verdict | Evidence |
+|---|---|---|---|
+| 3.1 | Close reading / New Criticism | Rhymes | Not named in any source material |
+| 3.2 | Benford's Law (Newcomb, 1881; Benford, 1938) | **Witnessed** | Named directly, in code, in `eoreader6/goldens/surprise/README.md`: *"Benford's Law (Newcomb 1881 / Benford 1938) — received, not derived"* |
+| 3.2 | Bayesian statistics' "prior" (Bayes, 1763) | Rhymes (flagged as a false friend) | The chapter itself argues the shared word does *not* imply a shared test — offered as a warning against conflation, not a claimed connection |
+| 3.3 | Fodor's *Modularity of Mind* (1983); the homunculus regress | Rhymes | Not named in any source material |
+| 3.4 | HTTP statelessness; Baddeley's working-memory model | Rhymes | Not named in any source material |
+| 3.5 | Chow's reject option (1970); Rubin's missing-data taxonomy (1976); Scots "not proven" | Rhymes | Not named in any source material |
+| 3.5 | Łukasiewicz (1920) → Codd's NULL problem (1970/1990) | **Witnessed** | `eoreader4.2/docs/eo-wiki.md`, "EO and Codd's Null Problem," makes this exact historical argument itself |
+| 3.6 | Negative controls; preregistration | Rhymes | Not named in any source material |
+
+## The scorecard — Part IV and Part V
+
+| Chapter | Connection | Verdict | Evidence |
+|---|---|---|---|
+| 4.1 | Montesquieu's separation of powers (1748); Dijkstra's separation of concerns | Rhymes | Not named in any source material |
+| 4.2 | Popper's falsifiability; test-driven development | Rhymes | Not named in any source material |
+| 4.3 | US Constitution amendments; scientific retraction notices | Rhymes | Not named in any source material |
+| 4.4 | Biological taxonomic synonymy; software deprecation | Rhymes | Not named in any source material |
+| 5.1 | Mechanism/policy separation; hexagonal architecture (Cockburn, 2005) | Rhymes | Not named in any source material |
+| 5.2 | Civil law vs. common law | Rhymes | Not named in any source material |
+| 5.3 | Nielsen's usability heuristics (1994) | Rhymes | Not named in any source material |
+| 5.4 | Ioannidis's reproducibility crisis (2005); chain of custody | Rhymes | Not named in any source material |
+| 5.5 / 7.2 | Herbert Simon's Hora-and-Tempus parable (1962) | **Unreceived origin, now named** | Told nearly verbatim, named characters included, in `eochat/server/code-longform.js` and in `eoreader4.2/docs/eo-for-coders.md` — distinctive enough that independent reinvention is very unlikely — but neither source names Simon |
+| 5.6 | Fuzzy-trace theory (Brainerd & Reyna); mixture-of-experts | Rhymes | Not named in any source material |
+| 5.6 | Baars (1988); Dehaene & Naccache (2001); Baddeley (2000); McClelland, McNaughton & O'Reilly (1995); Teyler & DiScenna (1986); Lewis et al. (2020); Wu et al. (2022); Gurnee et al. (2026) | **Witnessed** | `eoreader5/docs/discourse-awareness-memory-synthesis.md`, "References (Public)," names every one of these itself |
+
+## The scorecard — Part VI and Part VII
+
+| Chapter | Connection | Verdict | Evidence |
+|---|---|---|---|
+| 6.1 | Bridgman's operationalism (1927) | Rhymes | Not named in any source material |
+| 7.1 | Bertrand Meyer's Design by Contract (1986) | Rhymes | Not named in any source material |
+| 7.1 | Attempto controlled natural language; JetBrains MPS; ConstraintLLM (EMNLP 2025) | **Witnessed** | `eoreader4.2/docs/eot-coder-roadmap.md` §2.1–2.2 draws all three comparisons itself |
+
+## Summary verdict
+
+| Verdict | Count |
+|---|---|
+| Witnessed (including one "as convergence") | 9 |
+| Unreceived origin, now named | 2 |
+| Rhymes | roughly 40 |
+| Background fact (unscored) | 1 |
+
+The honest shape of this table is the point: most of what this book has
+offered as prior art is exactly what it always said it was — a parallel
+this book noticed, not a lineage this project claims. A small, specific
+set of connections turn out to be real, because the project's own words
+say so, and this chapter is where a reader can check which is which
+without having to take either claim on faith.
+
+**Where this comes from:** the verdict rubric is this book's own
+construction, built from Chapter 3.2's prior test, Chapter 1.2/1.3's
+witness test, and Chapter 3.5's gap-typing discipline. The scorecard table
+format is borrowed directly from `eoreader4.2/docs/eo-compliance-2026-07.md`,
+"The scorecard." Every individual verdict above is checked against the
+specific chapter footer it summarizes and the source file named in that
+footer; see each chapter's own "Where this comes from" for the full
+citation this table's evidence column compresses.
 
 ---
 
