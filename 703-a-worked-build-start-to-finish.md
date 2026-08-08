@@ -1,8 +1,11 @@
 # 7.3 — A Worked Build, Start to Finish
 
 <!-- nav:start -->
-[← 7.2 — The Watchmaker's Discipline](702-the-watchmakers-discipline.md) · [Contents](000-index.md) · *(more chapters coming)* →
+[← 7.2 — The Watchmaker's Discipline](702-the-watchmakers-discipline.md) · [Contents](000-index.md) · [8.1 — Telling a Rhyme From a Borrowing →](801-telling-a-rhyme-from-a-borrowing.md)
 <!-- nav:end -->
+
+
+
 
 **Why this matters:** the last two chapters described this construction
 language in the abstract. This chapter walks one real, complete example
@@ -78,5 +81,5 @@ assembly 5 not yet starting is from the same section, immediately following
 the code block.
 
 <!-- nav:start -->
-[← 7.2 — The Watchmaker's Discipline](702-the-watchmakers-discipline.md) · [Contents](000-index.md) · *(more chapters coming)* →
+[← 7.2 — The Watchmaker's Discipline](702-the-watchmakers-discipline.md) · [Contents](000-index.md) · [8.1 — Telling a Rhyme From a Borrowing →](801-telling-a-rhyme-from-a-borrowing.md)
 <!-- nav:end -->

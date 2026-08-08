@@ -6,6 +6,9 @@
 
 
 
+
+
+
 **Why this matters:** everything you've read so far might sound like the
 first serious attempt at any of this. It isn't, and the people who built
 this project are explicit about that. This chapter is the honest history —
@@ -58,6 +61,25 @@ structure to audit, no record of what was actually used to produce the
 answer. The system either satisfies you, or it doesn't, and there's
 nothing else to check.
 
+## A pattern with a name in philosophy of science generally
+
+"Reading is whatever the current benchmark measures" isn't a complaint
+unique to this field. The physicist Percy Bridgman named the general
+version of it in 1927: **operationalism**, the position that a concept
+just *is* the set of operations used to measure it — mass is whatever a
+particular measuring procedure returns, nothing more and nothing less.
+Bridgman meant this as a discipline for physics, forcing concepts to stay
+tied to something actually measurable. Applied to a field without physics'
+precision, the same idea curdles into exactly the trap Chapter 6.1
+describes: if "reading" is simply whatever the current benchmark measures,
+then a system that games the benchmark has, by that same definition,
+learned to read — right up until the benchmark gets replaced and the
+whole cycle starts over. Bridgman's own discipline and this field's
+repeated experience are two sides of the same fact: tying a concept
+tightly to one measurement procedure is powerful and honest exactly until
+that procedure turns out to be gameable, at which point the concept and
+the measurement quietly come apart.
+
 ## What all four have in common
 
 Each one of these was operationalized by whatever could actually be
@@ -74,7 +96,9 @@ its scoreboard," including the framing sentence quoted at the top of this
 chapter and the account of Schank's conceptual dependency (1972), the
 Message Understanding Conferences (1987–1998), span-selection benchmarks
 from Deep Read (1999) through SQuAD (2016), and the human-preference
-definition dominant today.
+definition dominant today. The Bridgman/operationalism connection above is
+this book's own added link to the philosophy of science, not something
+the codebase itself cites.
 
 <!-- nav:start -->
 [← 5.6 — Senses, Memory, and Borrowed Models](506-senses-memory-and-borrowed-models.md) · [Contents](000-index.md) · [6.2 — The Fifty-Eight-Year-Old Objection, and Where the Project Is Actually Chipping at It →](602-the-fifty-year-old-objection.md)

@@ -9,6 +9,9 @@
 
 
 
+
+
+
 **Why this matters:** almost everything else in this book — every refusal,
 every citation, every "not yet earned" — comes down to one single move this
 system makes before it says anything at all. If this chapter doesn't land,
@@ -63,6 +66,31 @@ one is due. This project treats that as the deepest reason to trust the
 approach — not because it's clever, but because it's the shape intelligence
 keeps landing on, wherever the world rewards actually getting it right.
 
+## The words themselves come from a hundred-year-old idea in psychology
+
+"Ground" and "figure" aren't a coinage invented for this project either —
+the terms are borrowed directly from Gestalt psychology, and the debt is
+worth naming precisely. Early in the twentieth century, the Danish
+psychologist Edgar Rubin studied exactly this move in ordinary vision: any
+scene splits into a **figure** (the part attention lands on, which reads as
+having shape and standing in front) and a **ground** (the part attention
+recedes into, which reads as shapeless and behind) — his own two-faced
+vase-or-profiles image is the famous demonstration. Kurt Koffka and the
+rest of the Gestalt school spent the following decades arguing this split
+is not a passive readout of what's already in the light hitting your eye —
+it's an active organizing act the perceiving mind performs.
+
+Here's where this project's version genuinely departs, and it's worth
+being precise rather than letting the shared vocabulary imply more overlap
+than there is. Rubin's ground is a fixed, static field — one scene, one
+moment, one settled figure-ground split you can even flip back and forth
+between (that's the whole trick of the vase illusion). This project's
+ground is never settled at all: it's continuously and deliberately
+rebuilt, by scrambling what's present, specifically so that nothing about
+it stays fixed long enough to become a permanent baseline. The words are
+the same. The claim about how a ground comes to exist in the first place
+is not.
+
 ## What this rules out
 
 Once you take the ground-and-figure move seriously, an obvious alternative
@@ -78,7 +106,11 @@ ground is a nothing constructed by perturbing what is present. Everything is
 a difference against one."* The *E. coli* comparison is drawn from
 `eo-constitution/CONSTITUTION.md` Article II.7, "The convergence test":
 *"E. coli compares the gradient against a ground it rebuilds — no receptor
-per molecule."*
+per molecule."* The Gestalt-psychology connection above (Rubin's 1915
+figure-ground studies, Koffka's writing on perceptual organization) is
+this book's own added link to that field's history, tracing where the
+words "ground" and "figure" actually come from — not something the
+codebase itself cites.
 
 <!-- nav:start -->
 [← 0.4 — What a Language Model Is, in Plain Terms, and Why This Project Keeps Its Distance From One](004-what-a-language-model-is.md) · [Contents](000-index.md) · [1.2 — The Difference That Makes a Difference →](102-the-difference-that-makes-a-difference.md)

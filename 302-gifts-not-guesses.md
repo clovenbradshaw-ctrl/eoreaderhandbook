@@ -9,6 +9,9 @@
 
 
 
+
+
+
 **Why this matters:** everything so far has been about what the system can
 establish for itself, from the material in front of it. But no reader,
 human or otherwise, starts from nothing — everyone brings outside knowledge
@@ -68,6 +71,53 @@ that did not happen.*
   between "this helped me guess" and "this is now established" doesn't
   move, no matter how many times a prior proves useful.
 
+## A real instance of the whole rule, receipts included
+
+This isn't only a design principle stated in the abstract — the engine's
+own test suite has a live case of exactly this. One golden test hands the
+engine a suspect ledger of numbers and a named prior: **Benford's Law**, a
+real statistical regularity (first observed by Simon Newcomb in 1881,
+rediscovered and popularized by Frank Benford in 1938) which says that in
+most naturally-occurring collections of numbers, the leading digit isn't
+uniformly distributed — a 1 shows up far more often than a 9 — and it's
+been used for decades as a real fraud-detection tool, including by
+auditors and election forensics analysts checking whether reported figures
+were actually measured or quietly invented. In the engine, that law is
+handed in through `nul::received()` with its provenance stated in the code
+itself: *"Benford's Law (Newcomb 1881 / Benford 1938) — received, not
+derived from this ledger."* The suspect ledger's own digit distribution is
+then checked against it directly — a chi-squared test against a Monte
+Carlo null of genuine Benford sampling noise — and comes back a clean
+`deviates`. That's this whole chapter's rule, doing real, checkable work
+on real data: a named gift, never derived from the material it's judging,
+earning its keep by how much surprise it actually resolves.
+
+## The same word, doing a genuinely different job in statistics
+
+"Prior" is not a word this project coined. In Bayesian statistics, a
+**prior** is a probability distribution representing what you believed
+before seeing new evidence, which then gets mathematically updated by that
+evidence into a **posterior** — a formal apparatus going back to Thomas
+Bayes's own 1763 theorem and central to statistical practice ever since.
+It's worth being precise about how much this project's "prior" actually
+shares with that one, because the word is identical and the concept
+underneath it is not.
+
+What they share: both name something brought in from *before* the current
+measurement, and both are explicit that this incoming thing shapes what
+gets concluded rather than standing outside the process untouched. What
+they don't share is the whole test for whether a prior is any good. A
+Bayesian prior is graded by calibration — does it, combined with the
+evidence, produce well-calibrated beliefs — and it's a mathematical object,
+a distribution, with no requirement that it come from a *named* source.
+This project's prior is graded by a completely different, non-probabilistic
+test (does bringing it to the meeting lower surprise) and carries a
+requirement Bayesian statistics has no equivalent for at all: a prior here
+has to arrive with a giver's name attached, or it isn't admitted, full
+stop. Reusing the word without reusing the machinery is a real risk of
+confusion worth flagging directly, rather than letting a reader with some
+statistics background assume more overlap than there actually is.
+
 ## The one thing this buys for free
 
 Because the test is "did surprise go down," not "does this look like the
@@ -91,7 +141,13 @@ exactly insofar as it lowers the surprise of what is encountered" — *"Relevanc
 is not a property of a prior. It is a property of the meeting between a
 prior and this material, and its measure is the surprise that did not
 happen"* — including its four numbered consequences and the cross-modal
-boundary drawn in its final paragraph.
+boundary drawn in its final paragraph. The Benford's Law worked example is
+`eoreader6/goldens/surprise/README.md`, "B3 (Benford's Law)" — a real,
+current test in the engine's own suite, quoted directly above, not an
+outside comparison this book is drawing. The Bayesian-statistics
+comparison above it is this book's own added link to that field,
+contrasting a shared word with a different underlying test — not
+something the codebase itself cites.
 
 <!-- nav:start -->
 [← 3.1 — A Reading, From the Inside](301-a-reading-from-the-inside.md) · [Contents](000-index.md) · [3.3 — A Guided Tour of the Organs →](303-a-guided-tour-of-the-organs.md)

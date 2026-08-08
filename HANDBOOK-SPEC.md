@@ -1,15 +1,108 @@
 # The EO Reader 6 / EO Chat Handbook — a specification
 
-**Status:** v0.4. Parts 0 through VII are written in full. Only Part VIII
-(reference material) remains, and it's designed to be built incrementally
-from what the earlier parts already cite rather than drafted up front.
+**Status:** v0.7. Parts 0 through VII are written in full, Part II now
+carries a sixth chapter, and Part VIII has been started — out of its
+originally-planned order — with a provenance audit of every prior-art
+comparison the handbook has made. Real prior art from fields outside this
+project runs alongside every chapter's own account of the codebase,
+including two passes drawing on `eoreader5`, `eoreader4.2`, and
+`eoreader6`'s own sibling material once those repositories were actually
+read rather than guessed at. Only the rest of Part VIII (a glossary,
+quick-reference tables, an index of worked examples) remains, and it's
+designed to be built incrementally from what the earlier parts already
+cite rather than drafted up front.
 
 **Purpose of this file:** decide, on paper, what the handbook teaches, in what
 order, to whom, using what material — before spending the effort to write it.
 It follows the same discipline the rest of this lineage asks of everything
 else: declare the shape, checkpoint it, then build.
 
-**v0.4 changelog (this update):** Parts II through VII written in full —
+**v0.7 changelog (this update):** two additions, both requested directly
+rather than discovered incidentally. First, **Chapter 2.6, "Checked
+Against Language Itself"** — a related generation's own empirical test of
+Part II's three-axis structure (`eoreader4.2/docs/eo-wiki.md`, "EO Lexical
+Analysis v2"): three plain-language questions, asked of real sentences in
+41 languages, embedded blind by a model that never saw this project's
+vocabulary, and checked for whether sentences classified the same way
+sit closer together in that blind space than chance would predict. Real
+predictions were locked in advance; several held (monotonicity, axis-level
+z-scores, cross-linguistic replication, inter-model agreement) and several
+did not (full axis independence; every one of the three predicted
+coordinate-geometry relationships), reported at the same length either
+way. Second, **Chapter 8.1, "Telling a Rhyme From a Borrowing,"** opening
+Part VIII ahead of schedule: a mechanical audit, styled directly on a real
+document in this lineage (`eoreader4.2/docs/eo-compliance-2026-07.md`'s own
+scorecard format), sorting every prior-art comparison added in the v0.5
+and v0.6 passes into **witnessed** (the project names the source itself —
+9 of roughly 50), **unreceived origin, now named** (a specific, distinctive
+borrowing — Herbert Simon's watchmakers, the clinical term
+"confabulation" — this book supplies the attribution for), or **rhymes**
+(a resemblance this book noticed on its own, the large majority of the
+total, offered as a parallel and explicitly not a claimed lineage). The
+rubric itself is built from three tools this project already had —
+Chapter 3.2's prior test, Chapter 1.2/1.3's witness test, and Chapter
+3.5's gap-typing discipline — applied to the handbook's own prose instead
+of to the engine's own claims.
+
+**v0.6 changelog:** a second prior-art pass, made possible by
+actually cloning and reading `eoreader5`, `eoreader6`, and `eoreader4.2`
+(including its internal wiki, `docs/eo-wiki.md`) rather than relying on
+citations already surfaced in the handbook's existing sources. Six
+chapters were sharpened with material found this way, each attributed to
+exactly where it came from: **3.2** gained a real, current worked example
+already living in eoreader6's own test suite — the `B3` golden test's use
+of Benford's Law (Newcomb 1881 / Benford 1938) as a named, receipted
+prior, checked by chi-squared against a Monte Carlo null. **3.5** and
+**2.3** were sharpened with a related generation's own historical argument
+(Łukasiewicz 1920 → Codd's 1970/1990 NULL problem; Porphyry's Tree →
+Linnaeus → Frege/Russell → Codd → BFO/DOLCE/SUMO), drawn from
+`eoreader4.2/docs/eo-wiki.md` and clearly flagged as that generation's own
+notes, not eoreader6's. **2.2** gained a noticed-not-planned convergence
+with Commons, Richards & Kuhn's Model of Hierarchical Complexity (1982),
+which a later generation's own notes had already named as convergent
+rather than ancestral. **5.6** gained a related generation's own
+literature review of conversation memory (Baars 1988; Dehaene & Naccache
+2001; Baddeley 2000; McClelland, McNaughton & O'Reilly 1995; Teyler &
+DiScenna 1986; Lewis et al. 2020; Wu et al. 2022; and Anthropic's own
+Gurnee et al. 2026), drawn from `eoreader5/docs/discourse-awareness-
+memory-synthesis.md`. **7.1** gained two comparisons (Attempto controlled
+natural language and JetBrains MPS projectional editing; ConstraintLLM,
+EMNLP 2025) that a later generation's own roadmap notes had already drawn
+about themselves. **2.5** gained a real example of a later audit
+(`eoreader4.2/docs/kernel-probe-2026-07.md`) practicing this book's own
+discipline about resemblance — finding a code mechanism that resembles
+Zurek's 2003 decoherence work, checking whether the codebase claims that
+vocabulary itself, and reporting honestly that it doesn't. One repository
+named for this pass, `EOwiki`, turned out to be empty; its would-be
+content lives instead inside `eoreader4.2/docs/eo-wiki.md`, cited as such
+throughout. Material considered and deliberately left out of this pass —
+`eo-wiki.md`'s mapping of NUL/SIG/INS onto Taoist, Buddhist, and
+Kabbalistic concepts of nothingness, and `eoreader5`'s essay arguing
+physics equations "fall out" of the fold mechanism — is recorded here
+rather than silently dropped: both were judged too speculative, or too
+close to the confabulation risk Chapter 1.4 itself warns about, to fold in
+without a much larger editorial pass than this one.
+
+**v0.5 changelog:** every chapter in Parts 0 through VII
+(excluding the worked-example chapters 3.1 and 7.3, and Part VI's own
+existing prior-art chapters 6.2–6.4, which already carry this discipline as
+their entire subject) gained a new section naming real, honestly-sourced
+parallels or divergences from a field outside this project — Gestalt
+psychology's figure/ground for Chapter 1.1, Bayesian statistics' "prior"
+for Chapter 3.2, Herbert Simon's 1962 Hora-and-Tempus parable named
+explicitly for Chapters 5.5 and 7.2, Bertrand Meyer's Design by Contract
+for Chapter 7.1, and so on for every other chapter. Each addition is marked,
+in the chapter's own closing provenance line, as **this book's own added
+link** to that outside field — never presented as something the codebase
+itself cites, keeping P6's discipline (provenance travels with the
+content) honest about which claims come from the source material and which
+are the handbook author's own connections. Where a resemblance is only
+partial, each addition says so directly, in the same place, rather than
+implying more overlap than the two ideas actually share — the same rule
+Chapter 6.3 already applied to the Quillian correspondence, now applied
+throughout the whole book rather than in one chapter alone.
+
+**v0.4 changelog:** Parts II through VII written in full —
 see `000-index.md` for the complete table of contents. All five open
 questions from §7 ended up resolved along the way rather than needing a
 separate up-front decision: **Q1** (location) resolved by moving the whole

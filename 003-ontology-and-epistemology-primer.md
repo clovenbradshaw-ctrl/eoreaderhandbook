@@ -9,6 +9,9 @@
 
 
 
+
+
+
 **Why this matters:** Part II of this book teaches nine "kinds of where" and
 nine "kinds of how" that everything the system reads gets placed against.
 Those two grids will look like arbitrary jargon unless you first have a feel
@@ -71,10 +74,39 @@ short primer is the whole reason those chapters won't feel like they're
 introducing something alien. You already had both reflexes. This just gave
 them names you'll meet again shortly.
 
+## Neither question was invented for this book
+
+The first question is older than the example. Aristotle's *Categories*
+opens by asking exactly this, and settles on substance — a specific man, a
+specific horse — as different in kind from quality, relation, and several
+others: the same basic move as telling "a specific patient" apart from
+"the category of patients" apart from "the doctor-patient relationship."
+Twentieth-century philosophy came back to the same question with new
+tools — W.V.O. Quine's 1948 essay "On What There Is" asked what a sentence
+has to assume exists for it to be meaningful at all, and left behind his
+own shorthand for it: "to be is to be the value of a variable."
+
+The second question is epistemology's oldest, running at least from
+Plato's *Theaetetus* (what separates knowledge from a merely true guess)
+through Descartes' method of doubt to one of the twentieth century's
+sharpest versions: Karl Popper's demand that a genuine claim about the
+world specify, in advance, what observation would prove it wrong. That
+last version is worth keeping in mind heading into Part II — "what would
+change your mind" turns out to be close to the question this whole project
+asks of its own measurements.
+
+Where the fit is loose: none of these philosophers were building a
+taxonomy for a reading system, and forcing "tending" and "making" cleanly
+into their frameworks would overstate the resemblance. What this book
+borrows is the two reflexes — the two questions — not any philosopher's
+particular answer to them.
+
 **Where this comes from:** this chapter is original exposition, written to
 prepare the reader for Part II §2.3 ("Nine kinds of 'where'" — the terrains)
 and §2.4 ("Nine kinds of 'how'" — the stances). See `HANDBOOK-SPEC.md` §6,
-Part II.
+Part II. The Aristotle, Quine, and Popper connections above are this
+book's own added links to the wider history of philosophy, not sources the
+codebase itself cites.
 
 <!-- nav:start -->
 [← 0.2 — A Ten-Minute Grammar and Meaning Primer](002-grammar-and-meaning-primer.md) · [Contents](000-index.md) · [0.4 — What a Language Model Is, in Plain Terms, and Why This Project Keeps Its Distance From One →](004-what-a-language-model-is.md)

@@ -7,6 +7,9 @@
 
 
 
+
+
+
 **Why this matters:** Chapter 5.1 told you the application calls outside
 language models as tools it doesn't own, never as the measurement itself.
 This chapter shows exactly what that looks like in one real, small,
@@ -64,6 +67,69 @@ isn't "make the summary smarter." It's "don't show it at all until it's
 actually the only thing left that still remembers something the raw
 history no longer does."
 
+## A distinction cognitive psychology already had a name for
+
+Keeping a small running summary of a conversation's *shape* — topic, flow,
+recurring entities — instead of its literal words has a real cousin in how
+human memory works. **Fuzzy-trace theory** (developed by Charles Brainerd
+and Valerie Reyna from the 1990s onward) argues that people encode
+experience along two separate tracks at once: a **verbatim trace** (the
+literal, specific details) that fades quickly, and a **gist trace** (the
+general sense and meaning of what happened) that's more durable and is
+actually what most everyday reasoning draws on. This application's
+architecture runs the same split deliberately: the verbatim history window
+is the fast-fading literal trace, and the rolling discourse summary is the
+durable gist — with the gated-injection rule (don't show the gist while
+the verbatim trace still covers it) doing something human memory doesn't
+appear to bother with at all.
+
+The two-small-model design — a distinct model call handling the fold and
+the update, separate from the model carrying the actual conversation — is
+also a miniature, deliberately simple version of a pattern used at a much
+larger scale in machine learning: **mixture-of-experts** architectures
+route different parts of a task to smaller, specialized components rather
+than routing everything through one model that does everything. The
+resemblance is architectural, not technical — nothing here is jointly
+trained or gated the way a real mixture-of-experts system is; it's simply
+two separate, disposable model calls, each doing one small job.
+
+## A related generation's own literature review of this exact problem
+
+A different, later generation of this project (`eoreader5`, in its own
+internal design notes — not eochat, and not describing this feature) did
+real homework on the same problem eochat's conversation-summary solves,
+and it's worth passing on because it's precise about real citations rather
+than loose analogy. Bernard Baars's Global Workspace Theory (1988, with
+Stanislas Dehaene and Lionel Naccache's 2001 neuroscientific elaboration)
+proposes that a small, broadcast-worthy "workspace" of active content
+coordinates a much larger set of specialized, unconscious processes — a
+structural cousin of a small rolling summary sitting alongside a much
+larger raw conversation history. Alan Baddeley's own 2000 extension of
+working memory, the **episodic buffer**, is closer still: a
+limited-capacity store that binds information from several sources into
+one integrated, temporary representation — which is a fair one-line
+description of what the rolling topic/flow/entity summary actually does.
+And James McClelland, Bruce McNaughton, and Randall O'Reilly's
+**Complementary Learning Systems** theory (1995) — fast, sparse binding in
+the hippocampus paired with slow, distributed consolidation in the
+neocortex, building on Timothy Teyler and Pascal DiScenna's earlier
+hippocampal indexing theory (1986) — is a real biological parallel to
+running two different memory mechanisms (a fast verbatim window, a slow
+consolidated gist) side by side rather than trying to make one mechanism
+do both jobs.
+
+Two more of that generation's citations are worth naming because they're
+about machine memory specifically, not brains: retrieval-augmented
+generation (Lewis et al., 2020) and Memorizing Transformers (Wu et al.,
+2022), both ways of pairing a model with an external store rather than
+forcing everything into one context window — the same "small model, small
+job, separate from the one holding the conversation" instinct eochat's own
+two model calls follow. That generation's notes also cite Anthropic's own
+published research directly (Gurnee et al., 2026, on verbalizable
+representations forming something like a global workspace inside language
+models) as the most directly relevant piece of first-party evidence for
+why a small, broadcastable summary is a reasonable thing to build at all.
+
 ## Where this sits in Chapter 5.1's boundary
 
 This whole feature is a clean, concrete instance of the host/engine line
@@ -80,7 +146,15 @@ built after that rule was already in place.
 `eochat/server/turn-controller.js` (the model call itself, run via
 `setImmediate` after the answer is sent, and the gating logic quoted above
 — *"injecting it earlier only repeats the same old topic three times
-over... anchoring a fresh question to the thread it left"*).
+over... anchoring a fresh question to the thread it left"*). The
+fuzzy-trace-theory and mixture-of-experts connections above are this
+book's own added links to cognitive psychology and machine learning, not
+something the codebase itself cites. The Baars/Dehaene-Naccache,
+Baddeley, McClelland-McNaughton-O'Reilly, Teyler-DiScenna, Lewis et al.,
+Wu et al., and Gurnee et al. citations are drawn from `eoreader5/docs/
+discourse-awareness-memory-synthesis.md`, "References (Public)" — a
+related but separate generation's own literature review, written for its
+own design process, not eochat's.
 
 <!-- nav:start -->
 [← 5.5 — Writing Something Long Without Losing the Thread](505-writing-something-long-without-losing-the-thread.md) · [Contents](000-index.md) · [6.1 — A Short History of Machines That Were Said to Read →](601-a-short-history-of-machines-that-were-said-to-read.md)

@@ -9,6 +9,9 @@
 
 
 
+
+
+
 **Why this matters:** Chapter 0.3 gave you a reflex — before accepting a
 claim, ask what *kind* of thing it's even about: a specific individual, a
 category, or a relationship. This chapter turns that reflex into a precise,
@@ -64,6 +67,62 @@ specific (domain, grain) pair.
   framework — the accumulated set of kinds and categories the system is
   presently reading through, always revisable, never assumed permanent.
 
+## The Existence row's oldest ancestor
+
+Sorting the world into a specific thing, a category of things, and a
+relationship between things is Aristotle's move before it's this project's
+— his *Categories* treats "primary substance" (one actual man), "secondary
+substance" (man, the species) and relations as genuinely different kinds
+of being, not just different words for the same kind of thing described at
+different zoom levels. Biological taxonomy runs a version of the same
+three-way split: one organism, a species, and an ecological relationship
+between species are treated as different *kinds* of scientific claim, not
+interchangeable ones — a fact about one tagged wolf doesn't automatically
+transfer to "wolves" as a category, and neither transfers automatically to
+"predator-prey relationship."
+
+Where this project's grid does something Aristotle's never needed to: it
+crosses this three-way existence split against two *other* three-way
+splits (structure and interpretation) to get to nine terrains total, and
+it ties each cell to a specific, checkable act (a Ground gets built, a
+Figure gets admitted) rather than to a static description of what kind of
+being something has. Aristotle was answering "what is there." This grid
+answers "what got established, by which kind of act."
+
+## A seventeen-century-long lineage of stopping at one row
+
+Worth being precise about what follows: it isn't an outside field
+converging on this grid independently. It's a related, later generation of
+this very project (`eoreader4.2`, in its own internal wiki notes — again,
+describing that generation's own thinking, not eoreader6 or the current
+engine) reusing these same nine terrain names — Void, Entity, Kind, Field,
+Link, Network, Atmosphere, Lens, Paradigm, unchanged — to make a historical
+argument about Aristotle's actual descendants. nearly every major formal ontology
+since has kept his move but never crossed it against anything else. Its
+own account, worth taking seriously as a critique even where this book
+can't independently verify every historical claim in it, runs: Porphyry's
+Tree (c. 270 CE) partitions "Substance" downward by repeated binary
+division; Linnaeus (1735) reruns the same partition on living things;
+Frege and Russell (1879–1910) formalize it as set membership; and the
+Basic Formal Ontology (BFO, 2002–present — by that account adopted by
+over 650 projects and mandated in some U.S. government contexts) still
+splits its own root, Entity, the same way. Each of these, on this account,
+stays inside a single row — Existence alone — and never asks the
+Structure or Interpretation questions this chapter's other two rows cover
+at all. The one break in the whole lineage it names is Edgar Codd's 1970
+relational database model, which abandoned hierarchical navigation for
+flat tables reachable by any path — not a better tree, but an escape from
+needing one.
+
+Whether or not every step of that lineage holds up to closer scrutiny than
+this book can give it here, the underlying diagnosis is worth sitting
+with on its own terms: a single-row ontology can tell you *what a thing
+is*, but has no native way to represent *how it connects to other things*
+or *what it means*, and has to bolt those on as an afterthought rather
+than treating all three as equally primitive from the start — which is
+exactly the gap crossing three rows against three columns is built to
+close.
+
 ## Why a mutual-aid map or a reading group would show the exact same grid
 
 None of the nine terrains above required saying anything about hospitals
@@ -91,6 +150,13 @@ current set of induced Kinds plus their core fields") is from the same
 file, line 19. The neighborhood-map and reading-group domains are the same
 domain-invariant triad introduced in `eoreader4.2/docs/eo-for-coders.md`
 §C.2-C.3 — a related but separate generation of this project; see Part VII.
+The Aristotle and biological-taxonomy connections above are this book's
+own added links to those fields, not something the codebase itself cites.
+The Porphyry/Linnaeus/Frege-Russell/Codd/BFO lineage is drawn from
+`eoreader4.2/docs/eo-wiki.md`, "Most Ontologies: 'It's all Entities.' EO:
+'Entities are only one of many'" — the same later generation's own wiki,
+reusing this chapter's nine terrain names to make its own historical
+argument, not a claim eoreader6 itself makes.
 
 <!-- nav:start -->
 [← 2.2 — The Order Things Happen In](202-the-order-things-happen-in.md) · [Contents](000-index.md) · [2.4 — Nine Kinds of "How" →](204-nine-kinds-of-how.md)

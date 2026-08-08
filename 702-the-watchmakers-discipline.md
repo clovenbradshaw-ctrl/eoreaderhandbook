@@ -4,6 +4,9 @@
 [← 7.1 — A Construction Language](701-a-construction-language.md) · [Contents](000-index.md) · [7.3 — A Worked Build, Start to Finish →](703-a-worked-build-start-to-finish.md)
 <!-- nav:end -->
 
+
+
+
 **Why this matters:** you've already met this discipline once, in Chapter
 5.5, governing how EO Chat writes something long. This chapter shows you
 the same parable, doing the same job, in a completely different corner of
@@ -44,6 +47,22 @@ discipline isn't presented as a separate convention layered on top of the
 operator algebra here — it's presented as that same algebra, applied to
 the act of building itself.
 
+## The parable's actual, nameable source
+
+One thing this book *can* say, stated plainly here rather than left
+implicit: Hora and Tempus did not originate in either generation of this
+project. They're Herbert Simon's, from "The Architecture of Complexity"
+(1962), where he used them to argue for near-decomposability — that
+complex systems able to survive disruption tend to be built from stable
+sub-assemblies, because a system with no such structure has to succeed all
+at once. Chapter 5.5 names this same source for the chat-application
+telling. Knowing the parable's real origin doesn't resolve the harder
+question below — whether either generation drew on Simon directly, or
+independently reached for a well-known fifty-year-old engineering parable
+because it's simply the right shape for the problem — but it does mean
+neither telling is inventing the story from nothing, which is itself worth
+being precise about.
+
 ## What this book knows, and doesn't know, about the connection
 
 Here's where this book has to be careful rather than tidy. The same
@@ -66,7 +85,10 @@ are `eoreader4.2/docs/eo-for-coders.md`, "The two laws" — *"Two watchmakers,
 Hora and Tempus, both made watches of a thousand parts... Hora prospered;
 Tempus went broke"* — and "Layer 1," on `DEF`/`EVA`/`REC` as the watchmaker
 discipline "wearing glyphs." The chat-application telling is `eochat/
-server/code-longform.js`, lines 571-576, already cited in Chapter 5.5.
+server/code-longform.js`, lines 571-576, already cited in Chapter 5.5. The
+identification of Herbert Simon's 1962 essay as the parable's actual
+source is this book's own added link to that field, not something either
+source document states.
 
 <!-- nav:start -->
 [← 7.1 — A Construction Language](701-a-construction-language.md) · [Contents](000-index.md) · [7.3 — A Worked Build, Start to Finish →](703-a-worked-build-start-to-finish.md)

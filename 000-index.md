@@ -13,9 +13,27 @@ chapter to refresh it; nothing about it is hand-maintained.
 
 ## Status
 
-Parts 0 through VII are written in full. Part VIII (reference material) is
-built incrementally, from what the earlier parts actually cite, rather
-than up front.
+Parts 0 through VII are written in full. Every chapter (other than the
+worked-example chapters 3.1 and 7.3, and Part VI's own dedicated
+prior-art chapters 6.2–6.4) now also carries a short section naming real
+prior art from a field outside this project — a parallel, or an honest
+divergence — clearly marked in each chapter's own closing note as the
+handbook's own added connection, not something the codebase itself cites.
+A second pass (v0.6) then read `eoreader5`, `eoreader6`, and `eoreader4.2`
+directly and sharpened six of those chapters with material actually found
+there — including a real, current worked example already living in
+eoreader6's own test suite. A third pass (v0.7) added Chapter 2.6, a
+related generation's own empirical, cross-linguistic test of the
+three-axis structure Part II teaches — including its honestly-reported
+failures — and opened Part VIII with a scorecard (Chapter 8.1) auditing
+every prior-art comparison this book has made, sorting each one into
+*witnessed* (the project names the source itself), *unreceived origin,
+now named* (a specific, distinctive borrowing this book supplies the
+attribution for), or *rhymes* (a resemblance this book noticed, not a
+claimed lineage). See `HANDBOOK-SPEC.md`'s v0.5 through v0.7 changelogs
+for the full account. The rest of Part VIII (a glossary, quick-reference
+tables, an index of worked examples) remains to be built incrementally,
+from what the earlier parts actually cite, rather than up front.
 
 ## Part 0 — Before You Start
 
@@ -39,6 +57,7 @@ than up front.
 - [2.3 Nine kinds of "where"](203-nine-kinds-of-where.md)
 - [2.4 Nine kinds of "how"](204-nine-kinds-of-how.md)
 - [2.5 Why all three have to agree](205-why-all-three-have-to-agree.md)
+- [2.6 Checked against language itself](206-checked-against-language-itself.md)
 
 ## Part III — How EO Reader 6 Reads
 
@@ -87,11 +106,16 @@ the boundary restated.
 - [7.2 The watchmaker's discipline](702-the-watchmakers-discipline.md)
 - [7.3 A worked build, start to finish](703-a-worked-build-start-to-finish.md)
 
-## Part VIII — not yet written
+## Part VIII — Reference
 
-See `HANDBOOK-SPEC.md` §6 for its planned content (a glossary, quick-
-reference tables, and a provenance map) — built incrementally from what
-Parts 0–VII actually cite, rather than drafted up front.
+Begun out of the originally-planned order: the provenance audit
+(8.1) existed as soon as there was a body of prior-art claims worth
+auditing, so it was written first rather than held for last. The
+remaining planned content (a glossary, quick-reference tables, an index of
+worked examples — see `HANDBOOK-SPEC.md` §6) is still built incrementally
+from what Parts 0–VII actually cite, rather than drafted up front.
+
+- [8.1 Telling a rhyme from a borrowing](801-telling-a-rhyme-from-a-borrowing.md)
 
 ## Where this repository lives, and why
 

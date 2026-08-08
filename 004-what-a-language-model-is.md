@@ -9,6 +9,9 @@
 
 
 
+
+
+
 **Why this matters:** you cannot understand why this system is built the way
 it is without first understanding, in plain terms, what it is deliberately
 *not*. Several of the hardest design choices later in this book — refusing
@@ -80,6 +83,33 @@ ordinary language model gets its fluency by weighting what's already there;
 this system insists on building something to be surprised against first,
 and speaking only when something actually was.
 
+## Two names from the field itself for a related worry
+
+This project's argument about attention isn't a lone objection from
+outside the field. Emily Bender, Timnit Gebru, and colleagues' 2021 paper
+"On the Dangers of Stochastic Parrots" argued, from inside NLP, that a
+model trained purely to predict the next token has no mechanism connecting
+its fluent output to communicative intent or to the world the text
+describes — fluency and understanding, on their account, simply come
+apart. That's close to this chapter's own point, though not identical to
+it: stochastic-parrots is fundamentally about scale and training data (the
+model never had grounded experience of the world to begin with); this
+project's own complaint is narrower and mechanistic — even granting a
+model everything it absorbed from training, the specific move of blending
+"what's in the document" with "what the model already knew" into one
+inseparable computation is what removes the ledger. The two critiques
+point at the same family of systems from different angles and shouldn't be
+collapsed into one.
+
+The mechanism itself, attention, has a much narrower, purely technical
+origin worth naming precisely: Ashish Vaswani and colleagues' 2017 paper
+"Attention Is All You Need" introduced it as an efficient way to let a
+model weigh every part of its input against every other part, with no
+claim at all, one way or the other, about whether that constitutes
+understanding. This project's choice to treat that same mechanism as the
+place a ledger disappears is an interpretive argument layered on top of a
+technical one — not something the mechanism's own inventors asserted.
+
 **Where this comes from:** the contrast in this chapter is drawn from
 `eo-constitution/CONSTITUTION.md` Article II.8, "The difference test" (*"Does
 this mechanism build a nothing, or weight what is present? ... Attention is
@@ -87,7 +117,9 @@ the canonical instance and is refused wherever it is the measurement"*), and
 from `eoreader6/prior-art-teachable-language-comprehender.md` §VI, on the
 "absorb it" strategy and its cost: *"there is no ledger. You cannot ask
 which of its knowledge was used, or what it declined to conclude, or what it
-discarded."*
+discarded."* The Vaswani et al. and Bender et al. connections above are
+this book's own added links to the wider NLP literature, not sources the
+codebase itself cites.
 
 <!-- nav:start -->
 [← 0.3 — A Ten-Minute Ontology and Epistemology Primer](003-ontology-and-epistemology-primer.md) · [Contents](000-index.md) · [1.1 — Noticing →](101-noticing.md)

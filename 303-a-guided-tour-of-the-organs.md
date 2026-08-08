@@ -9,6 +9,9 @@
 
 
 
+
+
+
 **Why this matters:** Part I taught you one move, and Part II taught you the
 grammar every act is described in. This chapter introduces the actual
 working parts — this system's word for them is **organs** — that carry the
@@ -67,6 +70,30 @@ say what a relationship *means*. It reports that two things are linked, and
 in which direction one seems to drive the other — meaning, if it comes, is
 somebody else's job.
 
+## Two old philosophical problems these organs are built to dodge
+
+Splitting the work into separate organs, each with one job and one
+explicit refusal, has a real cousin in philosophy of mind: Jerry Fodor's
+1983 book *The Modularity of Mind* argued that at least some mental
+processes are handled by dedicated, encapsulated modules — each one fast,
+specialized, and unable to see or be second-guessed by the others'
+internal workings — rather than by one general-purpose reasoning process
+doing everything. `nul`, `frame`, `temporality`, and the binding organ, each
+with a one-line job and a one-line refusal, are the same design instinct:
+narrow, specialized competence instead of one thing that tries to do
+everything.
+
+`frame`'s refusal to watch its own trail is worth naming against an older
+problem still: the **homunculus regress**, a standard objection in
+philosophy of perception. If seeing requires a little person inside your
+head looking at an image on your retina, then how does *that* homunculus
+see — do you need a smaller homunculus inside its head, and so on forever?
+Any theory that explains a capacity by positing a smaller version of the
+same capacity watching it has explained nothing; it's just pushed the
+question back one layer. `frame` refuses this exact trap by construction,
+declining to let a ground be the first act of its own trail, rather than
+declaring the regress solved and hoping nobody checks.
+
 ## Four more organs, honestly under-described
 
 This book can also point you to the *names* `discourse`, `formation`,
@@ -95,7 +122,9 @@ never a language... Meaning, when it comes, is earned by higher organs."*
 `verdict` and `cascade` are named in `eoreader6/CUBE.md` line 120 and in
 several places across SEED.md's amendments (e.g. Amendment XV, *"the same
 standing `cascade` already holds"*), without a passage this book found
-sufficient to teach them fully.
+sufficient to teach them fully. The Fodor and homunculus-regress
+connections above are this book's own added links to philosophy of mind,
+not something the codebase itself cites.
 
 <!-- nav:start -->
 [← 3.2 — Gifts, Not Guesses](302-gifts-not-guesses.md) · [Contents](000-index.md) · [3.4 — Turns and Memory →](304-turns-and-memory.md)

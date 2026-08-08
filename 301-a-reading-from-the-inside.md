@@ -1,8 +1,11 @@
 # 3.1 — A Reading, From the Inside
 
 <!-- nav:start -->
-[← 2.5 — Why All Three Have to Agree](205-why-all-three-have-to-agree.md) · [Contents](000-index.md) · [3.2 — Gifts, Not Guesses →](302-gifts-not-guesses.md)
+[← 2.6 — Checked Against Language Itself](206-checked-against-language-itself.md) · [Contents](000-index.md) · [3.2 — Gifts, Not Guesses →](302-gifts-not-guesses.md)
 <!-- nav:end -->
+
+
+
 
 
 
@@ -56,6 +59,25 @@ to the rest:
   the one piece of testimony that earned witness: a real figure, backed by
   real evidence, that the system was willing to speak about.
 
+## An old discipline this resembles, and where it stops resembling it
+
+Literary scholarship has its own long-standing name for reading this
+closely and accounting for exactly what's used and what's set aside: close
+reading, the practice mid-twentieth-century critics like the New Critics
+built into a method — attend only to what's actually on the page, resist
+filling gaps with outside biography or assumption, and be able to point to
+the specific words a claim rests on. The Frankenstein answer above does
+something structurally similar: it doesn't reach for what everyone already
+assumes about Frankenstein, it reaches for one particular passage and
+reports exactly what got left out along the way.
+
+The resemblance stops at method, not result. Close reading is a human
+critical practice aimed at richer interpretation, argued in prose, judged
+by other readers. What you just watched is a measurement — a passage
+either cleared the witness gate or it didn't, reported with a byte range
+rather than a critical argument. Both refuse to answer from assumption
+alone. Only one of them is a formal test with a computable outcome.
+
 ## What "reading" meant, here, end to end
 
 Nothing about this required the system to have any general opinion about
@@ -74,8 +96,10 @@ the citation itself all the way back to the real bytes it came from.
 
 **Where this comes from:** `eochat/essay.md`, in full — a real, already-
 produced answer from the running system, including its own citation and its
-own "What this leaves out" accounting.
+own "What this leaves out" accounting. The close-reading connection above
+is this book's own added link to literary-critical practice, not something
+the codebase itself cites.
 
 <!-- nav:start -->
-[← 2.5 — Why All Three Have to Agree](205-why-all-three-have-to-agree.md) · [Contents](000-index.md) · [3.2 — Gifts, Not Guesses →](302-gifts-not-guesses.md)
+[← 2.6 — Checked Against Language Itself](206-checked-against-language-itself.md) · [Contents](000-index.md) · [3.2 — Gifts, Not Guesses →](302-gifts-not-guesses.md)
 <!-- nav:end -->

@@ -9,6 +9,9 @@
 
 
 
+
+
+
 **Why this matters:** Chapter 1.1 said a ground gets rebuilt fresh every
 time — never kept as a permanent fixture. So how does this system have a
 conversation at all, across separate turns, without either dragging along
@@ -50,6 +53,34 @@ lying around by accident. It's the same discipline from Chapter 3.2, run
 on the conversation itself: the engine will tell you honestly what it can
 verify about its own sequence, and will not quietly claim more than that.
 
+## Two fields that already chose small handoffs over full history
+
+Web architecture solved a related problem the same way. HTTP, the
+protocol underneath most of the web, is deliberately **stateless** — a
+server isn't required to remember anything about a previous request on its
+own — and the practice that grew up around that constraint is to pass a
+small token (a session ID, a cookie) forward instead, letting the *client*
+carry continuity rather than making the server accumulate a growing
+history of every past interaction. The register this chapter describes is
+the same trade: a small, constant-sized handoff instead of an
+ever-growing log the engine would have to keep re-reading.
+
+Cognitive psychology draws a related line inside human memory itself.
+Alan Baddeley's working-memory model (developed from the 1970s onward)
+treats the small amount you're actively holding onto right now as
+functionally distinct from the vast, separately-organized store of
+long-term memory — a deliberately narrow, bounded workspace, not a
+window onto everything you've ever experienced. The register is closer to
+this project's version of working memory than to a full transcript: small
+on purpose, refreshed every turn, never itself the archive.
+
+Neither parallel is exact. HTTP's statelessness is a protocol-level
+convenience that says nothing about cognition, and working memory is a
+claim about human brains, not turn-taking software. What both share with
+this chapter's register is the same underlying bet: continuity doesn't
+require carrying the whole past forward, only a small enough piece of it
+that the next step can pick up correctly.
+
 ## Why this avoids Chapter 3.3's watching problem
 
 You might notice this sounds close to `frame`'s job from the last chapter —
@@ -68,7 +99,10 @@ partially earned: the turn holds a sequence" — *"`runTurn` now receives a
 locally at the turn boundary... What is still not earned is the enforcement
 that a genuinely-first ground is *received* — the engine cannot know that
 the caller read nothing before... The register is one closing scalar plus a
-declared choice, never a rollup of the trail."*
+declared choice, never a rollup of the trail."* The HTTP-statelessness and
+working-memory connections above are this book's own added links to web
+architecture and cognitive psychology, not something the codebase itself
+cites.
 
 <!-- nav:start -->
 [← 3.3 — A Guided Tour of the Organs](303-a-guided-tour-of-the-organs.md) · [Contents](000-index.md) · [3.5 — Refusal as an Answer →](305-refusal-as-an-answer.md)

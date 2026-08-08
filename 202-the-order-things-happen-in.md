@@ -9,6 +9,9 @@
 
 
 
+
+
+
 **Why this matters:** the nine verbs in Chapter 2.1 aren't interchangeable
 building blocks you can call in any sequence. Some of them can only happen
 after others already have. Understanding that ordering is what will let you
@@ -48,6 +51,59 @@ those things exist as things worth tracking in the first place. Connecting
 comes after admitting. There's no way to run it the other way around and
 have the result mean anything.
 
+## A discipline computer science already leans on hard
+
+The rule "you cannot use something before it's been established" is a
+load-bearing idea in programming language design too, under a different
+name: a **dependency graph**, or more specifically a topological
+ordering — the same discipline that stops a spreadsheet from letting one
+cell's formula depend on a value that depends right back on it, or stops
+a compiler from letting code reference a variable declared later in the
+file. Modern "dependently typed" programming languages generalize this
+further, requiring that a *type* itself only reference values that were
+already established earlier in the same proof — you can't build a claim
+about something before you've built the something. This project's grain
+axis (Ground, then Figure, then Pattern) and its cross-verb dependency
+(admission before binding) are the same shape of rule, applied to acts of
+reading rather than to lines of code.
+
+The two fields part ways on what enforces the rule. A type checker or a
+build system rejects a violation at compile time, mechanically, before the
+program ever runs. This project's ordering is enforced by what the organs
+actually operate *on* — the binding organ simply has nothing to read until
+an entity register exists — rather than by a separate checking pass
+sitting outside the mechanism. The effect is the same (an out-of-order act
+can't produce a meaningful result); the enforcement is built into the
+material itself rather than bolted on as a separate validator.
+
+## A framework outside computing that landed on the same shape
+
+Developmental psychology has its own version of "a higher order only means
+something once a lower one is in place," arrived at for entirely different
+reasons. Michael Commons, Francis Richards, and Patrice Kuhn's Model of
+Hierarchical Complexity (1982, extending Piaget) scores the complexity of
+a task by three axioms: a higher-order action must be **defined in terms
+of** actions at the next order down, must **organize** those lower-order
+actions, and must do so **non-arbitrarily** — producing an outcome the
+lower order alone couldn't reach. That third axiom is doing the same work
+as this chapter's own rule: you can't get a pattern by chaining figures
+together any old way, only by a figure genuinely earning pattern-status
+against what comes next. The model also insists its stages are quantal — a
+task is at a given order or it isn't, no partial credit — and a later
+psychometric study (Commons et al., 2014) found real, empirically
+measurable gaps between the orders, not a smooth continuum.
+
+This project doesn't build on that model, and the resemblance was
+noticed, not planned: a different, later generation of this project's
+own notes name the Model of Hierarchical Complexity explicitly as a
+**convergent** framework — independently derived, mathematically
+grounded, arriving at structural conclusions about how action gets
+organized that parallel this project's own grain axis, without either
+one having been built from the other. Two unrelated attempts to formalize
+"this level of structure has to be built out of, and non-arbitrarily
+organize, the level below it" landing on the same shape is worth noting
+as exactly that: a convergence, not a shared ancestry.
+
 ## Why this matters more than it looks like it should
 
 It would be easy to read this as a boring implementation detail — of
@@ -68,7 +124,14 @@ of the cube's three axes, alongside mode and domain, is set out in
 It is the same three terms; the seed's unit is one axis of this
 instrument."* The binding-organ dependency is from `eoreader6/SEED.md`,
 Amendment X: *"The binding organ ... reads an entity register — arrival
-indices of beings already admitted through the witness gate."*
+indices of beings already admitted through the witness gate."* The
+dependency-graph and dependent-typing connections above are this book's
+own added links to programming language theory, not something the
+codebase itself cites. The Model of Hierarchical Complexity connection is
+drawn from `eoreader4.2/docs/eo-wiki.md`, "Model of Hierarchical
+Complexity (Commons)" — a related but separate generation's own notes,
+which name the convergence themselves rather than this book asserting it
+from outside.
 
 <!-- nav:start -->
 [← 2.1 — Nine Verbs](201-nine-verbs.md) · [Contents](000-index.md) · [2.3 — Nine Kinds of "Where" →](203-nine-kinds-of-where.md)

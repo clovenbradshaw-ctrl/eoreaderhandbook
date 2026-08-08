@@ -9,6 +9,9 @@
 
 
 
+
+
+
 **Why this matters:** Chapter 3.1 showed you a citation in a real answer —
 `pg84.txt @ bytes 263105–265217` — and asked you to trust that it actually
 pointed somewhere real. This chapter is about the mechanism that makes that
@@ -68,6 +71,29 @@ underlying index serving both a real file path and something you'd
 attached directly, so the two cases produce identical offsets instead of
 two different addressing schemes quietly disagreeing with each other.
 
+## The same problem, at a much larger scale, in science itself
+
+This mechanism is a small, automated answer to a problem that's caused a
+genuine crisis in published research. John Ioannidis's widely cited 2005
+paper "Why Most Published Research Findings Are False" argued that a
+large fraction of scientific claims can't actually be traced back,
+reliably, to the evidence that supposedly supports them — and the
+so-called **replication crisis** that followed found that a striking share
+of results in fields like psychology couldn't be reproduced at all when
+someone actually tried. The common thread: a citation, in a paper or in a
+chat answer, is only as good as the round trip back to what it claims to
+rest on, and for years the scientific literature simply didn't check that
+round trip systematically, at scale, before publication.
+
+Forensic science's **chain of custody** is the older, more literal version
+of the same idea: evidence has to be traceable, unbroken, from the moment
+it's collected to the moment it's presented, or it doesn't count as
+admissible regardless of how compelling it looks. The mechanism this
+chapter describes — citation, to span, to source bytes, checked before
+display — is a chain of custody for a quoted sentence, run automatically,
+on every single claim, rather than assumed to hold and audited only when
+someone happens to complain.
+
 ## What this actually buys you as a reader
 
 None of this promises the *interpretation* in an answer is correct — Part
@@ -82,7 +108,10 @@ if you'd bothered to look.
 **Where this comes from:** the citation-scope rule is `eochat/instruction-
 set/020-core-citation-law.md`, lines 12-14. The round-trip law (L2f) and
 the pre-display fabrication check (L8) are `eochat/LAWS.md`, lines 215-217
-and 627-634. The incident and its fix are `eochat/LAWS.md`, lines 220-248.
+and 627-634. The incident and its fix are `eochat/LAWS.md`, lines 220-248. The
+reproducibility-crisis and chain-of-custody connections above are this
+book's own added links to the philosophy of science and forensics, not
+something the codebase itself cites.
 
 <!-- nav:start -->
 [← 5.3 — Four Promises to the Reader, in Plain Language](503-four-promises-to-the-reader.md) · [Contents](000-index.md) · [5.5 — Writing Something Long Without Losing the Thread →](505-writing-something-long-without-losing-the-thread.md)

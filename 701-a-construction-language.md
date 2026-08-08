@@ -4,6 +4,9 @@
 [← 6.4 — The Honest Gap List](604-the-honest-gap-list.md) · [Contents](000-index.md) · [7.2 — The Watchmaker's Discipline →](702-the-watchmakers-discipline.md)
 <!-- nav:end -->
 
+
+
+
 **Why this matters, and a boundary to draw first:** this chapter and the two
 after it describe something real, but it isn't a description of EO Reader
 6 or EO Chat. It's a related, earlier generation of the same lineage —
@@ -56,6 +59,59 @@ never choose which of the nine operators a line of EOT invokes; the
 kernel recovers that from the punctuation shape itself, and it validates
 your output rather than trusting you to have validated it yourself.
 
+## The contract idea itself has a well-known name
+
+Every part declaring, in advance, exactly what it's allowed to do, checked
+mechanically by a kernel rather than trusted to the programmer, is the
+central idea of **Design by Contract**, a discipline Bertrand Meyer built
+directly into the Eiffel programming language starting in 1986: every
+routine declares a precondition (what has to be true to call it) and a
+postcondition (what it guarantees in return), and the language itself
+enforces both rather than leaving them as comments a programmer might or
+might not honor. This construction language's "every part declares a
+contract... a kernel checks every emitted event against it" is that same
+idea, with the contract's shape fixed to exactly three fields (operators,
+terrains, stances) instead of Meyer's more general pre/postcondition
+pairs.
+
+Where they part ways: Meyer's contracts are about a routine's inputs and
+outputs in the ordinary programming sense — arguments, return values,
+invariants on an object's internal state. This language's contracts are
+about which of nine specific operators, terrains, and stances a part's
+events are allowed to touch — a narrower, more structurally specific
+vocabulary, built for one particular nine-cell grid rather than for
+general-purpose correctness.
+
+## Two comparisons this generation already drew about itself
+
+Unlike the Design-by-Contract connection above, which this book is adding
+from outside, this generation's own later roadmap notes (`eoreader4.2/
+docs/eot-coder-roadmap.md`) draw two comparisons to real, existing work on
+their own — worth passing on because they're more precise than a general
+resemblance. First, **controlled natural languages** — Attempto Controlled
+English is the field's standard example — restrict ordinary language
+grammar deliberately so that a sentence maps deterministically onto formal
+logic; EOT's punctuation-recovers-the-operator design is the same
+instinct aimed at symbols instead of restricted English sentences. Second,
+**projectional editing**, pioneered by JetBrains' MPS: instead of writing
+text and parsing it, you edit a structured tree directly and treat text as
+only ever a projection of it, so a malformed state is unreachable rather
+than merely caught after the fact. The same notes call EOT "projectional-
+adjacent already" for exactly this reason — the kernel recovering an
+operator from punctuation shape, rather than trusting a written line to
+already be valid, leans the same direction without going all the way to a
+structural editor.
+
+The same notes also name a live example of "verify during generation, not
+after" from outside this project entirely: ConstraintLLM (EMNLP 2025), a
+neurosymbolic system that extracts formal constraints from a natural-
+language requirement, generates a model, and self-corrects on violation
+before ever handing off to a solver — the roadmap's own gloss is "emit →
+checkpoint → revise wearing different clothes." That's the same shape as
+this construction language's own kernel-checks-every-emitted-event
+discipline, arrived at independently in a completely different corner of
+applied NLP research.
+
 ## A genuinely different bet about grain and dependency
 
 One difference is worth naming directly, because it's a real, substantive
@@ -80,7 +136,13 @@ table and the "propose; the kernel disposes" line are from "Layer 0 — The
 Legend." The linear dependency chain ("the helix") and its claim about
 1,295 of 1,296 orderings failing is from "Layer 1 — The Nine Operators."
 The contrast with `eoreader6/CUBE.md`'s "instrument, not runtime" framing
-is drawn from that file directly, discussed in Chapter 2.5.
+is drawn from that file directly, discussed in Chapter 2.5. The Design-by-
+Contract connection above is this book's own added link to programming
+language history (Bertrand Meyer's Eiffel, from 1986 onward), not
+something the source document itself cites. The Attempto/JetBrains-MPS
+and ConstraintLLM comparisons are, by contrast, drawn directly from
+`eoreader4.2/docs/eot-coder-roadmap.md` §2.1-2.2 — that generation's own
+comparison to outside work, not this book's addition.
 
 <!-- nav:start -->
 [← 6.4 — The Honest Gap List](604-the-honest-gap-list.md) · [Contents](000-index.md) · [7.2 — The Watchmaker's Discipline →](702-the-watchmakers-discipline.md)
