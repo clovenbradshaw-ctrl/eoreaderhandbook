@@ -4,6 +4,7 @@
 [← 7.3 — A Worked Build, Start to Finish](703-a-worked-build-start-to-finish.md) · [Contents](000-index.md) · *(more chapters coming)* →
 <!-- nav:end -->
 
+
 **Why this matters:** every chapter from Part 0 through Part VII now carries
 at least one comparison to something outside this project — Gestalt
 psychology, Bayesian statistics, a related generation's own wiki, Herbert
@@ -124,7 +125,8 @@ connection exists that a closer search might still find.
 | 3.4 | HTTP statelessness; Baddeley's working-memory model | Rhymes | Not named in any source material |
 | 3.5 | Chow's reject option (1970); Rubin's missing-data taxonomy (1976); Scots "not proven" | Rhymes | Not named in any source material |
 | 3.5 | Łukasiewicz (1920) → Codd's NULL problem (1970/1990) | **Witnessed** | `eoreader4.2/docs/eo-wiki.md`, "EO and Codd's Null Problem," makes this exact historical argument itself |
-| 3.6 | Negative controls; preregistration | Rhymes | Not named in any source material |
+| 3.6 | Negative controls | Rhymes | Not named in any source material |
+| 3.6 | Preregistration | **Witnessed** *(corrected — was "Rhymes" in this table's first edition)* | `eoreader6/prior-art-teachable-language-comprehender.md` §VII names it as a claimed differentiator — *"And pre-registration. `reach` was predicted to spike at boundaries. It didn't... Machine reading, as a field, has approximately no tradition of this"* — with the failed prediction kept in the results file as the receipt. The first edition of this table scored it "not named in any source material," which was simply wrong; recorded here rather than silently fixed |
 
 ## The scorecard — Part IV and Part V
 
@@ -150,13 +152,45 @@ connection exists that a closer search might still find.
 | 7.1 | Bertrand Meyer's Design by Contract (1986) | Rhymes | Not named in any source material |
 | 7.1 | Attempto controlled natural language; JetBrains MPS; ConstraintLLM (EMNLP 2025) | **Witnessed** | `eoreader4.2/docs/eot-coder-roadmap.md` §2.1–2.2 draws all three comparisons itself |
 
+## The scorecard — the second audit, and the chapters added with it
+
+A second citation audit (`eoreader6/prior-art-surprise-segmentation-and-
+memory.md`) landed after this table's first edition, and it changed the
+shape of the evidence in one important way: it put citations *into the
+code files themselves*, next to the mechanisms they describe. A citation
+in a file header is the strongest form of "witnessed" this rubric has —
+the project doesn't just name the source somewhere, it names it where the
+mechanism lives, with the divergence stated. Chapter 6.5 carries these in
+full; the rows here are the audit trail.
+
+| Chapter | Connection | Verdict | Evidence |
+|---|---|---|---|
+| 6.5 | Marr (1971) archicortex model; McClelland, McNaughton & O'Reilly (1995) | **Witnessed, in-file** | Named in `eoreader6/packages/engine/emergence/activation.js`'s own header as the mechanism's ancestors |
+| 6.5 | Collins & Loftus (1975); Crestani (1997) | **Witnessed, as named divergence** | Same header, cited explicitly as *"the mechanism this one is not"* — an ancestor named in order to state a departure, not a lineage claimed |
+| 6.5 | Foote (2000); Hearst (1997), TextTiling | **Witnessed, in-file** | Named in `eoreader6/packages/engine/emergence/tiers.js`'s header, with the divergence stated: *"a different statistic solving the same problem, not an instance of theirs"* |
+| 6.5 | C99 (Choi); Pk (Beeferman, Berger & Lafferty 1999); WindowDiff (Pevzner & Hearst 2002) | **Witnessed** | Reimplemented and run in `eoreader6/scripts/lib/segmentation-baselines.mjs` and `segmentation-metrics.mjs`; the measured comparison — including where this project's own detector did *not* clearly win — is the essay's §4 |
+| 6.5 | Fortescue, Kershenbaum & Ydstie (1981); DDM (Gama et al. 2004); ADWIN (Bifet & Gavaldà 2007) | **Witnessed** | Cited in `reading-regime.js`'s header and the Assembly C design doc for a mechanism that is *not yet built* — prior art filed in advance |
+| 6.5 | HippoRAG 2 (Gutiérrez et al., 2025) | **Witnessed** | The essay's §5 runs the dependency comparison itself, and declines the recall benchmark for a stated structural reason |
+| 6.1–6.3 | Schank (1972); Schank & Abelson (1977); SAM/PAM/FRUMP; Lenat's CYC; MUC (1987–98) and MUC-6; Hirschman's Deep Read (1999); Hermann et al. (2015); Rajpurkar et al., SQuAD (2016); Chen, Bolton & Manning (2016); Jia & Liang (2017); Levesque (2011); TextRunner (2007); ReVerb (2011); NELL (2010); Landauer & Dumais (1997); Knowledge Vault; PROV-O; LCF / de Bruijn | **Witnessed** *(now also named in this book's own chapter bodies, not only in footers)* | All named in `prior-art-teachable-language-comprehender.md` §§II–VII, which those chapters quote verbatim as of this edition. Previously excluded from this table only because Part VI's chapters *are* the prior-art chapters; listed now so the table is complete |
+| 0.3 | Ken Wilber's integral (AQAL) framework | **Named contrast — the opposite of a lineage claim** | No source material in any generation mentions Wilber. Chapter 0.3 introduces him solely to refuse the genre: an everyone-is-right synthesis is what this project's refutable, demotable grid is *not*. A comparison made in order to reject it is scored here so the rejection itself stays auditable |
+
+One correction this second audit forced on the essay-A-derived chapters
+themselves: the recall figure Chapter 6.4's first edition inherited
+("p≈0.005") was retracted by the second audit as measured against a
+fixture that doesn't exist in the repository — *"The number this repo has
+been citing for this comparison is stale"* — and re-measured at 8/24,
+p≈0.046. The paraphrase had inherited a retracted number invisibly;
+quoting with provenance is what made the staleness findable at all.
+
 ## Summary verdict
 
 | Verdict | Count |
 |---|---|
-| Witnessed (including one "as convergence") | 9 |
+| Witnessed (first edition, including one "as convergence") | 9 |
+| Witnessed, added or corrected in this edition (second audit, in-file citations, Part VI namings, preregistration correction) | 8 rows above, covering ~25 named sources |
 | Unreceived origin, now named | 2 |
-| Rhymes | roughly 40 |
+| Named contrast (Wilber — refused, not claimed) | 1 |
+| Rhymes | roughly 38 |
 | Background fact (unscored) | 1 |
 
 The honest shape of this table is the point: most of what this book has

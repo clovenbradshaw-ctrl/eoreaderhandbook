@@ -9,6 +9,7 @@
 
 
 
+
 **Why this matters:** Chapter 3.6 already showed you the role-fold arc as a
 worked example of the growth rule in action. This chapter is about the
 actual problem that arc is trying to solve — a specific, named, decades-old
@@ -52,10 +53,33 @@ on — FrameNet, PropBank, a long-running sequence of shared evaluation
 tasks. It works, moderately well, and it is thoroughly **supervised**: it
 depends on exactly the kind of large, hand-built, human-annotated resource
 the "reading as filling a template" era already showed doesn't scale
-cleanly. There's also an **unsupervised** version of the idea — inducing
-role-like clusters from patterns in text with no hand labels at all — and
-it's real, live research, with results that remain considerably weaker
-than the supervised version.
+cleanly (FrameNet from 1997, PropBank from 2005, both hand-annotated).
+There's also an **unsupervised** version of the idea — inducing role-like
+clusters from patterns in text with no hand labels at all: Titov and
+Klementiev, and Lang and Lapata, around 2010–11. It's real, live
+research, with results that remain considerably weaker than the
+supervised version — and, the essay adds, *"as far as I know, [it] has
+never been demonstrated on the agentless register,"* the register this
+project most needs it for.
+
+The field also rediscovered Fillmore's problem from the opposite
+direction, and one finding from that rediscovery converges on this
+project's own mechanism closely enough that it has to be named. Open
+Information Extraction — TextRunner in 2007, then ReVerb in 2011 (Fader,
+Soderland and Etzioni) — set out to extract relations from web text with
+no target schema at all, found that unconstrained extraction produced
+incoherent junk, and fixed it partly with a lexical constraint: a
+relation phrase earns its status by recurring across many distinct
+argument pairs. The essay's own words on what that means here: *"That is
+`discoverRelationVocab` and the ≥2-distinct-surfaces recurrence
+requirement, arrived at independently, and the convergence is the good
+news. The bad news is in the first constraint: even with the recurrence
+test, ReVerb needed a verb-centered syntactic pattern to avoid garbage."*
+And verb-centered extraction has a well-known blind spot the essay names
+precisely because it lands on this project's own corpus: it misses
+nominalized relations — *"the acquisition of X by Y, the deployment of
+cameras in the district"* — exactly the construction that dominates
+administrative prose.
 
 **This project is not doing either of those things**, and it's worth being
 precise about why not, rather than leaving the impression that role-fold
@@ -64,16 +88,17 @@ role-fold is trained against a hand-annotated corpus of agent/instrument/
 patient labels, and nothing in it inherits FrameNet's or PropBank's
 category system. What it borrows instead — and this is the same precise
 sense of "borrowed" Chapter 3.6 already walked through — is a strategic
-idea from a completely different field: research on how children actually
-acquire verbs, which found that they build narrow, per-verb patterns of
-"who does this with what" long before they generalize across verbs at all.
-Role-fold took that one finding — cluster narrow, per verb, before you
-ever pool across verbs — and used it to reorder its own clustering
-question, then tested whether the reorder helped its own real data. It
-did. A second technique for finding candidate word groups in the first
-place borrows, in the same precise way, a statistical signature from
-research on how infants segment continuous speech into word-like chunks
-with no grammar at all.
+idea from a completely different field: Michael Tomasello's "verb island"
+work on how children actually acquire verbs, which found that they build
+narrow, per-verb patterns of "who does this with what" long before they
+generalize across verbs at all. Role-fold took that one finding — cluster
+narrow, per verb, before you ever pool across verbs — and used it to
+reorder its own clustering question, then tested whether the reorder
+helped its own real data. It did. A second technique for finding
+candidate word groups in the first place borrows, in the same precise
+way, a statistical signature from Saffran, Aslin and Newport's research
+on how infants segment continuous speech into word-like chunks with no
+grammar at all.
 
 ## What this has actually earned, stated at the same size as the claim
 
@@ -96,18 +121,22 @@ named directly, in the same file that reports the progress, rather than
 left for a reader to notice on their own.
 
 **Where this comes from:** Fillmore's argument and the field's response
-(FrameNet, PropBank, unsupervised SRL) are from `eoreader6/prior-art-
-teachable-language-comprehender.md`, §III, including the direct citation
-*"Charles Fillmore, The Case for Case, 1968"* and its three examples. The
-87% recall-loss measurement is from `eoreader6/scripts/experiments/
+(FrameNet 1997, PropBank 2005, unsupervised SRL by Titov & Klementiev
+and Lang & Lapata c. 2010–11, TextRunner 2007, and ReVerb — Fader,
+Soderland & Etzioni, 2011) are from `eoreader6/prior-art-teachable-
+language-comprehender.md`, §III, including the direct citation *"Charles
+Fillmore, The Case for Case, 1968"* and its three examples; every passage
+in quotation marks above is verbatim from that section, including the
+ReVerb convergence and the nominalized-relations limitation. The 87%
+recall-loss measurement is from `eoreader6/scripts/experiments/
 FINDINGS.md` §1 (PR #44, `goldens/agency-civic/`). The verb-island
-reordering and its citation of usage-based language-acquisition research,
-the transitional-probability chunking and its citation of infant
-speech-segmentation research, and the cross-lingual result ("the mouth is
+reordering (Tomasello), the transitional-probability chunking (Saffran,
+Aslin & Newport), and the cross-lingual result ("the mouth is
 language-specific by construction, the organ isn't") are from `eoreader6/
-scripts/experiments/README.md` (PRs #45–48). The stated ceiling against
-Fillmore's actual goal (two coarse, unlabeled kinds rather than named
-roles) is from `FINDINGS.md` §11.4.
+scripts/experiments/README.md` (PRs #45–48), which carries those
+citations itself. The stated ceiling against Fillmore's actual goal (two
+coarse, unlabeled kinds rather than named roles) is from `FINDINGS.md`
+§11.4.
 
 <!-- nav:start -->
 [← 6.1 — A Short History of Machines That Were Said to Read](601-a-short-history-of-machines-that-were-said-to-read.md) · [Contents](000-index.md) · [6.3 — What's Actually New Here →](603-whats-actually-new-here.md)

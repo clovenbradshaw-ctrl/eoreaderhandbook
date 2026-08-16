@@ -7,6 +7,7 @@
 
 
 
+
 **Why this matters:** you've already met this discipline once, in Chapter
 5.5, governing how EO Chat writes something long. This chapter shows you
 the same parable, doing the same job, in a completely different corner of

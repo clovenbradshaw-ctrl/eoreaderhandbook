@@ -1,8 +1,9 @@
 # 6.4 — The Honest Gap List
 
 <!-- nav:start -->
-[← 6.3 — What's Actually New Here](603-whats-actually-new-here.md) · [Contents](000-index.md) · [7.1 — A Construction Language →](701-a-construction-language.md)
+[← 6.3 — What's Actually New Here](603-whats-actually-new-here.md) · [Contents](000-index.md) · [6.5 — Ancestors Named in the Code →](605-ancestors-named-in-the-code.md)
 <!-- nav:end -->
+
 
 
 
@@ -19,48 +20,72 @@ outside review that named what's genuinely new in the last chapter.
 
 Everything in this chapter is one outside reviewer's assessment of the
 codebase, checked against established psychology-of-reading research —
-**not** claims the codebase makes about itself. That distinction matters.
-Nowhere in this project's own working files does it say "we implement
-Kintsch's model" or "we satisfy Zwaan and Radvansky's checklist." A
-reviewer familiar with that research read the actual code and measured
-results and reported where they lined up and where they didn't. Three
-separate, independently-developed theories from cognitive psychology
-happen to agree with each other on one point, and the reviewer used that
-agreement as a diagnostic tool — a checklist to hold the project's own
-measurements up against, not a design document the project was following.
+**not** design documents the project was following. A reviewer familiar
+with that research read the actual code and measured results and reported
+where they lined up and where they didn't. Three separate,
+independently-developed theories from cognitive psychology happen to
+agree with each other on one point, and the reviewer used that agreement
+as a diagnostic tool — a checklist to hold the project's own measurements
+up against. (One update since the first edition of this chapter: it used
+to say the project's own working files never cite this literature. That
+was true when the review was written and is no longer true — a second
+audit has since put citations for the memory and boundary organs directly
+into the code files themselves, with their divergences stated. Chapter
+6.5 covers that audit in full.)
 
 ## The gap three theories agree on
 
-The shared claim, from research spanning 1978 to 1998: comprehension has
-two phases. The first is described as promiscuous and undiscriminating —
-a passage activates everything associated with it, irrelevant material
-included, with no filtering yet. The second is a settling process, where
-things that reinforce each other strengthen and things that don't get
-suppressed. **The theories' shared claim is that the first phase alone is
-not comprehension. It's the raw material — comprehension is the
-settling.**
+The three theories, by name: Walter Kintsch and Teun van Dijk's
+comprehension model (1978), developed into Kintsch's
+**construction-integration model** (1988); Morton Ann Gernsbacher's
+**Structure Building Framework** (1990); and Jerome Myers and Edward
+O'Brien's **resonance model** (1996–98). The shared claim: comprehension
+has two phases. The first is promiscuous and undiscriminating — a passage
+activates everything associated with it, irrelevant material included,
+with no filtering yet. The second is a settling process, where things
+that reinforce each other strengthen and things that don't get
+suppressed — in Gernsbacher's version the mechanism is **suppression**
+itself, and her evidence is that less-skilled comprehenders are not worse
+at activating meanings, they're worse at suppressing the ones that lose.
+The reviewer's summary sentence, kept exact: *"Three theories, developed
+independently over twenty years, all say the same thing: activation
+without settling is not comprehension."*
 
-Read against this project's own organs, the reviewer's finding is that the
-first phase is genuinely built, and the second mostly isn't. There's no
-step where an already-resolved binding actively dampens whatever
-competed with it, so a competitor that lost stays exactly as active as it
-was before it lost — and the project's own measurements are quietly
-consistent with this gap: the raw count of things that responded to a
-passage carries real signal, while the strength of any one response
-carries far less.
+One of the three the project actually got *right*, and the reviewer says
+so: the resonance model holds that reactivation from long-term memory is
+passive, cue-driven, and unguided by discourse focus — *"which eoreader6
+committed to explicitly, in the conformance test that says activation
+beats recency. This is the half the project got right, and getting it
+right was a real theoretical choice, not a default."* What's missing is
+the other half. There's no step where an already-resolved binding
+actively dampens whatever competed with it, so a competitor that lost
+stays exactly as active as it was before it lost. The reviewer's verdict
+on the cost of that absence: *"I would call this the single highest-value
+unbuilt thing in the reading path, and it is not a research problem. It
+is a known algorithm from 1988."*
+
+The project's own measurements are quietly consistent with this gap: the
+raw count of things that responded to a passage carries real signal,
+while the strength of any one response carries far less. (A caution the
+second audit added later: the strongest version of that number in
+circulation — 22 of 24 recalls, p≈0.005 — turned out to be stale,
+measured against a fixture that doesn't exist in this repository. The
+re-run gives 8 of 24, p≈0.046: still a real signal, several times
+weaker. Chapter 6.5 has the full correction.)
 
 ## Three of five situation-model dimensions, honestly absent
 
-A separate piece of research proposes that readers track a situation
-along five dimensions at once — time, space, causation, motivation, and
-who's involved — and pay a measurable cost whenever any one of those five
-breaks continuity. Checked against this project's organs: *who's involved*
-is tracked well. Something adjacent to *causation* is tracked, indirectly.
-*Time* is tracked only as the order material was presented in, not as
-time within the events being described. *Space* and *motivation* aren't
-tracked at all. Stated as what it is: not a criticism so much as a map of
-where the remaining work actually goes, with the dimension this project
-has invested most in being only one of five.
+Rolf Zwaan and Gabriel Radvansky's 1998 review of situation models
+proposes that readers track a situation along five dimensions at once —
+time, space, causation, motivation, and who's involved (the
+*protagonist*) — and pay a measurable cost whenever any one of those five
+breaks continuity. Checked against this project's organs, in the
+reviewer's own words: *"eoreader6 tracks protagonist (referents, well),
+something adjacent to causation (surprise and strain, indirectly), time
+only as reading order rather than as narrated time, and neither space nor
+motivation at all."* Stated as what it is: not a criticism so much as a
+map of where the remaining work actually goes, with the dimension this
+project has invested most in being only one of five.
 
 ## What Chapter 6.2 already told you, in this list's terms
 
@@ -84,15 +109,21 @@ project that has quietly stopped being able to tell the difference between
 
 **Where this comes from:** the two-phase comprehension theories (Kintsch
 and van Dijk, 1978; Kintsch's construction-integration model, 1988;
-Gernsbacher's Structure Building Framework, 1990) and the reviewer's
-finding about suppression are from `eoreader6/prior-art-teachable-
-language-comprehender.md`, §V. Zwaan and Radvansky's five-dimension
-situation-model checklist and its comparison against this project's organs
-is from the same file, end of §V. Both are explicitly the outside
-reviewer's own analysis, stated as such in the essay's closing note: *"The
-connections drawn between this literature and the engine's behaviour are
-mine and have not been checked against anyone else's reading of it."*
+Gernsbacher's Structure Building Framework, 1990; Myers and O'Brien's
+resonance model, 1996–98 — all three-plus-one named there, and every
+sentence quoted above is verbatim from there) are from
+`eoreader6/prior-art-teachable-language-comprehender.md`, §V. Zwaan and
+Radvansky's five-dimension situation-model checklist and its comparison
+against this project's organs is from the same file, end of §V. Both are
+explicitly the outside reviewer's own analysis, stated as such in the
+essay's closing note: *"The connections drawn between this literature and
+the engine's behaviour are mine and have not been checked against anyone
+else's reading of it."* The stale-number correction (22/24 p≈0.005 →
+8/24 p≈0.046) and the fact that `activation.js` and `tiers.js` now carry
+their own citations in-file are from
+`eoreader6/prior-art-surprise-segmentation-and-memory.md`, §4 and §1,
+covered in full in Chapter 6.5.
 
 <!-- nav:start -->
-[← 6.3 — What's Actually New Here](603-whats-actually-new-here.md) · [Contents](000-index.md) · [7.1 — A Construction Language →](701-a-construction-language.md)
+[← 6.3 — What's Actually New Here](603-whats-actually-new-here.md) · [Contents](000-index.md) · [6.5 — Ancestors Named in the Code →](605-ancestors-named-in-the-code.md)
 <!-- nav:end -->

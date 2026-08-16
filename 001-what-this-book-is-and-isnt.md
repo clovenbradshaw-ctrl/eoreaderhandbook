@@ -12,6 +12,7 @@
 
 
 
+
 **Why this matters:** if you come in expecting a developer manual or a product
 brochure, every chapter after this one will feel like it's answering the wrong
 question. This book has one job — to teach you what actually happens, in
@@ -25,6 +26,12 @@ persuade you these tools are good. It assumes nothing about your background:
 not machine learning, not linguistics, not philosophy. If a word like
 "model," "token," or "ontology" doesn't mean anything to you yet, that's the
 expected starting point, not a gap you're supposed to fill in beforehand.
+
+And it isn't a theory of everything. The grids this book teaches in Part
+II are opinionated commitments that can lose — and have lost — arguments
+with measurements, not a synthesis built to give every existing framework
+its honored place. Chapter 0.3 draws that line explicitly, against the
+genre of frameworks that promise everyone is right.
 
 ## What this is
 

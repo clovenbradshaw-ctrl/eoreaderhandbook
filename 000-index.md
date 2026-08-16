@@ -30,10 +30,22 @@ every prior-art comparison this book has made, sorting each one into
 *witnessed* (the project names the source itself), *unreceived origin,
 now named* (a specific, distinctive borrowing this book supplies the
 attribution for), or *rhymes* (a resemblance this book noticed, not a
-claimed lineage). See `HANDBOOK-SPEC.md`'s v0.5 through v0.7 changelogs
-for the full account. The rest of Part VIII (a glossary, quick-reference
-tables, an index of worked examples) remains to be built incrementally,
-from what the earlier parts actually cite, rather than up front.
+claimed lineage). A fourth pass (v0.8) added Chapter 2.7 — a
+pre-registered falsification attempt pitting the three axes against a
+rival triad, reported with its unsupported superiority claim stated
+plainly — and Chapter 6.5, folding in the second citation audit
+(`prior-art-surprise-segmentation-and-memory.md`) the book had never
+carried; it also reversed Part VI's footer-only naming style (sources
+are now named in chapter bodies, with the essays quoted verbatim rather
+than paraphrased), corrected two real errors that pass surfaced (a
+silently-substituted theory in 6.4 and a stale, since-retracted number),
+and added an explicit statement — Chapters 0.1 and 0.3 — that this
+project's ontology is opinionated and refutable, not a Wilber-style
+everyone-is-right synthesis. See `HANDBOOK-SPEC.md`'s v0.5 through v0.8
+changelogs for the full account. The rest of Part VIII (a glossary,
+quick-reference tables, an index of worked examples) remains to be built
+incrementally, from what the earlier parts actually cite, rather than up
+front.
 
 ## Part 0 — Before You Start
 
@@ -58,6 +70,7 @@ from what the earlier parts actually cite, rather than up front.
 - [2.4 Nine kinds of "how"](204-nine-kinds-of-how.md)
 - [2.5 Why all three have to agree](205-why-all-three-have-to-agree.md)
 - [2.6 Checked against language itself](206-checked-against-language-itself.md)
+- [2.7 Tried against a rival](207-tried-against-a-rival.md)
 
 ## Part III — How EO Reader 6 Reads
 
@@ -90,6 +103,7 @@ from what the earlier parts actually cite, rather than up front.
 - [6.2 The fifty-eight-year-old objection, and where the project is actually chipping at it](602-the-fifty-year-old-objection.md)
 - [6.3 What's actually new here](603-whats-actually-new-here.md)
 - [6.4 The honest gap list](604-the-honest-gap-list.md)
+- [6.5 Ancestors named in the code](605-ancestors-named-in-the-code.md)
 
 ## Part VII — Building Something With It
 

@@ -12,6 +12,7 @@
 
 
 
+
 **Why this matters:** Part II of this book teaches nine "kinds of where" and
 nine "kinds of how" that everything the system reads gets placed against.
 Those two grids will look like arbitrary jargon unless you first have a feel
@@ -101,12 +102,56 @@ into their frameworks would overstate the resemblance. What this book
 borrows is the two reflexes — the two questions — not any philosopher's
 particular answer to them.
 
+## What kind of ontology this is — opinionated, not a big tent
+
+One more thing to fix in place before Part II, because a reader who has
+met other grand-looking grids will otherwise bring the wrong expectation.
+There is a whole genre of frameworks whose crossing-of-axes *looks* like
+what Part II will show you — most famously Ken Wilber's "integral" AQAL
+model, which crosses interior/exterior with individual/collective into
+four quadrants and then files every discipline, tradition, and worldview
+into the resulting map. That genre's governing move is inclusion: every
+perspective holds a partial truth, and the framework's job is to give
+each one its honored place in a larger synthesis.
+
+**This project's grid is not that, and the difference is the point.** The
+grids Part II teaches are not built to make room for every view; they're
+built to be *wrong in public*. A cell in this project's grid is a claim
+that can be refused, and has been: the cube was tried once as a machine
+that classifies content, measured, refuted, and demoted to an instrument
+— an entire use of the grid thrown out because the numbers said so
+(Chapter 2.5 tells that story in full). Chapter 2.6 reports the grid's
+own locked-in predictions that *failed*, at the same length as the ones
+that held. And the source materials this book is built from contain a
+mapping of three of the nine operators onto Taoist, Buddhist, and
+Kabbalistic concepts of nothingness — exactly the kind of
+everything-connects material an integral framework would celebrate — that
+this book's own spec examined and deliberately refused to include, as too
+close to the confabulation risk Chapter 1.4 warns about. An ontology you
+can be argued out of, cell by cell, under measurement, is a different
+kind of object from a map built so that nothing ever has to lose. When
+this book later says a rival framing is wrong — and it will — that is the
+system working as designed, not a failure of generosity.
+
+(Chapter 8.1 audits this book's own comparisons to Wilber's genre and
+everything else: where a resemblance is claimed as lineage, it needs a
+named source; where it's just noticed, it's labeled as noticing.)
+
 **Where this comes from:** this chapter is original exposition, written to
 prepare the reader for Part II §2.3 ("Nine kinds of 'where'" — the terrains)
 and §2.4 ("Nine kinds of 'how'" — the stances). See `HANDBOOK-SPEC.md` §6,
 Part II. The Aristotle, Quine, and Popper connections above are this
 book's own added links to the wider history of philosophy, not sources the
-codebase itself cites.
+codebase itself cites. So is the Wilber contrast — no source material in
+this lineage mentions Wilber or integral theory; the comparison is drawn
+here precisely to refuse it, not to claim kinship. The refused
+Taoist/Buddhist/Kabbalistic mapping is real and documented: see
+`HANDBOOK-SPEC.md`, v0.6 changelog ("Material considered and deliberately
+left out of this pass"), which records both it and the reason it stayed
+out. The cube's demotion from classifier to instrument is
+`eoreader6/CUBE.md`: *"As a classifier — deriving a cell from content —
+this was already measured and refuted... It is promoted out of the
+code."*
 
 <!-- nav:start -->
 [← 0.2 — A Ten-Minute Grammar and Meaning Primer](002-grammar-and-meaning-primer.md) · [Contents](000-index.md) · [0.4 — What a Language Model Is, in Plain Terms, and Why This Project Keeps Its Distance From One →](004-what-a-language-model-is.md)

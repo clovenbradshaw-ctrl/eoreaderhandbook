@@ -12,6 +12,7 @@
 
 
 
+
 **Why this matters:** the nine verbs in Chapter 2.1 aren't interchangeable
 building blocks you can call in any sequence. Some of them can only happen
 after others already have. Understanding that ordering is what will let you
