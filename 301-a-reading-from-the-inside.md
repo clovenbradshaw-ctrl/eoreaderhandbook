@@ -1,8 +1,10 @@
 # 3.1 — A Reading, From the Inside
 
 <!-- nav:start -->
-[← 2.6 — Checked Against Language Itself](206-checked-against-language-itself.md) · [Contents](000-index.md) · [3.2 — Gifts, Not Guesses →](302-gifts-not-guesses.md)
+[← 2.7 — Tried Against a Rival](207-tried-against-a-rival.md) · [Contents](000-index.md) · [3.2 — Gifts, Not Guesses →](302-gifts-not-guesses.md)
 <!-- nav:end -->
+
+
 
 
 
@@ -101,5 +103,5 @@ is this book's own added link to literary-critical practice, not something
 the codebase itself cites.
 
 <!-- nav:start -->
-[← 2.6 — Checked Against Language Itself](206-checked-against-language-itself.md) · [Contents](000-index.md) · [3.2 — Gifts, Not Guesses →](302-gifts-not-guesses.md)
+[← 2.7 — Tried Against a Rival](207-tried-against-a-rival.md) · [Contents](000-index.md) · [3.2 — Gifts, Not Guesses →](302-gifts-not-guesses.md)
 <!-- nav:end -->

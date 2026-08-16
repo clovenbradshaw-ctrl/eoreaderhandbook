@@ -1,16 +1,58 @@
 # The EO Reader 6 / EO Chat Handbook — a specification
 
-**Status:** v0.7. Parts 0 through VII are written in full, Part II now
-carries a sixth chapter, and Part VIII has been started — out of its
-originally-planned order — with a provenance audit of every prior-art
-comparison the handbook has made. Real prior art from fields outside this
-project runs alongside every chapter's own account of the codebase,
-including two passes drawing on `eoreader5`, `eoreader4.2`, and
-`eoreader6`'s own sibling material once those repositories were actually
-read rather than guessed at. Only the rest of Part VIII (a glossary,
-quick-reference tables, an index of worked examples) remains, and it's
-designed to be built incrementally from what the earlier parts already
-cite rather than drafted up front.
+**Status:** v0.8. Parts 0 through VII are written in full, Part II now
+carries seven chapters, Part VI carries five, and Part VIII has been
+started — out of its originally-planned order — with a provenance audit
+of every prior-art comparison the handbook has made. Real prior art from
+fields outside this project runs alongside every chapter's own account of
+the codebase. Only the rest of Part VIII (a glossary, quick-reference
+tables, an index of worked examples) remains, and it's designed to be
+built incrementally from what the earlier parts already cite rather than
+drafted up front.
+
+**v0.8 changelog (this update):** four things, all requested directly.
+First, **Chapter 2.7, "Tried Against a Rival"** — a new, pre-registered
+falsification experiment (`eoreader6/scripts/experiments/rival-triads/`)
+testing the claim Chapter 2.6's study never tested: that mode/domain/
+grain carve language better than some *other* three dimensions would. An
+off-the-shelf rival triad (process type after Halliday / time reference /
+participant count) reproduced the whole qualitative signature within
+~10–16%; the superiority claim is reported as unsupported, the one
+unpredicted EO win (axis independence, Cramér's V 0.214 vs 0.319) is
+reported at the same size, and a register calibration (~10× either
+triad's coherence) bounds both. Second, **Chapter 6.5, "Ancestors Named
+in the Code"** — the handbook's first coverage of the second citation
+audit (`eoreader6/prior-art-surprise-segmentation-and-memory.md`), which
+previously appeared nowhere in the book: Marr/McClelland claimed in
+`activation.js`'s own header with Collins & Loftus/Crestani named as the
+lineage the organ deliberately is not; Foote/Hearst in `tiers.js` with
+the divergence stated; the measured TextTiling/C99 comparison including
+where this project's detector did not clearly win; the stale 22/24
+p≈0.005 → 8/24 p≈0.046 correction (which Chapter 6.4 had silently
+inherited in paraphrased form — now fixed there too); the
+cited-before-built Assembly C ancestors; the HippoRAG 2 dependency
+comparison; and the refused "Nikolopoulos" citation. Third, a
+**precision-of-reference pass**: Part VI's house style of naming sources
+only in footers is reversed — Schank, SAM/PAM/FRUMP, Lenat's CYC, MUC
+and MUC-6, Deep Read, Hermann, SQuAD/Rajpurkar, Chen/Bolton/Manning,
+Jia & Liang, Levesque, TextRunner/ReVerb, NELL, Titov & Klementiev,
+Lang & Lapata, Tomasello, Saffran/Aslin/Newport, Knowledge Vault,
+PROV-O, and the LCF/de Bruijn tradition are now named in chapter bodies,
+with the essays' own sentences quoted verbatim instead of paraphrased
+(each chapter's footer says exactly which passages are verbatim); 6.4's
+silent substitution of Kintsch & van Dijk for Myers & O'Brien as the
+"third theory" is corrected, and the resonance model's "the half the
+project got right" credit restored; original-source wording for several
+first-order inspirations (Bateson, Simon, Morris, Peirce, Shannon,
+Kintsch, Gernsbacher, Zwaan & Radvansky) is quoted from retrieved
+primary texts where verifiable, marked UNVERIFIED where not. Fourth, an
+**explicit stance statement**: Chapter 0.3 now says in plain terms that
+this ontology is opinionated — cells can be refuted, and have been — and
+names Ken Wilber's integral genre as the thing it is not; 0.1's "what
+this isn't" list gains the same boundary; 8.1 gains a "named contrast"
+row so the refusal itself stays auditable, plus rows for the second
+audit's in-file citations and a correction to its own misclassified
+preregistration row.
 
 **Purpose of this file:** decide, on paper, what the handbook teaches, in what
 order, to whom, using what material — before spending the effort to write it.

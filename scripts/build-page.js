@@ -21,6 +21,7 @@ const PART_OF = {
   5: "Part V — EO Chat: Where You Meet It",
   6: "Part VI — Where This Sits in History",
   7: "Part VII — Building Something With It",
+  8: "Part VIII — Reference",
 };
 
 function titleOf(content) {

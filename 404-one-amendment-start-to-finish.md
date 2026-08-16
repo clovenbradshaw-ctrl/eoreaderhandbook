@@ -12,6 +12,8 @@
 
 
 
+
+
 **Why this matters:** the last three chapters described the constitution's
 amendment machinery from above. This chapter walks one real amendment all
 the way through it, so the abstract rules from 4.3 land as something that

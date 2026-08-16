@@ -1,8 +1,10 @@
 # 7.1 — A Construction Language
 
 <!-- nav:start -->
-[← 6.4 — The Honest Gap List](604-the-honest-gap-list.md) · [Contents](000-index.md) · [7.2 — The Watchmaker's Discipline →](702-the-watchmakers-discipline.md)
+[← 6.5 — Ancestors Named in the Code](605-ancestors-named-in-the-code.md) · [Contents](000-index.md) · [7.2 — The Watchmaker's Discipline →](702-the-watchmakers-discipline.md)
 <!-- nav:end -->
+
+
 
 
 
@@ -145,5 +147,5 @@ and ConstraintLLM comparisons are, by contrast, drawn directly from
 comparison to outside work, not this book's addition.
 
 <!-- nav:start -->
-[← 6.4 — The Honest Gap List](604-the-honest-gap-list.md) · [Contents](000-index.md) · [7.2 — The Watchmaker's Discipline →](702-the-watchmakers-discipline.md)
+[← 6.5 — Ancestors Named in the Code](605-ancestors-named-in-the-code.md) · [Contents](000-index.md) · [7.2 — The Watchmaker's Discipline →](702-the-watchmakers-discipline.md)
 <!-- nav:end -->

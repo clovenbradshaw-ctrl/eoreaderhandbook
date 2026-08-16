@@ -12,6 +12,8 @@
 
 
 
+
+
 **Why this matters:** Part I gave you the one move (build a ground, notice a
 figure, check for pattern, speak only under witness). This chapter starts
 answering a harder question: what *kinds* of thing can actually happen during
@@ -91,7 +93,14 @@ built his own theory of signs out of three independent three-way
 distinctions (his own terms were denser: firstness/secondness/thirdness
 crossed against a sign's relation to itself, its object, and its
 interpreter), and used the resulting grid to name ten classes of signs,
-including the well-known icon/index/symbol trio. Nobody in this project's
+including the well-known icon/index/symbol trio. In his own words
+(*Collected Papers* 2.228): *"A sign, or representamen, is something
+which stands to somebody for something in some respect or capacity. It
+addresses somebody, that is, creates in the mind of that person an
+equivalent sign, or perhaps a more developed sign."* And the trio, from
+CP 2.247–248: an Icon *"refers to the Object that it denotes merely by
+virtue of characters of its own"*; an Index *"by virtue of being really
+affected by that Object."* Nobody in this project's
 own working notes claims Peirce as an ancestor, and this book isn't
 asserting one — the resemblance was noticed independently, the same
 honest way Chapter 6.3 later describes an unrelated fifty-seven-year
@@ -130,7 +139,10 @@ positions in the grid (`SIG`, `INS`, `SEG`, `CON`, `SYN`) are not spelled
 out with individual definitions in CUBE.md itself; this chapter locates
 them by the same mode-and-domain logic the four confirmed ones establish
 (each group of three operators in the grid line shares one domain, and
-position within the group fixes the mode). `CON` is independently
+position within the group fixes the mode). The Peirce quotes above are
+from the electronic edition of the Harvard *Collected Papers* (CP 2.228
+and 2.247–248), retrieved and checked directly rather than re-quoted
+from a summary. `CON` is independently
 corroborated as `Relate · Structure` by `eoreader6/SEED.md` Amendment X,
 which describes the binding organ's output as "Structure-tier relations
 (Figure cell on the operator grid)." `SYN`'s gloss ("synthesize a ward from

@@ -1,8 +1,10 @@
 # 2.6 — Checked Against Language Itself
 
 <!-- nav:start -->
-[← 2.5 — Why All Three Have to Agree](205-why-all-three-have-to-agree.md) · [Contents](000-index.md) · [3.1 — A Reading, From the Inside →](301-a-reading-from-the-inside.md)
+[← 2.5 — Why All Three Have to Agree](205-why-all-three-have-to-agree.md) · [Contents](000-index.md) · [2.7 — Tried Against a Rival →](207-tried-against-a-rival.md)
 <!-- nav:end -->
+
+
 
 **Why this matters, and a boundary to draw first:** this chapter, like Part
 VII, describes a related but separate generation of this project
@@ -117,6 +119,13 @@ in blind, independent judgments of actual language — a claim about the
 axes, not a vindication of the cube-as-classifier Chapter 2.5 already
 retired.
 
+One control this study never ran: every comparison here is against
+*chance*, not against a rival set of three questions — so "the axes
+track something real" was established, and "these axes are better than
+some other three would be" was not. That missing test has since been run,
+adversarially and pre-registered, and Chapter 2.7 reports what happened
+to it.
+
 **Where this comes from:** everything in this chapter is `eoreader4.2/docs/
 eo-wiki.md`, "EO Lexical Analysis v2 — Results Report" and its companion
 entry "The Lexical Analysis: EO's Preliminary Empirical Grounding" (the
@@ -132,5 +141,5 @@ coordinate-geometry (α/η/Ω) test and its three negative results are all
 drawn directly from those two entries.
 
 <!-- nav:start -->
-[← 2.5 — Why All Three Have to Agree](205-why-all-three-have-to-agree.md) · [Contents](000-index.md) · [3.1 — A Reading, From the Inside →](301-a-reading-from-the-inside.md)
+[← 2.5 — Why All Three Have to Agree](205-why-all-three-have-to-agree.md) · [Contents](000-index.md) · [2.7 — Tried Against a Rival →](207-tried-against-a-rival.md)
 <!-- nav:end -->

@@ -4,6 +4,8 @@
 [← 7.3 — A Worked Build, Start to Finish](703-a-worked-build-start-to-finish.md) · [Contents](000-index.md) · *(more chapters coming)* →
 <!-- nav:end -->
 
+
+
 **Why this matters:** every chapter from Part 0 through Part VII now carries
 at least one comparison to something outside this project — Gestalt
 psychology, Bayesian statistics, a related generation's own wiki, Herbert
@@ -124,7 +126,8 @@ connection exists that a closer search might still find.
 | 3.4 | HTTP statelessness; Baddeley's working-memory model | Rhymes | Not named in any source material |
 | 3.5 | Chow's reject option (1970); Rubin's missing-data taxonomy (1976); Scots "not proven" | Rhymes | Not named in any source material |
 | 3.5 | Łukasiewicz (1920) → Codd's NULL problem (1970/1990) | **Witnessed** | `eoreader4.2/docs/eo-wiki.md`, "EO and Codd's Null Problem," makes this exact historical argument itself |
-| 3.6 | Negative controls; preregistration | Rhymes | Not named in any source material |
+| 3.6 | Negative controls | Rhymes | Not named in any source material |
+| 3.6 | Preregistration | **Witnessed** *(corrected — was "Rhymes" in this table's first edition)* | `eoreader6/prior-art-teachable-language-comprehender.md` §VII names it as a claimed differentiator — *"And pre-registration. `reach` was predicted to spike at boundaries. It didn't... Machine reading, as a field, has approximately no tradition of this"* — with the failed prediction kept in the results file as the receipt. The first edition of this table scored it "not named in any source material," which was simply wrong; recorded here rather than silently fixed |
 
 ## The scorecard — Part IV and Part V
 
@@ -150,13 +153,78 @@ connection exists that a closer search might still find.
 | 7.1 | Bertrand Meyer's Design by Contract (1986) | Rhymes | Not named in any source material |
 | 7.1 | Attempto controlled natural language; JetBrains MPS; ConstraintLLM (EMNLP 2025) | **Witnessed** | `eoreader4.2/docs/eot-coder-roadmap.md` §2.1–2.2 draws all three comparisons itself |
 
+## The scorecard — the second audit, and the chapters added with it
+
+A second citation audit (`eoreader6/prior-art-surprise-segmentation-and-
+memory.md`) landed after this table's first edition, and it changed the
+shape of the evidence in one important way: it put citations *into the
+code files themselves*, next to the mechanisms they describe. A citation
+in a file header is the strongest form of "witnessed" this rubric has —
+the project doesn't just name the source somewhere, it names it where the
+mechanism lives, with the divergence stated. Chapter 6.5 carries these in
+full; the rows here are the audit trail.
+
+| Chapter | Connection | Verdict | Evidence |
+|---|---|---|---|
+| 6.5 | Marr (1971) archicortex model; McClelland, McNaughton & O'Reilly (1995) | **Witnessed, in-file** | Named in `eoreader6/packages/engine/emergence/activation.js`'s own header as the mechanism's ancestors |
+| 6.5 | Collins & Loftus (1975); Crestani (1997) | **Witnessed, as named divergence** | Same header, cited explicitly as *"the mechanism this one is not"* — an ancestor named in order to state a departure, not a lineage claimed |
+| 6.5 | Foote (2000); Hearst (1997), TextTiling | **Witnessed, in-file** | Named in `eoreader6/packages/engine/emergence/tiers.js`'s header, with the divergence stated: *"a different statistic solving the same problem, not an instance of theirs"* |
+| 6.5 | C99 (Choi); Pk (Beeferman, Berger & Lafferty 1999); WindowDiff (Pevzner & Hearst 2002) | **Witnessed** | Reimplemented and run in `eoreader6/scripts/lib/segmentation-baselines.mjs` and `segmentation-metrics.mjs`; the measured comparison — including where this project's own detector did *not* clearly win — is the essay's §4 |
+| 6.5 | Fortescue, Kershenbaum & Ydstie (1981); DDM (Gama et al. 2004); ADWIN (Bifet & Gavaldà 2007) | **Witnessed** | Cited in `reading-regime.js`'s header and the Assembly C design doc for a mechanism that is *not yet built* — prior art filed in advance |
+| 6.5 | HippoRAG 2 (Gutiérrez et al., 2025) | **Witnessed** | The essay's §5 runs the dependency comparison itself, and declines the recall benchmark for a stated structural reason |
+| 6.1–6.3 | Schank (1972); Schank & Abelson (1977); SAM/PAM/FRUMP; Lenat's CYC; MUC (1987–98) and MUC-6; Hirschman's Deep Read (1999); Hermann et al. (2015); Rajpurkar et al., SQuAD (2016); Chen, Bolton & Manning (2016); Jia & Liang (2017); Levesque (2011); TextRunner (2007); ReVerb (2011); NELL (2010); Landauer & Dumais (1997); Knowledge Vault; PROV-O; LCF / de Bruijn | **Witnessed** *(now also named in this book's own chapter bodies, not only in footers)* | All named in `prior-art-teachable-language-comprehender.md` §§II–VII, which those chapters quote verbatim as of this edition. Previously excluded from this table only because Part VI's chapters *are* the prior-art chapters; listed now so the table is complete |
+| 0.3 | Ken Wilber's integral (AQAL) framework | **Named contrast — the opposite of a lineage claim** | No source material in any generation mentions Wilber. Chapter 0.3 introduces him solely to refuse the genre: an everyone-is-right synthesis is what this project's refutable, demotable grid is *not*. A comparison made in order to reject it is scored here so the rejection itself stays auditable |
+
+## Original wording, retrieved — a third kind of evidence
+
+The verdicts above are about *lineage* — did the project draw on a
+source. A separate question is whether this book's quotations of the
+outside sources themselves are exact. Essay A's own closing note warns:
+*"Prior art is cited from memory and has not been re-read for this
+essay."* This edition re-read what could be retrieved. Primary texts
+were fetched and the wording in the chapters checked against them:
+
+| Source | Status | Where quoted |
+|---|---|---|
+| Bateson, *Steps to an Ecology of Mind* (1987 ed. of 1972) | **Verified** against a full retrieved copy; the book carries the phrase in three wordings, noted in-chapter | 1.2 |
+| Simon, "The Architecture of Complexity" (1962) | **Verified** against the retrieved scan of the printed article (one OCR artifact corrected) | 7.2 |
+| Quillian, TLC (1969) | **Verified** against the retrieved report version (AFCRL-69-0166); CACM printing presumed identical, not retrieved | 6.3 |
+| Fillmore, "The Case for Case" | **Verified** against the ERIC working-paper text; the 1968 book printing differs in minor wording and was not retrieved | 6.2 |
+| Peirce, *Collected Papers* 2.228, 2.247–249 | **Verified** against a retrieved electronic edition | 2.1 |
+| Zwaan & Radvansky (1998) | **Verified** against the retrieved paper — which also corrected this book: the five dimensions are named in the body, not the abstract, with a motivation/intentionality variant | 6.4 |
+| Fader, Soderland & Etzioni, ReVerb (2011) | **Verified** against the ACL Anthology PDF | 6.2 |
+| Shannon (1948) | **Verified** against the "reprinted with corrections" text | 1.2 |
+| Morris (1938) | **Attested only** — defining phrases via Wikiquote (citing p. 6 / the 1971 reprint); the printed book was not retrievable | 0.2 |
+| Wilber, *Collected Works* vol. VIII intro (2000) | **Attested only** — wording via Wikiquote; a minor variant circulates, noted in-chapter | 0.3 |
+| Kintsch (1988); Gernsbacher (1990); Rubin (1976) | **Not retrieved** (paywalled or unreachable); quoted nowhere as primary text — carried only in the essays' words, and the chapters say so | 6.4, 3.5 |
+
+Where the verified copies came from, so the check can be repeated:
+Bateson via the monoskop.org scan of the 1987 Jason Aronson edition;
+Simon via the Iowa State faculty archive scan of the 1962 *Proceedings*;
+Quillian via archive.org's DTIC copy (AD687746); Fillmore via ERIC
+(ED019631); Peirce via the colorysemiotica.files.wordpress.com
+electronic *Collected Papers*; Zwaan & Radvansky via the University of
+Alberta course archive; ReVerb via aclanthology.org (D11-1142); Shannon
+via the Harvard mathematics department's hosted "reprinted with
+corrections" text.
+
+One correction this second audit forced on the essay-A-derived chapters
+themselves: the recall figure Chapter 6.4's first edition inherited
+("p≈0.005") was retracted by the second audit as measured against a
+fixture that doesn't exist in the repository — *"The number this repo has
+been citing for this comparison is stale"* — and re-measured at 8/24,
+p≈0.046. The paraphrase had inherited a retracted number invisibly;
+quoting with provenance is what made the staleness findable at all.
+
 ## Summary verdict
 
 | Verdict | Count |
 |---|---|
-| Witnessed (including one "as convergence") | 9 |
+| Witnessed (first edition, including one "as convergence") | 9 |
+| Witnessed, added or corrected in this edition (second audit, in-file citations, Part VI namings, preregistration correction) | 8 rows above, covering ~25 named sources |
 | Unreceived origin, now named | 2 |
-| Rhymes | roughly 40 |
+| Named contrast (Wilber — refused, not claimed) | 1 |
+| Rhymes | roughly 38 |
 | Background fact (unscored) | 1 |
 
 The honest shape of this table is the point: most of what this book has

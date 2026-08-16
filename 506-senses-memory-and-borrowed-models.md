@@ -10,6 +10,8 @@
 
 
 
+
+
 **Why this matters:** Chapter 5.1 told you the application calls outside
 language models as tools it doesn't own, never as the measurement itself.
 This chapter shows exactly what that looks like in one real, small,
@@ -116,7 +118,14 @@ neocortex, building on Timothy Teyler and Pascal DiScenna's earlier
 hippocampal indexing theory (1986) — is a real biological parallel to
 running two different memory mechanisms (a fast verbatim window, a slow
 consolidated gist) side by side rather than trying to make one mechanism
-do both jobs.
+do both jobs. (The same 1995 theory turns out to be cited a second time
+in this lineage, for a different and stronger reason: the engine's own
+memory organ names Marr (1971) and McClelland, McNaughton & O'Reilly as
+the actual ancestors of its sparse-coding/pattern-completion mechanism,
+in the code file itself — Chapter 6.5 quotes that header. Here it's a
+structural parallel to an application feature; there it's a claimed
+lineage of an engine mechanism. The two claims are different sizes, and
+they shouldn't be blurred just because they share a citation.)
 
 Two more of that generation's citations are worth naming because they're
 about machine memory specifically, not brains: retrieval-augmented

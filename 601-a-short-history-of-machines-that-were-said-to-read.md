@@ -9,6 +9,8 @@
 
 
 
+
+
 **Why this matters:** everything you've read so far might sound like the
 first serious attempt at any of this. It isn't, and the people who built
 this project are explicit about that. This chapter is the honest history —
@@ -24,42 +26,64 @@ four times, and each time the definition was gamed and then quietly
 replaced."*
 
 **First: reading as building something you could paraphrase from (1972).**
-A sentence counted as understood once it had been converted into a
-structured representation of basic actions, precise enough that a system
-could generate paraphrases, answer questions, and draw the inferences a
-text left implicit — a program could read "John gave Mary a book" and know,
-without being told, that Mary now had it. This was real, and for a while
-it worked strikingly well on the material it was built for. It died of
-what's called the knowledge acquisition bottleneck: every one of those
-structured scripts had to be hand-built, a restaurant script didn't
-generalize to a hospital, and there was no finite list of scripts to
-finish writing. One heroic attempt to just write down everything a system
-would ever need to know started in 1984 and, decades later, is still the
-standing demonstration of how large that list actually is.
+This is Roger Schank's **conceptual dependency** theory: a sentence
+counted as understood once it had been converted into a structured
+representation of basic actions, precise enough that a system could
+generate paraphrases, answer questions, and draw the inferences a text
+left implicit — in the essay's own words, *"John gave Mary a book becomes
+an ATRANS with filled slots, and the system knows Mary has the book now
+without being told."* Scripts followed in 1977 (Schank and Abelson), and
+the systems built on them were real: *"This was real reading in a way
+that nothing since has quite matched. SAM understood stories. PAM
+tracked goals. FRUMP, in 1979, skimmed live UPI newswire using sketchy
+scripts and produced summaries. That is a machine reading the news."*
+It died of the knowledge acquisition bottleneck: *"Every script was
+hand-built. The restaurant script did not generalize to a hospital, and
+the hospital script did not generalize to a procurement hearing, and
+there is no finite list of scripts. Lenat's CYC, from 1984, was the
+heroic attempt to just write them all down, and forty years later that
+project is still the standing demonstration of how large the number
+is."*
 
-**Second: reading as filling in a template (1987–1998).** A seven-year,
-government-funded research program asked systems to read news reports and
-fill in fixed slots — who did what to whom, with what, when, where. It
-stalled: scores plateaued well below what a human could do, and,
-tellingly, human annotators didn't even agree with each other often
-enough to make the ceiling itself clear. The programs that resulted were
-brittle and expensive to move from one kind of document to another.
+**Second: reading as filling in a template (1987–1998).** The **Message
+Understanding Conferences** — MUC — seven of them, DARPA-funded: read
+news reports (MUC-3 and MUC-4 used Latin American terrorism reports) and
+fill in fixed slots — perpetrator, target, date, instrument. It stalled:
+scores plateaued well below what a human could do, and, tellingly, human
+annotators didn't even agree with each other often enough to make the
+ceiling itself clear. The programs that resulted were brittle and
+expensive to move from one kind of document to another. One thing MUC
+learned the expensive way outlived it: MUC-6, in 1995, split **named
+entity recognition** and **coreference** out as scored tasks in their own
+right — not because they were interesting, but because template filling
+kept failing on them — and the modern definitions of both tasks descend
+from that decision. Chapter 3.3's organs partition the same problem along
+a strikingly similar seam, a convergence the essay works through at
+length.
 
 **Third: reading as picking out the right span of text (1999 onward).**
-Reading comprehension became a multiple-choice-style task: given a
-passage and a question, select the span of text that answers it. It
-scaled beautifully as a benchmark and was gamed almost as fast — large
-portions of the most popular test sets turned out to be solvable without
-reading both the passage and the question at all, and adding one
-irrelevant, distracting sentence to a passage was enough to collapse
-systems that had looked, by the numbers, like they were reading closely.
+Hirschman's **Deep Read** (1999) proposed grade-school reading
+comprehension tests as an AI evaluation — and found a bag-of-words
+baseline did unnervingly well, which should have been the warning.
+Instead the paradigm scaled: the CNN/Daily Mail cloze task (Hermann et
+al., 2015), then **SQuAD** (Rajpurkar et al., 2016), and a decade of
+leaderboards. It was gamed almost as fast as it scaled: Chen, Bolton and
+Manning took apart CNN/Daily Mail in 2016 and showed a large fraction
+was either trivially solvable or unanswerable noise; Jia and Liang
+(2017) appended one irrelevant, distracting sentence to SQuAD passages
+and watched systems collapse; and other work showed models that saw
+*only* the passage or *only* the question still scored far above chance,
+meaning the datasets carried exploitable artifacts. Hector Levesque had
+anticipated the whole problem in 2011 with the Winograd Schema
+Challenge — deliberately built so pronoun resolution required world
+knowledge — and it, too, was eventually saturated.
 
-**Fourth: reading as producing text a human rates as good (today).** This
-is barely a definition at all — it's a preference model. Its distinctive
-property is that it can't be inspected from the outside: there's no
-structure to audit, no record of what was actually used to produce the
-answer. The system either satisfies you, or it doesn't, and there's
-nothing else to check.
+**Fourth: reading as producing text a human rates as good (today).** In
+the essay's words: *"It is not really a definition, it is a preference
+model, and it has the interesting property of being unfalsifiable from
+the outside: there is no artifact to inspect, no structure to audit, no
+record of what was used. The system either satisfies you or it
+doesn't."*
 
 ## A pattern with a name in philosophy of science generally
 
@@ -92,13 +116,21 @@ different in kind rather than just newer.
 
 **Where this comes from:** `eoreader6/prior-art-teachable-language-
 comprehender.md`, §II, "Reading has been redefined four times, each time by
-its scoreboard," including the framing sentence quoted at the top of this
-chapter and the account of Schank's conceptual dependency (1972), the
-Message Understanding Conferences (1987–1998), span-selection benchmarks
-from Deep Read (1999) through SQuAD (2016), and the human-preference
-definition dominant today. The Bridgman/operationalism connection above is
-this book's own added link to the philosophy of science, not something
-the codebase itself cites.
+its scoreboard." Every passage in quotation marks above is verbatim from
+that section. The named systems and studies — Schank's conceptual
+dependency (1972), Schank and Abelson's scripts (1977), SAM, PAM, FRUMP
+(1979), Lenat's CYC (1984–), the Message Understanding Conferences
+(1987–1998) and MUC-6's introduction of named entity recognition and
+coreference (1995), Hirschman et al.'s Deep Read (1999), Hermann et al.'s
+CNN/Daily Mail cloze (2015), Rajpurkar et al.'s SQuAD (2016), Chen,
+Bolton and Manning's dataset analysis (2016), Jia and Liang's adversarial
+distractors (2017), and Levesque's Winograd Schema Challenge (2011) — are
+all named in that essay, §II and §IV, and its closing note carries its own
+caution, repeated here because it applies to this chapter too: *"Prior art
+is cited from memory and has not been re-read for this essay… Dates and
+attributions should be verified before any of this is published."* The
+Bridgman/operationalism connection above is this book's own added link to
+the philosophy of science, not something the codebase itself cites.
 
 <!-- nav:start -->
 [← 5.6 — Senses, Memory, and Borrowed Models](506-senses-memory-and-borrowed-models.md) · [Contents](000-index.md) · [6.2 — The Fifty-Eight-Year-Old Objection, and Where the Project Is Actually Chipping at It →](602-the-fifty-year-old-objection.md)

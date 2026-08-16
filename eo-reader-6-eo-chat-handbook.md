@@ -16,6 +16,8 @@
 
 
 
+
+
 **Why this matters:** if you come in expecting a developer manual or a product
 brochure, every chapter after this one will feel like it's answering the wrong
 question. This book has one job — to teach you what actually happens, in
@@ -29,6 +31,12 @@ persuade you these tools are good. It assumes nothing about your background:
 not machine learning, not linguistics, not philosophy. If a word like
 "model," "token," or "ontology" doesn't mean anything to you yet, that's the
 expected starting point, not a gap you're supposed to fill in beforehand.
+
+And it isn't a theory of everything. The grids this book teaches in Part
+II are opinionated commitments that can lose — and have lost — arguments
+with measurements, not a synthesis built to give every existing framework
+its honored place. Chapter 0.3 draws that line explicitly, against the
+genre of frameworks that promise everyone is right.
 
 ## What this is
 
@@ -114,6 +122,8 @@ deaths named in `eoreader6/SEED.md`, "The entelechy."
 
 
 
+
+
 **Why this matters:** later in this book you'll meet words like *terrain* and
 *stance*, and they will only make sense if you already have a gut feel for
 something most people never had to name: that the same words, arranged
@@ -180,13 +190,15 @@ different *kinds* of thing a sentence can be about and the different
 This isn't this book's own invention, and it isn't even linguistics'
 invention specifically. In 1938 the philosopher Charles Morris, laying out
 the foundations of semiotics — the general study of signs — split the
-study of *any* sign system into exactly three parts: **syntactics** (how
-signs relate to other signs, with no meaning attached yet), **semantics**
-(how signs relate to whatever they stand for), and **pragmatics** (how
-signs relate to the people actually using them). Linguists later narrowed
-his terms to fit sentences specifically — the version you just met — but
-the three-way cut itself is Morris's, and it's general enough to apply to
-traffic lights and musical notation as easily as to "the dog bit the man."
+study of *any* sign system into exactly three parts. His own defining
+phrases, from *Foundations of the Theory of Signs* (1938), p. 6:
+**syntactics** studies *"the formal relations of signs to one another"*;
+**semantics** studies *"the relations of signs to the objects to which
+the signs are applicable"*; **pragmatics** studies *"the relation of
+signs to interpreters."* Linguists later narrowed his terms to fit
+sentences specifically — the version you just met — but the three-way cut
+itself is Morris's, and it's general enough to apply to traffic lights
+and musical notation as easily as to "the dog bit the man."
 
 Where the parallel actually stops: Morris was building a general theory of
 signs, with no particular stake in what a reading system ought to do with
@@ -199,11 +211,20 @@ prepare the reader for Part II's operators, terrains, and stances (see
 teaches only the general linguistic distinction the rest of the book
 assumes. The Morris connection above is this book's own added link to the
 wider history of semiotics, not a source the codebase itself cites — see
-Charles W. Morris, "Foundations of the Theory of Signs" (1938).
+Charles W. Morris, "Foundations of the Theory of Signs" (1938). The
+three defining phrases quoted above are Morris's own words as given for
+p. 6 of that work by a secondary source (Wikiquote, citing the 1971
+reprint in *Writings on the General Theory of Signs*); the printed book
+itself was not retrievable in this pass, so the phrases are attested at
+one remove rather than verified against the printing — flagged here
+because this book means to keep the difference between those two claims
+visible.
 
 ---
 
 # 0.3 — A Ten-Minute Ontology and Epistemology Primer
+
+
 
 
 
@@ -303,16 +324,73 @@ into their frameworks would overstate the resemblance. What this book
 borrows is the two reflexes — the two questions — not any philosopher's
 particular answer to them.
 
+## What kind of ontology this is — opinionated, not a big tent
+
+One more thing to fix in place before Part II, because a reader who has
+met other grand-looking grids will otherwise bring the wrong expectation.
+There is a whole genre of frameworks whose crossing-of-axes *looks* like
+what Part II will show you — most famously Ken Wilber's "integral" AQAL
+model, which crosses interior/exterior with individual/collective into
+four quadrants and then files every discipline, tradition, and worldview
+into the resulting map. That genre's governing move is inclusion, and
+Wilber states it himself, in the introduction to volume VIII of his
+collected works: *"Everybody is right. More specifically,
+everybody—including me—has some important pieces of the truth, and all
+of those pieces need to be honored, cherished, and included in a more
+gracious, spacious, and compassionate embrace."* Every perspective holds
+a partial truth; the framework's job is to give each one its honored
+place in a larger synthesis.
+
+**This project's grid is not that, and the difference is the point.** The
+grids Part II teaches are not built to make room for every view; they're
+built to be *wrong in public*. A cell in this project's grid is a claim
+that can be refused, and has been: the cube was tried once as a machine
+that classifies content, measured, refuted, and demoted to an instrument
+— an entire use of the grid thrown out because the numbers said so
+(Chapter 2.5 tells that story in full). Chapter 2.6 reports the grid's
+own locked-in predictions that *failed*, at the same length as the ones
+that held. And the source materials this book is built from contain a
+mapping of three of the nine operators onto Taoist, Buddhist, and
+Kabbalistic concepts of nothingness — exactly the kind of
+everything-connects material an integral framework would celebrate — that
+this book's own spec examined and deliberately refused to include, as too
+close to the confabulation risk Chapter 1.4 warns about. An ontology you
+can be argued out of, cell by cell, under measurement, is a different
+kind of object from a map built so that nothing ever has to lose. When
+this book later says a rival framing is wrong — and it will — that is the
+system working as designed, not a failure of generosity.
+
+(Chapter 8.1 audits this book's own comparisons to Wilber's genre and
+everything else: where a resemblance is claimed as lineage, it needs a
+named source; where it's just noticed, it's labeled as noticing.)
+
 **Where this comes from:** this chapter is original exposition, written to
 prepare the reader for Part II §2.3 ("Nine kinds of 'where'" — the terrains)
 and §2.4 ("Nine kinds of 'how'" — the stances). See `HANDBOOK-SPEC.md` §6,
 Part II. The Aristotle, Quine, and Popper connections above are this
 book's own added links to the wider history of philosophy, not sources the
-codebase itself cites.
+codebase itself cites. So is the Wilber contrast — no source material in
+this lineage mentions Wilber or integral theory; the comparison is drawn
+here precisely to refuse it, not to claim kinship. The Wilber quote is
+from the Introduction to *The Collected Works of Ken Wilber*, vol. VIII
+(Shambhala, 2000), in the wording retrieved from a secondary source
+(Wikiquote) — the printed book was not itself retrievable in this pass,
+and the phrase circulates in a minor variant ("pieces of truth" for
+"pieces of the truth"), so treat the wording as attested rather than
+verified against the printing. The refused
+Taoist/Buddhist/Kabbalistic mapping is real and documented: see
+`HANDBOOK-SPEC.md`, v0.6 changelog ("Material considered and deliberately
+left out of this pass"), which records both it and the reason it stayed
+out. The cube's demotion from classifier to instrument is
+`eoreader6/CUBE.md`: *"As a classifier — deriving a cell from content —
+this was already measured and refuted... It is promoted out of the
+code."*
 
 ---
 
 # 0.4 — What a Language Model Is, in Plain Terms, and Why This Project Keeps Its Distance From One
+
+
 
 
 
@@ -450,6 +528,8 @@ codebase itself cites.
 
 
 
+
+
 **Why this matters:** almost everything else in this book — every refusal,
 every citation, every "not yet earned" — comes down to one single move this
 system makes before it says anything at all. If this chapter doesn't land,
@@ -563,6 +643,8 @@ codebase itself cites.
 
 
 
+
+
 **Why this matters:** noticing something isn't the same as it *mattering*.
 This chapter draws that line precisely, because the whole system refuses to
 say anything about a figure until it's crossed — and without this
@@ -617,14 +699,44 @@ his work across anthropology, psychiatry, and biology, where he was after
 a general definition of information that didn't depend on any one medium —
 exactly the same generality Chapter 2.3 will later lean on when it insists
 these ideas hold for a hospital ward, a mutual-aid map, and a reading
-group alike.
+group alike. His own sentence, from the essay "Form, Substance, and
+Difference" (1970), retrieved and checked against the printed collection
+rather than quoted from memory:
+
+> "In fact, what we mean by information—the elementary unit of
+> information—is a difference which makes a difference, and it is able to
+> make a difference because the neural pathways along which it travels
+> and is continually transformed are themselves provided with energy."
+
+Two things are worth being precise about, because precision is this
+book's whole subject. First, Bateson's own book carries the phrase in
+more than one wording — "The Cybernetics of 'Self'" has *"A 'bit' of
+information is definable as a difference which makes a difference"* —
+so there is no single canonical sentence, only a canonical idea. Second,
+and more importantly: **Bateson was defining *information*; this project
+uses the phrase to define *pattern*, which is not the same move.**
+`SEED.md` says "Pattern is Bateson's" and then immediately does
+something Bateson's sentence doesn't do — it names *what* the difference
+must make a difference *to* (the next ground, and nothing else) and
+makes that checkable by a computation. The borrowing is real and named
+by the source itself; the operationalization is this project's own, and
+it goes beyond what Bateson's sentence claims.
 
 It's worth naming a cousin idea from a completely different, more
 mathematical field, without overstating the connection: Claude Shannon's
 1948 theory of information measured how much a message *reduces
 uncertainty* about what could have been sent — a signal that leaves you no
 less uncertain than before carries zero information, by Shannon's own
-formal count, no matter how much energy it took to transmit. That's a
+formal count, no matter how much energy it took to transmit. Shannon's
+paper opens by drawing exactly the boundary that separates his project
+from Bateson's and from this one — verbatim, from "A Mathematical Theory
+of Communication" (1948), p. 1: *"The fundamental problem of
+communication is that of reproducing at one point either exactly or
+approximately a message selected at another point. Frequently the
+messages have meaning... These semantic aspects of communication are
+irrelevant to the engineering problem."* Meaning is precisely what
+Shannon set aside, on the first page, on purpose — and it's the thing
+Bateson's definition, and this project's, are *about*. That's a
 strong family resemblance to "a difference that made no difference is not
 information" (the sentence Chapter 1.3 builds its whole gate on) — both
 refuse to call something informative just because it arrived. But
@@ -645,13 +757,22 @@ that one test.
 **Where this comes from:** `eoreader6/SEED.md`, "One operation" — *"Pattern
 is Bateson's: a difference that makes a difference... A figure earns pattern
 by changing what happens next, and the only next available is the ground."*
-The framing of Bateson's own source (*Steps to an Ecology of Mind*, 1972)
-and the Shannon comparison above are this book's own added connections to
-the wider history of the idea, not something the codebase itself cites.
+The Bateson quotes above are from *Steps to an Ecology of Mind* (1987
+Jason Aronson edition of the 1972 collection), "Form, Substance, and
+Difference" and "The Cybernetics of 'Self'," retrieved and extracted
+from a full copy of the book rather than re-quoted from secondary
+sources; the Shannon quote is from the "reprinted with corrections" text
+of "A Mathematical Theory of Communication" (*Bell System Technical
+Journal*, 1948), Introduction. The decision to place them here — and the
+statement of where the project's use goes beyond Bateson's sentence — is
+this book's own, not something the codebase itself does; the codebase's
+only claim is SEED.md's attribution line quoted above.
 
 ---
 
 # 1.3 — Witness
+
+
 
 
 
@@ -750,6 +871,8 @@ to those fields, not something the codebase itself cites.
 ---
 
 # 1.4 — The Two Deaths
+
+
 
 
 
@@ -863,6 +986,8 @@ those fields — not something the codebase itself cites.
 ---
 
 # 1.5 — Three Numbers and a Vital Sign
+
+
 
 
 
@@ -1006,6 +1131,8 @@ physiology, not something the codebase itself cites.
 
 
 
+
+
 **Why this matters:** Part I gave you the one move (build a ground, notice a
 figure, check for pattern, speak only under witness). This chapter starts
 answering a harder question: what *kinds* of thing can actually happen during
@@ -1085,7 +1212,14 @@ built his own theory of signs out of three independent three-way
 distinctions (his own terms were denser: firstness/secondness/thirdness
 crossed against a sign's relation to itself, its object, and its
 interpreter), and used the resulting grid to name ten classes of signs,
-including the well-known icon/index/symbol trio. Nobody in this project's
+including the well-known icon/index/symbol trio. In his own words
+(*Collected Papers* 2.228): *"A sign, or representamen, is something
+which stands to somebody for something in some respect or capacity. It
+addresses somebody, that is, creates in the mind of that person an
+equivalent sign, or perhaps a more developed sign."* And the trio, from
+CP 2.247–248: an Icon *"refers to the Object that it denotes merely by
+virtue of characters of its own"*; an Index *"by virtue of being really
+affected by that Object."* Nobody in this project's
 own working notes claims Peirce as an ancestor, and this book isn't
 asserting one — the resemblance was noticed independently, the same
 honest way Chapter 6.3 later describes an unrelated fifty-seven-year
@@ -1124,7 +1258,10 @@ positions in the grid (`SIG`, `INS`, `SEG`, `CON`, `SYN`) are not spelled
 out with individual definitions in CUBE.md itself; this chapter locates
 them by the same mode-and-domain logic the four confirmed ones establish
 (each group of three operators in the grid line shares one domain, and
-position within the group fixes the mode). `CON` is independently
+position within the group fixes the mode). The Peirce quotes above are
+from the electronic edition of the Harvard *Collected Papers* (CP 2.228
+and 2.247–248), retrieved and checked directly rather than re-quoted
+from a summary. `CON` is independently
 corroborated as `Relate · Structure` by `eoreader6/SEED.md` Amendment X,
 which describes the binding organ's output as "Structure-tier relations
 (Figure cell on the operator grid)." `SYN`'s gloss ("synthesize a ward from
@@ -1138,6 +1275,8 @@ something the codebase itself cites.
 ---
 
 # 2.2 — The Order Things Happen In
+
+
 
 
 
@@ -1272,6 +1411,8 @@ from outside.
 ---
 
 # 2.3 — Nine Kinds of "Where"
+
+
 
 
 
@@ -1441,6 +1582,8 @@ argument, not a claim eoreader6 itself makes.
 
 
 
+
+
 **Why this matters:** Chapter 0.3's second question — measuring, tending, or
 making a judgment call — wasn't a throwaway example. It's the second half of
 a nine-way grid, exactly parallel to Chapter 2.3's, and it's the one that
@@ -1534,6 +1677,8 @@ philosophy, not something the codebase itself cites.
 ---
 
 # 2.5 — Why All Three Have to Agree
+
+
 
 
 
@@ -1682,6 +1827,8 @@ own finding and own words, not this book's addition.
 # 2.6 — Checked Against Language Itself
 
 
+
+
 **Why this matters, and a boundary to draw first:** this chapter, like Part
 VII, describes a related but separate generation of this project
 (`eoreader4.2`), not eoreader6 or the current engine — but unlike Part VII,
@@ -1795,6 +1942,13 @@ in blind, independent judgments of actual language — a claim about the
 axes, not a vindication of the cube-as-classifier Chapter 2.5 already
 retired.
 
+One control this study never ran: every comparison here is against
+*chance*, not against a rival set of three questions — so "the axes
+track something real" was established, and "these axes are better than
+some other three would be" was not. That missing test has since been run,
+adversarially and pre-registered, and Chapter 2.7 reports what happened
+to it.
+
 **Where this comes from:** everything in this chapter is `eoreader4.2/docs/
 eo-wiki.md`, "EO Lexical Analysis v2 — Results Report" and its companion
 entry "The Lexical Analysis: EO's Preliminary Empirical Grounding" (the
@@ -1811,12 +1965,134 @@ drawn directly from those two entries.
 
 ---
 
+# 2.7 — Tried Against a Rival
+
+
+
+**Why this matters:** Chapter 2.6 showed you the three axes tested against
+*chance* — and holding up. This chapter reports the test Chapter 2.6's
+study never ran: the same instrument, aimed at the question that actually
+decides whether the axes deserve their standing. "The three questions
+track something real" and "the three questions carve language better than
+some other three questions would" are different claims. Only the first
+had ever been measured. The second was tested, adversarially, on purpose,
+by this project — and this chapter reports what happened to it, in the
+order the predictions were locked.
+
+## The design: same instrument, plus the missing control
+
+The original study's logic: ask blind judges three plain-language
+questions about real sentences, embed the sentences with a model that
+never sees the labels, and check whether sentences that answered the same
+way sit closer together than chance. This experiment
+(`eoreader6/scripts/experiments/rival-triads/`) reran that logic on 360
+fresh English sentences from twelve sources across seven registers — and
+added the control: a **rival triad**, assembled deliberately from
+off-the-shelf linguistics that owes nothing to this project. Its three
+questions: does the sentence mainly describe *an action, an experience of
+sensing/feeling/saying, or a state of being/having* (process type, after
+Halliday); is it about *the past, the present, or the future/a timeless
+generality* (time); does the main event involve *one, two, or
+none-or-more-than-two participants*. A third, mechanical "system" —
+sentence-length terciles, comma counts, and an alphabetical axis designed
+to be pure noise — calibrated the instrument itself.
+
+Every prediction was written down before a single sentence was judged
+(the pre-registration file itself is precise about what that ordering
+can and can't be proven by, since the experiment lands in git as one
+batch). Four independent judges (two per question-set) saw only
+shuffled sentences and their own three questions — no vocabulary from
+either theory, no statement of purpose. The falsification rule, verbatim
+from the pre-registration: *"if an off-the-shelf rival triad from
+ordinary linguistics matches or beats the EO triad on the same
+instrument, the superiority claim is falsified — coherence-against-chance
+would then be a cheap property many partitions share, not evidence for
+these particular axes."*
+
+## What held
+
+Chapter 2.6's core result replicated on a fresh sample: every one of the
+three axes shows real geometric coherence (the weakest, mode, at z≈5;
+domain and grain far above), the full 27-cell address is more coherent
+than any axis alone, and distance grows monotonically with the number of
+axes two sentences differ on. The noise axis showed nothing (z=−1.1),
+so the instrument doesn't manufacture coherence out of arbitrary labels.
+
+## What did not
+
+**The rival triad reproduced the entire qualitative signature.** Real
+coherence per axis. Real full-address coherence. The same clean
+monotonic staircase. On the primary specification (sentences where both
+judges agreed on everything — the original study's own consensus rule),
+the project's triad came out ahead on both headline measures — by about
+10–15%. That margin did not survive a change of specification: scored on
+all 360 sentences under one judge's labels, the rival's mean per-axis
+score was *higher*. Effect sizes stayed modestly in the project's favor
+throughout, never by more than about 16%.
+
+So: not falsified — the rival did not match-or-beat the project's triad
+across the board. And not vindicated either — a triad assembled in an
+afternoon from textbook distinctions landed within noise of axes this
+lineage has spent years on, and every property Chapter 2.6 reported as
+evidence *for* these axes (coherence, address-level structure,
+monotonicity) turned out to be evidence only that a partition is
+semantically real, not that it is *these* axes. The results file's own
+summary sentence: *"The stronger claim — that THESE three dimensions
+carve language better than some other three would — is unsupported."*
+
+Two more findings, one against the grid and one for it, reported at the
+same size. Against: the rival's questions were operationally *cheaper* —
+independent judges fully agreed on 80% of sentences under the rival's
+questions, 67% under this project's. For: the one clear, unpredicted win
+was **axis independence**. The project's axes reproduced Chapter 2.6's
+known mode–domain correlation, but the rival's axes were more entangled
+still — so if the triad has a measured superiority claim on this
+instrument, it is "closer to orthogonal than an obvious rival," which is
+a real virtue in a coordinate system, and a much narrower claim than
+anyone had been making.
+
+And one deflationary calibration that binds both triads: a partition of
+the same sentences by *which document they came from* carries roughly
+ten times the geometric coherence of either triad. Whatever the three
+questions measure, it is a thin layer of structure on top of a much
+larger topical signal — a proportion worth keeping in view whenever
+these axes are described as carving language at its joints.
+
+## Why this chapter exists at all
+
+An opinionated ontology (Chapter 0.3's phrase) earns the right to its
+opinions exactly this way: by naming, in advance, the result that would
+embarrass it, and running the test anyway. The grid has now been
+demoted once (the classifier, Chapter 2.5), confirmed once against
+chance (Chapter 2.6), and held to a draw by a rival it invited (this
+chapter). What remains standing afterward is smaller than the original
+claim and better earned: three questions that track something real,
+more independent of each other than an obvious alternative, and no
+longer describable as uniquely privileged carvers of language — because
+that was tested, and it didn't hold.
+
+**Where this comes from:** the experiment, its locked predictions, its
+raw judge labels, and its full numbers are
+`eoreader6/scripts/experiments/rival-triads/` — `PREREGISTRATION.md`
+(written before judging, with its own note on how that ordering is
+attested; the falsification rule above is quoted from it verbatim),
+`RESULTS.md` (all quoted verdicts), `results.json`, and `labels/`. The original study it extends is the one Chapter 2.6
+describes (`eoreader4.2/docs/eo-wiki.md`, "EO Lexical Analysis v2"). The
+rival's process-type axis is adapted from M.A.K. Halliday's transitivity
+system (material/mental/relational processes) — named here as the
+book's own choice of a strong rival, precisely *because* it is
+well-established prior art, not because this project ever drew on it.
+
+---
+
 
 \newpage
 
 ## Part III — How EO Reader 6 Reads
 
 # 3.1 — A Reading, From the Inside
+
+
 
 
 
@@ -1918,6 +2194,8 @@ the codebase itself cites.
 ---
 
 # 3.2 — Gifts, Not Guesses
+
+
 
 
 
@@ -2078,6 +2356,8 @@ something the codebase itself cites.
 
 
 
+
+
 **Why this matters:** Part I taught you one move, and Part II taught you the
 grammar every act is described in. This chapter introduces the actual
 working parts — this system's word for them is **organs** — that carry the
@@ -2205,6 +2485,8 @@ not something the codebase itself cites.
 
 
 
+
+
 **Why this matters:** Chapter 1.1 said a ground gets rebuilt fresh every
 time — never kept as a permanent fixture. So how does this system have a
 conversation at all, across separate turns, without either dragging along
@@ -2300,6 +2582,8 @@ cites.
 ---
 
 # 3.5 — Refusal as an Answer
+
+
 
 
 
@@ -2449,6 +2733,8 @@ is precise, not because it describes eoreader6 itself.
 ---
 
 # 3.6 — How the Engine Is Allowed to Grow
+
+
 
 
 
@@ -2629,6 +2915,8 @@ experimental science, not something the codebase itself cites.
 
 
 
+
+
 **Why this matters:** Part III showed you an engine that measures things
 very carefully and refuses to speak past its evidence. This chapter is
 about why that engine is kept so deliberately narrow — and where everything
@@ -2724,6 +3012,8 @@ engineering, not something the codebase itself cites.
 ---
 
 # 4.2 — The Tests, in Plain Language
+
+
 
 
 
@@ -2879,6 +3169,8 @@ and software engineering, not something the codebase itself cites.
 
 
 
+
+
 **Why this matters:** every rule in Chapter 4.2 is written in a document
 that explicitly allows itself to be changed. This chapter is about how that
 change actually happens — because "we can edit our own rules" is easy to
@@ -2991,6 +3283,8 @@ codebase itself cites.
 ---
 
 # 4.4 — One Amendment, Start to Finish
+
+
 
 
 
@@ -3124,6 +3418,8 @@ codebase itself cites.
 
 
 
+
+
 **Why this matters:** everything in Parts I through IV describes a
 measurement that never touches a clock, a file, or a specific reader. But
 you're reading this book because, at some point, you actually typed a
@@ -3225,6 +3521,8 @@ codebase itself cites.
 
 
 
+
+
 **Why this matters:** every chat application has *some* set of instructions
 shaping how it behaves — usually a single hidden prompt nobody outside the
 company gets to see. This chapter is about a different choice: writing that
@@ -3315,6 +3613,8 @@ something the codebase itself cites.
 ---
 
 # 5.3 — Four Promises to the Reader, in Plain Language
+
+
 
 
 
@@ -3445,6 +3745,8 @@ codebase itself cites.
 
 
 
+
+
 **Why this matters:** Chapter 3.1 showed you a citation in a real answer —
 `pg84.txt @ bytes 263105–265217` — and asked you to trust that it actually
 pointed somewhere real. This chapter is about the mechanism that makes that
@@ -3549,6 +3851,8 @@ something the codebase itself cites.
 ---
 
 # 5.5 — Writing Something Long Without Losing the Thread
+
+
 
 
 
@@ -3671,6 +3975,8 @@ comments state.
 
 
 
+
+
 **Why this matters:** Chapter 5.1 told you the application calls outside
 language models as tools it doesn't own, never as the measurement itself.
 This chapter shows exactly what that looks like in one real, small,
@@ -3777,7 +4083,14 @@ neocortex, building on Timothy Teyler and Pascal DiScenna's earlier
 hippocampal indexing theory (1986) — is a real biological parallel to
 running two different memory mechanisms (a fast verbatim window, a slow
 consolidated gist) side by side rather than trying to make one mechanism
-do both jobs.
+do both jobs. (The same 1995 theory turns out to be cited a second time
+in this lineage, for a different and stronger reason: the engine's own
+memory organ names Marr (1971) and McClelland, McNaughton & O'Reilly as
+the actual ancestors of its sparse-coding/pattern-completion mechanism,
+in the code file itself — Chapter 6.5 quotes that header. Here it's a
+structural parallel to an application feature; there it's a claimed
+lineage of an engine mechanism. The two claims are different sizes, and
+they shouldn't be blurred just because they share a citation.)
 
 Two more of that generation's citations are worth naming because they're
 about machine memory specifically, not brains: retrieval-augmented
@@ -3832,6 +4145,8 @@ own design process, not eochat's.
 
 
 
+
+
 **Why this matters:** everything you've read so far might sound like the
 first serious attempt at any of this. It isn't, and the people who built
 this project are explicit about that. This chapter is the honest history —
@@ -3847,42 +4162,64 @@ four times, and each time the definition was gamed and then quietly
 replaced."*
 
 **First: reading as building something you could paraphrase from (1972).**
-A sentence counted as understood once it had been converted into a
-structured representation of basic actions, precise enough that a system
-could generate paraphrases, answer questions, and draw the inferences a
-text left implicit — a program could read "John gave Mary a book" and know,
-without being told, that Mary now had it. This was real, and for a while
-it worked strikingly well on the material it was built for. It died of
-what's called the knowledge acquisition bottleneck: every one of those
-structured scripts had to be hand-built, a restaurant script didn't
-generalize to a hospital, and there was no finite list of scripts to
-finish writing. One heroic attempt to just write down everything a system
-would ever need to know started in 1984 and, decades later, is still the
-standing demonstration of how large that list actually is.
+This is Roger Schank's **conceptual dependency** theory: a sentence
+counted as understood once it had been converted into a structured
+representation of basic actions, precise enough that a system could
+generate paraphrases, answer questions, and draw the inferences a text
+left implicit — in the essay's own words, *"John gave Mary a book becomes
+an ATRANS with filled slots, and the system knows Mary has the book now
+without being told."* Scripts followed in 1977 (Schank and Abelson), and
+the systems built on them were real: *"This was real reading in a way
+that nothing since has quite matched. SAM understood stories. PAM
+tracked goals. FRUMP, in 1979, skimmed live UPI newswire using sketchy
+scripts and produced summaries. That is a machine reading the news."*
+It died of the knowledge acquisition bottleneck: *"Every script was
+hand-built. The restaurant script did not generalize to a hospital, and
+the hospital script did not generalize to a procurement hearing, and
+there is no finite list of scripts. Lenat's CYC, from 1984, was the
+heroic attempt to just write them all down, and forty years later that
+project is still the standing demonstration of how large the number
+is."*
 
-**Second: reading as filling in a template (1987–1998).** A seven-year,
-government-funded research program asked systems to read news reports and
-fill in fixed slots — who did what to whom, with what, when, where. It
-stalled: scores plateaued well below what a human could do, and,
-tellingly, human annotators didn't even agree with each other often
-enough to make the ceiling itself clear. The programs that resulted were
-brittle and expensive to move from one kind of document to another.
+**Second: reading as filling in a template (1987–1998).** The **Message
+Understanding Conferences** — MUC — seven of them, DARPA-funded: read
+news reports (MUC-3 and MUC-4 used Latin American terrorism reports) and
+fill in fixed slots — perpetrator, target, date, instrument. It stalled:
+scores plateaued well below what a human could do, and, tellingly, human
+annotators didn't even agree with each other often enough to make the
+ceiling itself clear. The programs that resulted were brittle and
+expensive to move from one kind of document to another. One thing MUC
+learned the expensive way outlived it: MUC-6, in 1995, split **named
+entity recognition** and **coreference** out as scored tasks in their own
+right — not because they were interesting, but because template filling
+kept failing on them — and the modern definitions of both tasks descend
+from that decision. Chapter 3.3's organs partition the same problem along
+a strikingly similar seam, a convergence the essay works through at
+length.
 
 **Third: reading as picking out the right span of text (1999 onward).**
-Reading comprehension became a multiple-choice-style task: given a
-passage and a question, select the span of text that answers it. It
-scaled beautifully as a benchmark and was gamed almost as fast — large
-portions of the most popular test sets turned out to be solvable without
-reading both the passage and the question at all, and adding one
-irrelevant, distracting sentence to a passage was enough to collapse
-systems that had looked, by the numbers, like they were reading closely.
+Hirschman's **Deep Read** (1999) proposed grade-school reading
+comprehension tests as an AI evaluation — and found a bag-of-words
+baseline did unnervingly well, which should have been the warning.
+Instead the paradigm scaled: the CNN/Daily Mail cloze task (Hermann et
+al., 2015), then **SQuAD** (Rajpurkar et al., 2016), and a decade of
+leaderboards. It was gamed almost as fast as it scaled: Chen, Bolton and
+Manning took apart CNN/Daily Mail in 2016 and showed a large fraction
+was either trivially solvable or unanswerable noise; Jia and Liang
+(2017) appended one irrelevant, distracting sentence to SQuAD passages
+and watched systems collapse; and other work showed models that saw
+*only* the passage or *only* the question still scored far above chance,
+meaning the datasets carried exploitable artifacts. Hector Levesque had
+anticipated the whole problem in 2011 with the Winograd Schema
+Challenge — deliberately built so pronoun resolution required world
+knowledge — and it, too, was eventually saturated.
 
-**Fourth: reading as producing text a human rates as good (today).** This
-is barely a definition at all — it's a preference model. Its distinctive
-property is that it can't be inspected from the outside: there's no
-structure to audit, no record of what was actually used to produce the
-answer. The system either satisfies you, or it doesn't, and there's
-nothing else to check.
+**Fourth: reading as producing text a human rates as good (today).** In
+the essay's words: *"It is not really a definition, it is a preference
+model, and it has the interesting property of being unfalsifiable from
+the outside: there is no artifact to inspect, no structure to audit, no
+record of what was used. The system either satisfies you or it
+doesn't."*
 
 ## A pattern with a name in philosophy of science generally
 
@@ -3915,17 +4252,27 @@ different in kind rather than just newer.
 
 **Where this comes from:** `eoreader6/prior-art-teachable-language-
 comprehender.md`, §II, "Reading has been redefined four times, each time by
-its scoreboard," including the framing sentence quoted at the top of this
-chapter and the account of Schank's conceptual dependency (1972), the
-Message Understanding Conferences (1987–1998), span-selection benchmarks
-from Deep Read (1999) through SQuAD (2016), and the human-preference
-definition dominant today. The Bridgman/operationalism connection above is
-this book's own added link to the philosophy of science, not something
-the codebase itself cites.
+its scoreboard." Every passage in quotation marks above is verbatim from
+that section. The named systems and studies — Schank's conceptual
+dependency (1972), Schank and Abelson's scripts (1977), SAM, PAM, FRUMP
+(1979), Lenat's CYC (1984–), the Message Understanding Conferences
+(1987–1998) and MUC-6's introduction of named entity recognition and
+coreference (1995), Hirschman et al.'s Deep Read (1999), Hermann et al.'s
+CNN/Daily Mail cloze (2015), Rajpurkar et al.'s SQuAD (2016), Chen,
+Bolton and Manning's dataset analysis (2016), Jia and Liang's adversarial
+distractors (2017), and Levesque's Winograd Schema Challenge (2011) — are
+all named in that essay, §II and §IV, and its closing note carries its own
+caution, repeated here because it applies to this chapter too: *"Prior art
+is cited from memory and has not been re-read for this essay… Dates and
+attributions should be verified before any of this is published."* The
+Bridgman/operationalism connection above is this book's own added link to
+the philosophy of science, not something the codebase itself cites.
 
 ---
 
 # 6.2 — The Fifty-Eight-Year-Old Objection, and Where the Project Is Actually Chipping at It
+
+
 
 
 
@@ -3951,7 +4298,19 @@ the same grammatical slot. But John is the one who did it, the hammer is
 the tool he did it with, and in the third sentence there's no agent named
 at all. A rule that reads "the thing before the verb is the doer" gets the
 first sentence right and the other two wrong — not as an edge case, but as
-a predictable consequence of the rule itself.
+a predictable consequence of the rule itself. Fillmore's positive claim,
+in his own retrieved words (from the working-paper text of "The Case for
+Case"): *"The case notions comprise a set of universal, presumably
+innate, concepts which identify certain types of judgments which human
+beings are capable of making on the events that are going on around
+them, judgments on such matters as who did it, who it happened to, what
+got changed"* — and, on the sentences: *"none of these cases can be
+interpreted as matched by the surface-structure relations Subject or
+Object in any particular language."* Worth stating precisely: this
+project borrows Fillmore's *diagnosis* (surface position is not semantic
+role) and explicitly does not adopt his *remedy* — role-fold induces
+unlabeled clusters from distribution alone, and claims nothing about
+universal or innate case concepts.
 
 ## This project's own mouth has exactly that problem, by direct measurement
 
@@ -3976,10 +4335,37 @@ on — FrameNet, PropBank, a long-running sequence of shared evaluation
 tasks. It works, moderately well, and it is thoroughly **supervised**: it
 depends on exactly the kind of large, hand-built, human-annotated resource
 the "reading as filling a template" era already showed doesn't scale
-cleanly. There's also an **unsupervised** version of the idea — inducing
-role-like clusters from patterns in text with no hand labels at all — and
-it's real, live research, with results that remain considerably weaker
-than the supervised version.
+cleanly (FrameNet from 1997, PropBank from 2005, both hand-annotated).
+There's also an **unsupervised** version of the idea — inducing role-like
+clusters from patterns in text with no hand labels at all: Titov and
+Klementiev, and Lang and Lapata, around 2010–11. It's real, live
+research, with results that remain considerably weaker than the
+supervised version — and, the essay adds, *"as far as I know, [it] has
+never been demonstrated on the agentless register,"* the register this
+project most needs it for.
+
+The field also rediscovered Fillmore's problem from the opposite
+direction, and one finding from that rediscovery converges on this
+project's own mechanism closely enough that it has to be named. Open
+Information Extraction — TextRunner in 2007, then ReVerb in 2011 (Fader,
+Soderland and Etzioni) — set out to extract relations from web text with
+no target schema at all. The ReVerb paper's own abstract, retrieved from
+the published proceedings: *"This paper shows that the output of
+state-of-the-art Open IE systems is rife with uninformative and
+incoherent extractions. To overcome these problems, we introduce two
+simple syntactic and lexical constraints on binary relations expressed
+by verbs."* The lexical constraint is the one that matters here: a
+relation phrase earns its status by recurring across many distinct
+argument pairs. The essay's own words on what that means here: *"That is
+`discoverRelationVocab` and the ≥2-distinct-surfaces recurrence
+requirement, arrived at independently, and the convergence is the good
+news. The bad news is in the first constraint: even with the recurrence
+test, ReVerb needed a verb-centered syntactic pattern to avoid garbage."*
+And verb-centered extraction has a well-known blind spot the essay names
+precisely because it lands on this project's own corpus: it misses
+nominalized relations — *"the acquisition of X by Y, the deployment of
+cameras in the district"* — exactly the construction that dominates
+administrative prose.
 
 **This project is not doing either of those things**, and it's worth being
 precise about why not, rather than leaving the impression that role-fold
@@ -3988,16 +4374,17 @@ role-fold is trained against a hand-annotated corpus of agent/instrument/
 patient labels, and nothing in it inherits FrameNet's or PropBank's
 category system. What it borrows instead — and this is the same precise
 sense of "borrowed" Chapter 3.6 already walked through — is a strategic
-idea from a completely different field: research on how children actually
-acquire verbs, which found that they build narrow, per-verb patterns of
-"who does this with what" long before they generalize across verbs at all.
-Role-fold took that one finding — cluster narrow, per verb, before you
-ever pool across verbs — and used it to reorder its own clustering
-question, then tested whether the reorder helped its own real data. It
-did. A second technique for finding candidate word groups in the first
-place borrows, in the same precise way, a statistical signature from
-research on how infants segment continuous speech into word-like chunks
-with no grammar at all.
+idea from a completely different field: Michael Tomasello's "verb island"
+work on how children actually acquire verbs, which found that they build
+narrow, per-verb patterns of "who does this with what" long before they
+generalize across verbs at all. Role-fold took that one finding — cluster
+narrow, per verb, before you ever pool across verbs — and used it to
+reorder its own clustering question, then tested whether the reorder
+helped its own real data. It did. A second technique for finding
+candidate word groups in the first place borrows, in the same precise
+way, a statistical signature from Saffran, Aslin and Newport's research
+on how infants segment continuous speech into word-like chunks with no
+grammar at all.
 
 ## What this has actually earned, stated at the same size as the claim
 
@@ -4020,22 +4407,33 @@ named directly, in the same file that reports the progress, rather than
 left for a reader to notice on their own.
 
 **Where this comes from:** Fillmore's argument and the field's response
-(FrameNet, PropBank, unsupervised SRL) are from `eoreader6/prior-art-
-teachable-language-comprehender.md`, §III, including the direct citation
-*"Charles Fillmore, The Case for Case, 1968"* and its three examples. The
-87% recall-loss measurement is from `eoreader6/scripts/experiments/
+(FrameNet 1997, PropBank 2005, unsupervised SRL by Titov & Klementiev
+and Lang & Lapata c. 2010–11, TextRunner 2007, and ReVerb — Fader,
+Soderland & Etzioni, 2011) are from `eoreader6/prior-art-teachable-
+language-comprehender.md`, §III, including the direct citation *"Charles
+Fillmore, The Case for Case, 1968"* and its three examples; every passage
+in quotation marks above is verbatim from that section, including the
+ReVerb convergence and the nominalized-relations limitation — except two
+now drawn from the primary sources directly: the Fillmore sentences are
+from the ERIC working-paper text of "The Case for Case" (ED019631; the
+1968 Bach & Harms book printing has minor wording differences and was
+not itself retrievable), and the ReVerb abstract is from the EMNLP 2011
+proceedings PDF (ACL Anthology D11-1142). The 87%
+recall-loss measurement is from `eoreader6/scripts/experiments/
 FINDINGS.md` §1 (PR #44, `goldens/agency-civic/`). The verb-island
-reordering and its citation of usage-based language-acquisition research,
-the transitional-probability chunking and its citation of infant
-speech-segmentation research, and the cross-lingual result ("the mouth is
+reordering (Tomasello), the transitional-probability chunking (Saffran,
+Aslin & Newport), and the cross-lingual result ("the mouth is
 language-specific by construction, the organ isn't") are from `eoreader6/
-scripts/experiments/README.md` (PRs #45–48). The stated ceiling against
-Fillmore's actual goal (two coarse, unlabeled kinds rather than named
-roles) is from `FINDINGS.md` §11.4.
+scripts/experiments/README.md` (PRs #45–48), which carries those
+citations itself. The stated ceiling against Fillmore's actual goal (two
+coarse, unlabeled kinds rather than named roles) is from `FINDINGS.md`
+§11.4.
 
 ---
 
 # 6.3 — What's Actually New Here
+
+
 
 
 
@@ -4055,11 +4453,16 @@ rediscovered or borrowed.
 Before listing what's actually novel, one honest exception belongs here,
 because it's the cleanest possible illustration of the distinction this
 whole book has tried to keep sharp. A program called the Teachable
-Language Comprehender, built in 1969, represented concepts as nodes in a
-network and modeled understanding a sentence as activation spreading
-outward from the words it named, one hop at a time — comprehension
-happened when two spreading fronts, from two different sentences,
-intersected. This project's own memory-recall organ, written in 2026,
+Language Comprehender, built by M. Ross Quillian in 1969, represented
+concepts as nodes in a network and modeled understanding a sentence as
+activation spreading outward from the words it named, one hop at a time —
+comprehension happened when two spreading fronts, from two different
+sentences, intersected. Quillian's own abstract, retrieved from the 1969
+report: *"The Teachable Language Comprehender (TLC) is a program designed
+to be capable of being taught to 'comprehend' English text... it
+comprehends that text by correctly relating each (explicit or implicit)
+assertion of the new text to a large memory. This memory is a 'semantic
+network' representing factual assertions about the world."* This project's own memory-recall organ, written in 2026,
 represents concepts as motifs and spreads activation outward from what a
 passage brings to mind, exactly one hop, for a documented reason (a wider
 flood would drown out anything distant). Nobody ported anything: the
@@ -4083,24 +4486,58 @@ that the systems in Chapter 6.1 mostly didn't have:
 - **Refusal as a normal, expected, countable output.** Every system in
   Chapter 6.1's history produced answers — some with confidence scores
   attached. None of them produced typed refusals as a routine part of what
-  they returned. This project's gaps (Chapter 3.5) come with a name and a
-  count, not a silent absence.
+  they returned. The essay's receipt, exact: *"`resolvePronouns` returns
+  638 bindings and 820 gaps, and the gaps are typed — `pronoun_no_margin`,
+  `pronoun_below_floor`, `pronoun_no_candidate` — each carrying the number
+  that failed and the bar it failed against. A MUC system that filled 44%
+  of slots reported 44%; it did not report which 56% it refused and why.
+  'A gap is a result' is not a slogan here; it is a return type."*
 - **Provenance at the level of a single fact.** Every individual claim can
   be traced to what backed it and where that backing came from — not a
   document-level confidence rating, but an audit trail fine enough to
-  check one specific assertion at a time.
+  check one specific assertion at a time. The essay names the two nearest
+  prior systems and why neither is this: *"Knowledge Vault had confidence;
+  PROV-O has provenance vocabulary; neither combines the two at inference
+  granularity inside a reader."*
 - **Comparisons built from the material's own statistics, never a fixed
   threshold.** Every check in this system is sized to its own candidate and
   its own material (Chapter 1.1's whole point), rather than measured
   against a number decided in advance and reused everywhere.
 - **A growth rule that has actually refused its own best result.** Chapter
   3.6 showed you this directly — a rule that binds its author isn't a rule
-  until it's actually said no to something the author wanted to keep.
+  until it's actually said no to something the author wanted to keep. Here
+  too the essay names the nearest ancestor rather than claiming novelty
+  outright: *"The closest prior art is the LCF proof-kernel tradition and
+  the de Bruijn criterion — architectures whose whole purpose is that the
+  checker cannot be persuaded by how much you want the theorem. What is
+  unusual here is that the checker is prose, and prose checkers are
+  normally the corruptible kind. This one held."*
+- **Pre-registration, with a failed prediction kept on the record.** The
+  channel called `reach` was predicted to spike at boundaries; it didn't,
+  and the wrong prediction is still in the results file. The essay's
+  claim for why this counts as differentiating: *"Machine reading, as a
+  field, has approximately no tradition of this."*
 - **A fresh, dated, honestly-bounded result, not only old findings cited
   from memory.** Chapter 6.2's cross-lingual test is exactly this: work
   finished recently enough to still be sitting in an experiments folder,
   reported with the same care for what it doesn't yet show as for what it
   does.
+
+Two convergences found since the first edition of this chapter belong in
+the same "found again, not invented" column as the Quillian case above.
+The recurrence rule this project's relation mouth uses — a relation earns
+its status only by recurring across at least two distinct argument
+surfaces — was ReVerb's lexical constraint first (Fader, Soderland &
+Etzioni, 2011), arrived at independently here; the essay calls the
+convergence "the good news" and is equally plain about the bad news that
+travels with it (Chapter 6.2 has both). And the corpus-fold /
+slow-dreaming design on record here is, in the essay's words,
+*"structurally identical"* to NELL, the never-ending language learner
+(Carlson et al., 2010) — whose documented failure mode, semantic drift,
+the essay names as *"the empirical evidence that the risk is real rather
+than theoretical"* for this project's own closed-loop design. Neither
+convergence is a borrowing; both are on the record so nobody mistakes
+them for novelty later.
 
 ## Why this list matters more than a longer one would
 
@@ -4121,16 +4558,29 @@ convincingly would require doing the actual work it claims to record.
 prior-art-teachable-language-comprehender.md`, §I: *"Fifty-seven years
 apart. Same mechanism. Nobody ported anything; the file's own header
 derives it from hippocampal function... and re-earns it against a memory
-golden rather than citing Quillian at all."* The five-item list of what's
-new is drawn from §VII, "What this project has that none of them had." The
-closing argument about what can and can't be faked is from §IX, "The fifth
-definition": *"You cannot fake a ledger you did not earn, because the
-ledger is not the output — it is the record of how the output came to
-be."*
+golden rather than citing Quillian at all."* (One update: since that essay
+was written, a second audit put the hippocampal citations — and the
+named divergence from Quillian's own descendants — directly into the
+organ's file; Chapter 6.5 quotes them.) The TLC abstract quoted above is
+from the report version of Quillian's paper (BBN/AFCRL report
+AFCRL-69-0166, January 1969, retrieved in full; the *Communications of
+the ACM* 12(8) printing carries the same title and is presumed identical
+but was not itself retrievable). The list of what's new is §VII,
+"What this project has that none of them had" — every quoted passage in
+it above is verbatim from §VII, including the `resolvePronouns` counts,
+the Knowledge Vault / PROV-O comparison, the LCF / de Bruijn comparison,
+and the pre-registration claim; the failed `reach` prediction it refers
+to is §VII's own receipt. The ReVerb convergence is §III; the NELL
+convergence and its drift warning are §VI. The closing argument about
+what can and can't be faked is from §IX, "The fifth definition": *"You
+cannot fake a ledger you did not earn, because the ledger is not the
+output — it is the record of how the output came to be."*
 
 ---
 
 # 6.4 — The Honest Gap List
+
+
 
 
 
@@ -4148,48 +4598,76 @@ outside review that named what's genuinely new in the last chapter.
 
 Everything in this chapter is one outside reviewer's assessment of the
 codebase, checked against established psychology-of-reading research —
-**not** claims the codebase makes about itself. That distinction matters.
-Nowhere in this project's own working files does it say "we implement
-Kintsch's model" or "we satisfy Zwaan and Radvansky's checklist." A
-reviewer familiar with that research read the actual code and measured
-results and reported where they lined up and where they didn't. Three
-separate, independently-developed theories from cognitive psychology
-happen to agree with each other on one point, and the reviewer used that
-agreement as a diagnostic tool — a checklist to hold the project's own
-measurements up against, not a design document the project was following.
+**not** design documents the project was following. A reviewer familiar
+with that research read the actual code and measured results and reported
+where they lined up and where they didn't. Three separate,
+independently-developed theories from cognitive psychology happen to
+agree with each other on one point, and the reviewer used that agreement
+as a diagnostic tool — a checklist to hold the project's own measurements
+up against. (One update since the first edition of this chapter: it used
+to say the project's own working files never cite this literature. That
+was true when the review was written and is no longer true — a second
+audit has since put citations for the memory and boundary organs directly
+into the code files themselves, with their divergences stated. Chapter
+6.5 covers that audit in full.)
 
 ## The gap three theories agree on
 
-The shared claim, from research spanning 1978 to 1998: comprehension has
-two phases. The first is described as promiscuous and undiscriminating —
-a passage activates everything associated with it, irrelevant material
-included, with no filtering yet. The second is a settling process, where
-things that reinforce each other strengthen and things that don't get
-suppressed. **The theories' shared claim is that the first phase alone is
-not comprehension. It's the raw material — comprehension is the
-settling.**
+The three theories, by name: Walter Kintsch and Teun van Dijk's
+comprehension model (1978), developed into Kintsch's
+**construction-integration model** (1988); Morton Ann Gernsbacher's
+**Structure Building Framework** (1990); and Jerome Myers and Edward
+O'Brien's **resonance model** (1996–98). The shared claim: comprehension
+has two phases. The first is promiscuous and undiscriminating — a passage
+activates everything associated with it, irrelevant material included,
+with no filtering yet. The second is a settling process, where things
+that reinforce each other strengthen and things that don't get
+suppressed — in Gernsbacher's version the mechanism is **suppression**
+itself, and her evidence is that less-skilled comprehenders are not worse
+at activating meanings, they're worse at suppressing the ones that lose.
+The reviewer's summary sentence, kept exact: *"Three theories, developed
+independently over twenty years, all say the same thing: activation
+without settling is not comprehension."*
 
-Read against this project's own organs, the reviewer's finding is that the
-first phase is genuinely built, and the second mostly isn't. There's no
-step where an already-resolved binding actively dampens whatever
-competed with it, so a competitor that lost stays exactly as active as it
-was before it lost — and the project's own measurements are quietly
-consistent with this gap: the raw count of things that responded to a
-passage carries real signal, while the strength of any one response
-carries far less.
+One of the three the project actually got *right*, and the reviewer says
+so: the resonance model holds that reactivation from long-term memory is
+passive, cue-driven, and unguided by discourse focus — *"which eoreader6
+committed to explicitly, in the conformance test that says activation
+beats recency. This is the half the project got right, and getting it
+right was a real theoretical choice, not a default."* What's missing is
+the other half. There's no step where an already-resolved binding
+actively dampens whatever competed with it, so a competitor that lost
+stays exactly as active as it was before it lost. The reviewer's verdict
+on the cost of that absence: *"I would call this the single highest-value
+unbuilt thing in the reading path, and it is not a research problem. It
+is a known algorithm from 1988."*
+
+The project's own measurements are quietly consistent with this gap: the
+raw count of things that responded to a passage carries real signal,
+while the strength of any one response carries far less. (A caution the
+second audit added later: the strongest version of that number in
+circulation — 22 of 24 recalls, p≈0.005 — turned out to be stale,
+measured against a fixture that doesn't exist in this repository. The
+re-run gives 8 of 24, p≈0.046: still a real signal, several times
+weaker. Chapter 6.5 has the full correction.)
 
 ## Three of five situation-model dimensions, honestly absent
 
-A separate piece of research proposes that readers track a situation
-along five dimensions at once — time, space, causation, motivation, and
-who's involved — and pay a measurable cost whenever any one of those five
-breaks continuity. Checked against this project's organs: *who's involved*
-is tracked well. Something adjacent to *causation* is tracked, indirectly.
-*Time* is tracked only as the order material was presented in, not as
-time within the events being described. *Space* and *motivation* aren't
-tracked at all. Stated as what it is: not a criticism so much as a map of
-where the remaining work actually goes, with the dimension this project
-has invested most in being only one of five.
+Rolf Zwaan and Gabriel Radvansky's 1998 review of situation models
+proposes that readers track a situation along five dimensions at once,
+and pay a measurable cost whenever any one of the five breaks
+continuity. Their own sentence, retrieved from the paper itself (p.
+167): *"Each event can be indexed on each of five dimensions: time,
+space, causation, motivation, and protagonist."* (One precision the
+retrieval forced: the five dimensions are named in the paper's body, not
+its abstract, and the paper itself alternates between "motivation" and
+"intentionality" for the fourth dimension across sections.) Checked against this project's organs, in the
+reviewer's own words: *"eoreader6 tracks protagonist (referents, well),
+something adjacent to causation (surprise and strain, indirectly), time
+only as reading order rather than as narrated time, and neither space nor
+motivation at all."* Stated as what it is: not a criticism so much as a
+map of where the remaining work actually goes, with the dimension this
+project has invested most in being only one of five.
 
 ## What Chapter 6.2 already told you, in this list's terms
 
@@ -4213,14 +4691,191 @@ project that has quietly stopped being able to tell the difference between
 
 **Where this comes from:** the two-phase comprehension theories (Kintsch
 and van Dijk, 1978; Kintsch's construction-integration model, 1988;
-Gernsbacher's Structure Building Framework, 1990) and the reviewer's
-finding about suppression are from `eoreader6/prior-art-teachable-
-language-comprehender.md`, §V. Zwaan and Radvansky's five-dimension
-situation-model checklist and its comparison against this project's organs
-is from the same file, end of §V. Both are explicitly the outside
-reviewer's own analysis, stated as such in the essay's closing note: *"The
-connections drawn between this literature and the engine's behaviour are
-mine and have not been checked against anyone else's reading of it."*
+Gernsbacher's Structure Building Framework, 1990; Myers and O'Brien's
+resonance model, 1996–98 — all three-plus-one named there, and every
+sentence quoted above is verbatim from there) are from
+`eoreader6/prior-art-teachable-language-comprehender.md`, §V. Zwaan and
+Radvansky's five-dimension situation-model checklist and its comparison
+against this project's organs is from the same file, end of §V. Both are
+explicitly the outside reviewer's own analysis, stated as such in the
+essay's closing note: *"The connections drawn between this literature and
+the engine's behaviour are mine and have not been checked against anyone
+else's reading of it."* The stale-number correction (22/24 p≈0.005 →
+8/24 p≈0.046) and the fact that `activation.js` and `tiers.js` now carry
+their own citations in-file are from
+`eoreader6/prior-art-surprise-segmentation-and-memory.md`, §4 and §1,
+covered in full in Chapter 6.5. The Zwaan & Radvansky sentence is quoted
+from the paper itself (*Psychological Bulletin* 123(2), 1998, retrieved
+in full). Kintsch's 1988 *Psychological Review* paper and Gernsbacher's
+Structure Building Framework texts could **not** be retrieved in this
+pass (paywalled; the one candidate site failed repeatedly), so their
+positions above are carried only in the essay's words, not their own —
+stated per this book's rule that attested-at-one-remove and
+verified-against-the-printing are different claims.
+
+---
+
+# 6.5 — Ancestors Named in the Code
+
+
+
+**Why this matters:** Chapters 6.1 through 6.4 drew on one essay — the
+outside review of machines that were said to read. The project has since
+run a **second** citation audit on itself, covering a different set of
+organs (boundary detection and associative memory), and this book had not
+carried a word of it until this chapter. That audit did three things this
+book's own discipline requires it to report: it put citations *into the
+code files themselves*, it ran a real measured comparison against two
+published rivals and reported losing ground where it lost ground, and it
+corrected a stale number this book itself had inherited. All three belong
+here, at full size.
+
+## Citations moved from prose into the code
+
+The first audit (Chapter 6.3's source) drew the Quillian line by hand, in
+an essay. The second audit went further: it put the lineage into the
+files, next to the mechanisms. The memory organ's own header
+(`eoreader6/packages/engine/emergence/activation.js`) now names its
+ancestors and — just as carefully — the lineage it is *not*:
+
+> "sparse coding at the dentate gyrus and one-shot pattern completion at
+> CA3 are Marr's (1971) archicortex model, developed into the sparse/dense
+> complementary-learning-systems account by McClelland, McNaughton &
+> O'Reilly (1995). The nearby-sounding but DIFFERENT lineage is spreading
+> activation (Collins & Loftus 1975; surveyed for IR by Crestani 1997) —
+> cited here because it is the mechanism this one is not: spreading
+> activation propagates across multiple hops with decay, which is exactly
+> the 'similarity flood' #3 above names and rejects. One recurrent hop is
+> a deliberate departure from that lineage, not an application of it."
+
+Read that twice, because it's the whole method in one comment: **cite the
+ancestor without also asserting the sameness the code's own design argues
+against.** David Marr's 1971 model of the hippocampus and the 1995
+complementary-learning-systems account are claimed as real ancestors of
+the mechanism. Collins and Loftus's spreading activation — the direct
+descendant of the very 1969 program Chapter 6.3 is about — is named in the
+same breath *as the thing this organ deliberately is not*. If you
+remember Chapter 6.3's "fifty-seven years apart, same mechanism," this is
+the correction that keeps that sentence honest: same *starting* mechanism,
+and then one deliberate structural departure — one recurrent hop, never a
+multi-hop flood — that the code states as a rejection of the older
+lineage, not an implementation of it.
+
+The boundary-detection organ got the same treatment. `emergence/tiers.js`
+finds section boundaries by watching for runs where the material exceeds
+what its own prior would predict — its header's claim is *"runs of
+exceedance ARE the windows."* The audit named that claim's literature and
+its divergence from it, in the file:
+
+> "unsupervised text/audio segmentation by local statistical departure,
+> without a topic label or trained model — Foote (2000)'s
+> self-similarity-matrix novelty for audio, Hearst (1997)'s TextTiling
+> lexical-cohesion valleys for text. Cited here, not applied: both score a
+> FIXED comparison (a similarity kernel; adjacent-block cohesion) against
+> its own local history, where this gate scores KL-divergence exceedance
+> against a null GENERATED from the tier's own prior … — a different
+> statistic solving the same problem, not an instance of theirs."
+
+Jonathan Foote's 2000 method finds boundaries in *audio* by sliding a
+checkerboard-shaped kernel along a self-similarity matrix; Marti Hearst's
+1997 TextTiling finds them in *text* by looking for valleys in
+lexical cohesion between adjacent blocks. Both are real, published
+ancestors of "find the seams by local statistical departure." And the
+divergence is stated where it can't drift away from the code it
+describes: those methods compare against a fixed local statistic, this
+organ compares against a null rebuilt from its own prior.
+
+## The measured comparison, including where it lost
+
+Naming Hearst's TextTiling as an ancestor raised an obvious question the
+audit did not duck: *does this project's boundary detector actually beat
+it?* So it ran the comparison — TextTiling and a second published
+method, C99 (Choi's 2000 algorithm), reimplemented from their papers,
+on the same Frankenstein text, same 100-word frames, same 24-chapter
+ground truth as every other Frankenstein measurement in the repository,
+scored with the segmentation field's own standard error metrics (Pk,
+from Beeferman, Berger & Lafferty 1999; WindowDiff, from Pevzner &
+Hearst 2002).
+
+The result, exactly as the audit stated it:
+
+> "The modelless novelty detector does not clearly beat TextTiling/C99 on
+> Pk/WindowDiff — it is roughly tied with C99's oracle-count mode and
+> ahead of both baselines' natural mode, on a five-boundary, likely
+> underpowered sample."
+
+Unpacked: left to their own natural stopping rules, both published
+baselines placed an order of magnitude too many boundaries (249 and 422
+against 24 real chapters) and scored at or below chance. Handed the true
+answer count — an oracle this project's own detector has no parameter to
+receive — C99 came out *slightly ahead* of this project's mechanism.
+The honest framing the audit chose, and this book repeats, leans on what
+the detector actually has: it was the only method of the three that beat
+a matched-count random null *without being told how many boundaries to
+find* — and it does **not** lean on a raw-score victory, "because on
+this run it does not clearly do that."
+
+## A stale number, caught and corrected
+
+The same audit caught the project — and, by inheritance, this book —
+citing a dead result. Chapter 6.4 told you the count of prior passages
+that respond to a cue carries real signal. The figure behind that claim
+("22/24, p≈0.005") turned out to have been measured against a fixture
+path from a legacy repository that doesn't exist in eoreader6, and it
+does not reproduce on the fixture actually committed there. The audit
+re-ran it: **8/24 causal recall, p≈0.046** — still a real signal, several
+times weaker than the number in circulation. Its own words: *"The number
+this repo has been citing for this comparison is stale."* Chapter 6.4
+now says so too. A corrected number that still clears its null is not an
+embarrassment in this project's terms; citing the uncorrected one after
+the correction exists would be.
+
+## Ancestors cited before the organ exists
+
+One more discipline worth showing. A planned mechanism the project calls
+Assembly C — a slow layer re-tuning a fast layer's own parameters — is
+*not built*. The audit cited its nearest ancestors anyway, in the design
+document and in the file the mechanism would plug into: Fortescue,
+Kershenbaum & Ydstie (1981) for continuous forgetting-factor re-dialing,
+and the drift-detection pair DDM (Gama, Medas, Castillo & Rodrigues,
+2004) and ADWIN (Bifet & Gavaldà, 2007) for the discrete gate — *"recorded
+so the comparison is available when C is built, not invented
+retroactively to make C look novel."* Prior art filed before the thing
+exists cannot be accused of being decorated on afterward.
+
+## The comparison it refused to fake
+
+The audit was asked to compare the memory organ against HippoRAG 2
+(Gutiérrez et al., 2025), a state-of-the-art retrieval system that also
+takes its architecture from the hippocampus. It reported the dependency
+comparison that *is* checkable — HippoRAG 2 needs a large language
+model, an embedding encoder, and a vector index; this project's memory
+organ imports none of the three, checkable against the import list of
+every file in `emergence/` and `referents/` — and then declined to run a
+recall benchmark, for a stated structural reason: *"this repo has no
+multi-hop retrieval mode to point at one"* — one recurrent hop is the
+whole design, and building a multi-hop mode just to lose or win a
+benchmark would be inventing the capability under audit. And when the
+request that prompted the audit mentioned a falsification paper by one
+"Nikolopoulos" that could not be located, the audit wrote down that it
+could not be located, and did not invent a citation to fill the slot —
+Chapter 3.5's "a gap is a result," applied to a bibliography.
+
+**Where this comes from:** everything in this chapter is
+`eoreader6/prior-art-surprise-segmentation-and-memory.md` (all six
+sections), plus the two code headers it edited, quoted above directly
+from `eoreader6/packages/engine/emergence/activation.js` and
+`eoreader6/packages/engine/emergence/tiers.js` as they now stand. The
+measured table (Pk/WindowDiff for this repo's detector, TextTiling, and
+C99, natural and oracle modes) is that essay's §4; the stale-number
+correction is §4, agreeing with `eoreader6/scripts/RESULTS.md`, "(3) The
+premise number does not reproduce"; the Assembly C citations are §3; the
+HippoRAG 2 dependency comparison and the refused benchmark are §5; the
+refused Nikolopoulos citation is §6. The one-line summaries of Foote
+(2000), Hearst (1997), and Choi's C99 given above are this book's own
+glosses of those published methods, added so the reader knows what the
+cited papers actually do — the citations themselves are the code's and
+the essay's, not this book's.
 
 ---
 
@@ -4230,6 +4885,8 @@ mine and have not been checked against anyone else's reading of it."*
 ## Part VII — Building Something With It
 
 # 7.1 — A Construction Language
+
+
 
 
 
@@ -4380,6 +5037,8 @@ comparison to outside work, not this book's addition.
 
 
 
+
+
 **Why this matters:** you've already met this discipline once, in Chapter
 5.5, governing how EO Chat writes something long. This chapter shows you
 the same parable, doing the same job, in a completely different corner of
@@ -4425,16 +5084,33 @@ the act of building itself.
 One thing this book *can* say, stated plainly here rather than left
 implicit: Hora and Tempus did not originate in either generation of this
 project. They're Herbert Simon's, from "The Architecture of Complexity"
-(1962), where he used them to argue for near-decomposability — that
-complex systems able to survive disruption tend to be built from stable
-sub-assemblies, because a system with no such structure has to succeed all
-at once. Chapter 5.5 names this same source for the chat-application
-telling. Knowing the parable's real origin doesn't resolve the harder
-question below — whether either generation drew on Simon directly, or
-independently reached for a well-known fifty-year-old engineering parable
-because it's simply the right shape for the problem — but it does mean
-neither telling is inventing the story from nothing, which is itself worth
-being precise about.
+(*Proceedings of the American Philosophical Society*, 1962). His own
+opening, retrieved and checked against the printed article (p. 470):
+
+> "There once were two watchmakers, named Hora and Tempus, who
+> manufactured very fine watches. Both of them were highly regarded, and
+> the phones in their workshops rang frequently—new customers were
+> constantly calling them. However, Hora prospered, while Tempus became
+> poorer and poorer and finally lost his shop. What was the reason?"
+
+And the moral, in Simon's words rather than anyone's retelling: *"We
+have shown thus far that complex systems will evolve from simple systems
+much more rapidly if there are stable intermediate forms than if there
+are not."* Note what Simon was actually arguing: a claim about how
+complex systems **evolve** — near-decomposability as a fact about which
+architectures survive in nature and society. Both of this project's
+tellings use the parable for something narrower and more prescriptive:
+a rule about how a single builder should sequence work. That's a
+legitimate descendant use — Simon himself drew engineering lessons from
+it — but the original's scope is wider than either telling needs, and
+the difference between "systems that evolve" and "a discipline you
+choose" shouldn't be blurred by the shared story. Chapter 5.5 names
+this same source for the chat-application telling. Knowing the
+parable's real origin doesn't resolve the harder question below —
+whether either generation drew on Simon directly, or independently
+reached for a well-known engineering parable because it's simply the
+right shape for the problem — but it does mean neither telling is
+inventing the story from nothing.
 
 ## What this book knows, and doesn't know, about the connection
 
@@ -4461,11 +5137,17 @@ discipline "wearing glyphs." The chat-application telling is `eochat/
 server/code-longform.js`, lines 571-576, already cited in Chapter 5.5. The
 identification of Herbert Simon's 1962 essay as the parable's actual
 source is this book's own added link to that field, not something either
-source document states.
+source document states. Simon's own wording quoted above is from the
+article as printed in *Proceedings of the American Philosophical
+Society* 106(6), December 1962 (parable at p. 470; the moral from its
+concluding argument), retrieved as a scan of the printed article and
+corrected only for one OCR artifact.
 
 ---
 
 # 7.3 — A Worked Build, Start to Finish
+
+
 
 
 
@@ -4549,9 +5231,11 @@ the code block.
 
 \newpage
 
-## Part 8
+## Part VIII — Reference
 
 # 8.1 — Telling a Rhyme From a Borrowing
+
+
 
 
 **Why this matters:** every chapter from Part 0 through Part VII now carries
@@ -4674,7 +5358,8 @@ connection exists that a closer search might still find.
 | 3.4 | HTTP statelessness; Baddeley's working-memory model | Rhymes | Not named in any source material |
 | 3.5 | Chow's reject option (1970); Rubin's missing-data taxonomy (1976); Scots "not proven" | Rhymes | Not named in any source material |
 | 3.5 | Łukasiewicz (1920) → Codd's NULL problem (1970/1990) | **Witnessed** | `eoreader4.2/docs/eo-wiki.md`, "EO and Codd's Null Problem," makes this exact historical argument itself |
-| 3.6 | Negative controls; preregistration | Rhymes | Not named in any source material |
+| 3.6 | Negative controls | Rhymes | Not named in any source material |
+| 3.6 | Preregistration | **Witnessed** *(corrected — was "Rhymes" in this table's first edition)* | `eoreader6/prior-art-teachable-language-comprehender.md` §VII names it as a claimed differentiator — *"And pre-registration. `reach` was predicted to spike at boundaries. It didn't... Machine reading, as a field, has approximately no tradition of this"* — with the failed prediction kept in the results file as the receipt. The first edition of this table scored it "not named in any source material," which was simply wrong; recorded here rather than silently fixed |
 
 ## The scorecard — Part IV and Part V
 
@@ -4700,13 +5385,78 @@ connection exists that a closer search might still find.
 | 7.1 | Bertrand Meyer's Design by Contract (1986) | Rhymes | Not named in any source material |
 | 7.1 | Attempto controlled natural language; JetBrains MPS; ConstraintLLM (EMNLP 2025) | **Witnessed** | `eoreader4.2/docs/eot-coder-roadmap.md` §2.1–2.2 draws all three comparisons itself |
 
+## The scorecard — the second audit, and the chapters added with it
+
+A second citation audit (`eoreader6/prior-art-surprise-segmentation-and-
+memory.md`) landed after this table's first edition, and it changed the
+shape of the evidence in one important way: it put citations *into the
+code files themselves*, next to the mechanisms they describe. A citation
+in a file header is the strongest form of "witnessed" this rubric has —
+the project doesn't just name the source somewhere, it names it where the
+mechanism lives, with the divergence stated. Chapter 6.5 carries these in
+full; the rows here are the audit trail.
+
+| Chapter | Connection | Verdict | Evidence |
+|---|---|---|---|
+| 6.5 | Marr (1971) archicortex model; McClelland, McNaughton & O'Reilly (1995) | **Witnessed, in-file** | Named in `eoreader6/packages/engine/emergence/activation.js`'s own header as the mechanism's ancestors |
+| 6.5 | Collins & Loftus (1975); Crestani (1997) | **Witnessed, as named divergence** | Same header, cited explicitly as *"the mechanism this one is not"* — an ancestor named in order to state a departure, not a lineage claimed |
+| 6.5 | Foote (2000); Hearst (1997), TextTiling | **Witnessed, in-file** | Named in `eoreader6/packages/engine/emergence/tiers.js`'s header, with the divergence stated: *"a different statistic solving the same problem, not an instance of theirs"* |
+| 6.5 | C99 (Choi); Pk (Beeferman, Berger & Lafferty 1999); WindowDiff (Pevzner & Hearst 2002) | **Witnessed** | Reimplemented and run in `eoreader6/scripts/lib/segmentation-baselines.mjs` and `segmentation-metrics.mjs`; the measured comparison — including where this project's own detector did *not* clearly win — is the essay's §4 |
+| 6.5 | Fortescue, Kershenbaum & Ydstie (1981); DDM (Gama et al. 2004); ADWIN (Bifet & Gavaldà 2007) | **Witnessed** | Cited in `reading-regime.js`'s header and the Assembly C design doc for a mechanism that is *not yet built* — prior art filed in advance |
+| 6.5 | HippoRAG 2 (Gutiérrez et al., 2025) | **Witnessed** | The essay's §5 runs the dependency comparison itself, and declines the recall benchmark for a stated structural reason |
+| 6.1–6.3 | Schank (1972); Schank & Abelson (1977); SAM/PAM/FRUMP; Lenat's CYC; MUC (1987–98) and MUC-6; Hirschman's Deep Read (1999); Hermann et al. (2015); Rajpurkar et al., SQuAD (2016); Chen, Bolton & Manning (2016); Jia & Liang (2017); Levesque (2011); TextRunner (2007); ReVerb (2011); NELL (2010); Landauer & Dumais (1997); Knowledge Vault; PROV-O; LCF / de Bruijn | **Witnessed** *(now also named in this book's own chapter bodies, not only in footers)* | All named in `prior-art-teachable-language-comprehender.md` §§II–VII, which those chapters quote verbatim as of this edition. Previously excluded from this table only because Part VI's chapters *are* the prior-art chapters; listed now so the table is complete |
+| 0.3 | Ken Wilber's integral (AQAL) framework | **Named contrast — the opposite of a lineage claim** | No source material in any generation mentions Wilber. Chapter 0.3 introduces him solely to refuse the genre: an everyone-is-right synthesis is what this project's refutable, demotable grid is *not*. A comparison made in order to reject it is scored here so the rejection itself stays auditable |
+
+## Original wording, retrieved — a third kind of evidence
+
+The verdicts above are about *lineage* — did the project draw on a
+source. A separate question is whether this book's quotations of the
+outside sources themselves are exact. Essay A's own closing note warns:
+*"Prior art is cited from memory and has not been re-read for this
+essay."* This edition re-read what could be retrieved. Primary texts
+were fetched and the wording in the chapters checked against them:
+
+| Source | Status | Where quoted |
+|---|---|---|
+| Bateson, *Steps to an Ecology of Mind* (1987 ed. of 1972) | **Verified** against a full retrieved copy; the book carries the phrase in three wordings, noted in-chapter | 1.2 |
+| Simon, "The Architecture of Complexity" (1962) | **Verified** against the retrieved scan of the printed article (one OCR artifact corrected) | 7.2 |
+| Quillian, TLC (1969) | **Verified** against the retrieved report version (AFCRL-69-0166); CACM printing presumed identical, not retrieved | 6.3 |
+| Fillmore, "The Case for Case" | **Verified** against the ERIC working-paper text; the 1968 book printing differs in minor wording and was not retrieved | 6.2 |
+| Peirce, *Collected Papers* 2.228, 2.247–249 | **Verified** against a retrieved electronic edition | 2.1 |
+| Zwaan & Radvansky (1998) | **Verified** against the retrieved paper — which also corrected this book: the five dimensions are named in the body, not the abstract, with a motivation/intentionality variant | 6.4 |
+| Fader, Soderland & Etzioni, ReVerb (2011) | **Verified** against the ACL Anthology PDF | 6.2 |
+| Shannon (1948) | **Verified** against the "reprinted with corrections" text | 1.2 |
+| Morris (1938) | **Attested only** — defining phrases via Wikiquote (citing p. 6 / the 1971 reprint); the printed book was not retrievable | 0.2 |
+| Wilber, *Collected Works* vol. VIII intro (2000) | **Attested only** — wording via Wikiquote; a minor variant circulates, noted in-chapter | 0.3 |
+| Kintsch (1988); Gernsbacher (1990); Rubin (1976) | **Not retrieved** (paywalled or unreachable); quoted nowhere as primary text — carried only in the essays' words, and the chapters say so | 6.4, 3.5 |
+
+Where the verified copies came from, so the check can be repeated:
+Bateson via the monoskop.org scan of the 1987 Jason Aronson edition;
+Simon via the Iowa State faculty archive scan of the 1962 *Proceedings*;
+Quillian via archive.org's DTIC copy (AD687746); Fillmore via ERIC
+(ED019631); Peirce via the colorysemiotica.files.wordpress.com
+electronic *Collected Papers*; Zwaan & Radvansky via the University of
+Alberta course archive; ReVerb via aclanthology.org (D11-1142); Shannon
+via the Harvard mathematics department's hosted "reprinted with
+corrections" text.
+
+One correction this second audit forced on the essay-A-derived chapters
+themselves: the recall figure Chapter 6.4's first edition inherited
+("p≈0.005") was retracted by the second audit as measured against a
+fixture that doesn't exist in the repository — *"The number this repo has
+been citing for this comparison is stale"* — and re-measured at 8/24,
+p≈0.046. The paraphrase had inherited a retracted number invisibly;
+quoting with provenance is what made the staleness findable at all.
+
 ## Summary verdict
 
 | Verdict | Count |
 |---|---|
-| Witnessed (including one "as convergence") | 9 |
+| Witnessed (first edition, including one "as convergence") | 9 |
+| Witnessed, added or corrected in this edition (second audit, in-file citations, Part VI namings, preregistration correction) | 8 rows above, covering ~25 named sources |
 | Unreceived origin, now named | 2 |
-| Rhymes | roughly 40 |
+| Named contrast (Wilber — refused, not claimed) | 1 |
+| Rhymes | roughly 38 |
 | Background fact (unscored) | 1 |
 
 The honest shape of this table is the point: most of what this book has
