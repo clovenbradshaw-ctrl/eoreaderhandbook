@@ -13,6 +13,7 @@
 
 
 
+
 **Why this matters:** Chapter 0.3 gave you a reflex — before accepting a
 claim, ask what *kind* of thing it's even about: a specific individual, a
 category, or a relationship. This chapter turns that reflex into a precise,

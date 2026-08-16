@@ -10,6 +10,7 @@
 
 
 
+
 **Why this matters:** Chapter 3.6 already showed you the role-fold arc as a
 worked example of the growth rule in action. This chapter is about the
 actual problem that arc is trying to solve — a specific, named, decades-old
@@ -28,7 +29,19 @@ the same grammatical slot. But John is the one who did it, the hammer is
 the tool he did it with, and in the third sentence there's no agent named
 at all. A rule that reads "the thing before the verb is the doer" gets the
 first sentence right and the other two wrong — not as an edge case, but as
-a predictable consequence of the rule itself.
+a predictable consequence of the rule itself. Fillmore's positive claim,
+in his own retrieved words (from the working-paper text of "The Case for
+Case"): *"The case notions comprise a set of universal, presumably
+innate, concepts which identify certain types of judgments which human
+beings are capable of making on the events that are going on around
+them, judgments on such matters as who did it, who it happened to, what
+got changed"* — and, on the sentences: *"none of these cases can be
+interpreted as matched by the surface-structure relations Subject or
+Object in any particular language."* Worth stating precisely: this
+project borrows Fillmore's *diagnosis* (surface position is not semantic
+role) and explicitly does not adopt his *remedy* — role-fold induces
+unlabeled clusters from distribution alone, and claims nothing about
+universal or innate case concepts.
 
 ## This project's own mouth has exactly that problem, by direct measurement
 
@@ -67,8 +80,12 @@ direction, and one finding from that rediscovery converges on this
 project's own mechanism closely enough that it has to be named. Open
 Information Extraction — TextRunner in 2007, then ReVerb in 2011 (Fader,
 Soderland and Etzioni) — set out to extract relations from web text with
-no target schema at all, found that unconstrained extraction produced
-incoherent junk, and fixed it partly with a lexical constraint: a
+no target schema at all. The ReVerb paper's own abstract, retrieved from
+the published proceedings: *"This paper shows that the output of
+state-of-the-art Open IE systems is rife with uninformative and
+incoherent extractions. To overcome these problems, we introduce two
+simple syntactic and lexical constraints on binary relations expressed
+by verbs."* The lexical constraint is the one that matters here: a
 relation phrase earns its status by recurring across many distinct
 argument pairs. The essay's own words on what that means here: *"That is
 `discoverRelationVocab` and the ≥2-distinct-surfaces recurrence
@@ -127,7 +144,12 @@ Soderland & Etzioni, 2011) are from `eoreader6/prior-art-teachable-
 language-comprehender.md`, §III, including the direct citation *"Charles
 Fillmore, The Case for Case, 1968"* and its three examples; every passage
 in quotation marks above is verbatim from that section, including the
-ReVerb convergence and the nominalized-relations limitation. The 87%
+ReVerb convergence and the nominalized-relations limitation — except two
+now drawn from the primary sources directly: the Fillmore sentences are
+from the ERIC working-paper text of "The Case for Case" (ED019631; the
+1968 Bach & Harms book printing has minor wording differences and was
+not itself retrievable), and the ReVerb abstract is from the EMNLP 2011
+proceedings PDF (ACL Anthology D11-1142). The 87%
 recall-loss measurement is from `eoreader6/scripts/experiments/
 FINDINGS.md` §1 (PR #44, `goldens/agency-civic/`). The verb-island
 reordering (Tomasello), the transitional-probability chunking (Saffran,

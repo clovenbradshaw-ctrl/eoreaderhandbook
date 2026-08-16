@@ -4,6 +4,7 @@
 [← 2.6 — Checked Against Language Itself](206-checked-against-language-itself.md) · [Contents](000-index.md) · [3.1 — A Reading, From the Inside →](301-a-reading-from-the-inside.md)
 <!-- nav:end -->
 
+
 **Why this matters:** Chapter 2.6 showed you the three axes tested against
 *chance* — and holding up. This chapter reports the test Chapter 2.6's
 study never ran: the same instrument, aimed at the question that actually

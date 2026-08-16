@@ -5,6 +5,7 @@
 <!-- nav:end -->
 
 
+
 **Why this matters:** every chapter from Part 0 through Part VII now carries
 at least one comparison to something outside this project — Gestalt
 psychology, Bayesian statistics, a related generation's own wiki, Herbert
@@ -173,6 +174,39 @@ full; the rows here are the audit trail.
 | 6.5 | HippoRAG 2 (Gutiérrez et al., 2025) | **Witnessed** | The essay's §5 runs the dependency comparison itself, and declines the recall benchmark for a stated structural reason |
 | 6.1–6.3 | Schank (1972); Schank & Abelson (1977); SAM/PAM/FRUMP; Lenat's CYC; MUC (1987–98) and MUC-6; Hirschman's Deep Read (1999); Hermann et al. (2015); Rajpurkar et al., SQuAD (2016); Chen, Bolton & Manning (2016); Jia & Liang (2017); Levesque (2011); TextRunner (2007); ReVerb (2011); NELL (2010); Landauer & Dumais (1997); Knowledge Vault; PROV-O; LCF / de Bruijn | **Witnessed** *(now also named in this book's own chapter bodies, not only in footers)* | All named in `prior-art-teachable-language-comprehender.md` §§II–VII, which those chapters quote verbatim as of this edition. Previously excluded from this table only because Part VI's chapters *are* the prior-art chapters; listed now so the table is complete |
 | 0.3 | Ken Wilber's integral (AQAL) framework | **Named contrast — the opposite of a lineage claim** | No source material in any generation mentions Wilber. Chapter 0.3 introduces him solely to refuse the genre: an everyone-is-right synthesis is what this project's refutable, demotable grid is *not*. A comparison made in order to reject it is scored here so the rejection itself stays auditable |
+
+## Original wording, retrieved — a third kind of evidence
+
+The verdicts above are about *lineage* — did the project draw on a
+source. A separate question is whether this book's quotations of the
+outside sources themselves are exact. Essay A's own closing note warns:
+*"Prior art is cited from memory and has not been re-read for this
+essay."* This edition re-read what could be retrieved. Primary texts
+were fetched and the wording in the chapters checked against them:
+
+| Source | Status | Where quoted |
+|---|---|---|
+| Bateson, *Steps to an Ecology of Mind* (1987 ed. of 1972) | **Verified** against a full retrieved copy; the book carries the phrase in three wordings, noted in-chapter | 1.2 |
+| Simon, "The Architecture of Complexity" (1962) | **Verified** against the retrieved scan of the printed article (one OCR artifact corrected) | 7.2 |
+| Quillian, TLC (1969) | **Verified** against the retrieved report version (AFCRL-69-0166); CACM printing presumed identical, not retrieved | 6.3 |
+| Fillmore, "The Case for Case" | **Verified** against the ERIC working-paper text; the 1968 book printing differs in minor wording and was not retrieved | 6.2 |
+| Peirce, *Collected Papers* 2.228, 2.247–249 | **Verified** against a retrieved electronic edition | 2.1 |
+| Zwaan & Radvansky (1998) | **Verified** against the retrieved paper — which also corrected this book: the five dimensions are named in the body, not the abstract, with a motivation/intentionality variant | 6.4 |
+| Fader, Soderland & Etzioni, ReVerb (2011) | **Verified** against the ACL Anthology PDF | 6.2 |
+| Shannon (1948) | **Verified** against the "reprinted with corrections" text | 1.2 |
+| Morris (1938) | **Attested only** — defining phrases via Wikiquote (citing p. 6 / the 1971 reprint); the printed book was not retrievable | 0.2 |
+| Wilber, *Collected Works* vol. VIII intro (2000) | **Attested only** — wording via Wikiquote; a minor variant circulates, noted in-chapter | 0.3 |
+| Kintsch (1988); Gernsbacher (1990); Rubin (1976) | **Not retrieved** (paywalled or unreachable); quoted nowhere as primary text — carried only in the essays' words, and the chapters say so | 6.4, 3.5 |
+
+Where the verified copies came from, so the check can be repeated:
+Bateson via the monoskop.org scan of the 1987 Jason Aronson edition;
+Simon via the Iowa State faculty archive scan of the 1962 *Proceedings*;
+Quillian via archive.org's DTIC copy (AD687746); Fillmore via ERIC
+(ED019631); Peirce via the colorysemiotica.files.wordpress.com
+electronic *Collected Papers*; Zwaan & Radvansky via the University of
+Alberta course archive; ReVerb via aclanthology.org (D11-1142); Shannon
+via the Harvard mathematics department's hosted "reprinted with
+corrections" text.
 
 One correction this second audit forced on the essay-A-derived chapters
 themselves: the recall figure Chapter 6.4's first edition inherited

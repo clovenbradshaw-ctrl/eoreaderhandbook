@@ -13,6 +13,7 @@
 
 
 
+
 **Why this matters:** Part II of this book teaches nine "kinds of where" and
 nine "kinds of how" that everything the system reads gets placed against.
 Those two grids will look like arbitrary jargon unless you first have a feel
@@ -110,9 +111,14 @@ There is a whole genre of frameworks whose crossing-of-axes *looks* like
 what Part II will show you — most famously Ken Wilber's "integral" AQAL
 model, which crosses interior/exterior with individual/collective into
 four quadrants and then files every discipline, tradition, and worldview
-into the resulting map. That genre's governing move is inclusion: every
-perspective holds a partial truth, and the framework's job is to give
-each one its honored place in a larger synthesis.
+into the resulting map. That genre's governing move is inclusion, and
+Wilber states it himself, in the introduction to volume VIII of his
+collected works: *"Everybody is right. More specifically,
+everybody—including me—has some important pieces of the truth, and all
+of those pieces need to be honored, cherished, and included in a more
+gracious, spacious, and compassionate embrace."* Every perspective holds
+a partial truth; the framework's job is to give each one its honored
+place in a larger synthesis.
 
 **This project's grid is not that, and the difference is the point.** The
 grids Part II teaches are not built to make room for every view; they're
@@ -144,7 +150,13 @@ Part II. The Aristotle, Quine, and Popper connections above are this
 book's own added links to the wider history of philosophy, not sources the
 codebase itself cites. So is the Wilber contrast — no source material in
 this lineage mentions Wilber or integral theory; the comparison is drawn
-here precisely to refuse it, not to claim kinship. The refused
+here precisely to refuse it, not to claim kinship. The Wilber quote is
+from the Introduction to *The Collected Works of Ken Wilber*, vol. VIII
+(Shambhala, 2000), in the wording retrieved from a secondary source
+(Wikiquote) — the printed book was not itself retrievable in this pass,
+and the phrase circulates in a minor variant ("pieces of truth" for
+"pieces of the truth"), so treat the wording as attested rather than
+verified against the printing. The refused
 Taoist/Buddhist/Kabbalistic mapping is real and documented: see
 `HANDBOOK-SPEC.md`, v0.6 changelog ("Material considered and deliberately
 left out of this pass"), which records both it and the reason it stayed

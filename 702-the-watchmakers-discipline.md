@@ -8,6 +8,7 @@
 
 
 
+
 **Why this matters:** you've already met this discipline once, in Chapter
 5.5, governing how EO Chat writes something long. This chapter shows you
 the same parable, doing the same job, in a completely different corner of
@@ -53,16 +54,33 @@ the act of building itself.
 One thing this book *can* say, stated plainly here rather than left
 implicit: Hora and Tempus did not originate in either generation of this
 project. They're Herbert Simon's, from "The Architecture of Complexity"
-(1962), where he used them to argue for near-decomposability — that
-complex systems able to survive disruption tend to be built from stable
-sub-assemblies, because a system with no such structure has to succeed all
-at once. Chapter 5.5 names this same source for the chat-application
-telling. Knowing the parable's real origin doesn't resolve the harder
-question below — whether either generation drew on Simon directly, or
-independently reached for a well-known fifty-year-old engineering parable
-because it's simply the right shape for the problem — but it does mean
-neither telling is inventing the story from nothing, which is itself worth
-being precise about.
+(*Proceedings of the American Philosophical Society*, 1962). His own
+opening, retrieved and checked against the printed article (p. 470):
+
+> "There once were two watchmakers, named Hora and Tempus, who
+> manufactured very fine watches. Both of them were highly regarded, and
+> the phones in their workshops rang frequently—new customers were
+> constantly calling them. However, Hora prospered, while Tempus became
+> poorer and poorer and finally lost his shop. What was the reason?"
+
+And the moral, in Simon's words rather than anyone's retelling: *"We
+have shown thus far that complex systems will evolve from simple systems
+much more rapidly if there are stable intermediate forms than if there
+are not."* Note what Simon was actually arguing: a claim about how
+complex systems **evolve** — near-decomposability as a fact about which
+architectures survive in nature and society. Both of this project's
+tellings use the parable for something narrower and more prescriptive:
+a rule about how a single builder should sequence work. That's a
+legitimate descendant use — Simon himself drew engineering lessons from
+it — but the original's scope is wider than either telling needs, and
+the difference between "systems that evolve" and "a discipline you
+choose" shouldn't be blurred by the shared story. Chapter 5.5 names
+this same source for the chat-application telling. Knowing the
+parable's real origin doesn't resolve the harder question below —
+whether either generation drew on Simon directly, or independently
+reached for a well-known engineering parable because it's simply the
+right shape for the problem — but it does mean neither telling is
+inventing the story from nothing.
 
 ## What this book knows, and doesn't know, about the connection
 
@@ -89,7 +107,11 @@ discipline "wearing glyphs." The chat-application telling is `eochat/
 server/code-longform.js`, lines 571-576, already cited in Chapter 5.5. The
 identification of Herbert Simon's 1962 essay as the parable's actual
 source is this book's own added link to that field, not something either
-source document states.
+source document states. Simon's own wording quoted above is from the
+article as printed in *Proceedings of the American Philosophical
+Society* 106(6), December 1962 (parable at p. 470; the moral from its
+concluding argument), retrieved as a scan of the printed article and
+corrected only for one OCR artifact.
 
 <!-- nav:start -->
 [← 7.1 — A Construction Language](701-a-construction-language.md) · [Contents](000-index.md) · [7.3 — A Worked Build, Start to Finish →](703-a-worked-build-start-to-finish.md)

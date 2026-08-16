@@ -8,6 +8,7 @@
 
 
 
+
 **Why this matters, and a boundary to draw first:** this chapter and the two
 after it describe something real, but it isn't a description of EO Reader
 6 or EO Chat. It's a related, earlier generation of the same lineage —

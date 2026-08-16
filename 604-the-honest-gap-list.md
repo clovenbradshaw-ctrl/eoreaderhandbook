@@ -10,6 +10,7 @@
 
 
 
+
 **Why this matters:** this book has followed one rule since Chapter 0.1 —
 never hide a gap. This closing chapter of Part VI is where that rule gets
 applied at the largest scale in the whole book: a direct, sourced list of
@@ -76,10 +77,14 @@ weaker. Chapter 6.5 has the full correction.)
 ## Three of five situation-model dimensions, honestly absent
 
 Rolf Zwaan and Gabriel Radvansky's 1998 review of situation models
-proposes that readers track a situation along five dimensions at once —
-time, space, causation, motivation, and who's involved (the
-*protagonist*) — and pay a measurable cost whenever any one of those five
-breaks continuity. Checked against this project's organs, in the
+proposes that readers track a situation along five dimensions at once,
+and pay a measurable cost whenever any one of the five breaks
+continuity. Their own sentence, retrieved from the paper itself (p.
+167): *"Each event can be indexed on each of five dimensions: time,
+space, causation, motivation, and protagonist."* (One precision the
+retrieval forced: the five dimensions are named in the paper's body, not
+its abstract, and the paper itself alternates between "motivation" and
+"intentionality" for the fourth dimension across sections.) Checked against this project's organs, in the
 reviewer's own words: *"eoreader6 tracks protagonist (referents, well),
 something adjacent to causation (surprise and strain, indirectly), time
 only as reading order rather than as narrated time, and neither space nor
@@ -122,7 +127,14 @@ else's reading of it."* The stale-number correction (22/24 p≈0.005 →
 8/24 p≈0.046) and the fact that `activation.js` and `tiers.js` now carry
 their own citations in-file are from
 `eoreader6/prior-art-surprise-segmentation-and-memory.md`, §4 and §1,
-covered in full in Chapter 6.5.
+covered in full in Chapter 6.5. The Zwaan & Radvansky sentence is quoted
+from the paper itself (*Psychological Bulletin* 123(2), 1998, retrieved
+in full). Kintsch's 1988 *Psychological Review* paper and Gernsbacher's
+Structure Building Framework texts could **not** be retrieved in this
+pass (paywalled; the one candidate site failed repeatedly), so their
+positions above are carried only in the essay's words, not their own —
+stated per this book's rule that attested-at-one-remove and
+verified-against-the-printing are different claims.
 
 <!-- nav:start -->
 [← 6.3 — What's Actually New Here](603-whats-actually-new-here.md) · [Contents](000-index.md) · [6.5 — Ancestors Named in the Code →](605-ancestors-named-in-the-code.md)

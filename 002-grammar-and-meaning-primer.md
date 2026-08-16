@@ -13,6 +13,7 @@
 
 
 
+
 **Why this matters:** later in this book you'll meet words like *terrain* and
 *stance*, and they will only make sense if you already have a gut feel for
 something most people never had to name: that the same words, arranged
@@ -79,13 +80,15 @@ different *kinds* of thing a sentence can be about and the different
 This isn't this book's own invention, and it isn't even linguistics'
 invention specifically. In 1938 the philosopher Charles Morris, laying out
 the foundations of semiotics — the general study of signs — split the
-study of *any* sign system into exactly three parts: **syntactics** (how
-signs relate to other signs, with no meaning attached yet), **semantics**
-(how signs relate to whatever they stand for), and **pragmatics** (how
-signs relate to the people actually using them). Linguists later narrowed
-his terms to fit sentences specifically — the version you just met — but
-the three-way cut itself is Morris's, and it's general enough to apply to
-traffic lights and musical notation as easily as to "the dog bit the man."
+study of *any* sign system into exactly three parts. His own defining
+phrases, from *Foundations of the Theory of Signs* (1938), p. 6:
+**syntactics** studies *"the formal relations of signs to one another"*;
+**semantics** studies *"the relations of signs to the objects to which
+the signs are applicable"*; **pragmatics** studies *"the relation of
+signs to interpreters."* Linguists later narrowed his terms to fit
+sentences specifically — the version you just met — but the three-way cut
+itself is Morris's, and it's general enough to apply to traffic lights
+and musical notation as easily as to "the dog bit the man."
 
 Where the parallel actually stops: Morris was building a general theory of
 signs, with no particular stake in what a reading system ought to do with
@@ -98,7 +101,14 @@ prepare the reader for Part II's operators, terrains, and stances (see
 teaches only the general linguistic distinction the rest of the book
 assumes. The Morris connection above is this book's own added link to the
 wider history of semiotics, not a source the codebase itself cites — see
-Charles W. Morris, "Foundations of the Theory of Signs" (1938).
+Charles W. Morris, "Foundations of the Theory of Signs" (1938). The
+three defining phrases quoted above are Morris's own words as given for
+p. 6 of that work by a secondary source (Wikiquote, citing the 1971
+reprint in *Writings on the General Theory of Signs*); the printed book
+itself was not retrievable in this pass, so the phrases are attested at
+one remove rather than verified against the printing — flagged here
+because this book means to keep the difference between those two claims
+visible.
 
 <!-- nav:start -->
 [← 0.1 — What This Book Is, and Isn't](001-what-this-book-is-and-isnt.md) · [Contents](000-index.md) · [0.3 — A Ten-Minute Ontology and Epistemology Primer →](003-ontology-and-epistemology-primer.md)

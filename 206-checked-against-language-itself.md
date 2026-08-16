@@ -5,6 +5,7 @@
 <!-- nav:end -->
 
 
+
 **Why this matters, and a boundary to draw first:** this chapter, like Part
 VII, describes a related but separate generation of this project
 (`eoreader4.2`), not eoreader6 or the current engine — but unlike Part VII,

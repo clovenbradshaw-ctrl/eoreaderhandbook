@@ -4,6 +4,7 @@
 [← 6.4 — The Honest Gap List](604-the-honest-gap-list.md) · [Contents](000-index.md) · [7.1 — A Construction Language →](701-a-construction-language.md)
 <!-- nav:end -->
 
+
 **Why this matters:** Chapters 6.1 through 6.4 drew on one essay — the
 outside review of machines that were said to read. The project has since
 run a **second** citation audit on itself, covering a different set of

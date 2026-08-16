@@ -13,6 +13,7 @@
 
 
 
+
 **Why this matters:** most systems treat "I don't know" as a failure to
 hide or smooth over. This chapter is about why this system treats a
 refusal as a real, countable, typed piece of output — a result, not an

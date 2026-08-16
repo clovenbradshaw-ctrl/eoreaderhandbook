@@ -10,6 +10,7 @@
 
 
 
+
 **Why this matters:** Chapters 6.1 and 6.2 have been mostly humbling —
 reading is an old ambition, littered with gamed benchmarks, and this
 project's own mouth ran headlong into a fifty-eight-year-old, well-known
@@ -22,11 +23,16 @@ rediscovered or borrowed.
 Before listing what's actually novel, one honest exception belongs here,
 because it's the cleanest possible illustration of the distinction this
 whole book has tried to keep sharp. A program called the Teachable
-Language Comprehender, built in 1969, represented concepts as nodes in a
-network and modeled understanding a sentence as activation spreading
-outward from the words it named, one hop at a time — comprehension
-happened when two spreading fronts, from two different sentences,
-intersected. This project's own memory-recall organ, written in 2026,
+Language Comprehender, built by M. Ross Quillian in 1969, represented
+concepts as nodes in a network and modeled understanding a sentence as
+activation spreading outward from the words it named, one hop at a time —
+comprehension happened when two spreading fronts, from two different
+sentences, intersected. Quillian's own abstract, retrieved from the 1969
+report: *"The Teachable Language Comprehender (TLC) is a program designed
+to be capable of being taught to 'comprehend' English text... it
+comprehends that text by correctly relating each (explicit or implicit)
+assertion of the new text to a large memory. This memory is a 'semantic
+network' representing factual assertions about the world."* This project's own memory-recall organ, written in 2026,
 represents concepts as motifs and spreads activation outward from what a
 passage brings to mind, exactly one hop, for a documented reason (a wider
 flood would drown out anything distant). Nobody ported anything: the
@@ -125,7 +131,11 @@ derives it from hippocampal function... and re-earns it against a memory
 golden rather than citing Quillian at all."* (One update: since that essay
 was written, a second audit put the hippocampal citations — and the
 named divergence from Quillian's own descendants — directly into the
-organ's file; Chapter 6.5 quotes them.) The list of what's new is §VII,
+organ's file; Chapter 6.5 quotes them.) The TLC abstract quoted above is
+from the report version of Quillian's paper (BBN/AFCRL report
+AFCRL-69-0166, January 1969, retrieved in full; the *Communications of
+the ACM* 12(8) printing carries the same title and is presumed identical
+but was not itself retrievable). The list of what's new is §VII,
 "What this project has that none of them had" — every quoted passage in
 it above is verbatim from §VII, including the `resolvePronouns` counts,
 the Knowledge Vault / PROV-O comparison, the LCF / de Bruijn comparison,
