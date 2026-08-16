@@ -113,6 +113,22 @@ Society* 106(6), December 1962 (parable at p. 470; the moral from its
 concluding argument), retrieved as a scan of the printed article and
 corrected only for one OCR artifact.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+
+Not located because a source this chapter names is **not yet obtained** (`eoreader4.2/docs/eo-for-coders.md` — see the manifest's `unobtained` list for each one's reason):
+
+- “You never emit an app as one long…”
+- “There once were two watchmakers, named Hora and…”
+- “We have shown thus far that complex systems…”
+- “Two watchmakers, Hora and Tempus, both made watches…”
+
+<!-- anchors:end -->
+
 <!-- nav:start -->
 [← 7.1 — A Construction Language](701-a-construction-language.md) · [Contents](000-index.md) · [7.3 — A Worked Build, Start to Finish →](703-a-worked-build-start-to-finish.md)
 <!-- nav:end -->

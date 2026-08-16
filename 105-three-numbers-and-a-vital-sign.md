@@ -129,6 +129,24 @@ establishes that."* The kernel-density-bandwidth and homeostasis/allostasis
 connections above are this book's own added links to statistics and
 physiology, not something the codebase itself cites.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+- “the warmth you check for.” → `eoreader6/SEED.md#b6014-6038`
+- “They are the whole physiology. None of them…” → `eoreader6/SEED.md#b5127-5188`
+- “Aperture is the volume of the ground... Never…” → `eoreader6/SEED.md#b5550-5586`, `eoreader6/SEED.md#b5985-6038`
+- “A quantity's name is a claim about what…” → `eoreader6/SEED.md#b49621-49666`
+- “Ananda means bliss. The identifier therefore asserted that…” → `eoreader6/SEED.md#b50129-50279`
+
+Quoted spans **not located in any obtained source** and not explained by a known gap — each is either the book's own illustrative speech, or a passage that reads as verbatim and is not, which is itself a finding to resolve:
+
+- “don't answer below this number”
+
+<!-- anchors:end -->
+
 <!-- nav:start -->
 [← 1.4 — The Two Deaths](104-the-two-deaths.md) · [Contents](000-index.md) · [2.1 — Nine Verbs →](201-nine-verbs.md)
 <!-- nav:end -->

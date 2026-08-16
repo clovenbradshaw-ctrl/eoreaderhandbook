@@ -132,6 +132,23 @@ attributions should be verified before any of this is published."* The
 Bridgman/operationalism connection above is this book's own added link to
 the philosophy of science, not something the codebase itself cites.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+- “Reading is whatever the current benchmark measures. That…” → `eoreader6/prior-art-teachable-language-comprehender.md#b2713-2860`
+- “John gave Mary a book becomes an ATRANS…” → `eoreader6/prior-art-teachable-language-comprehender.md#b3214-3334`
+- “This was real reading in a way that…” → `eoreader6/prior-art-teachable-language-comprehender.md#b3406-3640`
+- “Every script was hand-built. The restaurant script did…” → `eoreader6/prior-art-teachable-language-comprehender.md#b3692-4059`
+- “It is not really a definition, it is…” → `eoreader6/prior-art-teachable-language-comprehender.md#b6219-6482`
+- “Reading is whatever the current benchmark measures” → `eoreader6/prior-art-teachable-language-comprehender.md#b2713-2763`
+- “Reading has been redefined four times, each time…” → `eoreader6/prior-art-teachable-language-comprehender.md#b2558-2624`
+- “Prior art is cited from memory and has…” → `eoreader6/prior-art-teachable-language-comprehender.md#b27642-27712`, `eoreader6/prior-art-teachable-language-comprehender.md#b28852-28925`
+
+<!-- anchors:end -->
+
 <!-- nav:start -->
 [← 5.6 — Senses, Memory, and Borrowed Models](506-senses-memory-and-borrowed-models.md) · [Contents](000-index.md) · [6.2 — The Fifty-Eight-Year-Old Objection, and Where the Project Is Actually Chipping at It →](602-the-fifty-year-old-objection.md)
 <!-- nav:end -->

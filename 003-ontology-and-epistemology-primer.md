@@ -165,6 +165,29 @@ out. The cube's demotion from classifier to instrument is
 this was already measured and refuted... It is promoted out of the
 code."*
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+- “What kind of thing is this?” → `eoreader6/SEED.md#b92109-92135`
+- “what *kind* of thing is this — a…” → `eoreader6/SEED.md#b92109-92135` *(+1 segment(s) not located)*
+- “to be is to be the value of…” → `quine-1948#b32023-32061`
+- “As a classifier — deriving a cell from…” → `eoreader6/CUBE.md#b406-498`, `eoreader6/CUBE.md#b750-780`
+
+Quoted spans **not located in any obtained source** and not explained by a known gap — each is either the book's own illustrative speech, or a passage that reads as verbatim and is not, which is itself a finding to resolve:
+
+- “what sort of thing would even count as…”
+- “How do you know, and what would change…”
+- “this patient has a fever.”
+- “How do you know, and what would make…”
+- “what would change your mind”
+- “Everybody is right. More specifically, everybody—including me—has some…”
+- “Material considered and deliberately left out of this…”
+
+<!-- anchors:end -->
+
 <!-- nav:start -->
 [← 0.2 — A Ten-Minute Grammar and Meaning Primer](002-grammar-and-meaning-primer.md) · [Contents](000-index.md) · [0.4 — What a Language Model Is, in Plain Terms, and Why This Project Keeps Its Distance From One →](004-what-a-language-model-is.md)
 <!-- nav:end -->

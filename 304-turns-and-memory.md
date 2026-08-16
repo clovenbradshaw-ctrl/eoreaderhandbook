@@ -106,6 +106,17 @@ working-memory connections above are this book's own added links to web
 architecture and cognitive psychology, not something the codebase itself
 cites.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+- “Firstness, partially earned: the turn holds a sequence” → `eoreader6/SEED.md#b31582-31636`
+- “`runTurn` now receives a `register`... and hands its…” → `eoreader6/SEED.md#b31888-31921`, `eoreader6/SEED.md#b32025-32110`, `eoreader6/SEED.md#b32714-32864`, `eoreader6/SEED.md#b32935-33021`
+
+<!-- anchors:end -->
+
 <!-- nav:start -->
 [← 3.3 — A Guided Tour of the Organs](303-a-guided-tour-of-the-organs.md) · [Contents](000-index.md) · [3.5 — Refusal as an Answer →](305-refusal-as-an-answer.md)
 <!-- nav:end -->

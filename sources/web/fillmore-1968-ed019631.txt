@@ -1,0 +1,3814 @@
+REF OR TRESUMES
+ED 019 631
+THE CASE FOR CASE.
+BY- FILLMORE, CHARLES J.
+ECRS PRICEMF-$0.75HC-$5.48135P.
+AL ODD 413
+PUB DATEAPR 67
+DESCRIPTORS- *LANGUAGE UNIVERSALS;*GRAMMAR, *DEEP STRUCTURE)
+*SURFACE STRUCTURE, LINGUISTICTHEORY, LANGUAGE TYPOLOGY:
+PHRASE STRUCTURE, TRANSFORMATIONTHEORY (LANGUAGE),
+TRANSFORMATION GENERATIVE GRAMMAR,NOMINALS, CASE, BASE
+COMPONENT,
+IN THIS PAPER, PREPARED FOR THEAPRIL 1967 TEXAS
+SYMPOSIUM ON LINGUISTIC UNIVERSALS,IT IS PROPOSED THAT THE
+GRAMMATICAL NOTION "CASE" DESERVESA PLACE IN THE BASE
+COMPONENT OF THE GRAMMAR OF EVERYLANGUAGE. IT IS ARGUED THAT
+PAST RESEARCH HAS NOT LED TOVALID INSIGHTS ON CASE
+RELATIONSHIPS AND THAT WHAT IS NEEDEDIS A CONCEPTION OF BASE
+STRUCTURE IN WHICH CASE RELATIONSHIPSARE PRIMITIVE TERMS OF
+THE THEORY AND IN WHICH SUCHCONCEPTS AS "SUBJECT" AND
+"DIRECT OBJECT" ARE MISSING. THELATTER ARE REGARDED AS
+PROPER ONLY TO THE SURFACE STRUCTUREOF SOME (BUT POSSIBLY
+NOT ALL). LANGUAGES. BASIC TOTHESE ARGUMENTS ARE TWO
+ASSUMPTIONS NOW TAKEN FOR GRANTED BYGENERATIVE
+GRAMMARIANS--(1) THE CENTRALITY OF SYNTAX,AND (2) THE
+IMPORTANCE OF COVERT CATEGORIES. THEAUTHOR PROPOSES "THAT
+THERE ARE MANY SEMANTICALLY RELEVANTSYNTACTIC REALTIONSHIFS
+INVOLVING NOUNS AND THE STRUCTURESTHAT CONTAIN THEM, THAT
+THESE RELATIONSHIPS ARE IN LARGEFART COVERT BUT ARE
+NEVERTHELESS EMPIRICALLY DISCOVERABLE,THAT THEY FORM A
+SPECIFIC FINITE SET, AND THATOBSERVATIONS MADE ABOUT THEM
+WILL TURN OUT TO HAVE CONSIDERABLECROSS-LINGUISTIC
+VALIDITY." HE REFERS TO THESEAS "CASE" RELATIONSHIPS AND THE
+GRAMMAR PROPOSED AND OUTLINED HEREIS "CASE GRAMMAR." THE
+SUBSTANTIVE MODIFICATION TO THETHEORY OF TRANSFORMATIONAL
+GRAMMAR WHICH HE PROPOSES AMOUNTS TOA REINTRODUCTION OF THE
+"CONCEPTUAL FRAMEWORK" INTERPRETATIONOF CASE SYSTEMS BUT
+WITH A CLEARER UNDERSTANDING OF THEDIFFERENCE BETWEEN DEEP
+AND SURFACE STRUCTURE. THE SENTENCEIN ITS BASIC STRUCTURE
+CONSISTS OF A VERB AND ONE OR MORENOUN PHRASES, EACH
+ASSOCIATED WITH THE VERB IN A PARTICULARCASE RELATIONSHIP.
+THE "EXPLANATORY" USE OF THISFRAMEWORK RESIDES IN THE
+NECESSARY CLAIM THAT, ALTHOUGH THERECAN BE COMPOUND
+INSTANCES OF A SINGLE CASE (THROUGHNOUN PHRASE CONJUNCTION),
+EACH CASE RELATIONSHIP OCCURS ONLYONCE.IN A SIMPLE SENTENCE.
+THIS DOCUMENT WILL APPEAR IN"PROCEEDINGS OF THE TEXAS
+SYMPOSIUM ON LANGUAGE UNIVERSALS,APRIL 13 -15, 1967," EMMON
+BACH AND ROBERT HARMS, EDITORS,HOLT, RINEHART AND WINSTON.
+(JD)
+
+
+U.S. DEPARTMENT OF HEALTH, EDUCATION & WELFARE
+OFFICE OF EDUCATION
+THIS DOCUMENT iIAS BEEN REPRODUCED EXACTLY AS RECEIVED FROM THE
+PERSON OR ORGANIZATION ORIGINATING IT.POINTS OF VIEW OR OPINIONS
+STATED DO NOT NECESSARILY REPRESENT OFFICIAL OFFICE OF EDUCATION
+CZ)POSITION OR POLICY.
+1-44
+The Case for Case*
+by
+"PERMISSION TO REPRODUCE THIS
+111111111111 MATERIAL HAS BEEN GRANTED
+BYCif ARLE5J:PtLLMORE
+TO ERIC AND ORGANIZATIONS OPERATING
+Charles J. FillmoreUNDER AGREEMENTS WITH THE U.S. OFFICE OF
+The Ohio State UniversityEDUCATION. FURTHER REPRODUCTION OUTSIDE
+THE ERIC SYSTEM REQUIRES PERMISSION OF
+THE MUM OWNER."
+To appear in Emmon Bach and Robert Harms, eds., Proceedings
+of the Texas Symposium, on Language UniversalsApril 13-15,
+1967 (Holt, Rinehart and Winston)
+*The time I needed for preparing this study was created by an
+act of the College of Arts and Sciences ofThe Ohio State
+University: I was released from teaching duties during the
+winter quarter of 1967.I gratefully acknowledge this boost
+and hope that I may be forgiven for changing topicsmidquarter.Many co-workers have kept me supplied with suggestions, criticisms and challenges during the past few months.
+I am particularly indebted to D. Terence Langendoen(Ohio
+State), George Lakoff (Harvard) and Paul M. Postal (Queens
+College).I shall probably soon regret that I have not
+always been wise enough to follow their counsel.
+AL 000 413
+
+
+The Case for Case
+Charles J. Fillmore
+The Ohio State University
+Prepared for the 1967 Texas Symposium on Linguistic Universals,
+April 13-15.
+Speculation on language universals has not always and
+everywhere been viewed as a fully respectable pastime for the
+scientific linguist.The writer recalls a Linguistic Institute
+lecture of not many summers ago in which it was announced that
+the only really secure generalization on language that linguists
+are prepared to make is that "some members of some human communities have been observed to interact by means of vocal noises."
+Times have changed, it is a pleasure to report, and this is partly
+because we now have clearer ideas about what linguistic theories
+are theories of, and partly because some linguists are willing to
+risk the danger of being dead wrong.
+Scholars who have striven to uncover syntactic features common
+to all of the world's languages have generally addressed themselves
+to three intimately related but distinguishable orders of questions,
+and they are: (a) what are the formal and substantive universals
+of syntactic structure? (b) is there a universal base, and, ifso,
+what are its properties? and (c) are thereany universally valid
+constraints on the ways in which deep structure representations of
+sentences are given expression in the surface structure?
+Concerning formal universals we find such proposalsas Chomsky's,
+that each grammar has a base component capable of characterizing
+the underlying syntactic structure of just the sentences in the
+
+
+,paim=e
+language at hand and which contains at least a set of transformation rules the function of which is to map the underlying
+structures provided by the base component into structures more
+closely identifiable with phonetic descriptions of utterances
+in that language.1A representative statement on substantive
+1NoamChomsky, ASPECTS OF THE THEORY OF SYNTAX, MIT Press (1965),
+pp. 251.27-30.
+syntactic universals is Lyons' assertion that every grammar
+reequires such categories as Noun, Predicator and Sentence, but
+that other grammatical categories and featuresmay be differently
+arranged in different languages.2And Bach has given reasons to
+2John Lyons, "Towards a 'notional' theory of the 'parts of speech',"
+JOURNAL OF LINGUISTICS, 11(1966) 209-236; 211, 223.
+believe that there is a universal set of transformations which
+each language draws from in its own way, and he has shown what
+such transformations might look like in the case of relative clause
+modification.3
+3EmmonBach, "On some recurrent types of transformations,"
+GEORGETOWN UNIVERSITY MONOGRAPH NO. 18 ON LANGUAGES AND LINGUISTICS
+(1965) 3-18.
+Discussions on the possibility of a universal base (as distinct
+from claims about universal constraints on the form of the base
+component) have mainly been concerned with whether theelements
+specified in the rules of a universal base--if there is one--are
+sequential or not.A common assumption is that the universal
+
+
+base specifies the needed syntactic relations, but the assignment of sequential order to the constituents of base structures
+is language specific.Appeals for sequence-free representations
+of the universal deep structure have been made by Halliday4
+,
+M. A. K. Halliday, "Some noteson 'deep' grammar," JOURNAL OF
+LINGUISTICS, II (1966) 55-67.
+Tesniere5
+,and others.Lyons6recommends leaving for empirical
+Lucian Tesniere, ELEMENTS DE SYNTAXE STRUCTURALE, Paris- Klincksieck
+(1959).
+6Lyons (1966) 227.
+investigation the question of the relationship between the underlying representation and sequential order,anBach7has suggested
+'Bach(1965) 13.
+that continued investigation of the syntactic rules of the world's
+languages may eventually provide reasons for assuming specific
+ordering relations in the rules of a universal base.
+Greenberg's statistical studies ofsequence patterns in
+selected groups of languages do not, itseems to me, shed any
+direct light on the issue athand.8They may be regarded as pro-
+Joseph Greenberg, "Some universals of grammar,"in J. Greenberg,
+ed., LANGUAGE UNIVERSALS, MIT Press (1963) 58-90.
+viding data which, when accompanied byan understanding of the
+nature of syntactic processes in the specific languages,may eventually lend comfort tosome proposalother on either the
+sequential properties ofthe base component or the universal
+constraints whichgovern the surface ordering of syntactically
+crganized objects.
+Findings whichmay be interpreted as suggestinganswers
+to our third questionare found in the 'markedness' studies of
+Greenberg9and in the so-called 'implicationaluniversals' of
+9Joseph Greenberg,"Language universals," in T. A.Sebeok, ed.,CURRENT TRENDS IN LINGUISTICS,III, Mouton (1966) 61-112.
+111
+Jakobson.10If such studiescan be interpreted as making empirical
+10Roman Jakobson, "Typologicalstudies and their contributionto
+historical comparative linguistics,"in E. Sivertsen, ed.,PROCEEDINGS OF THE VIIITHINTERNATIONAL CONGRESS OF LINGUISTS,
+Oslo University Press (1958)17-25.
+assertions about the mappingof deep structures intosurface structures, they may point touniversal constraints of thefollowing
+form: While the grammaticalfeature 'dual' is madeuse of in one
+way or another in all languages, onlythose languages whichhave
+some overt morpheme indicating 'plural'will have overt morphemes
+indicating 'dual'.The theory of implicationaluniversals does not
+need to be interpreted, in otherwords, as a set ofassertions on
+the character of possibledeep structures in humanlanguages and
+the ways in which theydiffer from one another.
+The presentessay is intended as a contributionto the study
+of formal and substantivesyntactic universals.Questions of
+linear ordering are left untouched,or at least unresolved, and
+
+
+-5
+IOW
+questions of markedness are viewed as presupposing structures
+having properties of the kind to be developed in these pagea.
+My paper will plead that the grammatical notion 'case'
+deserves a place in the base component of the grammar of every
+language.In the past, research on 'case' has amounted to an examination of the variety of semantic relationships which can hold
+between nouns and other portions of sentences; it has been considered equi,ralent to the study of semantic functions of inflectional
+affixes on nouns or the formal dependency relations which hold
+between specific nominal affixes and lexical-grammatical properties of neighboring elements; or it has been reduced to a statement
+of the morphophonemic reflexes of a set of underlying 'syntactic
+relations' which themselves are conceived independently of the
+notion of 'case'.I shall argue that valid insights on case relationships are missed in all these studies, and that what is needed
+is a conception of base structure in which case relationships are
+primitive terms of the theory11and in which such concepts as 'subject'
+11Notational difficulties make it impossible to introduce 'case'
+as a true primitive as long as the phrase-structure model determines the form of the base rules.My claim is, then, that a
+designated set of case categories is provided for every language,
+with more or less specific syntactic, lexical and semantic consequences, and that the attempt to restrict the notion of 'case' to
+the surface structure must fail.
+and 'direct object' are missing.The latter are regarded as proper
+only to the surface structure of some (but possibly not all)
+languages.
+
+
+Two assumptions are essential to the development of the
+argument, assumptions that are, in fact, taken for granted by workers
+in the generative grammar tradition.The first of, these is the
+centrality of syntax.There was a time when a typical linguistic
+grammar was a long; and detailed account of the morphological structure of various classes of words, followed by a two or three page
+appendit called 'Syntax' which offered a handful of rules of thumb
+on how to 'use' the words described in the preceding sectiois--
+how to combine them into sentences.
+In grammars where syntax is central, the forms of wordsare
+specified with respect to syntactic concepts, not the other way
+around.The modern grammarian, in other words, will describe the
+'comparative construction' of a given language in the most global
+terms possible, and will then add to that a description of the
+morphophonemic consequences of choosing particular adjectives or
+quantifiers within this construction.This'is altogether different
+from first describing the morphology of words like taller and
+more and then adding random observations on how these words show
+up in larger constructions.12
+12John R. Ross pointed out, during the symposium, that there exist
+some syntactic processes which seem to depend on (and therefore
+'follow') particular lexical realizations of just such entitiesas
+the comparative forms of adjectives.Compared adjectives, in short,
+may be iterated, just as long as they have all been given identical
+surface realizations.Witness
+(i)she became friendlier and friendlier
+(ii)she became sore and more friendly
+(iii)*she became friendlier and more friendly
+but not
+
+
+The second assumption I wish to make explicit is thee,
+importance of covert categories.Many recent and not-so-recent
+studies have convinced us of the relevance of grammatical properties
+which lack obvious 'morphemic' realizations but whose reality can
+be observed on the basis of selectional constraints and transformational possibilities.We are constantly finding that grammatical
+features found in one language show up in some form or other in
+other languages as well, if we have the subtlety it takes to discover
+covert categories.Incidentally, I find it interesting that the
+concept 'covert category'--a concept which is making it possible
+to believe that at bottom all languages are essentially alike--was
+introduced most convincingly in the writings of Whorf, the man
+whose name is most directly associated with the doctrine that deepseated structural differences between languages determine the
+essentially non-comparable ways in which speakers of different
+languages deal with reality.13
+Alin
+13BenjaminLee Whorf, "A linguistic consideration of thinking in
+primitive communities" (c. 1936), in J. B. Carroll, ed., LANGUAGE,
+THOUGHT AND REALITY: SELECTED WRITINGS OF BENJAMIN LEE WHORF, MIT
+Press (1965) 65-86; 69ff.
+One example of a 'covert' grammatical distinction is the one
+to which traditional grammarians have attached the labels 'affectum'
+vs. 'effectum', in German 'affiziertes Objekt' vs.' effiziertes
+Objekt.' The distinction, which is reportedly made overt in some
+languages, can be seen in sentences (1) and (2) below.
+(1)John ruined the table
+(2)John built the table
+
+
+Note that in one case the object is understoodas existing
+antecedently to John's activities, while in the other case its
+existence resulted from John's activities.
+Having depended so far on only 'introspective evidence', we
+might be inclined to say that the distinction is purely a semantic
+one, one which the grammar of English does not force us to deal with.
+Our ability to give distinct interpretations to the verb-object
+relation in these two sentences has no connection, we might feel,
+with a correct description of the specifically syntactical skills
+of a speaker of English.
+The distinction does have syntactic relevance, however.The
+'effectum' object, for example, does not permit interrogation of
+the verb with do to, while 'Wu, affectum object does.Thus one might
+relate sentence (1), but not sentence (a), to the question given
+in (3).
+(3)what did John do to the table?
+Furthermore, while sentence (1) has sentence (4)as a paraphrase,
+sentence (5) is not a paraphrase of sentence (2).
+(4)what John did to the table wcs ruin it
+(5) *what John did to the tablewas buildit14
+1This observation is due to Paul M. Postal.
+To give another example, note that both of the relationships in
+question may be seen in sentence (6) but that only inone of the
+two senses is sentence (6) a paraphrase of sentence (7).
+(6)John paints nudes
+(7)what John does to nudes is paint them
+
+
+- 9 -
+There is polysemy in the direct olject of (6),true, but the
+difference also lies in whether the objects John painted existed
+before or after he did the painting.
+I am going to suggest below that thereare many semantically
+relevant syntactic relationships involvingnouns and the structures
+that contain them, that these relationships--like thoseseen in (1)
+and (2)--are in large part covert butare nevertheless empirically
+discoverable, that they forma specific finite sets and that
+observations made about them willturn out to have considerable
+cross-linguistic validity.I shall refer to theseas 'case' relationships.
+
+
+1.Earlier approaches to the study of case
+Books written to introduce students to our discipline
+seldom fail to acquaint their readers with the 'wrong' ways of
+using particular case systems as universal models for language
+structure.Grammarians who accepted the case system of Latin or
+Greek as a valid framework for the linguistic expression of all
+human experience were very likely, we have been told, to spend a
+long time asking the wrong kinds of questions when they attempted
+to learn and describe Aleut or Thai.We have probably all
+enjoyed sneering, with Jespersen, at his favorite 'bad guy',
+Sonnenschein, who, unable to decide between'Latin and Old English,
+allowed modern English teach to be described as either taking a
+Dative and an Accusative, because thatwas the pattern for Old
+English tocsin, or as taking two Accgsatives, in the manner of
+Latin doceo and German lehren.15
+15J.Otto Jespersen, THE PHILOSOPHY OF GRAMMAR (1924), Norton
+Paperback Reprint (1965), Pp. 357: 175.
+Looking for one man's case system in another man's language
+is not, of course, a good example of the study of case..The
+apprellMhes to the study of case that do need to be taken seriously
+are of several varieties.Many traditional studies have examined,
+in somewhat semantic terms, the various uses of case.More recent
+work has been directed toward the analysis of the case systems of
+given languages, under the assumptions suggested by the word 'system.'
+A great deal of research, early and late, has been devoted to an
+
+
+understanding of the history or evolution of case notions or of
+case morphemes.And lastly, the generative grammarians have for
+the most part viewed case markers as surface structure reflexes,
+introduced by rules, of various kinds of deep and surface
+syntactic relations.
+1.1Case uses
+The standard handbooks of Greek and Latin typically devote much
+of their bulk to the classification and illustration of semantically
+different relationships representable by given case forms.The
+sub-headings of these classifications are most commonly of the form
+'X ofwhere 010 is the name of a particular case and 'Y' is the
+name for a particular 'use' of X.The reader will recall such terms
+as 'Dative of Separation', 'Dative of possession', and so on.16
+Milli=111ENW
+1For an extensive description of this type, see Charles Bennett,
+SYNTAX OF EARLY LATIN, II: THE CASES, Boston (1914) Pp. 409.
+Apart from the fact that such studies do not start out from
+the point of view of the centrality of syntax, the major defects
+of these studies were (a) that the Nominative was largely ignored
+and (b) that classificatory criteria were often confused which
+ought to have been kept distinct.
+The neglect of the nominative in studies of case uses probably
+has several sources, one being the etymological meaning ("deviation")
+of the Greek term for case, ptOsis, which predisposed grammarians
+to limit the term only to the non-nominative cases.The most important reason for omitting the nominative in these studies, however,
+
+
+is the wrongly fssumed clarity of the concept 'subject of the
+sentence.'Mi1111... published a study of nominative and accusative
+case uses in Lat4a, in 1908, in which he devoted 170 some pages
+to the accusative, somewhat less than one page to the nominative,
+explaining that "Die beiden casus recta., der Nominativ and der
+Vokativ, sind bei dem Streite fiber die Kasustheorie nicht beteiligt.
+Im Nominativ steht das Subjekt, von dem der Satz etwasaussagt."17
+411111111M10,111=111111111IMIP.MliVirAE113.11
+17C.F. W. Willer, SYNTAX DES NOMINATIVS UND AKKUSATIVS IM LATEINI-
+SCHEN, Leipzig (1908), Pp. 175; 1.
+The role of the subject was regarded as so clear to Sweet that
+he went so far as to claim that the nominative is the only case where
+one can speak properly of a 'noun'.A sentence is viewed as a kind
+of predication on a given noun, and every noun-like element in a
+sentence other than the subject is really a kind of derived adverb,
+a part of thepredication.18
+Quoted in Jespersen (1924) 107.
+1111111111Nalt
+On a little reflection, however, it becomes obvious that semantic differences in the relationships between subjects and verbs are
+of exactly the same order and exhibit the same extent if variety
+as can be found in the other cases.There is in principle no reason
+why the traditional studies of case uses fail to contain such classifications as 'Nominative of Personal Agent', 'Nominative of Patient',
+'Nominative of Beneficiary', 'Nominative of Affected Persou', and
+'Nominative of Interested Person' (or, possibly, 'Ethical Nominative')
+for such sentences as (8) to (12) respectively.
+
+
+(8)he hit the ball
+(9)he received a blow
+(10)he received a gift
+(11)he loves her
+(12)he has black hair
+The confusion of criteria in treatments of the uses of cases
+has been documented by de Groot in his study of the Latin genitive.19
+19A. Willem de Groot, "C1assification of uses of a case illustrated
+on the genitive in Latin," LINGUA, VI (1956) 8-66.
+Uses of cases are classified on syntactic grounds, as illustrated
+by the division of uses of the genitive according to whether the
+genitive noun is in construction with a noun, an adjective or a
+verb; on historical grounds, as when the uses of the syncretistic
+Latin ablative case are divided into three classes, separative,
+locative and instrumental; and on semantic grounds, in which there
+is a great deal of confusion between meanings that can properly be
+thought of as associated with the case forms of nouns, on the one
+hand, and meanings that properly reside in neighboring words.
+De Groot's dritical treatment of the traditional classification
+of Latin genitive case uses is particularly interesting from the
+point of view taken here, because in his 'simplification' of the
+picture he rejects as irrelevant certain phenomena which generative
+grammarians would insist definitely are of syntactic importance.
+He claims, for example, that the traditional studies confuse difference of referents with differences of case uses.Thus, to de Groot
+the traditional three senses of statua Mvronis (the statue possessed
+
+
+- 14 -
+by Myro--genitivus possessivus; statue sculpted by Myro--
+genitivus subjectivus; statue depicting Myro--genitive of
+represented subject) as well as the subjective and objective
+senses of amor patris, are differences in practical,not in
+linguistic facts.From arguments :such as this he is able to combine
+twelve of the classical 'uses' into one, which he then labels the
+'proper genitive', asserting that "the proper genitive denotes, and
+consequently can be used to refer to, ,am thing-to-thing relation."20
+20de Groot (1956) 35.
+1111111MP,
+He ends by reducing the thirty traditional 'uses of the genitive'
+to eight21
+,of which two are rare enougit to be left out of consider-
+2From de Groot (1956) 30:
+I.Adjunct to a noun
+A.Proper genitive, eloquentia hominis
+B.Genitive of quality, homo magnae eloquentiae
+II.Adjunct to a substantivalr
+C.Genitive of the set of persons, ,reliqui ,editum
+III.Conjunct ('complement') of a copula
+D.Genitive of the type of person, Ltspientis est aperte
+odisse
+IV.Adjunct to a verb
+E.Genitive of purpose, Aegyptum profiscitue cognoscende
+antiquitatis
+F.Genitive of locality, Romae consules creabantur
+IVa.Adjunct to a present participle
+G.Genitive with a present participle, laboris fugiens
+V.Genitive of exclamation, mercimoni lepidi
+ation, and a third, 'genitive of locality', is really limited to
+specific place names.
+Benveniste's reply to de Groot's analysis appeared in the issue
+of LINGUA dedicated to de Groot22
+.There he proposes still further
+22Emile Benveniste, "Pour l'analyse des fonctions casuelles: le
+genitif latin," LINGUA, XI (1962) 10-18.
+
+
+simplifications of the classification.Noting that de Groot's
+'genitive of locality' applies only to proper place names, that
+is, that it occurs only with place-names having -o- andstems,
+in complementary distribution with the ablative, Benveniste wisely
+suggests that this is something that should be catalogued as a fact
+about place names, not as a fact about uses of the genitive case.
+Benveniste's conclusions on the remaining genitive constructions
+is quite congenial to the generative grammarian's position.He
+proposes that the so-called 'proper genitive' basically results
+from the process of converting a sentence into a nominal.The
+meaning distinction between 'genitivus subjectivus' and 'genitivus
+objectivus' constructions merely reflects the difference between
+situations in which the genitive noun is an original subject or
+and those where it is an original object, the genitive representing
+a kind of neutralization of the nominative/accusative distinction
+found in the underlying sentences.23
+23Itmust be said, however, that Benveniste's desentential interpretation is diachronic rather than synchronic, for he goes on to
+explain that it is on analogy from these basic verbal sources that
+new genitive relations are created.From ludus pueri and risus
+pueri, where the relation to ludit and ridet is fairly transparent,
+the pattern was extended to include somnus pueri, mos pueri, and
+finally liber pueri.The genitive grammarian may be inclined to
+seek synchronic verbal connections--possibly through positing
+abstract entities never realized as verbs--for these other genitives too.(See Benveniste (1962) 17.)
+At least from the two mentioned studies ofuses of the Latin
+genitive, it would appear (a) that some case- uses are purely irregular, requiring as their explanation a statement of the idiosyncratic grammatical requirements of specific lexical items, and
+
+
+- 16 -
+(b) that some semantic differences are accounted for independently
+of assigning 'meanings' to cases: either byrecognizing meaning
+differences in 'governing' words, or by notingleaning differences
+in different underlying sentences.The suggestion that one can
+find clear special meanings associated with surface casesfails
+to receive strong support from these studies.
+1.2Case systems
+There are reasonable objections to approaching the case system
+of one language from the point of view of the surface case system
+of another (say, Classical Latin) by merely checking off the ways
+in which a given case-relation in the chosen standardis given
+expression in the language under observation.An acceptable alternative, apparently, is the inverse of this process: one identifies
+case morphemes in the new languagewithin the system of noun
+inflection, and then relates each of these to traditional or
+'standard' case notions.To take just one recent example, Redden24
+2James E. Redden, "Walapai II: morphology,"INTERNATIONAL JOURNAL
+OF AMERICAN LINGUISTICS, XXXII (1966), 141-163.
+finds five case indices in Walapai(four suffixes and zero) and
+identifies each of these with terms taken from thetradition of
+case studies: -6 is nominative,.1 is accusative, -k is allative/
+adessive, -1 is illative/incssive, and -m isablative/abessive.
+Under each of these headings the author adds information about
+the uses of the case-forms that may not bededucible from the
+labels themselves.Nominative, for example, occurs only once in
+
+
+- 17 -
+a simple sentence--coordinateconjunction of subject nouns
+requires use of the -m suffix on all the extra nounsintroduced;
+accusative is used with some noun tokens which wouldnot be
+considered direct objects in English;allative/adessive has a
+partitive function; and ablative/abessive combinesablative,
+instrumental, and comitative functions.
+In a study of this type,slace what is at hand isthe surface
+structure of the inflection system of Walapai nouns,the descriptive task is to identify the surface case formsthat are distinct
+from each other in the language and to associate'case functions'
+with each of these.What needs to be emphasized is(a) that such
+a study does not presentdirectly available answers to such questions
+as "how is the indirectobject expressed in this language?"(i.e.,
+the system of possible case functions is notcalled on to provide
+a descriptiveframework), and (b) that the functions or uses themselves are not taken as primary terms in the description(i.e., the
+various 'functions' of the 'ablative/abessive' suffix -m arenot
+interpreted as giving evidence that several distinct casesmerely
+happen to behomophonous).25
+25-These remarks are not intended to be critical ofRedden's study.
+Indeed, in the aosence of a universal theory of caserelationships
+there is no theoretically justified alternative tothis approach.
+One approach to the study. of case systems, then, is to restrict
+oneself to a morphological description of nouns and toimpose no
+constraints on the ways in which the casemorphemes can be identified with their meanings or functions.This is distinct from studies
+of case systems which attempt to find aunified meaning for each
+
+
+-18
+of the cases discovered in the language being studied.An
+example of the latter approach is found in the now discredited
+'localistic' view of the cases in Indo-Eurcpean, by which
+dative is 'the case of rest,' accusative 'the case of movement
+to,' and genitive 'the case of movement from.'26And recent
+-276Thisinterpretation, discussed briefly in Jespersen (1924) p.
+186, appears to date back to the Byzantine grammarian Maxime Planude.
+INI110.0111MIO
+attempts to capture single comprehensive 'meanings' of the cases
+have suffered from the vagueness and circularity expected of any
+attempt to find semantic characterizations of surface-structure
+phenomena.27
+27As an illustration of this last point, take Gonda's claim that
+the Vedic dative is called for whenevera noun is used to refer to
+the 'object in view.'The vacuity of this statement is seen in his
+interpretation of
+(i)vataya kaptla vidyut (Patanjali)
+'a reddish lightning signifies wind'
+as "the lightning has, so to say, wind in view".J. Gonda, "The
+unity of the Vedic dative," LINGUAXI (1962) 141-150; 147.
+The well-known studies of Hjelmslev28and Jakobson29are
+28Louis Hjelmslev, "La cat6gorie des cas," ACTA JUTLANDICA, Aarhus,
+VII.1 (1935) i-xii, 1-184; and IX.2 (1937) i-vii, 1-78.
+29Roman Jakobson, "Beitrag zur allgemeinen Kasuslehre," TRAVAUX
+DU CERCLE LINGUISTIQUE DE PRAGUE, VI (1936) 240-288; reprinted in
+E. P. Hamp, F. W. Householder and R. Austerlitz, eds., READINGS
+IN LINGUISTICS, II, University of Chicago Press (1966) 51-89.
+attempts not only to unliover unified meanings of each of the cases,
+but also to show that these meanings themselves form a coherent
+
+
+-19-
+system by their decomposability into distinctiveoppositions.
+The possibility of vagueness is of course the moreincreased inasmuch as the number of oppositions is less thanthe number of
+cases.30
+30See, in this regard, the brief critical remarks ofA. H. Kuipers,
+in "The Circassian nominal paradigm: acontribution to case theory,"
+LINGUA, XI (1962) 231-248; 231.
+The difficulties in discovering a unified meaning for each of
+the cases in a case system has led to alternativeview: that all
+but one of the cases can be given more or lessspecific meanings,
+the meaning of the residual case being left open.This residual
+case can either have whatever relationto the rest of the sentence
+is required by the meanings:,of the neighboringwords, or it can
+serve any purely case-like functionnot pre-empted by the other
+cases.Goedicke is said by Bennett to have explained the accusative as "the case used for those functions notfulfilled by the
+other cases."The fact that Bennett, following Whitney, ridiculed
+this view on the grounds thatcase could be so described,
+suggests that Goedicke's remark could not have been veryclearly
+expressed.31A different approach is taken by Diver32
+,who does
+31Bennett (1914) 195, fn. 1.At the time of writing I have not
+yet had access to the Goedicke original.
+3 2WilliamDirer, "The system of agency of the Latin noun,"WORD,
+XX (1964) 178-196.
+not assign the 'left-over' function to a particular case assuch,
+but to whatever case or cases are not requiredfor a given realiza-
+
+
+-20-
+tion of what he calls the 'agency system'.Briefly* and ignoring
+his treatment of passive sentences, Diver's analysis is this: A
+verb can have one, two, or three nouns (or noun phrases) associated
+with it, corresponding generally to the intransitive, normal transitive, and transitive indirect object sentence types respectively.
+In a three-noun sentence, the nouns are nominative, dative and
+accusative, the nominative being the case of the Agent, the accusative the case of the Patient, with the dative, as the 'residue' case,
+capable of expressing any notion compatible with the meaning of the
+remainder of the sentence.The function of the dative in a threenoun sentence, in other words, is 'deduced' from the context, not
+present as one of a number of possible 'meanings' of the dative case.33
+33Thefollowing is from Diver (1964) 181: "In the sentence senatus
+imperium mihi dedit 'the senate gave me supreme power', therm7Mtive, with the syntactic meaning of Agent, indicates the giver;
+the Accusative, with the syntactic meaning of Patient, indicates
+the gift.The question is: Does the Dative itself indicate the
+recipient or merely that the attached word is neither the giver
+nor the gift?"Diver makes the latter choice.In particular, he
+states that "knowing that mihi, in the Dative, can be neither the
+Agent (the giver) nor the TaTent (the gift), we deduce that it is
+the recipient."
+In two-noun sentences, one of the nouns is nominative, the other
+either dative or accusative, but typically accusative.The nominative here is the case of the agent, but this time the accusative
+(or the dative, whichever occurs) is the residue case.In a twonoun sentence, in other words, the accusative is not limited to
+the meaning of Patient but can express any number of other meanings
+as well.And, since it no longer contrasts with dative, it can be
+replaced by a dative.The choice between dative and accusative in
+
+
+- 21 -
+two-noun sentences, since it is not semantically relevant, is
+subject to random kinds of free and conditioned variation.
+Carrying the argument through, the noun found in a one-noun
+sentence can express any meaning relationship with the verb.The
+noun, though most frequently nominative, may be accusative or
+dative, but the choice is not due to meanings associated with
+these cases.When the noun is nominative its 'syntactic meaning'
+may be that of Agent, Patient, or anything else.
+The inadequacy of Diver's treatment is clear.In the first
+place, it seems unlikely that, as used in Diver ^ paper, the
+notions Agent and Patient are in any sense satisfactory semantic
+primitives.To agree that imperium in senatus imperium mihi dedit
+is the Patient is nothing more than to agree to say the word 'Patient'
+on seeing an accusative form in a three-noun sentence.For many
+of Diver's examples, his argument would have been every bit as convincing if he had said that there is an unvarying function performed
+by the dative, but the role of the accusative depends on such matters
+as the lexical meaning of the verb.Furthermore, the "couple of
+dozen verbs" which appear in two-noun sentences and which exhibit
+some kind of semantic correlation involving the supposedly nonsignificant choice of accusative or dative should probably not be
+set aside as unimportant exceptions.
+Diver's proposal may be thought ofas an attempt to identify
+the semantic contribution of cases seenas syntagmatically identified entities, while the positing of distinctive oppositions, in
+the manner of Hjelmslev and Jakobson, is an attempt to see the
+functioning of cases from the point of view of the concept of
+
+
+- 22-
+paradigmatic contrast.The latter view has been criticized by
+Kurylowicz.The apparent contrast seen in Polish and Russian
+3Jerzy Kury owicz, "Le problme du classement des cas" (1949), in
+his collection ESQUISSES LINGUISTIQUES, WrocZaw-Krakov (1960) 131-
+150; 134, 141.
+between accusative and genitive (partitive) direct object, as
+between (13) and (14)
+(13)daj nam chleb'give us the bread'
+(14)daj nam chleba'give us some bread'
+is not a difference in the syntactic function of the object nouns
+relative to the verb, but is rather a difference which falls into
+that area of syntax that deals with the effect of the choice of
+article, in languages having articles, on the semantic content of
+the associated noun.The fact that in Russian the difference is
+reflected as a difference in noun inflection does not along determine its character as a part of the case system proper of the
+language.
+The vertical contrast between locative and accusative nouns
+after locative/directional prepositions, as in (15) and (16)
+(15)on prygajet na stole'he jumps (up and down) on
+the table'
+(16)on prygajet na stol'he jumps onto the table'
+is a difference that would be discussed in transformational-grammar
+terms as involving a distinction between preposition-phrases which
+are inside and those which are outside the verb phrase constituent.
+That is, a Locative preposition-phrase which occurs outside the
+
+
+-23-
+constituent VP is one which indicates the place where the
+action described by the VP takes place.A Locative prepositionphrase inside the VP is a complement to the verb.Inside a VP
+the difference between the locative and directional senses is
+entirely dependent on the associated verb; outside the VP the
+sense is always locative.
+Kurylowicz discussed (15) and (16) in essentially thesame
+terms.To him the directional phrasena stol is 'more central'
+to the verb than the locative phrase na stole.An apparent contrast appears just in case the same verb mayappear sometimes with
+and sometimes without a locative (or directional) complement.
+There is thus no genuine paradigmatic contrast found in such pairs
+as (13)-(14) or (15)-(16).
+Kurylowicz's own approach to the study ofcase systems brings
+another order of grammatical fact into consideration: sentence
+relatedness.Cases, in his view, form a network of relationships
+mediated by such grammatical processesas the passive transformation.
+The distinction between nominative and accusative, for example, is
+a reflection in the system of cases of the more basic distinction between passive and active sentences.In his terms, hostis
+occiditur becomes the predicate hostem occidit, the primary change
+from occiditur to occidit bringing with it the concomitant change
+from hostis to hostem.
+Nominalizations of sentences have the effect of relating both
+accusative and nominative to the genitive, for the former two are
+neutralized under conversion to genitive,as illustrated by the
+change from plebs secedit to secessio plebis (genitivus subjectivus)
+
+
+- 24 -
+as opposed tothe change from hostem occidere to occisiohostie
+(genitivus objectivus).
+The relationship between nominative and accusative,then, is
+a reflex ofdiathesis; the relationship of these two togenitive
+is mediated through the process of constructingdeverbal nouns.
+The remaining cases--dative, ablative, instrumentaland locative- -
+enter the network of relationships in that,secondarily to their
+functions as adverbials, they each provide variantsof the accusative with certain verbs.That is, there are verbs that 'govern'
+the ablative (e.g., utor), say, rather than theaccusative for
+their 'direct objects'.35
+1
+35Kurylowicz (1960) 138-139; 144-147; 150.Also se, his THE
+INFLECTIONAL CATEGORIES OF INDO-EUROPEAN, Heidelberg-CarlWinter
+(1964) Pp. 246; 179-181.Somewhat similar interpretations of the
+connections between case and diathesis are found inKlaus Heger,
+"Valenz, Diathese and Kasus," ZEITSCHRIFT FURROMANISCHE PHILOLOGIE
+(1966) 138-170; 161.
+1.3Case histories
+In addition to studies of case uses and interpretationsof
+the cases in a given language as elements of acoherent system,
+the literature also contains many historicalstudies of cases;
+and these, too, are of various kinds.Some workers have sought
+to discover the original meanings of the casesof a language or
+family of languages, while others havesought to trace case morphemes
+back to other kinds of morphemes--eithersyntactic function words
+or some kind ofderivational morphemes.Still others have seen
+
+
+-25-
+in the history of one case system a casesystem of a different
+type--with or without assumptions concerningthe 'essential
+primitivity' of the earlier type.
+A very common assumption among linguistic historianshas
+been that case affixes are traceable back to non-casenotions.
+The form which eventually became the Indo-European caseending
+representing nominative singular masculine, i.e.*-s, has been
+interpreted the demonstrative *so which had beenconverted into
+a suffix indicating adefinite subject; and the *so in turn is
+believed by some to have originated as aProto-Indo-Hittite sentenceconnective.36
+'Georges
+.Lane, review of Y. M. Biese, SOME NOTES ONTHE ORIGIN
+OF THE INDO-EUROPEAN NOMINATIVE SINGULAR, Helsinki(1960) Pp. 15;
+in LANGUAGE XXVII (1951) 372-374.
+=111031
+The same form has also been interpreted as a derivationalmorpheme
+indicating a specific individual directly involved in anactivity,
+contrasting with a different derivational affix *-mindicating a
+non-active object or the product of an action.37Scholars who can
+37See,for example, the statement by Winfred P. Lehmann inhis
+"On earlier stages of the Indo-European nominal inflection,"
+LANGUAGE, XXXIV (1958) 179-202; 190.
+rest with the latter view are those who do not requireof themselves the belief that 'synthetic' languages necessarilyhave
+antecedent 'analytic' stages.38
+36Theimpression is sometimes given that theidentification of the
+etymon of a case affix brings with it anaccount of the intellectual
+evolution of the speakers of the language inquestion.If the
+
+
+-26 -
+interpretation of *-m and *-s as derivational morphemes is correct,
+it does not follow that one has discovered, in the transition from
+the earliest function of these elements to their later clear caselike uses any kind of 'abstraction' process, or tendency to pass
+from 'concrete' to 'relational' modes of thought.Our methods of
+reconstruction should certainly make it possible to detect basic
+(i.e., deep structure) linguistic evolutionsif it is there to
+discover, but the etymology of surface-structure morphemes should
+not lead to assumptions about deep typological differences.What
+I mean is that the underlying case structures of Proto -Indo-
+European may have been justas precisely organized as those of any
+of the daughter languages, and that the changes that have occurred
+may have been entirely a matter of morphophonemic detail.From
+the preponderance of (derived) active nouns in subject position,
+one generation may have 're-interpreted' the suffix as a marker
+of human subject; a later generation may have re-interpreted it
+as merely a marker for the subject use of a particular set of
+words--to state the possibilities in the most simple-minded way.
+The change, in short,may well have been entirely in the economies
+of bringing to the surface underlying structural features which
+themselves underwent no change whatever.
+SEN.MIMMIC,_
+A second kind of speculation on historical changes within
+case systems traces case systems of one kind back to case systems
+of another kind.Of particular interest here is the suggestion
+that the Indo-European case systems point back to an original
+'ergative' system.Case typologies will be discussed in slightly
+greater detail below, but briefly we can characterize an 'ergative'
+system as one which assigns one case (the Ergative) to the subject
+of a transitive verb, another to both the subject of an intransitive verb and the object of a transitive verb.An 'accusative'
+system, on the other hand, is one which assigns one case to the
+subject of either transitive or intransitive verbs, another (the
+Accusative) to the object of a transitive verb.A common feature
+of ergative systems is that the 'genitive' form is the same as
+the Ergative (or, put differently, that the Ergative case has a
+'genitive' function).
+
+
+- 27 -
+The connection of Indo-European *-s with animateness (the
+subject of a transitive verb is typically animate), the original
+identity of the nominative singular *-s with the genitive ending,
+and the identity of the neuter ending *-m with the masculine
+accusative form, have led many investigators to the conclusion
+that our linguistic ancestors were speakers ofan 'ergative'
+language.39It will be suggested below that, if sucha change
+39Seeparticularly C.C. Uhlenbeck, "Agens and Patiens im
+Kasussystem der indogermanischen Sprachen," INDOGERMANISCHE
+FORSCHUNGEN, XII (1901), 170-171, where the *-m endingwas identified as a subject marker, the *-sas the agent marker in passive
+sentences (a common interpretation of 'ergative' systems); and
+Andre Valliant, "L'ergatif indo-europeen," BULLETIN DE LA SOCIETE
+LINGUISTIQUE DE PARIS, XXVII (1936) 93-108.Lehmann finds the
+arguments unconvincing, noting for example that evidence ofan
+'ergative' ending cannot be found in pluralnouns or in feminines
+in a.(Lehmann (1958) 190.)
+has taken place, it is a change which involves the notion 'subject'.
+1.4Case in current generativegrammar
+A hitherto largely unquestioned assumptionabout case in the
+writings of generative grammarians has been made explicit by Lyons:
+"'case' (in the languages in which the category is tobe found) is
+not present in 'deep structure' at all, but is merely the inflexional 'realization' of particular syntactic relationships."40
+40Lyons (1966) 218.
+The syntactic relationships in questionmay in fact be relationships that are defined only in the surface structure,as when the
+surface subject of a sentence (destined to assume,say, a
+
+
+.28
+'nominative' form) has appearedas the result of the application
+of the passive transformation,or when the 'genitive' marker is
+introduced as an accompaniment toa nominalization transformation.
+One of Chomsky's few remarkson case is in a discussion of the
+peripheral nature of stylistic inversions; althoughcase forms
+are assigned to English pronouns relatively late in thegrammar,
+determined largely on surface structureposition, the stylistic
+inversion rules are later still.In this way it becomes possible
+to account for such formsas him I like, etc.; the shift of him
+to the front of the sentence must follow theassignment of case
+forms to the pronouns.41
+Chomsky (1965) 221f.
+It seems to me that the discussion ofcase could be seen in
+a somewhat better perspective if the assignment ofcase forms
+were viewed as exactly analogous to the rules for assigningprepositions in English, or postpositions in Japanese.42There are
+42The suggestion is ofcourse not novel.According to Hjelmslev,
+the first scholar to showa connection between prepositions and
+cases was A.-F. Bernhardi, in ANFANGSGRUNDE DER SPRACHWISSENSCHAFT,
+Berlin (1805); see Hjelmslev (1934) 24.I have not yet seen the
+Bernhardi work.
+languages which use case forms quite extensively, andthe assumption that the case forms ofnouns can be assigned in straightforward
+ways on the basis of simply defined syntactic relations seems to
+be based too much on the situation with Englishpronouns.
+Prepositions in English- -or the absence of a preposition
+before a noun phrase, which may be treatedas corresponding to a
+
+
+zero or unmarked case affix--are selected on the basis of several
+types of structural features, and in ways that are exactly analogous
+toth0.56 which determineparticular case forms in a language like
+Latin: identity as (surface) subject or object, occurrence after
+particular verbs, occurrence in construction with particular nouns,
+occurrence in particular constructions, and so on.The only difficulties in thinking of these two processes as analogous are that
+even the most elaborate case languages may also have combinations
+of, say, prepositions with case forms, and that some prepositions
+have independent semantic content.The first of these difficulties
+disappears if, after accepting the fact that the conditions for
+choosing prepositions are basically of the same type as those for
+choosing case forms, we merely agree that the determining conditions may simultaneously determine a preposition and a case form.
+The second difficulty means merely that a correct account will
+allow certain options in the choice of prepositions in some contexts, and that these choices have semantic consequences.Analogous
+devices are provided by the 'true' case languages, too, for example
+by having alternative case choices in otherwise identical constructions, or by having semantically functioning prepositions or postpositions.
+The syntactic relations that are involved in the selection of
+case forms (prepositions, affixes, etc.) are?in practice, of two
+types, and we may call these 'pure' or 'configurational' relations,
+on the one hand, and 'labeled' or 'mediated' relations on the
+other hand.43'Pure' relations are relations between grammatical
+3The distinction would be more accurately represented by the
+opposition 'relations' vs. 'categories', because whena
+
+
+-30-
+phrase-structure rule introduces a symbol like Manner or Extent,
+symbols which dominate manner adverbials and extent phrases, these
+symbols function, as far as the rest of the grammar is concerned,
+in exactly the same ways as such 'intentional' category symbols
+as S or NP.This fact has much more to do with the requirements
+of the phrase-structure model than with the' categorial' character
+of the grammatical concepts involved.In an earlier paper I
+discussed the impossibility of capturing in a base component of
+a grammar of the type presented in Chomsky(1965) both such information that in a clumsy wavy is a manner adverbial (and as such
+represents an instance of highly constrained lexical selection
+as well as a quite specific positional and co-occurrence potential
+which it shares with other manner adverbials) and that it is a
+preposition phrase.See my "Toward a modern theory of case,"
+THE OHIO STATE UNIVERSITY PROJECT ON LINGUISTIC ANALYSIS REPORT
+NO. 13 (1966) 1-24.
+The intention on the part of grammarians who have introduced
+such terms asTemp, Extent, etc., into their rules is to let'
+these terms represent relations between the phrases which they
+dominate and some other element of the sentence (e.g., the VP as
+a whole); nobody, as far as I can tell, has actually wished these
+terms to be considered as representing distinct types of grammatical categories on the order of NP or Preposition Phrase.
+constituents expressible in terms of (immediate) domination.
+Thus, the notion 'subject' can be identified as the relation
+between a NP and an immediately dominating S, while the notion
+'direct object' can be equated with the relation that holds between
+a NP and an immediately dominating VP.Where the relation 'subject
+of is understood to hold between elements of the deep structure,
+one speaks of the deep-structure subject; where it is understood
+to hold between elements of the (pre-stylistic) surface structure,
+one speaks of the surface-structure subject.This distinction
+appears to correspo2A. to the traditional one between 'logical
+subject' and 'grammatical subject'.
+By 'labeled' relation I mean the relation of a NP to a
+sentence, or to a VP, which is mediated by a pseudo-cateogry label
+such as Manner, Extent, Location, Agent, etc.
+
+
+-31-
+It is clear that if alltransformations which create
+surface subjects have the effectof attaching a NP directly
+to a S, under conditionswhich guarantee that noother NP is
+also directly subjoined tothe same S and if it alwaysturns out
+that only one NP is subjoinedto a VP in the pre-stylisticsurface
+structure, then these two 'pure'relations are exactly whatdetermine the most typical occurrencesof the case categories'nominative' and 'accusative' in languagesof a certain type.For remaining case forms, the determinationis either on the basis ofidiosyncratic properties of specific governingwords, or on the basis of
+a 'labeled' relation, aswhen the choice of la is determinedby
+reference to the dominating categoryExtent in the extent phrase
+of sentences like (17).
+(17)he missed the target by two miles
+In my earlier paper (see fn.43) I pointed out that there is
+no semanticallyconstant value associated with thenotion 'subject
+oft (unless it is possible to make senseof the expression 'the
+thing being talked about', and, ifthat can be done, to determine
+whether such a concept has anyconnection with the relation'subject'),
+and that there are no semanticallyrelevant relations residing in
+the surface subject relationwhich are not somewhere alsoexpressible
+by 'labeled' relations.The conclusion I have drawn fromthis is
+that all semantically relevant syntacticrelations between NPi
+and the structures which containthem must be of the 'labeled'type.
+The consequences of this decision include(a) the elimination of
+the category VP, and(b) the addition to some grammars of arule,
+or system of rules,for creating 'subjects'.The relation 'subject',
+
+
+- 32 -
+in other words, is nowseen as exclusively a surface-structure
+phenomenon.
+
+
+-33-
+2.Some preliminary conclusions
+I have suggested that thereare reasons for questioning
+the deep-structure validity of the traditional division between
+subject and predicate, a division which is assumed bysome to
+underlie the basic form of all sentences in all languages.The
+position I take seems to be in agreement with that of Tesniere,
+who holds that the subject/predicate division isan importation
+into linguistic theory from formal logic ofa concert which is
+not supported by the facts of language, and, furthermore, that
+the division actually obscures the many structural parallels between
+'subjects' and 'objects'.44The kinds of observations thatsome
+4Tesniere (1959) 103-105.
+scholars have made about surface differences between'predicative'
+and 'determinative syntagms145may be accepted without in any way
+45See, for example, C. E. Bazell, "Syntactic relations and linguistic typology," CAHIERS FERDINAND DE SAUSSURE, VIII (1949) 5-20;
+esp. p. 8 where the difference is expressed in such terms as
+'degrees of cohesion', 'liaison features' found within the predicate but not between subject and predicate.
+requiring one to believe that the subject/predicate division plays
+a part in the deep structure syntactic relations among the constituents of sentences.
+Once we have interpreted 'subject'as an aspect of the surface
+structure, claims about so-called 'subjectless' sentences in languages which have superficial subjects in some sentences, or
+reports about languages which appear to lack entirely entities
+corresponding to the 'subjects' of our grammatical tradition,no
+
+
+longer need to be regarded as particularly disturbing.Unfortunately, there are both good and bad reasons for asserting that
+particular languages or particular sentences are 'subjectless',
+and it may be necessary to make it clear just what it is that I
+am claiming.A distinction must be drawn between not havin% a
+constituent which could properly be called 'subject', on the
+one hand, and losinsuch a constituent by anaphoric deletion,
+on the other hand.46Robins, in his review of Tesniere (1959),
+The tagmemicists in particular, because of their notation for
+'optional' constituents, have had to come to grips with this
+distinction.A 'tagmemic formula' may be thought of as an attempt
+to present in a single statement a quasi-generative rule for producing a set of related sentences and the surface structure(short
+of free variation in word order)of these sentences.If the
+formulas fortransitive and intransitive clauses are expressed
+as (i) and (ii) respectively
+(i) +Subj +Pred +Obj +Loc +Time
+(ii) 7subj +Pred +LocTime
+it is clear (0 that any clause containingAa Pred can satisfy either
+of these formulas, and (b) that the potential appearance of such
+constituents as Loc and Time are less relevant to the description
+of these clauses than is that of the constituent Obj.Pike draws
+a distinction, which cross-cutsthe optional/obligatory distinction,
+between 'diagnostic' and 'non-diagnostic' elements of clauses, as,
+e.g., in his recent H.E.W. report,TAGMEMIC AND MATRIX LINGUIST1C$
+APPLIED TO SELECTED AFRICAN LANGUAGES (1966), esp. Chapter 1:
+Clauses.Grimes, on the other hand, seems to suggest introducing
+the 'diagnostic' constituents obligatorily, allowing for their
+deletion under certain contextual or anaphoric conditions.See
+Joseph E. Grimes, HUICHOL SYNTAX, Mouton (1964) Pp. 105, esp. 16f.
+accuses Tesniere of failing to isolatethe subject from the rest
+of the sentence.To Robins, Tesnik,e's decision to allow the
+subject to be treated as being merely a complement to the verb
+must be related to the fact that the subject is omissible in
+such languages asLatin.47Ifihitrue that the omissibility of
+
+
+-35-
+7RH. Robins, "Syntactic analysis," ARCHIVUM LINGUISTICUM, XIII
+(1961) 78-89.(Reprinted in Hamp, Householder and Austerlitz,
+READINGS IN LINGUISTICS II, Chicago (1966) 386-395.)
+'subjects' is what convinced Tesniere that they are subordinated
+to verbs, and if the non-omissibility in any language of the subject constituent would have persuaded him that there is a special
+status for 'subject' vis a vis 'predicate' in the underlying
+structure of sentences in all languages, then that, it seems to
+me, is a bad reason for coming up with what might be a correct
+analysis.
+It seems best to have a place in linguistic theory for the
+operation of anaphoric processes, processes which have the effect
+of shortening, simplifying, de-stressing sentences which are partly
+identical to their neighbors (or which are partly 'understood').
+It happens that English anaphoric processes make use of pronominalization, stress reduction, as well as deletion, under conditions
+where other languages might get along exclusively withdeletion.48
+For an extremely informative description of these processes in
+English, see Lila Gleitman, "Coordinating conjunctions in English,"
+LANGUAGE XLI (1965) 260-293; also see Zellig S. Harris, "Cooccurrence and transformation in linguistic structure," LANGUAGE
+XXXIII (1957) 283-340, esp. section 16.
+tinder some conditions, in languages of the latter type, the deleted
+element happens to be the 'subject'.The non - occurrence of subject
+nouns in some utterances in some languages is not by itself, in
+other words, a good argument against the universality of the
+subject/predicate division.There are better ones.Some of these
+
+
+have already been suggested, othersare to appear
+shortly.
+By distinguishing between surface and deepstructure case
+relationships, by interpreting the 'subject' and 'object'as
+aspects of the surface structure, and by viewing the specific
+phonetic shapes of nouns in actual utterancesas determinable
+by many factors, vastly variable inspace and time, we have
+eliminated reasons for being surprised at the non-comparability
+of (surface) case systems.We find it partly possible to agree
+with Bennett when, after surveyinga few representative nineteenth century case theories, he stated that they erred in
+sharing the "doubtful assumptionthat all the cases must
+belong to a single scheme, as though parts ofsome consistent institution".49We need not follow him, however, in concluding that
+Bennett (1914) 3.
+the only valid type of research into thecases is to determine
+the earliest value of each case, takenone at a time.
+Greenberg has remarked thatcases themselves cannot be compared
+across languages--two case syktems may have different numbers of
+cases, the names of the cases may conceal functional differences--
+but that case uses may be expected to be comparable.He predicts,
+for instance, that the uses of cases will be "substantially
+similar in frequency but differently combined in different languages."50Greenberg's recommendations on the cross-linguistic
+50Greenberg (1966) 80, 98; the quotation is fromp. 98.
+
+
+-37-
+study of case uses were presented in connection with the 'true'
+case languages, but it seems clear that if a'Dative of Personal
+Agent' in one language can be identified with an 'Ablative of Personal Agent' in another language, then the 'Personal Agent'
+relationship between a noun and a verb ought also to be recognizable in the so-called 'caseless' languages on exactly the same
+grounds.If, furthermore, it turns out that other grammatical
+facts can be associated with sentences containing the Personal
+Agent relationship, it would appear that the concepts underlying
+the study of case uses may have a greater linguistic significance
+than those involved in the description of surface case systems.
+These additional facts might include the identification of a
+limited set of nouns and a limited set of verbscapable of entering into this relationship, and whatever additinnal generalizations
+prove to be statable in terms of this classification.Higher level
+dependencies may be discovered, such as the limitation of Benefactive phrases to sentences containing a Personal Agent relationship in their deep structure.
+The question should now be asked, of course, whether we are
+justified in using the term 'case' for the kind of remote
+syntactic-semantic relations that are at issue.There is among
+many scholars a strong feeling that the term should beused only
+where clear case morphemes are discoverable in the inflection of
+nouns.To Jespersen, it is wrong to speak of 'analytic' cases,
+even when there is no 'local' meaning in thepreposition phrases,
+because cases are one thing and preposition-plus-object constructions
+
+
+-38-
+are another.51Jespersen's position is colored a little by his
+51Jespersen (1924) 186.
+belief that the caselessness of English represents a state of
+progress for which we ought to be grateful.52
+52Jespersen (1924) 179: "However far back we go, we nowhere find
+a case with only one well-defined function: in every language
+every case served different purposes, and the boundaries between
+these are far from being clear-cut.This, in connection with
+irregularities and inconsistencies in the formal elements characterizing the cases, serve to explain the numerous coalescences we
+witness in linguistic history ("syncretism") and the chaotic rules
+which even thus are to a great extent historically inexplicable.
+isIIftheEnliWlmouLtaEs2n2farther than the others ingrate fu
+simplifying these rules, we should be devoutl
+our wato force it back into the disorder and com lexitof
+centuries ago."talics added.
+1111111m.
+Cassidy, in his 1937 appeal to rescue the word 'case' from
+abuse, wrote: "'Case' will be properly used and will continue to
+have some meaning only if the association with inflection be
+fully recognized, and if stretching of the term to include other
+sorts of 'formal' distinction beabandoned."53In a similar vein,
+53FrederickG. Cassidy, "'Case' in modern English," LANGUAGE, XIII
+(1937) 240-245; 244.
+Lehmann chides Hirt for suggesting that an awareness ofcases had
+to precede the development of case endings--that there was, in
+other words,"among the speakers of pre-Indo-European and Proto-
+Indo-European a disposition for cases."Lehmann continues: "We
+can account for Hirt's statement by the assumption that to him
+a case was a notional category, whether or not it was exemplified
+
+
+-39-
+in a form.To us a particular case is non-existent unless it
+is represented by forms which contrast in a systemwith others."54
+54Lehmann (1958) 185.
+The claim that syntactic relations of various types must exist
+before case endings could be introduced to give themexpression
+would su-'ely have gone unchallenged; what was offensive,apparently,
+was the use of the word 'case'.
+It seems to me that if there are recognizable intra-sentence
+relationships of the types discussed in studies of case systems- -
+whether these are reflected in case affixes or not--and if these
+same relationships can be shown tobe comparable across languages;
+and if there is some predictive or explanatory use towhich assumptions concerning the universality of these relations can beput,
+then surely there can be no meaningful objection to using the
+word 'case', in a clearly-understood deep-structure sense,to
+identify these relationships.The dispute on the term 'case'
+loses its force in a linguistics which accepts the centralityof
+syntax.55
+55Theuniversality of case as a grammatical category is affirmed
+in Hjelmslev (1934) 1.A recent study of Velten's, from a
+Jakobsonian point of view, reveals enough of the historical
+continuity of 'synthetic' and 'analytic' cases to suggest that
+the linguist has no right to assign cases and prepositions to
+different 'chapters' of the study of grammar.(H. V. Velten,
+"On the functions of French de and a," LINGUA, XI (1962) 449-
+452.)The deep structure notion of cases may be thought of as
+involving an extension of the synchronic concept of 'syncretism'.
+The asual synchronic sense of case syncretism assume the form of
+a decision to posit a case contrastthat may not be expressed
+overtly in most contexts as long as it appears overtlyin "one
+LIIIIIIMUNIMM11.100011.11111161ftrerrimirdiara...1.-...
+
+
+-4opart of the system."(See Leonard Newmark's statement in "An
+Albanian case system," LINGUA, XI (1962) 312-321; 313.)Deep
+structure cases may simply be nowhere overtly reflected as
+affixes or function words.The notion we are after probably
+corresponds to Meinhof's' Kasusbeziehungen'.(C. Meinhof, "Der
+Ausdruck der Kasusbeziehungen in afrikanischen Sprachen,"
+SCRITTI IN ONORE DI A. TROMBETTI, Milano (1938) 71-85; 71.The
+Meinhof reference, which I have not seen, was quoted in Henri Frei,
+"Cas et deses en francais," CAHIERS FERDINAND DE SAUSSURE, XII
+(1954) 29-47; fn. p. 31.)
+We may agree, then, for our present purposes, with Hjelmslev,
+who suggests that the study of cases can be pursued most fruitfully if we abandon the assumption that an essential characteristic
+of the grammatical category of case is expression in the form of
+affixes on substantives.I shall adopt the usage first proposed,
+as far as I can tell, by Blake56of using the term 'case' to
+56Frank Blake, "A semantic analysis of case," in CURME VOLUME OF
+LINGUISTIC STUDIES (LANGUAGE Monograph No. 7) (1930) 34-49.
+identify the underlying syntactic-semantic relationship, and the
+term 'case form' to mean the expression of a case relationship in
+a particular language--whether through affixation,suppletion, the
+use of clitic particles, or constraints on word order.
+
+
+- 41 -
+3.Case grammar
+The substantive modification to the theoryof transformational grammar which I wish to proposeamounts to a re-introduction
+of the 'conceptual framework'interpretation of case systems,
+but this time with a clearunderstanding of the difference between
+deep and surface structure.The sentence in its basic structure
+consists of a verb and one or more nounphrases, each associated
+with the verb in a particular caserelationship.The 'explanatory'
+use of this frameworkresides in the necessary claim that,although
+there can be compound instances of asingle case (through noun
+phrase conjunction), each case relationship occursonly once in
+a simple sentence.57
+571tfollows that whenever more than one caseform appears in the
+surface structure of the same sentence(on different noun phrases),
+either more than one deep-structure caseis involved or the sentence is complex.If, for example, German le` hren isdescribed as
+a verb which ',takestwo accusatives', we have reasonto believe
+that in the deep structure, the twoobject nouns are distinct as
+to case.Often enough the language will provideevidence for the
+distinction, as in the occurrence of suchpassive sentences as
+das wurde mir gelehrt.
+It is important to realize that theexplanatory value of a
+universal system of deep-structure casesis of a syntactic and not
+(merely) a morphological nature.The various permitted arrays of
+distinct cases occurring in simplesentences expresses a notion of
+'sentence type' that may be expected tohave universal validity,
+independently of such superficial differences assubject selection.
+The arrays of cases defining the sentencetypes of a language
+have the effect of imposing aclassification of the verbs in the
+language (according to th( sentencetype into which they may be
+
+
+-42-
+inserted), and it is very likely that many aspects of this
+classification will be universally valid.
+Case elements which are optionally associated with specific
+verbs, together with the rules for forming subjects, will serve
+to explain various co-occurrence restrictions.For example, in
+(18) the subject is in an Agent relation to the verb, in (19)
+the subject is an Instrument; and in (20) both Agent and Instrument appear in the same sentence, but in this case it is the
+Agent which appears as the subject, not the Instrument.
+(18)John broke the window
+(19)a hammer broke the window
+(20)John broke the window with a hammer
+That the subjects of (18) and (19) are grammatically different explains the fact that the combined meanings of the two
+sentences is not produced by conjoining their subjects.Thus (21)
+is unacceptable.
+(21)*John and a hammer broke the window
+Only noun phrases representing the same case may be conjoined.
+Similarly, the fact that only one representative of a given case
+relationship may appear in the same simple sentence, together with
+the generalizations on subject selection and the redundancies
+which hold between cases and lexical features(e.g., between Agent
+and animateness), explains the unacceptability of sentence(22).
+(22)*a hammer broke the glass with a chisel
+It is unacceptable, in particular, on the interpretation that both
+hammer and chisel are understood instrumentally.It cannot represent a sentence containing an Agent and anInstrument, since the
+
+
+- 43 -
+noun hammer is inanimate.58
+58Theauthor is aware that in sentence (18) one might be talking
+about what John's body did as it was tossed through the window
+and that in sentence (19) one might be speaking metaphorically,
+personifying hammer.Under either interpretation sentence (21)
+turns out to be acceptable, and under the personification interpretation, sentence (22) becomes acceptable.What is important to
+realize is that these interpretations, too, are explainable by reference to exactly the same assumptions appealedto in explaining
+their 'face value' interpretations.
+The dependencies that can be accounted for by making these
+assumptions are that the subject of an active transitive sentence
+must be interpretable as a Personal Agent just in case the
+sentence contains a with-phrase of Instrumental import.Apparent
+exceptions to this generalization can be seen to have different
+underlying structures.Sentence (23) looks like an exception, but
+by attending to the effect of the word its, the essential difference between(23) and sentences (22) and (24) becomes apparent.
+(23)the car broke the window with its fender
+(24)*the car broke the window with a fender
+Sentence (24) violates the conditions that have been discussed,
+but sentence (23) is a paraphrase of sentence (25) and may be
+interpreted 's having the same deep structure as (25).
+(25)the car's fender broke the window
+What is suggested here is that sentences (23) and (25) are
+Agentless sentences containing a possessed noun as the Instrument
+(the car's fender).The rules for choosing a subject allow an
+option in this case: either the entire Instrument phrase may appear
+as the subject(as in (25)), or the 'possessor' alone may be made
+
+
+the subject, the remainder of the Instrument phrase appearing
+with the preposition with (as in (23)).The second option
+requires that a 'trace' be left behind in the Instrument phrase,
+in the form of the appropriate possessive pronoun.A similar
+explanation is suggested for such sentences as (26) and(27), which
+are also interpretable as deep-structurallyidentical.
+(26)your speech impressed us with its brevity
+(27)the brevity of your speech impressed us
+The superficial nature of the notion 'subject of a sentence' is made
+apparent by these examples in a particularly persuasive way, because
+in the possessor-as-subject cases, the 'subject' is not even a major
+constituent of the sentence; it is taken from the modifier of one
+of the major constituents.
+In the basic structure of sentences, then, we find what might
+be called the 'proposition', a tenseless set of relationshipsinvolving verbs and nouns (and embedded sentences, if there areany),
+separated from what might be called the 'modality' constituent.
+This latter will include such modalities on the sentence-as-a-whole
+II
+as negation, tense, mood andaspect.59ihe exact nature of the
+59Thereare probably good reasons for regardingnegation, tense and
+modd as associated directly with the sentence as a whole, andthe
+perfect and progressive 'aspects' as features on the V.See for
+a statement of this positionLyons (1966) 218, 223.
+modality constituent may be ignored for our purposes.It is likely,
+however, that certain 'cases' will be directly related tothe
+modality constituent as others are related to the propositionitself,
+as for example certaintemporal adverbs.60
+
+
+-45-
+VIIIINIIIMMO.N1=11111Imanumme
+oIn my earlier paper I suggested that sentence adverbials in
+general are assigned to the modality constituent.I now believe
+that many sentence adverbs are introduced from superordinate sentences (by transformations of a type we may wish to call 'infrajections1).This possibility has long been clear for unmistakable
+sentence adverbs like unfortunate a, but there are also quite convIncing reasons for extending the infrajection interpretation to
+adverbs like willingly, easiLE, carefully, etc.
+The first base rule, then, is (28), abbreviated to (28').
+(28)Sentence - Modality + Proposition
+(28')S -- Mp61
+61The arrow notation is used throughout, but this should not be
+interpreted as meaning that the proposal for a case grammar
+requires an assumption of a left-to-right orientation of the
+constituent symbols of the rewriting rules.
+The P constituent is 'expanded' asa verb and one or more case
+categories.A later rule will automatically provide for each of
+the cases the categorial realization as NP (except for one which
+may be an embedded S).In effect the case relations are represented
+by means of dominating category symbols.
+The expansion of P may be thought of as a list of formulas
+of the form (29), where at least one case category must be chosen
+and in which no case category appears more than once.
+(29)P + V + C1 ++ Cn
+Whether these formulas can IDE; collapsed according to the familiar
+abbreviatory conventions is not at present clear.For our purposes we may simply think of P as representable by any of a set
+of formulas including V + A, V + 0 + A, V + D, V + 0 + I + A, etc.
+(The letter symbols are interpreted below.)
+
+
+-46-
+The case notions comprise a set of universal, presumably
+innate, concepts which identify certain types of judgments which
+human beings are capable of making on the events that are going
+on around them, judgments on suchmatters as who did it, who it
+happened to, what got changed, etc.The cases that appear to be
+needed include:
+Agentive (A), the case of the perceived instigator of
+the action identified by the verb, typically animate.62
+2The escape qualification 'typically' expresses my awareness that
+contexts which I will say require Agents are sometimes occupied by
+'inanimate' nouns like robot or 'human institution' nouns like
+nation.Since I know of no way of dealing with these matters at
+the moment, I shall just assume for all Agents that they are 'animate.'
+Instrumental (I), the case of the inanimate force or
+object causally involved in the action or state
+identified by the verb.63
+3Pau1 Postal has reminded me of the existence of sentences like
+(i)
+(i)I rapped him on the head with a snake.
+The requirement that Instrumental NPs are 'inanimate' is the requirement to interpret (i) as having in its underlying structure something equivalent to with the body of a snake.The fact that there
+are languages which would require mention of a stemmeaning 'body'
+in this context may be considered as support for this position;
+and so may the absence, pointed out by Lakoff, of sentences like(ii)
+(ii)*John broke the window with himself
+(See George Lakoff, "Instrumental adverbs and the concept of deep
+structure," unpublished dittographed manuscript, 1967.)
+Dative (D), the case of the animate being affected by
+the state or action identified by the verb.
+Factitive (F), the case of the object or being resulting
+from the action or state identified by the verb, or
+1116_
+
+
+-47
+understood as a part of the meaningof the verb.
+Locative (L), the case which identifiesthe location
+or spatialorientation of the state oraction
+identified by the verb.
+Objective (0), the semanticallymost neutral case, the
+case of anythingrepresentable by a noun whoserole
+in the action or stateidentified by the verb is
+identified by the semanticinterpretation of the
+verb itself; conceivably theconcept should be limited
+to things which are affectedby the action or state
+identified by the verb.64The term is not to be
+64In Fillmore (1966) the neutral case wasunwisely and misleadingly
+labeled 'ergative'.
+confused with the notionDirect Object, nor with the
+name of thesurface case synonymous withAccusative.
+Additional cases will surely be needed.Suggestions for
+adding to this list will appearin various places below.
+It is important to notice that noneof these cases can be
+interpreted as matched by thesurface-structure relationsSubject
+or Object in anyparticular language.Thus, John is A in(29) as
+much as in (30); the key,is I in (31) as well as in(32) or (33);
+John is D in (34) as well as in(35) and (36); and Chicago.is L
+in both (37) and(38).
+(29)John opened the door
+(30)the door was opened byJohn
+
+
+(31)the key opened the door
+(32)John opened the door with the key
+(33)John used the key to open the door
+(34)John believed that he mould win
+(35)we persuaded Johnthat he would win
+(36)it was apparent to John that he would win
+(37)Chicago is windy
+(38)it is windy in Chicago
+The list of cases includes L, but nothing corresponding to
+what might be called Directional.There is a certain amount of
+evidence, as was mentioned above, that locational and directional
+elements do not contrast but are superficial differences determined
+either by the constituent structure or by the character of the
+associated verb.An example provided by Hall (39) suggests, by
+the occurrence of the pro-replacement word there, that to the
+store and at the store are variants of the same entitly, determined
+by the movement or non-movement character of the associatedverb.65
+(39)she took him to the store and left him there
+5BarbaraHall (now Barbara Hall Partee), SUBJECT AND OBJECT IN
+ENGLISH, M.I.T. Ph. D. Dissertation (1965) 77.
+The putative contrast between locational and directional
+expressions as well as the distinction between 'optional' and
+'obligatory' locative expressions, as exemplified in Hall's
+examples (i) and (ii) seem to point to the difference between
+elements which are 'inside the VP' and elements which are 'outside the VP'.
+(i)John keeps his car in the garage
+(ii)John washes his car in the garage
+In our terms this would be equivalent either to determining whether
+there is a difference between a L as a constituent of P and aL as
+a constituent of M, orwhether there can be two L elements within
+P, distinguished in terms of degree of selectivity of verbs.The
+highly restricting L selects verbs like 1422, but and leave, but
+
+
+not p'lish, wash and build; the weakly restricting L selects
+verbs like 2.21192, wash and build, but not believe, know or want.
+However this distinction is interpreted, the secondor
+'outer'L is in some respects similar in its 'selectional' properties to what might be called the Benefactive case (B).B, too,
+is involved in the selection of verbs in the sense that some verbs
+do not accept B modification (*he is tall for you); but the restriction here may have more to do with dependentrelations between.
+cases than with dependencies directly connected with the verb.It
+appears, in fact, that those verbs which allow 'outer L' and B
+modification are precisely those which take Agents.I have no
+ideas on how these dependencies can be stated, but it would appear
+that the second L and the B can appear only in sentences containing A's.
+Thus the £ime directvs. regime indirect interpretation of
+the difference between (iii) and (iv)
+(iii)it demeure a Paris
+(iv)it travaille a Paris
+may have simply to do with the fact that the subject of (iv) is
+actually an A.Both the specific verb and the occurrence of an
+'outer L! are determined by the presence of an A.(See, in this
+connection, Bazell!s discussion of Gougenheim's review of de Boer's
+French syntax in C. E. Bazell, "Syntactic relations and linguistic
+typology," CARTERS FERDINAND DE SAUSSURE, VIII (1949) 5-20; 10.)
+,AM
+I have stated that A and D are 'animate' participants in the
+activity of the associated verbs, and I have also suggested that
+verbs are selected according to the case environments which the
+sentence provides--what I &-all refer to as the 'case frame'.
+There are, then, the two problems of lexical selection, that of
+the nouns and that of the verbs.Those features of nouns required
+by a particular case are to be specified by obligatory rules of the
+type illustrated by (39), a rule which specifies that any N in an
+A,D
+(39)N[i.Animate]/[ X]
+A or D phrase must contain the feature C Animate].(Recall the
+qualification of fn. 62.)
+To take care quite generally of lexical features associated
+with specific cases, we may appeal to a rule which associates
+with each noun a label which identifies the case relation which
+
+
+111111111=i'
+it holds with the rest of the sentence.Such a rule might
+associate with every noun under L the feature[+Locative], for
+example.Since abstract nouns such as idea cannot serve as heads
+of L expressions, they will be marked[- Locative].66
+By allowing highly restricting lexical features to be associated
+with given case units we have returned to that extension of
+'cases' to 'adverb forms' proposed by Bopp, Wainer and Hartun7.
+Some adverbs, on this view, are really nouns capable of 'takikig'
+only one case form.Since deep structure cases are in fact all
+'defective' to some extent, with respect to the nouns which they
+accept, such a concept as inflectional scope no longer provides
+a clear demarcation between 'case formsproper' and 'adverbs'.
+See the discussion of this question in Hjelmslev (1935) 40.
+Ammummommosr
+The insertion of verbs, on the other hand, depends on the
+particular array of cases, the 'case frame', provided by the
+sentence.67The verb run, for example, may be inserted into the
+671am adhering, in this discussion, to thePostal-Lakoff doctrine,
+which I find thoroughly convincing, that adjectives constitute a
+subset of verbs.See George Lakoff, ON THE NATURE OF SYNTACTIC
+IRREGULARITY, Harvard Computation Laboratory, Report No. NSF-16,
+Mathematical Linguistics and Automatic Translation (1965),
+Appendices.
+frame [A ], the verb sad into the frame [D ], verbs like
+remove and epen into [0 + A ], verbs like murder and terrorize
+(i.e., verbs requiring 'animate subject' and 'animate object') into
+[D + A ], verbs like give into E0 + D + A ], and so on.
+In lexical entries for verbs, abbreviated statements called
+'frame features' will indicate the set of case frames into which
+the given verbs may be inserted.These frame features have the
+effect of imposing a classification of the verbs in the language.
+
+
+-51-
+The classification has the complexity it does not only because
+of the variety of case environments possible withinP, but also
+because many verbs are capable of occurring in morethan one
+distinct case environment.This last fact can be represented
+most directly by allowing facultative representationof cases in
+the frame feature expressions.
+The word open, to take a familiar example, can occur in
+E0 3, as in (40) ;in C0 + A 3, as in (41) ;in [0 + I ],
+as in(42); and in C0 + I + A 3, as in (43).
+(40)the door opened
+(41)John opened the door
+(42)the wind opened the door
+(43)John opened the door with a chisel
+The simplest representation of this set of possibilities makes use
+of parentheses to indicate the 'optional' elements.The frame
+feature for open may thus be represented as(44).
+(44)-1-E0 (I) (A)368
+Case frames are represented in square brackets, with 'underline'
+indicating the position of the element with respect to whichthe
+expression is an environmental frame.A frame feature is represented in square brackets with '+' or '-' in front, indicating
+that the set of case frames represented by the expression within
+the brackets are those which will (if the feature is marked'+')
+or which will not(if the feature is marked '-') accept the
+lexical item with which the feature is associated.
+Other verbs having this same feature are turn, move, rotate, bend,
+
+
+IL
+-52-
+For a verb like kill it is necessary to indicate, expressing it in familiar terms, that it takes an animate object and
+either an animate or an inanimate subject; and that if there is
+an animate subject, an instrumentphrase may also co-occur.The
+frame feature for kill, in other words, will have to specify that
+either an Instrument or an Agent must be specified, and both may.
+If the linked parentheses notation can be introduced to indicate
+that at least one of the linked elements must be chosen, the
+frame feature for kill can be given as (45).
+(45)+[D (IA) ]
+The verb murder, on the other hand, is one which requires an Agent.
+Its frame feature differs from that of (44) and (45) because the
+element A is obligatorily present.It is given as (46).
+(46)+[D (I) A ]
+The environmental subclassification of verbs is sensitive to
+more than the mere array of cases in P.Since one of the cases may
+be represented by S (an embedded sentence), verbs are also subclassified in terms of whether the 0 element is a sentence.By
+convention we shall interpret the symbol 0 in frame features as
+indicating NPs, and the symbol S as indicating an 0 to which an
+S has been embedded.
+The frame feature +[S ] characterizes such verbs as true,
+interesting, etc.; the feature +[S + D ] is common to such
+verbs as want and expect; verbspredict and cause
+appear in the frame[S + A ]; and verbs like force andersuade
+are insertable into the frame[S + D + A ].69
+
+
+69It should be pointed out that descriptions of embedded sentences
+as it + 8 realizations of thecategory NP in 'subject/object'
+grammars must somehow guarantee thatthis particular expansion of
+NP is limited to the subjects of intransitive sentences and the
+objects (direct or oblique) of transitive sentences.All such
+restrictions are rendered unnecessary by the decision tolimit
+complement S to the case element 0.
+are
+VerbsAdistinguished from each other not only by specification
+of the case frames into which they can be inserted, but also by
+their transformational properties.The most important variables
+here include (a) the choice of a particular NP to become the surface
+subject, or the surface object, wherever these choices are not
+determined by a general rule; (b) the choice of prepositions to go
+with each case element, where these are determined by idiosyncratic
+properties of the verb rather than by a general rule; and(c)
+other special transformational features, such as, for verbs taking
+S complements, the choice of specific complementizers (that, iaa,
+for to, etc.) and the later transformational treatment of these
+elements.
+The use of parentheses in expressing the frame features,
+together with the transformational introduction of subjects, makes
+it possible to reduce the number of semantic descriptions in the
+lexicon.The semantic interpretation of a P will introduce all
+information provided by specific case relationships represented in
+the P, allowing such information to be omitted from the semantic
+descriptions of verbs.In the case of verbs .having the feature (44),
+as we have seen, certain relatedtransitive and intransitive verbs
+need not be given separate semantic description.This point may
+be further demonstrated with the English verb cook.The frame
+
+
+feature of cook is presumably something like (47)
+(47)4-C4 (A) ]
+and an idiosyncratic transformational feature of the verb is
+that just in case the A is present and the 0 is some NP representing a typical NP for the verb (i.e., something like food or
+a meal), the 0 element may be deleted.The semantic description
+of the verb will do no more than identify a particular activity
+having a result of a particular ki4d on the object identified by
+the 0 element.The same semantic entry, in other words, will
+account for the use of cook in all of the sentences (48) - (50).
+(48)Mother is cooking the potatoes
+(49)the potatoes are cooking
+(50)Mother is cooking
+Instead of saying that the verb has three different meanings, we
+can be satisfied to say that there is a certain variety in the
+case frames which accept it, and that is is one of the 'deletable
+object' verbs.The fact that A is obligatorily animate and that
+0 is unspecified for animateness accounts for the fact that if we
+can read sentence(49) as ambiguous, it is because we can accept
+certain violations of grammatical requirements in 'personifications'
+of the type we have learned in nursery school, whereas if we
+accept (50) as in fact ambiguous, it is because we are acquainted
+with the range of activities found in human societies.
+The example with cook shows that the lexicon need not contain
+as many semantic entry tokens under the present proposal as it
+would in a subject/object grammar.70It will now be shown that
+
+
+70It may appear that facultative representation ofcases in frame
+features has the advantages it does in English because there are
+so many verbs which can be used transitively or intransitively in
+the same form.It is a language-particular coincidence that English uses the same form in these words.The identification of
+transitive and intransitive 222/2, or transitive and intransitive
+cook, is justified because the semantic characterization of the
+verb is the same in all of the uses discussed.(We must distinguish
+between the semantic characterization ofa verb and the semantic
+interpretation of sentences containing the verb.In the latter
+case, all of the co-constituents and the semantic role they play
+as determined by their cases are taken into account.)Wherever
+that condition can be satisfied, facultative representation is
+called for.It will turn out that for some languages the occurrence or non-occurrence of one of the 'optional' cases will have
+an effect on the verb.If, for verbs of the type [0 (A) 3,
+the appearance of the A determines a variant of the verb different from that when A is missing (distinguishing the 'transitive'
+from the 'intransitive' use of the 'same' verb),or if the
+absence of the A requires some additive element (e.g.,a 'reflexive' morpheme) not needed when the A is expressed, these facts
+can be provided transformationally.See Mantaro J. Hashimoto,
+"The internal structure of basic strings anda generative treatment of transitive and intransitive verbs,"paper read before the
+1966 Tokyo International Seminar in Linguistic Theory.(By
+extending the range of acceptable surface variants of verbs under
+these conditions to suppletion, itmay even be possible to interpret the contrasts exemplified in (51)-(53) below as surface
+lexical variation.)
+this same flexibility makes it possible to ra:%duce the number of
+semantic entry IzEIE, for now it is feasible to show thatsome
+syntactically different words are in fact semantically identical
+(with respect to that aspect of theirmeanings which are independent of the contribution of the associated cases).This may be
+true for verbs like like and please, to give the example that
+comes most quickly to mind.These words may be describedas
+being synonymous and each having the frame feature +[0 + D ]
+differing only in their subject selection features.The verb
+
+
+-56 -
+like, in fact, has in its history the subject selection feature
+possessed by please.
+The verb show, to give another kind of example, might well
+have the same semantic representation as see, differing from it
+only in that the frame feature for show contains an A where that
+for see does not.The verbs kill and die appear to be related
+in a similar way.
+(51)see (+E0 + D ]) vs. show GE0 + D + A ])
+(52)die( +CD ]) vs. kill (+D (I A) ])
+We have seen, then, instances of synonymy where thereare
+identical frame features but different subject selection features,
+and instances of synonymy where there are frame feature differences
+depending on whether a particular case category was presentor
+absent.We may now turn to examples of synonymy where the
+difference is in the choice of one case or another.
+It will be recalled that both A and Dare animate.The
+semantic descriptions of certain verbs may refer to the animateness of the associated noun, independently of whether the 'source'
+of the animateness is A or D.That is, the semantic representation
+of certain verbs may specify a relationship or a process associated
+with the necessarily-animate participant in the stateor activity
+identified by the verb.The relation of hear and listen to the
+necessarily-animate NP is the same in both cases, the difference
+in the semantic interpretation of the Ps containing them determined
+by the semantic contribution of the associated cases, and by the
+fact that the frames that contain hear are E0 + D ] and those
+that contain listen are C0 + A ].The fact that in thecase
+
+
+57 -
+of listen the relationship is understood asinvolving the active
+participation of the person identified as A is dueto the presence
+of A, not to a special meaning of listen.The same distinction
+can be seen between see and know, onthe one hand, and look and
+learn, on the other.
+(53)see, know(+E0 + D ]) vs. look, learn
+( +E0 + A ])
+This latest point leads one to those properties of English
+verbs with which Lakoff associates the terms 'stative' and'nonstative'.The question we need to ask is whether Lakoff's
+71George Lakoff, "Stative adjectives and verbs in English,"
+Harvard Computation Laboratory, Report No. NSF-17, Mathematical
+Linguistics and Machine Translation (1966) 1.1-16.
+features are primitives in the lexical entries for verbs, or
+whether they permit reduction to concepts of the type I have been
+outlining.Lakoff has noticed that the 'true imperative', the
+progressive aspect, the occurrence of Benefactive(B) phrases,
+and do so substitution occur only with 'non - stative' verbs.
+Lakoff's discussion suggests that one must assign 'stative' and
+'non-stative' as features on verbs and then guarantee thatB
+phrases are permitted only with 'non - statives'(put the other way
+around, one must guarantee that the presence of a Bexpression allows
+only for the selection of 'non-statives'), that the imperative
+transformation can be applied only if the verb is 'non-stative'
+and so on.The treatment that I prefer is implicit in what I
+have already presented.The transformation which accounts for the
+
+
+'true imperatives'an apply onlyto sentences containing As, and
+the occurrence of B expressions(and 'Outer Ls') is dependent on
+the presence of an A.The progressive aspect can only be chosen
+in association with particular case frames, forexample, those
+containing As.No special features indicating stativity need be
+added to verbs, because (if this suggestion iscorrect) only those
+verbs which occur in Ps containing As will show up inthese
+sentences anyway.72
+72The do-so evidence is not so easy to interpret in this way.
+Still, the connection between 'non- stative' verbs and verbs that
+can 'take' A is too compblling to be simply wrong.
+3.5Surface phenomena
+To recapitulate, our discussion so far has suggested that
+the deep structure of (the propositional componentof) every
+simple sentence is an array consisting of a V plus a numberof
+NPs holding special labeled relations (cases) to the sentence,
+where these relations are provided for categorially andinclude
+such concepts as Agentive, Instrumental, Objective,Factitive,
+Locative, Benefactive, and perhaps several others.Complex
+sentences involve recursion through the categorySentence under
+the case category Objective.Verbs are subclassified according
+to the case environments which accept them, andthe semantic
+characterizations of verbs relate them either tospecific case
+elements in the environment or to elementscontaining features
+(such as animateness) introduced as obligatory accompanimentsof
+particular cases.
+
+
+-59-
+The present section will deal withsome of the ways in
+which deep structures of the type proposed in thisessay are converted
+into surface representations of sentences.The various mechanisms
+involve selection of overtcase forms (by suppletion, affixation,
+addition of prepositionsor postpositions), 'registration' of particular elements in the verb, subjectivalization,objectivalization,
+sequential ordering, and nominalizations.
+A surface case systemmay be related to the set of underlying
+cases in a variety of ways.Two deep cases may be represented in
+the same way in the surface structure,as when D and 0 direct
+objects are both represented with the 'accusative'case in many
+languages (where the determining factormay be occurrence immediately
+after the verb at some stage of derivation).A and D may be represented by the same overt form, where thedetermining factor may
+be the case-linked animateness.Or the superficial form ofa case
+element may be determined byan idiosyncratic property of some
+governing word.
+The rules for English prepositionsmay look something like
+this: the A preposition islE; the I prepositionis111if there is
+no A, otherwise it is with; the 0 and F prepositionsare typically
+zero; the B preposition is for; the D preposition is typically to;
+the L and T (for Time) prepositionsare either semantically nonempty (in which case they are introducedas optional choices from
+the lexicon) or they are selected by theparticular associated noun
+(on the street, at thecorner (=intersection of two streets), in the
+corner (of a room); on Monday, at noon, in the afternoon).Specific
+
+
+-6o
+verbs may have associated with them certain preposition-choice
+requirements, introduced as exceptions to the abovegeneralization.73
+73Theverb blame, for example, chooses('governs') for for 0 and on
+for D.The 0 preposition is at for look meaning 'examine', forfor
+look meaning 'seek', to for listen, etc.Changes in the original
+prerowtion assignment may be brought about by transformations:the
+rule:, which provide surface subjects and direct objectsdelete
+prepositions (replace them by zero), and therules which form
+deverbal (=desentential) nominals convert some of the original case
+forms into 'genitive', either by replacing the assignedpreposition
+with of, or, in some cases, removing the original prepositionand
+affixing the 'geaitive' suffix.
+The position of prepositions can be guaranteed either by
+having the case categories re-written asPrep + NP, or by having
+12E22 be one of the obligatory constituents of NP.I shall make the
+former choice, though the grounds for making the decision one way
+or the other are not particularly clear.The 'universal' charge:ter
+of the base rules is kept intact by the assumptionthat prepositions,
+postpositions9 and case affixes--semantically relevant ornot--are
+all in fact realizations of the same underlyingelement, say K
+(for Kasus).We may regard all of the case categories as therefore
+rewritten as K + NP.
+Every English sentence has a surface subject, if only formally
+so.For most combinations of cases there is a 'preferred' or
+'unmarked' subject choice; for some there is no actualchoice--the
+subject is uniquely determined.In general the 'unmarked' subject
+choice seems to follow the following rule:
+(54)If there is an A, it becomes the subject;otherwise,
+if there is an I, it becomes the subject;otherwise, the subject isthe 0.
+
+
+Suppose, for example, that the base representation of a
+particular sentence is item (55):
+(55)
+,000101."
+/o
+V
+oNKNP
+dN
+1I
+pastopen 0thedoor
+Since the sentence contains only one case category, it is obligatorily moved to the front (and hence directly subjoined to the
+category S) where it will later undergo subject-preposition deletion.
+There is a stage, in other words, where the form of the sentence in
+question is that represented in (56).
+(56)
+KNP
+1
+0thedoorpastopen
+The subject-preposition deletion rule removes the preposition and
+deletes the case label.After application of the subject-preposition deletion rule, the form of the sentence is that represented
+in (57).
+
+
+-62-
+(57)s
+.....-----i----___
+.,...---:
+m
+N
+1i
+thedoorpastopen
+The final surface form, shown in (58), results from incorporation
+of the tense into the verb.
+(58)
+NPP
+Nd V
+I 1 1
+thedooropened
+For a base configuration containing an A a distinction must be
+made between the 'normal' and the 'non-normal'74choice of subjects.
+The choice of terms is not to be taken seriously.
+The choice of the A as the subject, in accordance with the rule
+proposed in (54) above, requires no modification of the verb.The
+changes from (59) to (60) represent subject-fronting, those from
+(60) to (61) show subject-preposition deletion, and those from
+(61) to (62) indicate the effect of a third rule, object-preposition
+deletion.75The eventual surface structure of the sentence whose deep
+75Verbs are categorized according to whether theydblete the preposition of the following case category, i.e., whether they 'take on'
+a direct object.The object-preposition deleting property of a
+verb may be modified by a transformation.
+
+
+structure is (59) is(63).
+(59)
+past
+(6o)
+-63-
+0
+9\
+give 0thebooks
+NPNP
+tomy brother byJohn
+NP
+by
+(61)
+Johnpast
+NPKNP
+I I
+tomybrothergive re;thebooks
+NP
+Johnpast
+V
+1
+NP
+titP
+give0thebookstomybrother
+
+
+(62)
+NP
+John
+(63)
+NP
+S
+M
+- 64 -
+pastgivethebooks
+V
+1
+Johngave
+NPD
+d
+mybrother
+1
+KNP
+thebookstomybrother
+If it is noted that the verb ial is one which, withA as subject,
+allows either 0 or D to become the directobject, an alternative
+surface form for (59) is(64) (assuming that case-label deletion
+occurs when zero K elements are'deleted').
+(64)
+NP
+NP
+dN
+Johngavemybrother
+dN
+I I
+thebooks
+The Inormal9 choice of subject for sentencescontaining an A,
+as stated in generalization(54) (which is a generalization for
+
+
+-65-
+English) is the A.The verb 'ye also allowseither 0 or D to
+appear as subject as long asthis 'non - normal' choice is 'registered'
+in the V.This"registeringl of a 'non-normal' subject takes place
+via the association of the feature[ +Phssit.e] with the V.This
+feature has three effects; the V loses its object-preposition
+deletion property, it loses its ability to absorb thetense (requiring the automatic insertion of a be in the Mconstituent), and it
+must now be filled by a special 'passive' form(i.e., given).The
+sequence (65) to(68) develops the choice of 0 as subject; the sequence
+(69) to (73) shows the result of choosing D as subject.
+(65)
+K
+0
+(66)
+7,7/`_
+Ei-Pasj
+K1 iNP
+KNP
+d
+thebookspast givetomybrotherbyJohn
+dN
+thebooks
+[44
+V A
+KNP
+d
+1
+pastgivetomy
+y
+brotherbyJohn
+
+
+(67)
+-66-
+thebooks
+(68)
+(69)
+[PassV
+NPKNP
+d
+///'N
+givemybrother byJohn
+thebooks were
+KNP
+I
+tomybrother
+(70)
+dN
+my
+S
+1
+M
+past
+given
+[PassV
+.....
+give
+brotherpastgive
+_,...),1'1glp
+I I
+I
+d
+7my brother byJohn
+.............0A
+K I[NP
+I1
+N
+I I
+0thebooksbyJohn
+P
+NPKNP
+0thebooksbyJohn
+
+
+(71)
+-67-
+NP
+dN
+brother
+(72)
+my
+(73)
+brother
+M
+:fq
+I
+KNPNP
+dN
+1
+past be give0thebooksbyJohn
+S
+A
++Pass
+dNKNP
+past be givethebooksbyJohn
+S
+[Pass'
+Mane.
+NP
+1
+K
+T
+mybrotherwasgiventhebooksbyJohn
+We have seen that where thereis only one case category,its
+NP must serve as the surfacesubject.Elramples (59) to (73) have
+shown ways of dealingwith sentences containing morethan one case
+category where one designated casecould provide the subjectwithout effecting any changein the V, or others coulddo so as long
+as a 'record'of this decision wasattached to the V.
+For many of the verbswhich 'take more than one casecategory,
+the one which contributesthe subject is indicatedby the verb
+
+
+-68-
+itself.Of the verbs which are acceptedinto the frame C0 + D
+please, belong, interesting,etc., choose 0 assubject, like, want,
+think, etc., choose D.76
+714,smentioned above, by regardingthe differences here asrepresenting no more thanidiosyncratic facts about thesyntactic properties
+of these verbs, we canaccept historical changes likethose with like,
+want and think, from verbsof the type which chme0 to verbs of the
+type which choose D, to bemerely a matter of detailin the subjectselection processes in our language.In other words, we do notneed
+to agree with Jespersenwhen he describes thechange in English from
+the use of ekpressions ofthe type him like oystersto those of the
+type he likes oysters asreflecting a change in the'meaning' of the
+verb like from something like"to be agreeable to" tosomething like
+"to take pleasure in"(Jespersen 1924) 160).The change seems merely
+to be a result of theinter-influencing of the two surfaceprocesses
+of choosing the first wordand establishing verbalconcord.
+Sometimes subjects are created notby moving one of the case
+elements into the 'subject'position, but by copying aparticular
+element into that position.This seems to be a consequenceof the
+positional treatment of subjectsin English and seems to berelated
+to the use of purely formalsubjects.77
+77From the fact that there mayonly be one case in asimple sentence,
+it becomes possible toallow all subjects to beformed by a copying
+transformation.Sentences with two copies of the sameNP in the same
+case undergo oneof a number of changes:the second copy iseither
+deleted or replaced by apro-form, or the first copyis replaced by
+a pro-form.
+Copying for pro-replacement canbe illustrated withthat-clauses.
+The 'verb' true occurs in theframe [S], i.e., in the configuration
+(74).
+
+
+-69-
+Since there is only one case element, it is obligatorily the subject.The context requires that the complementizer that be provided
+for the embedded sentence.By subject copying, (76) is derived from
+(75).
+pres
+V0
+truethat John likes Mary
+Marythat John likes Mary pres truethat John likes Mary
+The structure of (76) undergoes either second-copy deletion, yielding (77), or first -copy pro-replacement, giving us(78).
+S
+S
+that John likes Marypres
+V
+I
+true
+
+
+-70-
+(78)
+0 M
+it
+1\
+0
+t
+pres betruethat John likes Mary
+Verbs expressing meteorological conditions have the frame
+feature +[L 1.Choosing hot in that frame, we can construct
+the sentence wh -se deep structure is represented by (79).From (79)
+we get, by subject copying, item(80).By second copy deletion (and
+subject preposition deletion) item (80) becomes (81); on the other
+hand, if the first copy is replaced by its pro-form (in this context,
+it), the resulting sentence is (82).78
+781tis likely that the correct analysis of subject copying is a little
+different from this.There is considerable evidence that when the
+first copy is replaced by its pro-form, the second copy is actually
+outside of P, that is, that it is 'extraposed' in the sense ofRosenbaum.
+If this Is true, then since the sentences having undergone extraposition
+must be created in two steps anyway, it is likely that the sentential
+subjects are formed in the usual way--not by copying--and thatthey
+are later extraposed, leaving behind,in the subject position, a
+'trace' in the form of expletive it.
+The examples and the analysis of meteorological vabs are adapted
+from D. Terence Langendoen, "Some problews concerning theEnglish
+expletive 'it'," THE OHIO STATE UNIVERSITY RESEARCH FOUNDATION,PROJECT
+ON LINGUISTIC ANALYSIS, REPORT NO. 13 (1966), 104-134.
+(79)
+MP
+V
+preshot
+KNP
+inthestudio
+
+
+(8o)
+- 71 -
+(81)
+NPM
+thestudiois
+V
+111
+inthestudiopreshot
+(82)
+V
+hot
+it
+KNP
+ishotinthestudio
+Under certain conditions, a first-copy L may bereplaced by
+an expletive there.The case frame [0 + L ] may be filled
+by a blank verb (i.e.,zero).This situation (of verblesssentences)
+may call for theintroductionof the element be into the M constituent, which is a process we have already seento be necessary for
+verbs which are adjectives as well as forverbs which have been
+modified through addition of the feature[I-Passive].For verbless
+
+
+sentences of the typer_
+- 7 2 -
+0 + L ], the 'normal' subjectchoice
+is 0.Thus, from (83) we get(84), and eventually (85).
+(83)
+pres
+(84)
+K
+KNPKNP
+I
+0manytoysinthebox
+0 manytoys
+V L
+,-----s,
+KNP
+dN
+I I
+pres0inthebox
+(85)S
+,./...1.--NTP4**,.
+M L
+1 1I
+I
+dN
+I
+dN K--------------.6ITP
+manytoysareinthebox
+An alternative subject choice,through subject-copying, is the
+L.Thus, from (83) we might get(86).
+
+
+(86)
+L
+gP
+dN
+inthe
+13
+boxpres
+1I
+00 manytoysinthebox
+The pro-form for L inverbless sentences isexpletive(unstressed)
+there.The result of modifying(86) by pro-replacement ofthe
+subject L is(87); extraposition of thesecond-copy L, assuggested
+in fn. 78, has beencarried out in(87).
+(87)
+therearemany
+ct
+boxtoysinthe
+Alternatively to replacingthe first-copy L byexpletive there is
+to retain the LNP as subject.This decision requiresthe regular
+pronominalization of therepeated NP.It further requiresmodification of the verb:the hitherto emptyV position is filledwith the
+function verbhave.79Since have is a V, itis capable ofabsorbing
+79For a recent argument onthe transformationalintroduction of be
+and have in allof their occurrences, seeEmmon Bach, "Have andbe,"
+LANdrrfft, forthcoming.For a more adequatetreatment of existential
+sentences than I havepresented, see especiallyP. Gregory Lee,"Some
+properties of besentences," 1967 forthcoming.
+
+
+- 74 -
+the tense, making the addition of be to M no longer necessary.The
+result of choosing the first L as subject results, throughsubjectpreposition deletion, have-insertion, object-preposition deletion,
+repeated NP pronominalization, and tense affixation, in(88).
+(88)
+NP
+dN
+thebox
+VNPL
+d.NKNP
+hasmanytoysinit
+The general position I am taking on the verb have is that in
+verbless sentences (i.e., when the V constituent is present but
+lexically empty), have is obligatorily inserted just in case the
+subject is a NP which is not from the case O.The most obvious case
+is that of the empty verb in the frame[0 + D ],a context
+which in English requires D to be the subject, resulting inthe
+typical have sentences.Other languages, e.g., French, seem to have
+contexts in which the subject choice is optional--situationswhere
+X a Y is in a paraphrase relation with Y est a X.Other languages,
+e.g. Estonian, do nc1t have anythingequivalent to the verb have.80
+0Another situation for introducing have, accounting for connections
+between such pairs of sentences as(177;nd (ii), are discussed below
+in the section on inalienable possession.
+(i)my knee is sore
+(ii)I have a sore knee
+Some languages have subjectivalization processes; and, as Ihave
+suggested for English, there seems to be ananalogous objectivalization
+
+
+75
+IND
+process which has the superficial effect of bringing aparticular nominal element into closer association with the verb.
+The formal rather than purely notional character of the direct
+object was noticed by Jespersen.His examples show intra-language
+paraphrase relations like that between (89) and (90), and crosslanguage differences like that between (91) and (92).
+(89)present something to a person
+(90)present a person with something
+(91)furnish someone with something
+(92)fournir quelque cho se a quelqulun81
+81Jespersen (1924) 162.
+When such phenomena were examined by Hall, she took one form as
+basic, the other as derived.'Derived subjects', in her analysis,
+are possible just in case there is no 'deep subject';'derived
+objects', on the other hand, have the effect of displacing the original deep structureobject and attaching a with to it.Her
+examples include (93)-(94) and (95)-(96).
+(93)John smeared paint on the wall
+(94)John smeared the wall with paint
+(95)John planted peas and corn in his garden
+(96)John planted his garden with peas and corn
+Hall provides rules which move the locative element (the wall or his
+garden of (93) and (95) respectively) into the direct object posi-
+Va
+tion by a transformation which also attaches with to the former
+direct object.
+
+
+-A7-
+From the point of view taken here, it would be just as easy to
+say that both onthe wall and with paint were initially provided
+with prepositions (as L and I case elements), the verb smear
+having the property that whichever of these elements is chosen as
+'direct object' is drawn next to it and loses its preposition.
+(In other languages, the process might be expressed as converting
+an original case specification to laccusative'.)82
+2There are semantic difficulties in treating subject and object
+transformitionally, in the sense that different choices are often
+accompanied by semantic differences of one sort or another.These
+differences are more on tne order of 'focusing' - -to be as vague as
+possible--than anything else, and do not seem to require positing
+'subjects' and 'objects' in the deep structure.The 'focusing'
+difference may be extremely slight, as in the pairs (i)-(ii) and
+(iii)-(iv), or it may have somewhat more 'cognitive content' as in
+the pairs (v)-(vi) and (vii)-(viii).
+(i)Mary has the children with her
+(ii)the children are with Mary
+(iii)he blamed the accident on John
+(iv)he blamed John for the accident
+(v)bees are swarming in the garden
+(vi)tht garden is swarming with bees
+(vii)he sprayed paint on the wall
+(viii)he sprayed the wall with paint
+Sentence (vi) seems to suggest, while (v) does not, that the whole
+garden has bees in it everywhere; and (viii) suggests, while(vii) does
+not, that the entire wall got covered with paint.
+To the extent that other grammars make use of derived subjects
+and derived objects--which is the only alternative, within subject/
+object grammars, to treating verbs like luma, blameopen, break,
+etc. as involving elaborate and unexplained examples of homonymy- -
+the semantic difficulties are just as great for them as they are
+for case grammar.Since the 'semantic effect' of the transformations in question is so different in kind from the semantic role of
+the case relations themselves, and since the latter are not affected
+by these processes, I am inclined to tolerate the re-introduction into
+grammatical theory of transformations which have semantic import(of
+this highly restricted kind).
+Subjectivalization, where it occurs, results in a neutralization
+of underlying case distinctions to a single form, usually called the
+
+
+-77-
+'nominative'.Objectivalization, where it occurs, neutralizes case
+distinctions to a single form which, where it is distinct from the
+form assigned to subjects, is traditionally termed 'a:cusativel.
+A third process which has the effect of effacing deep-structure
+case distinctions is the formation of nominals from sentences.The
+case modifications under nominalization transformations usually involve
+what is called the 'genitive'.
+The brief mention above of situations in which there was an S
+embedded to the case category 0 suggested the ways in which case
+grammar must deal with verb and adjective complementation.A
+second source of embedded sentences is within the NP itself.The
+rule for NP may be stated as (97).
+(97)NP--- N (S)
+Where the N is an ordinary lexical item and the adjunct S contains
+a co-referential copy of the same N, the result is a NP consisting of
+a noun modified by a relative clause.One of the most obvious sources
+of 'genitive' is from relative clauses built on sentences which, by
+themselves, would have assumed the form X has Y.The N in the modified NP is the same as the N contained in the D of the adjunct sentence, and the V is empty.Thus, from (98) we get (99) by deleting
+the repeated noun, the tense, and the 'empty' verb, and reattaching
+the D to the dominating NP.
+
+
+-78 -
+(98)NP
+N P
+K
+7
+bookspres00bookstoJohn
+(99)NP
+toJohnbooks
+A D subjoined to a NP has its case marker modified--inthis case to
+the sibilant suffix.Note (100).
+(100)NP
+D N
+NP
+I
+John'sbooks
+The 'true possessive' construction--resulting either in a
+NP of the form X's Y or Y of X in English--has as its source a
+sentence whichby itself would have the form X hasY.The fact
+that in some languages there are instancesof adnominal D not modified
+to the 'genitive' (dery Vater seinHaus, 'Dative of Possession')
+supports the view that conversion togenitive is a matter of the
+surface structure.
+
+
+-79-
+The treatment of de7erbal nouns which seems mostsatisfactory
+to me is that, except for the purelyproductive cases, the derivation of a noun from a verb is a matterof historical not synchronic
+fact.The synchronic reality is expressed byindicating that a
+given noun has a particular kind ofrelationship to a specific verb
+(or set of verbs), and that some of these nouns may,others must,
+appear in the NP frame[2 ].
+That is, instead of having a synchronic processfor producing
+such words as Latin amor from its associatedverb, wnat is needed
+is the classification of such a word as anabstract noun having a
+particular kind of relationship with theverb amo.83Nouns having
+3Thistreatment allows for the inclusion of nounswhich lack
+etymological connections with their related verbs.We might wish
+to indicate for book a connection of theintended kind with the verb
+write, thus accounting for the ambiguity of yourbook between the
+book which you own (ordinary relative clause modification)and the
+book which You wrote.
+this kind of special relationship to specificverbs can take part in
+a process whichintroduces into the NP elements which'originally'
+depended on the associated verb.The processes in question frequently have the effect of converting the formof the subsidiary NPs
+to the genitive.84Thus the noun amor when qualified by a sentence
+TrExactly what universal constraints there are, if any, onthe
+element to be converted to genitive is not atall clear.It appears
+that if there is only one element that shows upin the NP, it
+frequently takes the genitive form.Compare the ambiguous sentence
+(i) with sentences (ii) and (iii).
+(i)my instructions wereimpossible to carry out
+(a) so I quit
+(b) so he quit
+(ii)my instructions to you areto go there
+
+
+(iii)*my your instructions are to go there
+In English it appears that if the conditions which allow the form
+of the of-genitive and the s-genitive are satisfied by two different
+NPs in the associated sentence, multiple genitive constructions
+become possible, as in the following example borrowed from Jespersen.
+(iv) Gainsborough's portrait of the duchess of Devonshire
+Japanese allows conversion to genitive in true relative clauses,
+as well as in the reduced relative clauses.A paraphrase of (v) is
+(vi); no is the postposition most closely associated with functions
+which we would call 'genitive'.
+(v)boku ga yonda zasshi 1I+subject+read-past+magazine1
+"the magaiines I read"
+(vi)boku no yonda zasshi
+of the form deus amat...yields amor dei; when qualified by a
+sentence of the form deum amat ...the result is again amor dei.
+The D and 0 forms, in other words, are equally reduced to the genitive, resulting when only one noun is involved, in potential
+ambiguities.85
+Jespersen's suggestion that the ambiguity of amor dei is in the
+verb rather than the noun--the noun unambiguously identifying the subject, the verb being ambiguously either active or passive--must be
+understood as the hypothesis that only those NP constituents which are
+capable of conversion to surface subjects (with a given verb) may
+appear under genitive modification as modifiers of the deverbal
+noun.For English this may well be true.(Jespersen (1924) 170).
+
+
+4.0.,Some remarks on language typology
+The view of universal grammarwhich is emerging is something
+like this: In their deep structure,the propositional nucleus of
+sentences in all languagesconsists of a V and one or moreNPs,
+each having a separate caserelationship to the P(and hence to
+the V).The most straightforward deepstructure commonalities
+between languages are to be soughtat this 'deepest' level.
+The lexical insertion rule for verbs issensitive to the
+particular array of cases in theP.Since no distinction is needed
+between 'strict subcategorizationfeatures' and at least thehighest
+level of 'selectional features'(because redundancy relations exist
+between cases and some lexicalfeatures, and because thereis no
+'subject' outside of a 'VP' whosefeatures need to be dealt' with
+separately), the lexical insertion rule forverbs can be a strictly
+local transformation whichresponds to nothing more thanthe cases
+which are co-constituents ofV (with the exception, as notedabove,
+that it must be known whetherthe 0 element is a NP or aS).
+The criteria for typologicalclassification that have suggested
+themselves so far in this study arethese:
+I.the presence or absence ofmodifications on the NPs as
+determined by the deep casecategories
+A.the nature of such modification(prepositional,
+affixal, etc.)
+B.the conditions for the choiceof particular case forms
+(which, when stated in their simplestform, constitute
+
+
+what is usually formulated as the 'case system'of
+the language)
+the presence or absence of concordial modifications
+of the verb
+A.the nature of the concord (number agreement,incorporation of 'traces' of case categories, feature
+changes on V, etc.)
+B.the relation to sublect selection(topicalization)
+III.the nature of anaphoric processes
+A.type of process (replacement by pro-form,deletion,
+g
+destressing, replacement by unstressed variants,etc.)
+B.conditions of application
+IV.topicalization processes (where 'subject selection' may
+be thought of as a special case oftopicalization)
+A.formal processes (fronting, modifying the caseform,
+etc.)
+B.the variety of topicalization processes inthe same
+language
+V.word order possibilities
+A.fa0:4-;ors determining 'neutral' word order(nature of
+case categories, 'ranking'of noun classes, topic
+selection, etc.)
+B.conditions determining or constraining stylistic
+variations on word order.
+It is important to realize that all of thesetypological criteria
+are based on superficial processes,and that there are no particularly
+Lb,good reasons for believing a priorithat there will be much coincidence
+
+
+-83 -
+in the ways in which the different criteria sort out theworld's
+languages.
+4.1The bases for determining case forms
+The forms of the NPs in a P are determined on the basis of a
+variety of factors, one of which is the case category of theNP.
+Thus a NP under I (i.e., an instrumental noun) is assigned a particular form depending in whole or in part on the fact that it is
+under I.
+Surface case forms of NPs are most elaborately developed in
+the personal pronouns.The study of the 'case' aspects of pronoun
+systems reveals a great deal about the variety of relationships
+that can hold between deep and surface cases.
+Sapir's typological distinctions for Amerindian pronominal
+systems86can be expressed in case - grammarterms quite simply.
+86Edward Sapir, review of C. C. Uhlenbeck's "Het passieve karakter
+van het verbum transitivum of vanhet verbum actionist in talen van
+Noord-Amerika," in INTERNATIONAL JOURNAL OF AMERICAN LINGUISTICS, I
+(1917) 82-86.
+INV
+If we ignore whatever complications may exist in 'passive' constructions, and if we ignore all deep structure cases exceptA and 0, we
+can imagine sentences of thefollowing three types given in their
+underlying propositional form):
+(a)V + Aintransitive sentences with active 'subjects'
+(b)+ 0 + Atransitive sentences with agents
+(c)V + 0intransitive sentences with inactive
+'subjects'
+
+
+- 84 -
+Since the V element is constant to the formulas, we can represent
+these three sentence types by presenting the case frames inthree
+lines, as follows:
+(101)A
+0 A
+0
+According to Sapir, then, there are languages which, like
+Yana, have only one form for pronouns in all four of these
+positions.
+(102).
+There are languages like Paiute that have a separate form for
+the 0 element in the transitive sentence, all others being the
+same.The two forms are traditionally called 'nominative' and
+'accusative'.
+(103)
+accusative0A4.- nominative
+There are languages like Chinook which give one form to theA
+of transitive sentences, another to the remaining cases.The
+terms 'ergative' and 'nominative' are often given to a distinction
+made in this way.
+(104)
+nominativemo ergative
+
+
+-85-
+There are languages like Dakota which have separate forms for
+A and 0; here the terms are usually 'active' and 'inactive'.
+(105 )
+active
+And, lastly, there is the situation found in Takelma, whichhas
+one form for the pronominalNP of intransitive sentences, and two
+separate forms for the A and 0 of transitivesentences.Thus:
+(106)
+What these observations are intended to suggest is merely
+that if I correctly understand Sapir's analysis ofthe pronominal
+systems of these languages, then the case conceptsI have been
+discussing, together with the notion of clause typeswhich various
+arrays of them define, providethe categorial and configurational
+information for determining the surface distinctions that arefound
+in these languages.
+4.2Verbal concord
+There are these various ways, and possibly more, in which
+cases and case environments areinvolved in determining the case
+
+
+-86-
+forms of NPs within a P.An additional factor is whether the
+given NP has been chosen as subject in languages having subjectivalization processes.Choosing subjects or topics is related to
+another aspect of the superficial structure of sentences, and that
+is verbal concord.
+The choice of subject in English always has the effect of
+determining number concord (on those verbal and auxiliary elements
+capable of reflecting number concord).Apart from number concord,
+the choice of subject might involve modification of the verb to its
+passive form, or introduction of the verb have.
+The information 'registered' in the V may have only to do with
+the choice of subject, as in English, or it may be more elaborate.
+Languages which 'incorporate' pronominal affixes into the V may do
+so for more than one NP at a time; or noun stems themselves from
+particular cases may be incorporated into the verbal expression.87
+7Grammaticaldevices for providing concord of this type have been
+worked out for subject and object incorporated pronominal prefixes
+in Mohawk by Paul M. Postal.See his "Mohawk prefix generation,"
+PROCEEDINGS OF THE NINTH INTERNATIONAL CONGRESS OF LINGUISTS,
+Mouton (1963), 346-355.
+The subject selection rules discussed for English may be
+compared with the topicalization processes that are described for
+%IN
+Philippine languages.The situation for Maranao has recently been
+described by licKaughan.One NP is chosen as topic for every sentence,
+and this choice is recorded in the following way: its original case
+preposition is replaced by so, and an affix is inserted into the V
+which indicates the case category of the chosen NP.There is
+
+
+apparently considerable freedom in the choice of topic.To take the
+verb meaning 'to butcher' (/sombali9/), we find that when the topic
+noun is an original I, the verb takes on the prefix /i-/, as shown in
+(108); and when the topic is an original B, the suffix /-an/ is
+added to the V, as seen in (109).
+(107)somombali9 so mama, sa karabao
+'the man butchers the carabao'
+(108)isombali9 o mama9 so gelat ko karabao
+'it is with the knife that the man butchers the carabao'
+(109)sombal9an o mama9 so majoir sa karabao
+'it is for the mayor that the man butchers the
+carabao188
+Howard McKaughari, "Overt relation markers in Maranao, " LANGUAGE,
+XXXVIII (1962) 47-51.The examples and the description of the
+relationships are from McKaughan, but a great deal of guessing lies
+behlnd my interpretation.
+The choice of sentence subjects, or 'topics', from particular
+casas appears to be the most satisfactory way of accounting for the
+many types of voice modifications of verbs such as those described
+as middle, pseudo-reflexive, etc., in the Indo-European languages.
+4.3Anaphoric processes
+Anaphoric processes are best understood from the point of view
+of an extended concept of sentence conjunction.That is, every
+language has ways of simplifying sentences connected by conjunction
+or subjunction)and the processes used under these conditions seem
+to be exactly the same as those used in sentences connected in
+
+
+discourse.The grammarian's job, therefore, is to describe these
+processes as they work in fully independently intelligible
+sentences, and then to assume that the utterances that occur in
+connected texts or conversations can best be understood from the
+point of view of a shared knowledge of the language's anaphoric
+processes on the part of speaker and hearer.89The fact that in
+In other words, the grammarian will describe the process by which
+(i) in converted to (ii) by noting the conditions under which repeated
+elements in conjoined sentences may undergo deletion and pro-replacement and under which conjoined sentences can have words like too and
+either added to them.
+(i)Mary didn't want any candy and Mary didn't take any
+candy
+(ii)Mary didn't want any candy and she didn't take any,
+either
+In contexts in which the information contained in the first conjunct
+of (i) is already understood by the addressee (by having just been
+spoken by him, for example), a speaker of English feels free to use
+the reduced form (iii).
+(iii)she didn't take any, either
+There is no reason, it seems to me, to expect the grammar of a language to generate sentences like(iii) directly.
+these anaphoric or reduced forms English uses pro-replacement under
+conditions that would call for deletion in some other language may
+thus be seen as a superficial difference between the two languages.
+The point is important--and it was mentioned above in connection with 'bad' reasons for rejecting the universality of the
+subject/predicate division--because the absence of subjects in the
+final surface forms of sentences in some languages is seen by many
+scholars as having great typological relevance.The optional absence
+of NP constituents in languages with person-marker incorporation
+(e.g. Chinook) has led scholars to claim that such languages lack
+the nexus relations that Europeans understand as 'subject' and 'object'
+
+
+but have insteadwhat are described as 'appositional'relations
+between NPs and Vs.90In languages without pronominal incorporation,
+90See, e.g., the statement in Alf Sommerfelt, "Sur la notion dusujet
+en georgian," MELANGESDE LINGUISTIQUE ET DE PHILOLOGIE OFFERTS A
+JACQUES VAN GINNEKEN, Paris (1937) 183-185.
+a distinction is made by somescholars between true subject/predicate
+languages and those in which the so-called 'subject'is as much a
+'complement' to the V as is the direct object or any ofthe various
+adverbial elements.To Martinet, a subject is different from a
+complement only if it is "constitutive of the minimalutterance"- -
+that is, only if it is obligatorily present in bothfull and anaphorically reduced utterances.91In Japanese, the 'minimal utterance'
+=1,11,..11M
+9'AndreMartinet, A FUNCTIONAL VIEW OF LANGUAGE, Oxford-Clarendon
+(1962), 61-62.
+lacksa subject, and hence, theargument goes, Japanese sentences lack
+the subject/predicate structure of sentences in our morefamiliar
+languages.To Martinet's disciple Saint-Jacques, this typological
+'fact' about Japanese is regarded as excessively important.It is
+only by dint of considerable intellectual effort thatthe Westerner
+can achieve that liberation fromfamiliar ways of thinking about
+language which ic required for an understanding ofthe true character
+of Japanese.Or so Saint-Jacques tells us.92It seems to me that
+92Bernard Saint-Jacques, ANALYSE STRUCTURALE DE LASYNTAXE DU
+JAPONAIS MODERNE, Paris-Klincksieck (1966) Pp 121; 36.
+
+
+language typology offers enough genuine excitements to make it
+possible for us to give this one up.The intellectual achievement
+of which M. Saint-Jacques speaks is that of knowing that when there
+is an 'understood' NP to deal with, some people replace it by a
+pronoun, others get rid of it.
+4.4Topicalization
+The fourth criterion has to do with topicalization processes,
+devices for isolating one constituent of a. sentence as 'topic', of
+bringing one particular constituent of a sentence into some kind of
+'focus'.Where topicalization is distinct from processes for
+'emphasizing' a constituent, we have much the same thing as what
+have been calling 'subjectivalizationl, but which I shall now begin
+calling 'primary topicalization'.Primary topicalization for English
+involves position and number concord; stylistic changes involving
+stress assignment, late word order changes, and possibly the 'cleftsentence construction', fall into what might be called 'secondary
+topicalization?.From what I understand of McKaughan's account,
+primary topicalization in Maranao involves replacement of the original
+preposition associated with a noun by so and introduction into the V
+of an associated case indicator, while secondary topicalization
+involves moving an NP to which so has been added to the front of the
+sentence.93One might refer to Oertel's study of the disjunct use
+a
+93McKaughan (1962) 47f.
+of cases in Brahmanic prose as a study of secondary topicalization.94
+
+
+- 91 -
+Hanns Oertel, THE SYNTAX OF CASES IN THENARRATIVE AND DESCRIPTIVE
+PROSE OF THE BRAHMANAS9 Heidelberg(1936) Pp. 364.Oertel distinguishes
+'pendent' uses of edisjunet case, wherethe 'topic' is in the 'nominative' even if its original role in thesentence was not that of
+subject (comparable, I assume, to he inhe, I like him), and "proleptic' uses, where the topic retains theoriginal case form, is moved
+to the front of the sentence, and may or maynot be resumed (in the
+form of a demonstrative) in the remainderof the sentence (comparable
+to him in him, I like(him)).
+I would imagine that all languages possess some meansof carrying out
+'secondary topicalization', but it may bethe case that some lack
+the process of 'primary topicalization'Osubjecti.valization0.95
+95Jeffrey Gruber's recent study of topicalization in child language
+suggests that ontogenetically, motivated(what I am calling 'secondary') topicalization precedes the use of formal subjects inEnglish.
+It may be that when one device for topicalization becomes'habitual',
+it freezes into a formal requirement andthe language must then call
+on other processes formotivated topicalization. (See Jeffrey Gruber,
+"Topicalization in child language," FOUNDATIONS OFLANGUAGE, III
+(1967).)Kenneth Hale reports that for Walbiri, an
+'ergative' language of aboriginal Australia,there is apparently no
+'subjectivalization' process, but any constituent maybe repeated
+to the right of the proposition, the elementinside the proposition
+being replaced by a pro-form.(Correspondence, 1967).
+The notion 'subjectivalization' is useful only ifthere are
+sentences in a language which offer achoice of subject.Languages
+described as not having passives, or languagesdescribed as only
+capable of expressing transitive sentencespassively, apparently
+lack the grammatical process of primarytopicalization.
+This question leads naturally to the problem ofthe so-called
+'ergative' languages.Recall that in the accusative type of pronominal
+system, the pattern was
+
+
+-92-
+init
+and thatAthe ergativetypepas
+Now when languages of the accusativetype have passive versions
+of sentences whose propositionalform is [V 0 A], the case forms
+associated with the elements inthe passive version are generally
+'nominative' for the 0 and 'agentive'(realized as ablative, instrumental, or what have you, depending onthe language) for the A.If
+passive sentences were introducedinto our three-line diagrams and
+their active counterparts removed, wewould get the pattern
+nominativeagentive
+which is exactly like that forthe regular assignment of casesin
+the ergative languages.This fact, plus the use of the term
+' nominative' forsubject-of-intransitive-cum-object-of-transitive
+in these languages, has led manyscholars to identify the ergative
+case in ergativelanguages with the agentive caseform found in
+passive sentences in accusativelanguages, and to conclude thatthe
+ergative languages are really 'passive'languages, languages in which
+transitive sentences can only beexpressed passively.96For both of
+
+
+-93-
+96Note that even if there is a different form for the verb in
+0 ] and [0A ] case frames, this cannot be interpreted
+as evidence of 'passivity'.As mentioned earlier, in languages not
+of the ergative type there may still be systematic variation of the
+same verb root depending on whether it is used transitively or
+intransitively.
+these systems, the case that has been given the name 'nominative' is
+frequently described as the 'subject' in a subject/predicate construction, and the 'ergative' element in the one instance and the
+'accusative' element in the other are treated as verbal complements.97
+97See,e.g., the statement in Nikolai S. Trubetzkoy, "Le rapport entre
+le determine, le determinant et le defini,"MELANGES DE LINGUISTIQUE,
+OFFERTS A CHARLES BALLY, Geneva (1939) 75-82.
+The difficulty of determining the !subject' in ergative languages has
+been described by Martinet.Some scholars identify as subject the
+word which would be the subject in a translation of the sentence
+into French--i.e., the nominative in intransitive sentences and the
+ergative in transitive sentences.Others regard the nominative as the
+subject in all sentences, thus giving transitive sentences a 'passive'
+interpretation.Lafon gives up on transitive sentences--he uses the
+term 'subject' only for intransitive sentences, saying of transitive
+sentences that they have no subject.98
+9Andre Martinet,Le sujet comme fonction linguistique et l'analyse
+syntaxique du Basque," BULLETIN DE LA SOCIETE DE LINGUISTIQUE DE
+PARIS (1962) 73-82; 78f.
+.,111
+Valliant, on the other hand, spoke of the northern Caucasian
+languages as having three types of verbs (i)true intransitives,
+
+
+- 94 -
+with subjects in the 'nominative'; (ii) 'operative pseudo -
+transitives', with 'pseudo-subject' in the 'ergative'; and (iii)
+'affective pseudo- transitives', with 'pseudo-subjects' in the
+'dative'.99It seems quite clear that what he is dealing withare
+9Vaillant (1936) 93.
+sentences having Ps of the three types CV 0], [V 0 A] and [V 0 D],
+where the surface cases for 0, A and D are 'nominative', 'ergative'
+and 'dative' respectively.It looks very much as-if that is all there
+is to say.For my part I would much rathar say of the ergative languages that they lack subjectivalizatio5 that all transitive sentences
+undergo obligatory passivization, or that some of t!leir sentences
+contain true subjects while others do not.
+It is very frequently claiued that the ergative languages are
+more primitive than the accusative langiiages,DOOand with the
+10()See,e.g., Tesniere (1959) 112.
+assumption that the ergative construction is really a passive construction, this has led such scholars as KurOowicz, Schuchardt, and
+Uhlenbeck, to assume that the passive construction represents a more
+primitive concept in the evolution of language than that of the
+active transitive construction.Evidence mustered for this position
+includes the signs that pre-Indo-European was of the ergative type,
+and the fact that some languages have 'invented' have-like verbs in
+relative recent times.The invention of have made it possible to
+give active expression to certain tense or aspectual forms which had
+
+
+- 95
+remained unaffected by the general change from passiveto active
+expression (as is seen, for example, in the c. 3rdcentury shift
+from expressions of the type inimicus mihioccisus est and mihi illud
+factum est to transitive expressions using habeo:inimicum occisum
+habeo and habeo illud factum.101
+101Jacques van Ginneken, "Avoir et fitre du point de vuede la
+linguistique generale," MELANGES DELINGUISTIQUE, OFFERTS A CHARLES
+BALLY, Geneva (1939) 83-92; 86.
+It seems very unlikely to me that syntactic changesof the type
+known from the present state of our knowledge arereally eapable of
+showing an intellectual evolution of a type aspotentially significant
+as whatever might beunderstood as the transition from an essentially
+passive to an essentially active point of view.The connection
+claimed by van Ginneken between ergativity and the'feminine' character
+of the cultures that have ergative languagesis one which also deserves
+to be brought into question.102
+102The following seems worth quoting in full: "Nous sommes tous des
+hommes, et tous nous avons deux talents: lesfacultes plus actives
+de l'appetit et de la volontel et lesfacultes plus passives des
+sensations et de l'apprehension; mais it estevident que les deux
+sexes de l'humanite montrent sous cerapport une difference sensible.
+"Wethnologie moderne, qui a ecarte definitivement comme insuffisante la doctrine du developpement uniforme, nousapprend cependant
+que le progres del'humanite a balance presque toujours entre les
+cultures plus feminines ou plus masculines, ditescultures matriarcales
+et patriarcales.Ce sont toujours les cultures matriarcales tries
+prononcees qui, comme le basque, ont un verbe transitif de nature
+passive avec comme casus rectus un patiens et comme casusobliquus un
+agens; mais les cultures patriarcales, commel'indo-europeenne ont un
+verb transitif de nature active, animiste et magique, avec unsujet
+au casus rectus et unobject au casus obliquus.Chaque peuple a
+donc le verbe qu'il merite."(van Ginneken (1939) 91Z)
+
+
+- 96 -
+4.5Word order differences
+The fifth criterion suggested for a language typologyis
+that of word order.The variables that determine or constrain
+the freedom of word order in the languages of theworld are very
+likely to have many important connections with the casestructure
+of sentences; but this is an area which I have notexamined at all.
+
+
+- 97 -
+5.The grammar of inalienable possession
+The preceding sections have amounted to an informal description of a syntactic model for language and a few demonstrations
+of the operations of the model of the sortthat has come to be
+called 'restatement linguistics'.In the present section I
+shall attempt to show how a particular substantivemodification
+of the rules will permit a uniform way of describingthe interesting collection of grammatical facts associated withwhat is
+called 'inalienable possession'.
+Every language, one can be sure, has nouns which express
+concepts that are inherently relational.Examples of inherently
+relational nouns in English are side, daughter and face.One
+doesn't speak of a side, but of a side of something; onedoesn't
+say of someone that she is adaughter, only that she is somebody's
+daughter; and although it is possible of speak ofhaving seen
+a face, the word istypically used when referring to 'his face'
+or 'your face' or the like.The relational nouns most frequently
+discussed in the linguistic literature are names ofbody parts
+and names of kinsmen.My discussion here will concentrate on body
+parts.
+5.1The data
+5.1.1Significant syntactic relationships exist between the
+dative and the genitive cases in all ofthe Indo-European languages; and in all butArmenian, according to Havers, the dative
+
+
+-98-
+and the genitive case forms figure in paraphrase relationships
+of kinds that are highly comparable from language to language.103
+103Wilhelm Havers, UNTERSUCHUNGEN ZUR KASUSSYNTAX DER INDOGERMAN-
+ISCHEN SPRACHEN, Strassbourg (1911) Pp. 335; 317.
+The relationship is observed only when the associatednoun is of
+a particular type.To take some of the modern German examples
+given by Havers, we observe that a paraphrase relation exists
+between (111) and (112) as well as between (113) and (114); but
+that of the two sentences (115) and (116), the latter is ungrammatical (as a paraphrase of (115)).
+(111)die Kugel durchbohrte dem Feind das Herz
+(112)die Kugel durchbohrte das Herz des Feindes
+(113)er hat mir die Hand verwundet
+(114)er hat meine Hand verwundet
+(115)der Vater baute seinem Sohn ein Haus
+(116)*der Vater baute ein Haus seines Sohnes
+It whould be noted that Herz and Hand are the names of body parts,
+while Haus is not.
+5.1.2There are cases like the above where a given language exhibits
+in itself the paraphrase relationship, and there are also cases
+where it appears that one language has chosen the dative expression,
+another the genitive.Notice the following sentences, also from
+Havers.
+(117)my heartaches; mir blutet das Herz
+
+
+(118)Tom's cheeks burned; Tom brannten die Wangen
+(119)she fell on her mother's neck; aie fiel ihrer
+Mutter um den Hale104
+Havers (1911) 1
+5.1.3There are adnominal (possessive) uses of dative constructions, particular, it appears, when the possessivepronoun is
+also used with the possessed element.Here the most readily
+available examples are with kinship terms.
+(120)dem Kerl seine Mutter
+(121)sa mere a1ui105
+105Examples are from Havers (1911) 283
+5.1.4Many languages have separate possessive affixes fornouns
+that are obligatorily possessed (j.nalienables) andnouns that are
+optionally possessed (alienables).The difference in Fijian is
+apparently expressed by pre-posing the possessive morpheme to
+indicate alienable possession, suffixing it to indicate inalienable possession.Since the category 'inalienable' isa category
+of grammar rather than a property of real world objects (since,
+in other words, some objects grammatically classed as inalienable
+can in fact be separated from their !owners'), the distinction
+can be seen most clearly if both methods of expression can be
+used with the same noun stem. 'IAvy-Bruhl gives a persuasive
+example of this situation: Fijian uluqu means the head which is
+
+
+-100 -
+now firmly attached to my neck, while kequ ulu, also translatable
+as 'my head', would refer to the head which, say, I am about to
+eat.106
+106L. Levy-Bruhl, "L'expression de la possession dans les langues
+melanesiennes," BULLETIN DE LA SOCIETE LINGUISTIQUE DE PARIS,
+XIX (1916) 96-104; 99.
+Languages may have separate morphemes for indicating alienable
+and inalienable possession, and they may have further distinctions
+among these morphemes depending on the type of inalienable possession (as Nootka, for example, suffixes -?at- to nouns representing
+physically inseparable entities, e.g. body parts, but uses other
+means for kinship terms), or they may merely have a class of nouns
+incapable of occurring as free forms--noun stems requiring affixation of possession indicators.107
+107This last situation is sometimes described by saying that
+nouns are 'inflected for person'.See Gabriel Manessy,
+relation genitive dans quelques langues mande," PROCEEDINGS OF
+THE NINTH INTERNATIONAL CONGRESS OF LINGUISTS, Mouton (1964)
+467-475; 468.
+The full variety of the treatment of inalienable possession
+in different Amerindian languages is catalogued in Edward Sapir's
+review of C. C. Uhlenbeck, "Het identificeerend karakter der
+possessieve flexie in talen van Noord-Amerika," in INTERNATIONAL
+JOURNAL OF AMERICAN LINGUISTICS, I (1917) 86-90.
+In all of these cases, it appears, the features in question
+are 'grammatical' rather than purely 'notional'.Discussions of
+inalienable possession almost always contains lists of nouns
+whose grammatical classification is the opposite to what one
+would notionally expect.Levy-Bruhl mentions a case where the
+
+
+- 101 -
+worf for 'left hand' functions as a body...Tart word grammatically,
+but the word for 'hand' does not.108And Arapaho classifies
+lO8L6vy-Bruhl (1916) 96.
+'louse' (or 'flea') among the inalienables,109a situation that
+109ZdenikSalzmann, "Arapaho VI: noun," INTERNATIONAL JOURNAL OF
+AMERICAN LINGUISTICS, XXXI (1965) 136-151; 139.
+invites people who like to speculate on these things to propose
+something or other on the Arapaho conception of 'self'.
+5.1.5 Mika Ivi6 has recently discussed many instaaces of what
+she calls 'non-omissible determiners'.Among the examples she
+cites are many that involve nouns of the type frequently
+included among the inalienables.The adjective cannot be deleted,
+for example, in the Serbo-Croatian expression (122), for(123)
+is ungrammatical.110
+110Milka Ivi6,The grammatical category of non-omissible
+determiners," LINGUA, XI (1962); and "Non-omissible determiners
+in Slavic languages," PROCEEDINGS OF THE NINTHINTERNATIONAL
+CONGRESS OF LINGUISTS, Mouton (1964) 476-479; the example is
+from p. 477.
+(122)devojka crnih oaiju"the girl with black eyes"
+(123)*devojka aiju
+What is misleading about her discussion, it seems to me, is the
+decision to associate with the adjective the 'category of nonomissibility'.It is as if we wished to say, for the English
+sentence (124), that there is amething grammaticallysignificant
+
+
+about the word missing, since its deletion results in a
+sentence (125) which is somewhat different in type from the
+original; put differently, sentence (124/ does not say the
+same thing that(126) does.What is genuinely important about
+(124) is its paraphrasability as (127) Lor (128)) and the fact
+that the construction exhibited by (124) is restricted to certain kinds of nouns.Note the ungrammaticality of (129):
+(124)I have a missing tooth
+(125)I have a tooth
+(126)I have a tooth and it is missing
+(127)my tooth is missing
+(128)one of my teeth is missing
+(129)*I have a missing five-dollar bill
+5.1.6Note that in sentences (124) and (127), three things are
+involved: (a) .a Possessor (an 'Interested Person', to use the
+traditional term), (b) a Body Part, and (c) an Attribute --(a)
+me, (b) tooth, and(c) missing respectively--and that the
+sentences provide alternate ways of ascribing the Attribute to
+the Possessor's Body Part.They are two distinct superficial
+ways of expressing the same relationship amongthese three concepts.
+Using P, B and A for (a),(b) and (c) above, we mny represent
+the expression as seen in (124) as (130) and that as seen in(127)
+as (131).
+(130)pnomhave CA -0Bacc)
+(131) Dgen -0 B] be A
+
+
+-103-
+The same element,in other words, which in some of the paraphrases mentioned above appeared in either the dative orthe
+genitive case forms, is now also seen appearing as the subject
+of the verb have.Bally, in fact, speaks of the invention of
+the word have as having precisely the function of allowingthe
+'personne interesseel, which otherwise would have to appear
+either in dative or genitive form, to become the subject of a
+sentence.Examples of all three surface appearances of a first
+person Possessor are given by Bally as(132)-(134).(133) and
+(134) correspond to expression types (130) and (131) respectively;
+the expression type exemplified by (132) is given as(135).
+(132)mihi Bunt capilli nigri
+(133)j'ai les cheveux noirs
+(134)mes cheveux sontnoirsill
+pdat [BoomA]
+111Charles Bally, "L'expression des idees de sphere personnelle
+et de solidarite dans les langues indo-europeennes,"FESTSCHRIFT
+LOUIS GAUCHAT, Aarau (1926) 68-78; 75.
+5.1.74 Henri Frei surveyed this variety of surface representationsAthe 'same' sentences, and added a fourth type, a type intermediate, in a sentence, between that suggested by formula(135)
+and that of (130).His example was sentence (136) (which also
+provided the title of his paper), which , xemplifies the expression
+type we may wish to represent as (137).
+(136)Sylvie est jolie des yeux
+(137)pnom[ABoblique].
+
+
+- 104 -
+Frei points out that the constructionseen in (136) is related
+to the category of inalienable possession, since while (138)-
+(139) are acceptable sentences, (140)-(141)are not.
+(138)elle est fine de doigts
+(139)elle est bien faite des jambes
+(140)*elle est fine d'etoffe
+(141)*elle est bien faite des vitements112
+112Henri Frei, "Sylvie est jolie des yeux," MELANGES DE LINGUISTIQUE
+OFFERTS A CHARLES BALLY, Geneva (1939) 185-192; 188.The expressions are limited to clear relationalnouns, not only to body parts.
+Frei notes such phrasesas "des couloirs spacieux et bas de plafond"
+and "fibre de moeurs."He beautifully demonstrates the distinctness of the sentences involving inalienable possession from
+overtly similar sentences of different grammatical structures with
+the contrast between (i) and (ii) below.(p. 186)
+(i)la salle est pleine de visages
+(ii)la femme est pleine de visage
+5.1.8'Since Frei sees this diversityas resulting from the
+attempt to 'condense' two judgments intoone sentence--the two
+judgements that P has B and that B is A (inour terms)--he
+relates the constructions in question to the much-discussed
+edoubleeubjecte constructions of Japanese.In one type of this
+latter construction, two nouns appear beforea verb or adjective,
+the first followed by the particle bra(indicating what I have
+called 'secondary topicalization'), the second by the particle
+a(the particle of 'primary topicalization').(Variations on
+the order and in the choice of particles do not change the status
+of the construction; the form described is the one most stylistically neutral.)The second of these nouns is of the inalienable
+
+
+type, the first identifies the object with respect to which the
+object identified by the second noun is 'inalienable'.The
+hackneyed example of the double-subject construction is item
+(142), a sentence which has (143) as a sort of forced paraphrase.
+In (143), the particle no is the particle whose functions are
+closest to those we would be inclined to label 'genitive'.
+(142)zoo wa hana ga nagai"elephant wa nose La long"
+(143)zoo no hana ga nagai.
+5.1.9That expressions involving entities viewed as being
+closely associated with an 'interested person' have unique
+grammatical properties has also been observed in certain semantically unmotivated uses of 'reflexive pronouns' and the parallels
+one finds between these and various uses of the 'middlevoice'.
+The connection with dative forms is seen in the fact that in
+some languages a kind of 'dative reflexive' is usedin these
+special situations.Note items (144) and (145).
+(144)se laver les mains
+(145)ich wasche mir die Hande
+The connection between this use of the 'reflexive' and the
+category of inalienable possession is indicated by BalXy where
+he points out that in item (146), jambe is the inalienable
+entity, while in (147) the word jambe can only (or, depending on
+my informants, can also) be understood as someindependently
+possessed object, such as the leg of a table.
+(146)je me suis cease la jambe
+(147)jai casa6 ma jambe
+Notice that the jambe which does not have the possessive adjective
+
+
+- 106 -
+is the one which is grammatically characterized as 'obligatorily
+possessed':113
+113Bally (1936) 68f.
+aMIMOMIIMP
+5.2Adnominal datives
+One way of introducing a possessive modifier of a noun has
+already been suggested: a sentence which could on its own
+assume the form 'X has Y' is embedded to NP.Since it is desirable for an embedded sentence to have a semantic interpretation
+that contributes to the meaning of the whole sentence, the sentenceembedding source of possessives is needed as an explanation for
+alienable possession.In other words, one is satisfied to have
+the meaning of (148) represented as a part of the meaning of
+(149), though we may reject such a zelationship between (150)
+and (151).
+(148)I have a dog
+(149)my dog
+(150)I have a head
+(151)my head
+A distinct method is required for introducing the possessive
+element in the case of inalienable possession, a method which
+reflects the fact that the relationship between the two nouns
+in 'inalienable possession' is not (Else Frei) a sentential
+relationship.
+
+
+For the types of inalienable possession that we have
+considered so far--in which the relationship haE zawaysbeen
+to an animate or 'personal' entity--thb solution is to say
+that some nouns obligatorily take D complements.This can be
+managed by adding to the grammar another way ofwriting NB,
+namely rule (152).
+(152)NP --m N (D)
+In the way that frame-features for Vs relate to environments
+of Vs provided by the constituent P, frame-features forNs
+relate to environments provided by the constituent NP.It was
+suggested above that Ns which obligatorily take S complements
+are assigned the feature4S ].We may now add that Ns
+which obligatorily take D complements are characterized as
+having the feature 4D ]; and these are the inalienably
+possessed nouns.The notation imposes a subclassification of
+nouns into those which requireadnominal D (such as son, child
+in the meaning 'offspring', German Mann in the meaning'husband')
+and those which reject adnominal D(such as person, child in
+the meaning 'very young person', Miatin in the meaning'man').
+The two sources of possessive modifiers which the grammar
+now makes possible(adnominal D and adnominal S of a certain
+type) provide the deep-structure differences needed for determining the difference in the form of the possessivemodifiers in
+those languages which make the distinction overt in that way..
+Where further distinctions are made (as between body parts and
+kinship terms), the information on which suchdistinctions need
+to be based may be included as lexical featuresof the Ns themselves.
+
+
+- 108-
+The general configuration of NPs containing Ds,then, is
+that shown in (153).
+(153)NP
+K
+Nr
+N
+In some cases the adnominal D remains in the NP and in fact
+retains the surface features associated with D,as in item (154);
+typically, however, a D insidea NP is changed to a genitive form,
+as in (155).
+(154)secretary to the president
+(155)the president's secretary
+If determiners are universal,114then the expansion of NP
+1177--aIm inclined to think that they are.See my "The syntax of
+English preverbs," to appear in GLOSSA, II (1967).
+must make provisions for them; but if they are not, then those
+languages which have them will need 'segmentalization' rules of the
+type described by Postal115.At any rate, the determiners (which
+115Paul M. Postal, "On so-called 'pronouns' in English," GEORGETOWN
+UNIVERSITY MONOGRAPH NO. 19, LANGUAGES AND LINGUISTICS (1966),
+177-206.
+I represent as 'd') will figure in the various things thatcan
+happen to adnominal D.Sometimes, for example, when a D remains
+in the NPvithout undergoing genitive modification, certain of
+its features are copied onto the determiner so that the determiner
+
+
+- 109 -
+may eventually assume theform of the appropriate 'possessive
+adjective'.This seems to account for such expressions asthe
+possessive dative with kinshipterms seen in some German dialects
+(recall example (120)) in Ossetic,116etc.
+116V, I. Abaev, A GRAMMATICALSKETCH OF OSSETIC, Indiana University Pr )ss (1964), 18.
+5.3.Some illustrations
+The D constituent often need not remain theNP: under some
+conditions it may be 'promoted', so to speaksfrom the status
+of a modifier of a N(which it is in the deep structure) to the
+status of a major constituent on thenext higher level of the
+syntactic structure.This can be seen in sentences having the
+base configuration [ V + L + A]: just in case the N under L is
+a body part, theD which in the deep structure is subjoinedto L
+is 'promoted' to become a constituent ofP, yielding a sentence
+superficially of the type+ D + L +A].
+The verb pinch is accepted into the case frame[L + A],
+and, except when it has taken onthe feature E+Passive], it is a
+verb which deletes the prepositionof the following constituent.
+Let us consider sentences derivable fromthe deep structure seen
+in (156).
+
+
+(156)
+V
+M
+- 110-
+KNP
+dN
+pastpinchon thenose
+K'13
+N
+toJohnMary
+We shall see what happens to the sentence under four conditions:
+when the D remains inside L and A becomes the subject; when the D
+remains inside L and L becomes the subject; when the D is promoted and A becomes the subject; and when the D is promoted and
+D becomes the subject.
+Whenever D remains inside NP (in this sentence), it is preposed to the N and converted to its genitive form, displacing the
+original determiner.Since it is a personal noun, the K element
+assumes the form of a genitive suffix.With non-promoted D, in
+other words, (156) eventually becomes (157).
+(157)
+V
+pastpinch
+L
+KNP
+NPK
+I
+el
+onJohnsnose
+KNP
+N
+Mary
+
+
+-111-
+Diagrams (158) - (161) show the development from (157) when A
+is made the subject: the subject-preposition is deleted andits case
+category is erased; the preposition after pinch is deleted andthe
+case category L is erased; andthe tense is absorbed into the V.
+(158)
+A
+VKNP
+1
+byMary
+(159)
+(16o)
+NP
+N
+past
+Marypast
+V
+KNP
+DN
+/%6.NP
+I I
+pinchonJohn,snose
+K
+DN
+NP
+I I
+pinchonJohn!snose
+NP
+11
+NP
+I I
+MarypantpinchJohnnose
+
+
+(161)
+NP
+I
+N
+May
+- 112 -
+V NP
+D
+NP
+pinchedJohnIsnose
+If the L of (157) is chosen as subject instead ofthe A, the
+result is (162).This choice of subject requires the V to assume
+the feature [ +Passive], which causes it to loseits ability to
+delete following prepositions and its abilityto take tense affixes.
+The surface structure eventually resulting from(162) is (163).
+(162)
+NP
+i
+onJohn'snose pastpinchby
++Pass
+1
+K
+(163)
+xP
+DN
+NP
+N
+Johnnose
+S
+T
+M
+was
+V
+NP
+N
+Mary
+P
+pinched
+K
+1P
+byMary
+
+
+- 113 -
+Backing up to (156), we may now see the consequencesof
+'promoting' adnominal D.When the D is removed from L and
+becomes the left-most case constituent inP, the resulting
+structure is (164).
+(164)
+1
+past
+L
+NPKPKNP
+11 I1
+pinch toJohnonthenoseby Mary
+The possible subjects for (164) are the A or thenewly promoted
+D.When the subject is A, we get(165), a structure which, on
+application of the rules we have learned,eventually becomes (166).
+(165)
+(166)
+xr
+N.
+1
+Mary
+NP
+I I
+11IdN
+pastpinch toJohnonthenose
+pinched
+NP
+I
+Johnonthenose
+
+
+-ilk -
+When D is made subject, on the other hand, we get(167); on
+applying the rules appropriate to a V with thefeature [4-Passive],
+we eventually get(168).
+(167)
+(168)
+DM
+NP
+1
+Johnpastpinch
+NP
+1
+John
+S
+1
+M
+V
+Ef-Pas]
+INP
+//N
+di
+on.thenosebyMary
+waspinched
+KNPKNP
+d/\
+1
+N'
+IonthenosebyMary
+We may turn to the problem which interestedBally and Frei
+and examine the role of adnominalD in sentences which assign
+attributes to obligatorily possessedelements.The basic structure
+of such sentences can be illustratedby item (169).
+
+
+- 115
+V
+presbeautiful
+N
+KNP
+I
+eyestothegirl
+In languages which allow the D to remain in the NP, the D element
+is converted to its genitive form.In English this results in (170).
+Since (170) has only the form [ V + 0 ], the 0 is necessarily
+chosen as subject; the result for English is item (171).
+(170)
+Presbeliutiful
+P
+NP
+D
+NPK
+dN
+0 thegirl'seyes
+
+
+(171)
+NP
+thegirl'eyesarebeautiful
+- 116 -
+1
+V
+Notice that since the V is an adjective, it is incapable of
+'absorbing' the tense117
+,requiring the provision of be within
+117Stated more accurately, Vs which are adjectives, passives or
+progressives are incapable of absorbing the rlghtmost affix inM.
+the M constituent.(171) is a rendering of (170) in which the V
+is predicated on the 0 and the D is subjoined to the0.Thus it
+is analogous to our earlier sentences (127) and(134) and is of
+the type indicated in (131).
+Suppose next that the D of (170) does get 'promoted'.The
+result of introducing the D in this way as an immediateconstituent
+of the P is item (172).
+(172)
+M
+NP
+dNIIN
+presbeautifultothegirl0eyes
+
+
+- 117 -
+Some languages allowthe 0 of configuration (172) tobecome the
+subject, with the D elementremaining in the expected surfaceform
+for D, as in sentence (132).Others allow the D element toundergo
+secondary topicalizationwhen the 0 is subject, resulting,for
+example, inone case of the 'double-subject' constructionin
+Japanese (recall (142)).The general expression typefor sentences resulting from (172) when 0 becomessubject is suggested by
+formula (135) above.
+Many languages allow the Dto become subject.When this
+happens and thereare no other changes, the 0appears in some
+oblique case-form.This is so because,since beautiful is nota
+true verb, the body-partword cannot be converted intoan 'object'.
+The initial structureis seen in (173); it isone which is not
+typical of English, thoughit is perhapsseen in such expressions
+as those given in (174) and itmay represent a stage in the derivation of phrase of thetype given in (175).
+(173)
+v
+thegirlpresbeautiful0
+(174)tall of stature; blue in theface; etc.
+(175)broad-chested; fat-legged; etc.
+eyes
+
+
+=1111.01k
+-118 -
+It appears to be the structural form underlying (136), whose
+expression type is given in fermIlla (137).The construction is
+apparently quite rare in French; Frei speaks of it as a 'shortcircuited' version of the sentences with have.
+Another possibility, when D is subject, is to attach the
+adjective to the NP indicating the body-part.I propose, in an
+unhappily quite ad hoc fashion, that this be done without removing
+the constituent label V.I believe there are some arguments for
+retaining at least an abstract V under P at all times, so this
+constraint may turx out to be better motivated than it seems.
+The reason for this decision is that this appears to reflect what
+actually happened in those languages which adopted a verb like
+have.
+The structure I have in mind is that shown in (176).
+thegirl
+NP
+V
+1-----"-----'""'"---...
+N
+1
+pres00beautifuleyes
+With the V under P vacant, the M must have a be added to it in
+those languages which allow structures of this type to become
+sentences directly.Notice that in this construction the modified
+body-part NP as a whole is 'in' some case form.The formula for
+this expression type has not yet been given; it would be something
+
+
+- 119-
+like (177).
+(177)P be EA-0B]oblique
+Conceivably this is the structure underlying such predicates as
+those shown in (178); the difference between predicates of the
+type (137) and those of the type (177) is seen in the Latin
+paraphrases (179) and (180) respectively.
+(178)of tall stature; di bello aspetto
+(179)aequus animo
+(180)aequo animo
+The last possibility, then, is to insert into the vacated
+V position the function word have, a verb which takes the modified body-part noun as its 'object'.In English, we have seen,
+this involves deleting the preposition.The result of modifying
+(176) in thisway is (181).
+(181)
+the
+P
+V NP
+V N
+girlpreshavebeautifuleyes
+In short, it appears that the considerable surface variety
+found in sentences involving attribution of some property to an
+inalienable noun is to be accounted for by positing for universal
+grammar, in the spirit of Bach (1965), a set of recurrent transformations which each language uses somewhat in its own way.For
+
+
+- 120 -
+sentences of the general structuraltype (182)
+(182)PEv°ED + N
+where V is an adjective and N is abody-part noun, the options
+are (a) -(d) below:
+(a)PROMOTE D
+(b)CHOOSE D AS SUBJECT
+(c)COPY ADJECTIVE INTO BODY-PART NP
+(d)INSERT HAVE INTO THE VACATED V
+When (a) is not applied, the D becomes a genitivemodifier of the
+body;part N and the whole 0 becomes thesubject.When (b) is not
+applied, the 0 becomes the subject.When (c) is not applied': the
+'short-circuited' sentences of Frei are the result.Rule (d) is
+available only to those languages which have'invented' have.
+5.4Further remarks on inalienable possession
+If the feature of inalienable possession is tobe treated as
+a universal propertyof language, then either vocabularyitems
+which are translations of each otherwill be categorized alike
+with respect to alienability, or the waysin which languages
+separately classify the 'same' things maypossibly reflect differences in the psychicmake-up of the speakers of differentLang=
+uages.Many scholars have seen in the data oninalienabilia an
+opportunity for the science of languageto shed light on primitive
+mentality and on the possible range ofman's concept of 'self'.
+Since the differences appear more and moreto be differences on
+the level of surface strncturb, it maybe advisable to wait some
+
+
+- 121-
+time before reaching auy conclusions on these matters.118
+For representative statements on the sociological relevance
+of the study of inalienable possession, see Levy-Bruhl (1916)
+103; Bally (1926) 68 et passim; Frei (1939) 192; and van
+Ginneken (1939) 90.For a catalogue of noun classifications
+based on grammatical differences associated with inalienable
+possession, see Haiim Rosen, "Die Ausdrucksform fur 'veriusserlichen' and 'unverausserlichen' Besitz im Frilhgriechinchen,"
+LINGUA, VIII (1959) 264-293; 268f.
+Adnominal D will certainly be needed for more than bodypart nouns and names of relatives.Directional indicators like
+right and left are probably nouns of this type too.The reason
+that these words appear typically without any personal reference
+in English and maly other languages is that they frequently refer
+to position or direction with respect to the speaker or addressee
+of the utterance, and there are simply many situations in which
+an adnominal D does not need to be expressed if it identifies
+speaker or hearer.
+There are, too, many relational nouns which do not have a
+specifically personal reference.We might wish to say that
+certain 'locational' nouns take an adnominal L.These nouns
+sometimes name parts of the associated objects, as in (183),
+and they sometimes identify a location or direction stated with
+reference to the associated object but not considered as a part
+of it, as seen in (184).'Nouns' of the second type appear
+superficially as prepositions in English.
+(183)corner of the table, edge of the cliff, top
+of the box
+(184)behind the house, ahead of the car, next to
+the tower
+
+
+- 122-
+6.Problems and suggestions
+There is a considerableresidue of unsolved problemsin the
+grammatical description oflanguage phenomena, and it isdisappointing though not surprisingto realize how many ofthem
+remain unsolved under theformulation of grammar l havebeen
+suggesting.Those which come most quickly tomind are coordinate
+conjunction, nominal predicates,and 'cognate objects'.
+6.1Coordinate conjunction
+There may be a relationship betweenthe ways in which
+languages deal with 'comitative'constructions and the phenomenon
+of coordinate conjunctionof NPs.Put in case terms, there may
+be a relationship betweenconjunction of NPs and what onemight
+wish to refer to as aComitative case.Jespersen noticed the
+parallels between with(a preposition which has aComitative
+function) and the conjunctor and, asin such pairs ofsentences
+as(185) and (186).
+(185)he and his wife arecoming
+(186)he is coming with hiswifell9
+119Jespersen (1924) 90
+Japanese has separate devicesfor indicating sentenceconjunction
+and NP-conjunction,and the posipositionused for NP-conjuncttion
+
+
+is identical with the Comitative postposition.In a conjunction
+of NPs, all but the last have the postposition to.The last one
+has the postposition appropriate for the case role of the whole
+NP.Compare (187) and (188).
+(187)Tanaka-san to Hashimoto-san ga kimashita
+"Mr. Tanaka and Mr. Hashimoto came"
+(188)Hashimoto-san ga Tanaka-san to hanashimashita
+"Mr. Hashimoto spoke with Mr. Tanaka"
+Redden points out that in Walapai a sentence has only one noun
+in the 'nominative' case.Noun conjunctions are effected by
+having the 'ablative' suffix--the suffix with Comitative function- -
+on all but one of the nouns in aconjunction.Thus, in (189),
+/4/ is nominative, /-m/ ablative.
+(189)/hatAitAaahalm/
+"the dog and the boy" (lit. "the dog with the
+boy")
+It may be that rule (190) is needed as an expansion rule for
+NP.
+(190)NPNP+C
+Using X as a cover term for the various case categories,(190)
+will produce such structures as (191).
+(191)X
+KNP
+NP
+
+
+- 124 -
+The case category C has a very special status, since the
+selectional constraints on nouns under C are those of the
+superordinate C.What is needed, in other words, is a rule
+which imposes on any N under C the same redundant features
+that are associated with the dominating non-C case.
+A subjoined C under some circumstances must remain in the
+large NP.In languages which lack a generalized conjunctor, the
+case marker is simply that appropriateto C (the postposition
+to in Japanese, the suffix -m in Walapai); in languages which
+have a generalized conjunctor, it replaces the case marker, in
+the way that and replaces with under certain conditions.
+The structure underlying (185) and (186), then, might be
+something like (192); we ignore the source of his.
+(192)
+pres
+V
+[Pro];
+come
+NP
+NKNP
+dN
+I
+byhewiththewife
+If the C remains inside the NP, the entire A becomes thesubject,
+yielding sentence (185); if the C is promoted, however, asin
+
+
+- 125 -
+the structure shown in (193), it is leftbehind when the A
+becomes the subject, resulting in sentence(186).
+(193)S
+M
+V-------A
+[N]-./'''*%./*°"4""
+KNPKNP
+h11
+N
+Arescomewith hiswifebyhe
+It is quite unlikely that the numerous problemsassociated
+with NP conjunction can be appreciablysimplified through this
+approach, but that there is some connectionbetween conjunction
+and comitative uses of NPs cannot bedoubted.Lakoff and Peters
+have recently presented very persuasivearguments that the
+'direction' of the relationship is the oppositeof eat I have
+suggested; that, in other words, Comitativephrases are derived
+from NP conjunction rather than theother way around.120
+120George Lakoff and Stanley Peters,"Phrasal Conjunction and
+Symmetric Predicates,"HARVARD COMPUTATION LABORATORYREPORT
+NO. NSF #17 (1966) VI-1 - VI-49.
+6.2Nominal Predicates
+Nothing that has been said so far suggests a wayof providing
+for sentences of the N be N type.It is clear that they representwwwmff+re
+
+
+-126 -
+a distinctsentence type from thoseinvolving any of the case
+relations discussed above,though there may be morethan one
+case relationshipinvolved in these sentences.(The terms
+Essive and Translative come tomind.)
+There are some nouns that appearin predicate positionbut
+which are restricted in their occurrenceelsewhere.It might
+be possible to treatthese nouns as, on onelevel, Vs which are
+restricted to the formA].Examples are words likeidiot,
+bastard and fool.The environment contains Abecause the subject
+is always animate andbecause the constructionsexhibit selectional and transformationalproperties associated withVs having
+As in their environment.Notice items (194) and(195).
+(194)don't be a fool
+(195)he's being a bastard again
+This interpretation appears to accountfor the fact that wehave
+sentences like(196), but not--with idiot usedin this same
+'evaluative' sense--(197).
+(196)John is an idiot
+(197)an idiothit the first homerun
+Further evidence that theword is properly treated as aV is
+found in the fact thatthese nouns may accepttypes of modification usually associatedwith adjectives, as in(198).
+(198)John is quite an idiot
+The serious problems are(a) with the use of words like
+idiot, fool, etc., inother contexts, as in(199), and (b) with
+
+
+-127-
+the use of non-evaluative Ns in predicate sentence, as in (200).
+(199)that rat swiped my lunch
+(200)that boy is my nephew
+A new case category or two could be invented for the occasion,
+of course, but such matters as the number agreement requirement
+between subject and predicate NPs remain as serious as they ever
+were.Perhaps some solution is forthcoming along the lines of
+Prof. Bach's proposals elsewhere in this volume.
+6.3Cognate objects
+A difficulty of another sort is presented by the so-called
+'cognate- object' constructions.These are constructions in
+which, at the very least, there is a high selectivity between
+a specific V and an 'object' 14 and in which theV+N combination
+in one language might well be matched by a V alone in another
+language.
+Slightly modifying a recent analysis by SandraBabcock121,
+121Sandra S. Babcock, "Syntactic dissimilation" (1966) unpublished
+paper; compare too the interpretation in terms of'quasi- transformations.' found in Zellig Harris, "Co-occurrence and transformation inlinguistic structure,"LANGUAGE, XXXIII (1957) 283-
+240, Sec. 30.
+I would propose that there are contexts in which the case category
+F (Factitive) may be left lexically empty, and that certain words
+classified as Vs may be inserted specifically into frames containing dummy Fs.These words may have associated with them
+
+
+-128 -
+special N representatives (like, e.g.,bath) and special pro-Vs
+(like, e.g., take).The rules that apply to dummy-F sentences
+are the following:
+(a)COPY THE N-REPRESENTATIVE OF THE V UNDERTHE F
+(b)REPLACE THE V BY THE DESIGNATED PRO-V
+The rules may have separate conditions of optionality for
+different Vs.The cognate-object V dream may appear as a V in
+its own right, or it may appear in dummy-Fsentences.As a
+cognate-object verb, it has dream as itsN-representative, have
+as its pro-V; it is further specified asselecting either the
+preposition about or of for the 0 constituent and asnot requiring rule (b).
+When the N-representative associated with dream is copied
+into the F constituent, the result is sentence(201); when the
+associated verb have replaces the V, the resultis (202).
+(201)John dreamed a dream about Mary
+(202)John had a dream about Mary
+With these devices, we may in fact consider extendingthe
+interpretation of cognate-object constructions inthe following
+way.Some words may be treated as cognate-objectVs even though
+4.
+the rule for replacing the pro-V isobligatory.The V nightmare,
+e.g., might have nightmarelisted as its N-representative and
+have as its pro-V.Thus, on applying rule (a), structure(203)
+becomes the intermediate structure(204); on applying rule (b),
+(204) is converted to (205).Analogous uses of this device
+
+
+-129-
+could possibly account for the connectionbetween suggest,
+and make a suggestion, shove someone andgive someone a shove,
+and so on, but many serious problemsremain.In particular it
+is not obvious how sentences like(206) and (207) can be dealt
+with in accordance with these proposals.
+(203)
+(204)
+P
+V F
+1
+nightmare0
+V
+nightmarenightmare
+(205)
+1
+havenightmare
+(206)she made several ridiculoussuggestions
+(207)I had a terrible nightmare lastnight
+6.4Other problems
+There are many issues for which I cannot evenpretend to
+see solutions.The apparent connection betweensurface cases
+and 'partitive' functions;the restriction of 'definiteness'in
+some languagesto NPs in particular surface caserelations
+
+
+-130-
+(typically, the 'direct object'); the extreme variety of surface
+realizations of the same meaning (from the same deep structure?)
+that Jespersen illustrates in connection with what he calls
+'rank shifting'122
+,to name just a few.
+122Jespersen (1924) 91
+The difficulties mentioned so far are empirical in nature,
+but many formal problems exist as well.One of these is whether
+the permitted arrays of cases under P need to be generated via
+phrase-structure rules, since one of the most important functions
+of the PS-rules has been that of defining grammatical relations- -
+that is, that of defining phenomena which are here partly treated
+categorially rather than configurationally.Related to this
+problem is the apparent dependency relations that exist amolE
+cases.It appears, for example, that the occurrence of B (Benefactive) phrases in a sentence has more to do with whether the
+sentence contains an A than with independent specific properties
+of Vs.One is almost willing to allow these facts to be
+expressed by a generative process which chooses a verb, then
+chooses the cases required by that verb, then chooses the other
+cases compatible with the cases originallychosen.The issue is
+not whether the permitted sequences can or cannot be generated
+by PS-rules--there is no doubt that they can--but whether the
+kinds of co-occurrence or dependency relationships that seem to
+obtain might not be more efficiently stated in some other way.
+
+
+- 131-
+(Modifications of transformational grammar of the type
+introduced in Chomsky's ASPECTS (see fn.1) made it no longer
+necessary to use PS-rules forsubclassification of lexical
+categories or for the choice of lexicalitems.If the provision of syntactic relations of certainkinds must also be
+handled by some device other thanPS-rules, there is a chance
+that rules of this type may be abandonedaltogether.)
+Whether the cases should be represented as categories
+dominating NPs or in some other way is anissue which seems to
+me to be fairly wide open.One advantage of the categorial
+treatment is that NPs made subject and object maybe said to have
+lost their 'original' case relation tothe sentence (by the rule
+which 'erases' the case category wheneverthe case marker K has
+been deleted, i.e., a 'node-razing'rule) with the result that
+their form can only be determined by referringto their 'pure
+relational' status.Thus it would appear that the surface distinction between labeled and configurationallydefined relations
+on NPs may correspondwith the traditional distinctionbetween
+the 'concrete' and the !grammatical' cases.(How the genitive
+figures in this distinction is not clearunder either interpretation.)
+Several people have pointed out to me theapparent convertibility of case grammar underlyingrepresentations into objects
+which resemble dependency diagrams andtagmemic formulas.If
+the K elements are interpreted asconstituents of NPG, then the
+case categoriesunarily dominate NPs.This makes them equivalent
+
+
+-132 -
+to labels on the branches that likeP with the various NP
+that are directly related to it.If the only function of the
+P is to provide a constituent in terms of whichthe NPs can
+be related to the V, one may just aswell represent these
+relationships more directly by replacingthe node P by the V.
+The result is no longer a constituent-structure diagram,since
+lexical elements are inserted into'dominating' nodes; but it
+may turn out to be just aspossible to represent the needed
+constituent organization of sentences from a'stemmatic' diagram
+of the type used by Tesniere orHays, as from a phrase-structure
+tree liagram.
+There is an easy conversion from case grammar underlying
+representations to 'tagmemic' formulas, too, aslong as the case
+categories unarily dominate NPs.Or, for that matter, a casegrammar diagram could simplybe read off as a tagmemic formula,
+as long as certainsymbols were designated as functionindicators.One can as easily say "NP filling an Aslot" as anything
+else.The crucial difference between the modificationof
+transformational grammar that I have beensuggesting and the
+typical tagmemic study is in theinsistence here on discovering
+the 'deepest' level of the 'deepstructure'.
+
+
+- 133 -
+7.Closing words
+One criticism of case grammar that has beenbrought to
+my attention is that it is toostrongly motivated by semantic
+considerations.Many of the analyses have(hopefully) the
+result that certain semantic distinctionsand inter-language
+commonalities are revealed in fairly direct waysin case
+grammar deep structures, but,it has been argued, syntactic
+analyses should be based on syntactic dataalone, and one
+language at a time.
+The question arises whether there is a 'level' ofsyntactic description that is discoverable one languageat a time
+based on purely syntactic criteria.If it is possible to
+discover a semantically justified universalsyntactic theory
+along the lines I have been suggesting; ifit is possible by
+rules (beginning, perhaps, with those whichassign sequential
+order to the underlying order-freerepresentations) to make
+these 'semantic deep structures' into the surfaceforme of
+sentences; then it is likely that the syntacticdeep structure
+of the type that has been made familiarfrom the work of
+Chomsky and his students, is going to go the wayof the
+phoneme.It is an artificial intermediate level betweenthe
+empirically discoverable 'semantic deep structure'and the
+observationally accessible surface structure, alevel the
+properties of which have more to do withthe methodological
+
+
+- 134-
+commitments of grammarians than with the nature of human
+languages.123
+1231wronglyong y expected these remarks to have a certain shock
+value at the symposium.There I was attacked for constructing
+deep structure representations that were too hampered by
+considerations of surface syntactic facts to get at the underlying semantic realities.This is a problem which, as they
+say, requires further study.

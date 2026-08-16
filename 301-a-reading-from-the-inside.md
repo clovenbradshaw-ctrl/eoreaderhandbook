@@ -102,6 +102,20 @@ own "What this leaves out" accounting. The close-reading connection above
 is this book's own added link to literary-critical practice, not something
 the codebase itself cites.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+
+Not located because a source this chapter names is **not yet obtained** (`eochat/essay.md` — see the manifest's `unobtained` list for each one's reason):
+
+- “What does Victor Frankenstein feel toward the creature…”
+- “90% of its content words were not carried…”
+
+<!-- anchors:end -->
+
 <!-- nav:start -->
 [← 2.7 — Tried Against a Rival](207-tried-against-a-rival.md) · [Contents](000-index.md) · [3.2 — Gifts, Not Guesses →](302-gifts-not-guesses.md)
 <!-- nav:end -->

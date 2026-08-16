@@ -5,7 +5,9 @@
   "private": true,
   "scripts": {
     "nav": "node scripts/add-nav.js",
-    "build": "node scripts/build-page.js"
+    "build": "node scripts/build-page.js",
+    "anchors": "node scripts/anchor-quotes.mjs",
+    "anchors:verify": "node scripts/anchor-quotes.mjs --verify"
   },
   "repository": {
     "type": "git",

@@ -119,6 +119,23 @@ system (material/mental/relational processes) — named here as the
 book's own choice of a strong rival, precisely *because* it is
 well-established prior art, not because this project ever drew on it.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+
+Not located because a source this chapter names is **not yet obtained** (`eoreader4.2/docs/eo-wiki.md` — see the manifest's `unobtained` list for each one's reason):
+
+- “The three questions track something real”
+- “the three questions carve language better than some…”
+- “if an off-the-shelf rival triad from ordinary linguistics…”
+- “The stronger claim — that THESE three dimensions…”
+- “closer to orthogonal than an obvious rival,”
+
+<!-- anchors:end -->
+
 <!-- nav:start -->
 [← 2.6 — Checked Against Language Itself](206-checked-against-language-itself.md) · [Contents](000-index.md) · [3.1 — A Reading, From the Inside →](301-a-reading-from-the-inside.md)
 <!-- nav:end -->

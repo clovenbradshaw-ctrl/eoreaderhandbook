@@ -1,0 +1,330 @@
+{
+  "sources": [
+    {
+      "id": "attention-2017",
+      "kind": "web",
+      "title": "Attention Is All You Need, arXiv 1706.03762",
+      "path": "sources/web/attention-2017.txt",
+      "bytes": 39649,
+      "sha256": "541d16156042de071d97fe959c56b87313b2e73e27b18b0fe4e2d1549ba56b00",
+      "origin": {
+        "url": "https://arxiv.org/pdf/1706.03762"
+      },
+      "retrievedAt": "2026-08-16T23:34:12.698Z"
+    },
+    {
+      "id": "eoreader6/11-terrain-occupancy-and-the-two-ascents.md",
+      "kind": "local-snapshot",
+      "path": "sources/local/eoreader6/11-terrain-occupancy-and-the-two-ascents.md",
+      "bytes": 24283,
+      "sha256": "8d38e8c5b465b92e6647c678dda1a65e1dc32e2b35633150ef7178e81949279f",
+      "origin": {
+        "repo": "clovenbradshaw-ctrl/eoreader6",
+        "path": "11-terrain-occupancy-and-the-two-ascents.md",
+        "commit": "d50315a90fbe66c21f6c1ae15a86a56713337597"
+      }
+    },
+    {
+      "id": "eoreader6/12-nine-terrains-as-representation-standard.md",
+      "kind": "local-snapshot",
+      "path": "sources/local/eoreader6/12-nine-terrains-as-representation-standard.md",
+      "bytes": 13829,
+      "sha256": "0b47d6d96624e265c2e7254f598f136b1b55a5b1e0c442ba5c98d01ad9043352",
+      "origin": {
+        "repo": "clovenbradshaw-ctrl/eoreader6",
+        "path": "12-nine-terrains-as-representation-standard.md",
+        "commit": "d50315a90fbe66c21f6c1ae15a86a56713337597"
+      }
+    },
+    {
+      "id": "eoreader6/CLAUDE.md",
+      "kind": "local-snapshot",
+      "path": "sources/local/eoreader6/CLAUDE.md",
+      "bytes": 8261,
+      "sha256": "450389047e984b171de9a9d37da96dba3eb99798b6f73aed74ef7bf8885950bc",
+      "origin": {
+        "repo": "clovenbradshaw-ctrl/eoreader6",
+        "path": "CLAUDE.md",
+        "commit": "d50315a90fbe66c21f6c1ae15a86a56713337597"
+      }
+    },
+    {
+      "id": "eoreader6/CUBE.md",
+      "kind": "local-snapshot",
+      "path": "sources/local/eoreader6/CUBE.md",
+      "bytes": 10711,
+      "sha256": "6b0eef50670b4932cef96d6e5cc29e5b7cb0bc0e841c59d2a3db806de25d9653",
+      "origin": {
+        "repo": "clovenbradshaw-ctrl/eoreader6",
+        "path": "CUBE.md",
+        "commit": "d50315a90fbe66c21f6c1ae15a86a56713337597"
+      }
+    },
+    {
+      "id": "eoreader6/goldens/surprise/README.md",
+      "kind": "local-snapshot",
+      "path": "sources/local/eoreader6/goldens/surprise/README.md",
+      "bytes": 11094,
+      "sha256": "841080b9d4270f772ff6927ea57a68e35297310fa91c442025d72f0eb5f1e3cd",
+      "origin": {
+        "repo": "clovenbradshaw-ctrl/eoreader6",
+        "path": "goldens/surprise/README.md",
+        "commit": "d50315a90fbe66c21f6c1ae15a86a56713337597"
+      }
+    },
+    {
+      "id": "eoreader6/packages/engine/emergence/activation.js",
+      "kind": "local-snapshot",
+      "path": "sources/local/eoreader6/packages/engine/emergence/activation.js",
+      "bytes": 23220,
+      "sha256": "d158635f02a8cbf1578d085f8f862de314d1986cbc326fd7cc148628b685c9b7",
+      "origin": {
+        "repo": "clovenbradshaw-ctrl/eoreader6",
+        "path": "packages/engine/emergence/activation.js",
+        "commit": "d50315a90fbe66c21f6c1ae15a86a56713337597"
+      }
+    },
+    {
+      "id": "eoreader6/packages/engine/emergence/surprise.js",
+      "kind": "local-snapshot",
+      "path": "sources/local/eoreader6/packages/engine/emergence/surprise.js",
+      "bytes": 9340,
+      "sha256": "875d351b3152f3f53ac8adda09626a906ede879637df7243a2da9eea84e1d3f4",
+      "origin": {
+        "repo": "clovenbradshaw-ctrl/eoreader6",
+        "path": "packages/engine/emergence/surprise.js",
+        "commit": "d50315a90fbe66c21f6c1ae15a86a56713337597"
+      }
+    },
+    {
+      "id": "eoreader6/packages/engine/emergence/tiers.js",
+      "kind": "local-snapshot",
+      "path": "sources/local/eoreader6/packages/engine/emergence/tiers.js",
+      "bytes": 15659,
+      "sha256": "0dfaae001e37f6b09f93190293cb677a6025b53630fe7742c3bded0d04027d52",
+      "origin": {
+        "repo": "clovenbradshaw-ctrl/eoreader6",
+        "path": "packages/engine/emergence/tiers.js",
+        "commit": "d50315a90fbe66c21f6c1ae15a86a56713337597"
+      }
+    },
+    {
+      "id": "eoreader6/packages/engine/perceiver/text/relations.js",
+      "kind": "local-snapshot",
+      "path": "sources/local/eoreader6/packages/engine/perceiver/text/relations.js",
+      "bytes": 24418,
+      "sha256": "9922c326201ff01c98bd1f35417520755e61cacf14daf67ed0c8022f196267fa",
+      "origin": {
+        "repo": "clovenbradshaw-ctrl/eoreader6",
+        "path": "packages/engine/perceiver/text/relations.js",
+        "commit": "d50315a90fbe66c21f6c1ae15a86a56713337597"
+      }
+    },
+    {
+      "id": "eoreader6/packages/engine/perceiver/text/surfaces.js",
+      "kind": "local-snapshot",
+      "path": "sources/local/eoreader6/packages/engine/perceiver/text/surfaces.js",
+      "bytes": 25133,
+      "sha256": "d0a9a305b7c7b0e11739f79fdb5e54eae714dd15a0679d8e093fd2df5676cbba",
+      "origin": {
+        "repo": "clovenbradshaw-ctrl/eoreader6",
+        "path": "packages/engine/perceiver/text/surfaces.js",
+        "commit": "d50315a90fbe66c21f6c1ae15a86a56713337597"
+      }
+    },
+    {
+      "id": "eoreader6/prior-art-surprise-segmentation-and-memory.md",
+      "kind": "local-snapshot",
+      "path": "sources/local/eoreader6/prior-art-surprise-segmentation-and-memory.md",
+      "bytes": 11556,
+      "sha256": "5a2620d8ae6b5b668a4e0fadb47495ab894588bcde65f81b6bc191728257a822",
+      "origin": {
+        "repo": "clovenbradshaw-ctrl/eoreader6",
+        "path": "prior-art-surprise-segmentation-and-memory.md",
+        "commit": "d50315a90fbe66c21f6c1ae15a86a56713337597"
+      }
+    },
+    {
+      "id": "eoreader6/prior-art-teachable-language-comprehender.md",
+      "kind": "local-snapshot",
+      "path": "sources/local/eoreader6/prior-art-teachable-language-comprehender.md",
+      "bytes": 29285,
+      "sha256": "01bfe11a26ca88a4102ef3da09399ac7d3e5b9b970797cc47336c4628554e61b",
+      "origin": {
+        "repo": "clovenbradshaw-ctrl/eoreader6",
+        "path": "prior-art-teachable-language-comprehender.md",
+        "commit": "d50315a90fbe66c21f6c1ae15a86a56713337597"
+      }
+    },
+    {
+      "id": "eoreader6/READING-POLICY.md",
+      "kind": "local-snapshot",
+      "path": "sources/local/eoreader6/READING-POLICY.md",
+      "bytes": 65479,
+      "sha256": "41390250657ce2d0821388266e4a6606a51d4bc24da6836fdf2d1a79d4baac82",
+      "origin": {
+        "repo": "clovenbradshaw-ctrl/eoreader6",
+        "path": "READING-POLICY.md",
+        "commit": "d50315a90fbe66c21f6c1ae15a86a56713337597"
+      }
+    },
+    {
+      "id": "eoreader6/scripts/experiments/FINDINGS.md",
+      "kind": "local-snapshot",
+      "path": "sources/local/eoreader6/scripts/experiments/FINDINGS.md",
+      "bytes": 27524,
+      "sha256": "9545de55ba1f728d135ca2766498837f2cdc0884bf24df856e79fea3c5926601",
+      "origin": {
+        "repo": "clovenbradshaw-ctrl/eoreader6",
+        "path": "scripts/experiments/FINDINGS.md",
+        "commit": "d50315a90fbe66c21f6c1ae15a86a56713337597"
+      }
+    },
+    {
+      "id": "eoreader6/scripts/experiments/README.md",
+      "kind": "local-snapshot",
+      "path": "sources/local/eoreader6/scripts/experiments/README.md",
+      "bytes": 13749,
+      "sha256": "a15a789464e47423c297a28b00bca0352b8a1c76aa94c892d33b40744c59135b",
+      "origin": {
+        "repo": "clovenbradshaw-ctrl/eoreader6",
+        "path": "scripts/experiments/README.md",
+        "commit": "d50315a90fbe66c21f6c1ae15a86a56713337597"
+      }
+    },
+    {
+      "id": "eoreader6/scripts/lib/segmentation-baselines.mjs",
+      "kind": "local-snapshot",
+      "path": "sources/local/eoreader6/scripts/lib/segmentation-baselines.mjs",
+      "bytes": 9821,
+      "sha256": "eeb9a9f09481fd8e0c0f7759072b9cf5af4406e4edd111c5db4ad622d2fc5d93",
+      "origin": {
+        "repo": "clovenbradshaw-ctrl/eoreader6",
+        "path": "scripts/lib/segmentation-baselines.mjs",
+        "commit": "d50315a90fbe66c21f6c1ae15a86a56713337597"
+      }
+    },
+    {
+      "id": "eoreader6/scripts/RESULTS.md",
+      "kind": "local-snapshot",
+      "path": "sources/local/eoreader6/scripts/RESULTS.md",
+      "bytes": 38276,
+      "sha256": "f59df345f73f5ac1e889323dbab7f4854e1e274618d5a01c11228be734864699",
+      "origin": {
+        "repo": "clovenbradshaw-ctrl/eoreader6",
+        "path": "scripts/RESULTS.md",
+        "commit": "d50315a90fbe66c21f6c1ae15a86a56713337597"
+      }
+    },
+    {
+      "id": "eoreader6/SEED.md",
+      "kind": "local-snapshot",
+      "path": "sources/local/eoreader6/SEED.md",
+      "bytes": 94862,
+      "sha256": "471dfc90845898113b3893b1cfda7d790147ea16877507b1a30963068eb54ac8",
+      "origin": {
+        "repo": "clovenbradshaw-ctrl/eoreader6",
+        "path": "SEED.md",
+        "commit": "d50315a90fbe66c21f6c1ae15a86a56713337597"
+      }
+    },
+    {
+      "id": "fillmore-1968",
+      "kind": "web",
+      "title": "The Case for Case, Fillmore, ERIC ED019631",
+      "path": "sources/web/fillmore-1968-ed019631.txt",
+      "bytes": 183387,
+      "sha256": "071c4716878d08ee4b4ee8b39a417864a13c2d4437074109449e8b2afe2705a3",
+      "origin": {
+        "url": "https://files.eric.ed.gov/fulltext/ED019631.pdf"
+      },
+      "retrievedAt": "2026-08-16T23:34:12.494Z"
+    },
+    {
+      "id": "ioannidis-2005",
+      "kind": "web",
+      "title": "Why Most Published Research Findings Are False, PLoS Medicine 2005",
+      "path": "sources/web/ioannidis-2005.txt",
+      "bytes": 38890,
+      "sha256": "6e3ec5b65e6530c2394b8c7a560153b1c94a81ba11cf928eee2287d1015ba98d",
+      "origin": {
+        "url": "https://journals.plos.org/plosmedicine/article/file?id=10.1371/journal.pmed.0020124&type=printable"
+      },
+      "retrievedAt": "2026-08-16T23:34:12.632Z"
+    },
+    {
+      "id": "quine-1948",
+      "kind": "web",
+      "title": "On What There Is, Review of Metaphysics 1948",
+      "path": "sources/web/quine-1948-on-what-there-is.txt",
+      "bytes": 42163,
+      "sha256": "c9e184180435b9158420835d68e9781a7e181a5f2f5da60b95e691b190405325",
+      "origin": {
+        "url": "https://rintintin.colorado.edu/~vancecd/phil375/Quine.pdf"
+      },
+      "retrievedAt": "2026-08-16T23:34:12.763Z"
+    },
+    {
+      "id": "reverb-2011",
+      "kind": "web",
+      "title": "Identifying Relations for Open Information Extraction, EMNLP 2011",
+      "path": "sources/web/reverb-2011-d11-1142.txt",
+      "bytes": 44528,
+      "sha256": "1baff546078430437a9d1c883d2989a7c1c7dec0b33faf24560e1677824dd00d",
+      "origin": {
+        "url": "https://aclanthology.org/D11-1142.pdf"
+      },
+      "retrievedAt": "2026-08-16T23:34:12.563Z"
+    },
+    {
+      "id": "shannon-1948",
+      "kind": "web",
+      "title": "A Mathematical Theory of Communication, Shannon 1948",
+      "path": "sources/web/shannon-1948.txt",
+      "bytes": 160705,
+      "sha256": "194d27f88f923f4a37c8405a4eaa0517ea0d6cb0faef8e6548b321211766e241",
+      "origin": {
+        "url": "https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf"
+      },
+      "retrievedAt": "2026-08-16T23:34:12.371Z"
+    }
+  ],
+  "unobtained": [
+    {
+      "id": "eo-constitution/CONSTITUTION.md",
+      "reason": "repository not among this session accessible repos and no repo-adding tool is available"
+    },
+    {
+      "id": "eoreader4.2/docs/eo-for-coders.md",
+      "reason": "repository not among this session accessible repos"
+    },
+    {
+      "id": "eoreader4.2/docs/eo-wiki.md",
+      "reason": "repository not among this session accessible repos"
+    },
+    {
+      "id": "eochat/essay.md",
+      "reason": "repository not among this session accessible repos"
+    },
+    {
+      "id": "eoWebLLM/LAWS.md",
+      "reason": "repository not among this session accessible repos"
+    },
+    {
+      "id": "bateson-1972-steps-to-an-ecology-of-mind",
+      "reason": "in copyright, no lawful full-text source found"
+    },
+    {
+      "id": "bender-gebru-2021-stochastic-parrots",
+      "reason": "both ACM and author-hosted copies answered a bot-challenge interstitial, bytes not obtained"
+    },
+    {
+      "id": "chow-1970-optimum-recognition-error",
+      "reason": "IEEE paywall, bytes not obtained"
+    },
+    {
+      "id": "morris-1938-foundations-theory-of-signs",
+      "reason": "in copyright, no lawful full-text source found"
+    }
+  ]
+}

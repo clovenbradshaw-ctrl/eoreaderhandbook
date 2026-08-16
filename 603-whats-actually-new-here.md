@@ -146,6 +146,27 @@ what can and can't be faked is from §IX, "The fifth definition": *"You
 cannot fake a ledger you did not earn, because the ledger is not the
 output — it is the record of how the output came to be."*
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+- “`resolvePronouns` returns 638 bindings and 820 gaps, and…” → `eoreader6/prior-art-teachable-language-comprehender.md#b21252-21482`, `eoreader6/prior-art-teachable-language-comprehender.md#b21483-21564`, `eoreader6/prior-art-teachable-language-comprehender.md#b21597-21631` *(+1 segment(s) not located)*
+- “Knowledge Vault had confidence; PROV-O has provenance vocabulary;…” → `eoreader6/prior-art-teachable-language-comprehender.md#b21919-22050`
+- “The closest prior art is the LCF proof-kernel…” → `eoreader6/prior-art-teachable-language-comprehender.md#b22617-22931`
+- “Machine reading, as a field, has approximately no…” → `eoreader6/prior-art-teachable-language-comprehender.md#b23099-23166`
+- “the empirical evidence that the risk is real…” → `eoreader6/prior-art-teachable-language-comprehender.md#b19576-19644`
+- “Fifty-seven years apart. Same mechanism. Nobody ported anything;…” → `eoreader6/prior-art-teachable-language-comprehender.md#b1516-1639`, `eoreader6/prior-art-teachable-language-comprehender.md#b1673-1747`
+- “What this project has that none of them…” → `eoreader6/prior-art-teachable-language-comprehender.md#b20890-20933`
+- “You cannot fake a ledger you did not…” → `eoreader6/prior-art-teachable-language-comprehender.md#b26598-26727`
+
+Quoted spans **not located in any obtained source** and not explained by a known gap — each is either the book's own illustrative speech, or a passage that reads as verbatim and is not, which is itself a finding to resolve:
+
+- “The Teachable Language Comprehender (TLC) is a program…”
+
+<!-- anchors:end -->
+
 <!-- nav:start -->
 [← 6.2 — The Fifty-Eight-Year-Old Objection, and Where the Project Is Actually Chipping at It](602-the-fifty-year-old-objection.md) · [Contents](000-index.md) · [6.4 — The Honest Gap List →](604-the-honest-gap-list.md)
 <!-- nav:end -->

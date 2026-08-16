@@ -146,6 +146,25 @@ and ConstraintLLM comparisons are, by contrast, drawn directly from
 `eoreader4.2/docs/eot-coder-roadmap.md` §2.1-2.2 — that generation's own
 comparison to outside work, not this book's addition.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+
+Not located because a source this chapter names is **not yet obtained** (`eoreader4.2/docs/eo-for-coders.md` — see the manifest's `unobtained` list for each one's reason):
+
+- “an instrument, not a runtime”
+- “every part declares a contract... a kernel checks…”
+- “verify during generation, not after”
+- “emit → checkpoint → revise wearing different clothes.”
+- “the nine operators as implemented in eoreader4.1 `core/operators.js`,…”
+- “Layer 0 — The Legend.”
+- “Layer 1 — The Nine Operators.”
+
+<!-- anchors:end -->
+
 <!-- nav:start -->
 [← 6.5 — Ancestors Named in the Code](605-ancestors-named-in-the-code.md) · [Contents](000-index.md) · [7.2 — The Watchmaker's Discipline →](702-the-watchmakers-discipline.md)
 <!-- nav:end -->

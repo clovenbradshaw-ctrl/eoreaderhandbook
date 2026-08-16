@@ -106,6 +106,23 @@ category."* The Montesquieu and separation-of-concerns connections above
 are this book's own added links to political philosophy and software
 engineering, not something the codebase itself cites.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+
+Not located because a source this chapter names is **not yet obtained** (`eo-constitution/CONSTITUTION.md` — see the manifest's `unobtained` list for each one's reason):
+
+- “keep these apart, on purpose”
+- “Deleting an application must change no engine reading”
+- “The engine is `eoreader6`... the current, re-earned implementation…”
+- “Their dead-end logs are load-bearing and must be…”
+- “No other domain exists. A thing that fits…”
+
+<!-- anchors:end -->
+
 <!-- nav:start -->
 [← 3.6 — How the Engine Is Allowed to Grow](306-how-the-engine-is-allowed-to-grow.md) · [Contents](000-index.md) · [4.2 — The Tests, in Plain Language →](402-the-tests-in-plain-language.md)
 <!-- nav:end -->

@@ -119,6 +119,23 @@ synonymy and software-deprecation connections above are this book's own
 added links to biology and software engineering, not something the
 codebase itself cites.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+- “A quantity's name is a claim about what…” → `eoreader6/SEED.md#b49621-49666`
+- “`ananda` is now `aperture`, everywhere: 252 occurrences across…” → `eoreader6/SEED.md#b49713-49783`, `eoreader6/SEED.md#b49847-49877`, `eoreader6/SEED.md#b50129-50279`, `eoreader6/SEED.md#b50825-50889`
+- “This quantity was called `ananda` until 2026-08-04. The…” → `eoreader6/SEED.md#b6099-6185`
+
+Not located because a source this chapter names is **not yet obtained** (`eo-constitution/CONSTITUTION.md` — see the manifest's `unobtained` list for each one's reason):
+
+- “an amendment is a changed test, not a…”
+- “just a change of heart”
+
+<!-- anchors:end -->
+
 <!-- nav:start -->
 [← 4.3 — A Constitution That Edits Itself](403-a-constitution-that-edits-itself.md) · [Contents](000-index.md) · [5.1 — A Thin Front Door →](501-a-thin-front-door.md)
 <!-- nav:end -->

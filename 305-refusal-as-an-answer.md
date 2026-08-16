@@ -150,6 +150,29 @@ itself cites. The Codd/NULL and Łukasiewicz history is drawn from
 separate generation's own internal notes, cited here because the parallel
 is precise, not because it describes eoreader6 itself.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+- “this same act at different grains, not three…” → `eoreader6/CUBE.md#b5200-5270`
+- “type error before null... never spend a measurement…” → `eoreader6/SEED.md#b4777-4833`
+
+Not located because a source this chapter names is **not yet obtained** (`eoreader4.2/docs/eo-wiki.md`, `eochat/essay.md`, `chow-1970-optimum-recognition-error` — see the manifest's `unobtained` list for each one's reason):
+
+- “there wasn't a real ground to measure against…”
+- “90% of its content words were not carried…”
+- “exceeded the fold budget and were dropped, not…”
+- “there was more than the space available, and…”
+- “On Optimum Recognition Error and Reject Tradeoff”
+- “I decline to classify this one”
+- “the evidence didn't clear the gate”
+- “not printed rather than printed unsupported.”
+- “EO and Codd's Null Problem”
+
+<!-- anchors:end -->
+
 <!-- nav:start -->
 [← 3.4 — Turns and Memory](304-turns-and-memory.md) · [Contents](000-index.md) · [3.6 — How the Engine Is Allowed to Grow →](306-how-the-engine-is-allowed-to-grow.md)
 <!-- nav:end -->

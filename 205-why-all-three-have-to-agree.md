@@ -147,6 +147,21 @@ codebase itself cites. The `commutator()`/Zurek account above is drawn
 directly from `eoreader4.2/docs/kernel-probe-2026-07.md` — that audit's
 own finding and own words, not this book's addition.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+- “Terrain and stance both carry grain, so grain…” → `eoreader6/CUBE.md#b2079-2241`
+- “A known contradiction in the prior engine,” → `eoreader6/CUBE.md#b8394-8435`
+
+Quoted spans **not located in any obtained source** and not explained by a known gap — each is either the book's own illustrative speech, or a passage that reads as verbatim and is not, which is itself a finding to resolve:
+
+- “apt as an outside reading of the code;…”
+
+<!-- anchors:end -->
+
 <!-- nav:start -->
 [← 2.4 — Nine Kinds of "How"](204-nine-kinds-of-how.md) · [Contents](000-index.md) · [2.6 — Checked Against Language Itself →](206-checked-against-language-itself.md)
 <!-- nav:end -->

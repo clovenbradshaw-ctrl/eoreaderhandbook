@@ -153,6 +153,29 @@ belongs to a different generation. The Peirce connection earlier in this
 chapter is this book's own added link to the history of semiotics, not
 something the codebase itself cites.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+- “Clearing the ground of existence” → `eoreader6/CUBE.md#b3191-3225`
+- “the engine refusing a claim” → `eoreader6/CUBE.md#b4673-4700`
+- “it structurally *requires* `pattern.moved === true`” → `eoreader6/CUBE.md#b5353-5403`
+- “Structure-tier relations (Figure cell on the operator grid).” → `eoreader6/SEED.md#b33976-34034`
+
+Not located because a source this chapter names is **not yet obtained** (`eoreader4.2/docs/eo-for-coders.md` — see the manifest's `unobtained` list for each one's reason):
+
+- “does this exist at all.”
+- “never let it go stale”
+- “synthesize a ward from beds”
+- “A sign, or representamen, is something which stands…”
+- “refers to the Object that it denotes merely…”
+- “by virtue of being really affected by that…”
+- “why nine, and not some other number”
+
+<!-- anchors:end -->
+
 <!-- nav:start -->
 [← 1.5 — Three Numbers and a Vital Sign](105-three-numbers-and-a-vital-sign.md) · [Contents](000-index.md) · [2.2 — The Order Things Happen In →](202-the-order-things-happen-in.md)
 <!-- nav:end -->

@@ -54,6 +54,34 @@ row so the refusal itself stays auditable, plus rows for the second
 audit's in-file citations and a correction to its own misclassified
 preregistration row.
 
+**v0.8.1 changelog (byte anchors):** the handbook now practices, on its own
+quotations, the law its Chapter 5.4 teaches — *"A quoted passage can be
+followed to its source bytes and those bytes match the quote. An audit path
+that leads somewhere unverifiable is decoration."* A source registry
+(`sources/MANIFEST.json`) holds every document the chapters quote that could
+be obtained: byte-for-byte snapshots of the eoreader6 files the footers name
+(origin repo, path, and commit recorded, sha256 over each snapshot), and
+retrieved primary texts (Shannon 1948, Fillmore's ERIC ED019631 working
+paper, the ReVerb EMNLP 2011 paper, Ioannidis 2005, Quine's "On What There
+Is", "Attention Is All You Need") with URL, retrieval date, and the raw PDF
+kept beside the extracted text face. What could not be obtained is a typed
+`unobtained` entry with its reason — the eo-constitution / eoreader4.2 /
+eochat / eoWebLLM documents (repositories outside this session's reach),
+Bateson and Morris (in copyright), Chow 1970 (paywall), Bender & Gebru
+(bot-challenge interstitials) — never a silent absence.
+`scripts/anchor-quotes.mjs` extracts every quotation of substance (≥5-word
+segments; ellipses split; a long segment with one OCR hiccup bisects and
+each exactly-matched piece anchors on its own), locates each in the obtained
+bytes, and writes both `sources/ANCHORS.json` and a generated anchors block
+into each chapter: quote → `source-id#b<start>-<end>`, UTF-8 byte offsets
+into the snapshot the manifest names. `--verify` closes the round trip —
+every anchor's byte range is sliced back out of the snapshot (whose sha256
+must still match the manifest) and compared to the quote under one declared
+normalization; the current count is 127 anchors, 0 failures. Unlocated
+quotes stay listed, split into two typed groups: explained by a named
+unobtained source, or a genuine suspect — a passage that reads as verbatim
+and could not be found, which is a finding, not a formatting problem.
+
 **Purpose of this file:** decide, on paper, what the handbook teaches, in what
 order, to whom, using what material — before spending the effort to write it.
 It follows the same discipline the rest of this lineage asks of everything

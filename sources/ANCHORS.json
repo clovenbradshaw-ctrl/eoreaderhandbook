@@ -1,0 +1,2864 @@
+{
+  "normalization": "typographic quotes/dashes folded, ellipsis to '...', markdown emphasis stripped, whitespace collapsed, case folded",
+  "minSegmentWords": 5,
+  "chapters": {
+    "001-what-this-book-is-and-isnt.md": [
+      {
+        "quote": "What does Victor Frankenstein feel toward the creature he made?",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eochat/essay.md"
+        ]
+      },
+      {
+        "quote": "to guard against the two deaths,",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eochat/essay.md"
+        ]
+      }
+    ],
+    "002-grammar-and-meaning-primer.md": [
+      {
+        "quote": "The dog bit the man",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "morris-1938-foundations-theory-of-signs"
+        ]
+      },
+      {
+        "quote": "the dog bit the man",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "morris-1938-foundations-theory-of-signs"
+        ]
+      },
+      {
+        "quote": "the man bit the dog",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "morris-1938-foundations-theory-of-signs"
+        ]
+      },
+      {
+        "quote": "the formal relations of signs to one another",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "morris-1938-foundations-theory-of-signs"
+        ]
+      },
+      {
+        "quote": "the relations of signs to the objects to which the signs are applicable",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 2,
+        "unobtainedCandidates": [
+          "morris-1938-foundations-theory-of-signs"
+        ]
+      },
+      {
+        "quote": "the relation of signs to interpreters.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "morris-1938-foundations-theory-of-signs"
+        ]
+      },
+      {
+        "quote": "the dog bit the man.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "morris-1938-foundations-theory-of-signs"
+        ]
+      },
+      {
+        "quote": "Foundations of the Theory of Signs",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "morris-1938-foundations-theory-of-signs"
+        ]
+      }
+    ],
+    "003-ontology-and-epistemology-primer.md": [
+      {
+        "quote": "What kind of thing is this?",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "What kind of thing is this?",
+            "source": "eoreader6/SEED.md",
+            "b0": 92109,
+            "b1": 92135
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "what *kind* of thing is this — a specific one, a category, or a relationship?",
+        "status": "partial",
+        "segments": [
+          {
+            "text": "what *kind* of thing is this —",
+            "source": "eoreader6/SEED.md",
+            "b0": 92109,
+            "b1": 92135
+          }
+        ],
+        "unlocatedSegments": 1
+      },
+      {
+        "quote": "what sort of thing would even count as an answer.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1
+      },
+      {
+        "quote": "How do you know, and what would change your mind?",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1
+      },
+      {
+        "quote": "this patient has a fever.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1
+      },
+      {
+        "quote": "How do you know, and what would make you change your mind?",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1
+      },
+      {
+        "quote": "to be is to be the value of a variable.",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "to be is to be the value of a variable.",
+            "source": "quine-1948",
+            "b0": 32023,
+            "b1": 32061
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "what would change your mind",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1
+      },
+      {
+        "quote": "Everybody is right. More specifically, everybody—including me—has some important pieces of the truth, and all of those pieces need to be honored, cherished, and included in a more gracious, spacious, and compassionate embrace.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 4
+      },
+      {
+        "quote": "Material considered and deliberately left out of this pass",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1
+      },
+      {
+        "quote": "As a classifier — deriving a cell from content — this was already measured and refuted... It is promoted out of the code.",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "As a classifier — deriving a cell from content — this was already measured and refuted",
+            "source": "eoreader6/CUBE.md",
+            "b0": 406,
+            "b1": 498
+          },
+          {
+            "text": "It is promoted out of the code.",
+            "source": "eoreader6/CUBE.md",
+            "b0": 750,
+            "b1": 780
+          }
+        ],
+        "unlocatedSegments": 0
+      }
+    ],
+    "004-what-a-language-model-is.md": [
+      {
+        "quote": "was that answer based on this document, or on something the model picked up from its training, or some blend of both, in what proportion?",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 3,
+        "unobtainedCandidates": [
+          "eo-constitution/CONSTITUTION.md",
+          "bender-gebru-2021-stochastic-parrots"
+        ]
+      },
+      {
+        "quote": "what's already in the document",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eo-constitution/CONSTITUTION.md",
+          "bender-gebru-2021-stochastic-parrots"
+        ]
+      },
+      {
+        "quote": "what's already inside the model",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eo-constitution/CONSTITUTION.md",
+          "bender-gebru-2021-stochastic-parrots"
+        ]
+      },
+      {
+        "quote": "On the Dangers of Stochastic Parrots",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eo-constitution/CONSTITUTION.md",
+          "bender-gebru-2021-stochastic-parrots"
+        ]
+      },
+      {
+        "quote": "what the model already knew",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eo-constitution/CONSTITUTION.md",
+          "bender-gebru-2021-stochastic-parrots"
+        ]
+      },
+      {
+        "quote": "Attention Is All You Need",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "Attention Is All You Need",
+            "source": "attention-2017",
+            "b0": 174,
+            "b1": 199
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "Does this mechanism build a nothing, or weight what is present? ... Attention is the canonical instance and is refused wherever it is the measurement",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 3,
+        "unobtainedCandidates": [
+          "eo-constitution/CONSTITUTION.md",
+          "bender-gebru-2021-stochastic-parrots"
+        ]
+      },
+      {
+        "quote": "there is no ledger. You cannot ask which of its knowledge was used, or what it declined to conclude, or what it discarded.",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "there is no ledger. You cannot ask which of its knowledge was used, or what it declined to conclude, or what it discarded.",
+            "source": "eoreader6/prior-art-teachable-language-comprehender.md",
+            "b0": 20194,
+            "b1": 20315
+          }
+        ],
+        "unlocatedSegments": 0
+      }
+    ],
+    "101-noticing.md": [
+      {
+        "quote": "how do you know a rule was broken",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eo-constitution/CONSTITUTION.md"
+        ]
+      },
+      {
+        "quote": "what would be unremarkable here",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eo-constitution/CONSTITUTION.md"
+        ]
+      },
+      {
+        "quote": "A ground is a nothing constructed by perturbing what is present. Everything is a difference against one.",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "A ground is a nothing constructed by perturbing what is present. Everything is a difference against one.",
+            "source": "eoreader6/SEED.md",
+            "b0": 615,
+            "b1": 722
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "E. coli compares the gradient against a ground it rebuilds — no receptor per molecule.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 2,
+        "unobtainedCandidates": [
+          "eo-constitution/CONSTITUTION.md"
+        ]
+      }
+    ],
+    "102-the-difference-that-makes-a-difference.md": [
+      {
+        "quote": "it changed what happens next",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "bateson-1972-steps-to-an-ecology-of-mind"
+        ]
+      },
+      {
+        "quote": "the same difference showed up again",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "bateson-1972-steps-to-an-ecology-of-mind"
+        ]
+      },
+      {
+        "quote": "we failed to detect it,",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "bateson-1972-steps-to-an-ecology-of-mind"
+        ]
+      },
+      {
+        "quote": "In fact, what we mean by information—the elementary unit of > information—is a difference which makes a difference, and it is able to > make a difference because the neural pathways along which it travels > and is continually transformed are themselves provided with energy.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 4,
+        "unobtainedCandidates": [
+          "bateson-1972-steps-to-an-ecology-of-mind"
+        ]
+      },
+      {
+        "quote": "A 'bit' of information is definable as a difference which makes a difference",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 2,
+        "unobtainedCandidates": [
+          "bateson-1972-steps-to-an-ecology-of-mind"
+        ]
+      },
+      {
+        "quote": "A Mathematical Theory of Communication",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "A Mathematical Theory of Communication",
+            "source": "shannon-1948",
+            "b0": 124,
+            "b1": 162
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "The fundamental problem of communication is that of reproducing at one point either exactly or approximately a message selected at another point. Frequently the messages have meaning... These semantic aspects of communication are irrelevant to the engineering problem.",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "The fundamental problem of communication is that of reproducing at one point either exactly or approximately a message selected at another point. Frequently the messages have meaning",
+            "source": "shannon-1948",
+            "b0": 775,
+            "b1": 957
+          },
+          {
+            "text": "These semantic aspects of communication are irrelevant to the engineering problem.",
+            "source": "shannon-1948",
+            "b0": 1070,
+            "b1": 1151
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "a difference that made no difference is not information",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "a difference that made no difference is not information",
+            "source": "eoreader6/SEED.md",
+            "b0": 1858,
+            "b1": 1913
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "compare against something freshly rebuilt, not something fixed,",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "bateson-1972-steps-to-an-ecology-of-mind"
+        ]
+      },
+      {
+        "quote": "Pattern is Bateson's: a difference that makes a difference... A figure earns pattern by changing what happens next, and the only next available is the ground.",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "Pattern is Bateson's: a difference that makes a difference",
+            "source": "eoreader6/SEED.md",
+            "b0": 1046,
+            "b1": 1104
+          },
+          {
+            "text": "A figure earns pattern by changing what happens next, and the only next available is the ground.",
+            "source": "eoreader6/SEED.md",
+            "b0": 1231,
+            "b1": 1326
+          }
+        ],
+        "unlocatedSegments": 0
+      }
+    ],
+    "103-witness.md": [
+      {
+        "quote": "it stood out, but nothing changed",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1
+      },
+      {
+        "quote": "so I'll say something about it",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1
+      },
+      {
+        "quote": "I looked and there was nothing worth reporting",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1
+      },
+      {
+        "quote": "I wasn't allowed to look.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1
+      },
+      {
+        "quote": "this was actually the signal",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1
+      },
+      {
+        "quote": "All three terms, or it is not a record. `witness` refuses a figure whose pattern did not move the ground — a difference that made no difference is not information, so it is not testimony either... The system may perceive anything. It may speak only of what changed the ground.",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "All three terms, or it is not a record. `witness` refuses a figure whose pattern did not move the ground — a difference that made no difference is not information, so it is not testimony either",
+            "source": "eoreader6/SEED.md",
+            "b0": 1747,
+            "b1": 1944
+          },
+          {
+            "text": "The system may perceive anything. It may speak only of what changed the ground.",
+            "source": "eoreader6/SEED.md",
+            "b0": 2007,
+            "b1": 2085
+          }
+        ],
+        "unlocatedSegments": 0
+      }
+    ],
+    "104-the-two-deaths.md": [
+      {
+        "quote": "Two deaths, one conformance family each: Confabulation — it speaks without witness. Sclerosis — the ground closes, nothing can differ from it, and it becomes an oracle: fluent, sourced, correct, incapable of encounter. With pattern in place the second is largely self-announcing.",
+        "status": "partial",
+        "segments": [
+          {
+            "text": "it, and it becomes an oracle: fluent, sourced, correct, incapable of encounter. With pattern in place the second is largely self-announcing.",
+            "source": "eoreader6/SEED.md",
+            "b0": 2822,
+            "b1": 2964
+          }
+        ],
+        "unlocatedSegments": 2
+      }
+    ],
+    "105-three-numbers-and-a-vital-sign.md": [
+      {
+        "quote": "don't answer below this number",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1
+      },
+      {
+        "quote": "the warmth you check for.",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "the warmth you check for.",
+            "source": "eoreader6/SEED.md",
+            "b0": 6014,
+            "b1": 6038
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "They are the whole physiology. None of them is ever a default",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "They are the whole physiology. None of them is ever a default",
+            "source": "eoreader6/SEED.md",
+            "b0": 5127,
+            "b1": 5188
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "Aperture is the volume of the ground... Never a gate, never a score: the warmth you check for.",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "Aperture is the volume of the ground",
+            "source": "eoreader6/SEED.md",
+            "b0": 5550,
+            "b1": 5586
+          },
+          {
+            "text": "Never a gate, never a score: the warmth you check for.",
+            "source": "eoreader6/SEED.md",
+            "b0": 5985,
+            "b1": 6038
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "A quantity's name is a claim about what it is",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "A quantity's name is a claim about what it is",
+            "source": "eoreader6/SEED.md",
+            "b0": 49621,
+            "b1": 49666
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "Ananda means bliss. The identifier therefore asserted that an interquartile width is a state of the system, and no null in this repo establishes that.",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "Ananda means bliss. The identifier therefore asserted that an interquartile width is a state of the system, and no null in this repo establishes that.",
+            "source": "eoreader6/SEED.md",
+            "b0": 50129,
+            "b1": 50279
+          }
+        ],
+        "unlocatedSegments": 0
+      }
+    ],
+    "201-nine-verbs.md": [
+      {
+        "quote": "does this exist at all.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eoreader4.2/docs/eo-for-coders.md"
+        ]
+      },
+      {
+        "quote": "never let it go stale",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eoreader4.2/docs/eo-for-coders.md"
+        ]
+      },
+      {
+        "quote": "synthesize a ward from beds",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eoreader4.2/docs/eo-for-coders.md"
+        ]
+      },
+      {
+        "quote": "A sign, or representamen, is something which stands to somebody for something in some respect or capacity. It addresses somebody, that is, creates in the mind of that person an equivalent sign, or perhaps a more developed sign.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 4,
+        "unobtainedCandidates": [
+          "eoreader4.2/docs/eo-for-coders.md"
+        ]
+      },
+      {
+        "quote": "refers to the Object that it denotes merely by virtue of characters of its own",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 2,
+        "unobtainedCandidates": [
+          "eoreader4.2/docs/eo-for-coders.md"
+        ]
+      },
+      {
+        "quote": "by virtue of being really affected by that Object.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eoreader4.2/docs/eo-for-coders.md"
+        ]
+      },
+      {
+        "quote": "why nine, and not some other number",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eoreader4.2/docs/eo-for-coders.md"
+        ]
+      },
+      {
+        "quote": "Clearing the ground of existence",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "Clearing the ground of existence",
+            "source": "eoreader6/CUBE.md",
+            "b0": 3191,
+            "b1": 3225
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "the engine refusing a claim",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "the engine refusing a claim",
+            "source": "eoreader6/CUBE.md",
+            "b0": 4673,
+            "b1": 4700
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "it structurally *requires* `pattern.moved === true`",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "it structurally *requires* `pattern.moved === true`",
+            "source": "eoreader6/CUBE.md",
+            "b0": 5353,
+            "b1": 5403
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "Structure-tier relations (Figure cell on the operator grid).",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "Structure-tier relations (Figure cell on the operator grid).",
+            "source": "eoreader6/SEED.md",
+            "b0": 33976,
+            "b1": 34034
+          }
+        ],
+        "unlocatedSegments": 0
+      }
+    ],
+    "202-the-order-things-happen-in.md": [
+      {
+        "quote": "ground before figure before pattern",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eoreader4.2/docs/eo-wiki.md"
+        ]
+      },
+      {
+        "quote": "you cannot use something before it's been established",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eoreader4.2/docs/eo-wiki.md"
+        ]
+      },
+      {
+        "quote": "a higher order only means something once a lower one is in place,",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 2,
+        "unobtainedCandidates": [
+          "eoreader4.2/docs/eo-wiki.md"
+        ]
+      },
+      {
+        "quote": "this level of structure has to be built out of, and non-arbitrarily organize, the level below it",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 2,
+        "unobtainedCandidates": [
+          "eoreader4.2/docs/eo-wiki.md"
+        ]
+      },
+      {
+        "quote": "`GRAINS` is the triad from `SEED.md`. It is the same three terms; the seed's unit is one axis of this instrument.",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "`GRAINS` is the triad from `SEED.md`. It is the same three terms; the seed's unit is one axis of this instrument.",
+            "source": "eoreader6/CUBE.md",
+            "b0": 943,
+            "b1": 1054
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "The binding organ ... reads an entity register — arrival indices of beings already admitted through the witness gate.",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "reads an entity register — arrival indices of beings already admitted through the witness gate.",
+            "source": "eoreader6/SEED.md",
+            "b0": 33689,
+            "b1": 33785
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "Model of Hierarchical Complexity (Commons)",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eoreader4.2/docs/eo-wiki.md"
+        ]
+      }
+    ],
+    "203-nine-kinds-of-where.md": [
+      {
+        "quote": "what got established, by which kind of act.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eoreader4.2/docs/eo-wiki.md",
+          "eoreader4.2/docs/eo-for-coders.md"
+        ]
+      },
+      {
+        "quote": "`Kind` is induced over relation *terms*; `Network` is a graph over admitted Entities and Links",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "`Kind` is induced over relation *terms*; `Network` is a graph over admitted Entities and Links",
+            "source": "eoreader6/11-terrain-occupancy-and-the-two-ascents.md",
+            "b0": 754,
+            "b1": 847
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "the span between two re-zero events over the reader's accumulated ground",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "the span between two re-zero events over the reader's accumulated ground",
+            "source": "eoreader6/11-terrain-occupancy-and-the-two-ascents.md",
+            "b0": 6945,
+            "b1": 7017
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "the current set of induced Kinds plus their core fields",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "the current set of induced Kinds plus their core fields",
+            "source": "eoreader6/11-terrain-occupancy-and-the-two-ascents.md",
+            "b0": 863,
+            "b1": 918
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "Most Ontologies: 'It's all Entities.' EO: 'Entities are only one of many'",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eoreader4.2/docs/eo-wiki.md",
+          "eoreader4.2/docs/eo-for-coders.md"
+        ]
+      }
+    ],
+    "204-nine-kinds-of-how.md": [
+      {
+        "quote": "a stance is not a mood, and it cannot be chosen.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1
+      },
+      {
+        "quote": "you'll meet this again shortly,",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1
+      },
+      {
+        "quote": "a stance is not a mood and cannot be chosen",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "a stance is not a mood and cannot be chosen",
+            "source": "eoreader6/CUBE.md",
+            "b0": 1977,
+            "b1": 2020
+          }
+        ],
+        "unlocatedSegments": 0
+      }
+    ],
+    "205-why-all-three-have-to-agree.md": [
+      {
+        "quote": "apt as an outside reading of the code; not a term the codebase itself claims.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 2
+      },
+      {
+        "quote": "Terrain and stance both carry grain, so grain is claimed twice — and that redundancy is the whole point. Over-determination is what makes an address falsifiable.",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "Terrain and stance both carry grain, so grain is claimed twice — and that redundancy is the whole point. Over-determination is what makes an address falsifiable.",
+            "source": "eoreader6/CUBE.md",
+            "b0": 2079,
+            "b1": 2241
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "A known contradiction in the prior engine,",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "A known contradiction in the prior engine,",
+            "source": "eoreader6/CUBE.md",
+            "b0": 8394,
+            "b1": 8435
+          }
+        ],
+        "unlocatedSegments": 0
+      }
+    ],
+    "206-checked-against-language-itself.md": [
+      {
+        "quote": "Empirically strong on proportionality and face-level clustering; mixed on axis independence; coordinate geometry predictions not met.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 2,
+        "unobtainedCandidates": [
+          "eoreader4.2/docs/eo-wiki.md"
+        ]
+      },
+      {
+        "quote": "the axes track something real",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eoreader4.2/docs/eo-wiki.md"
+        ]
+      },
+      {
+        "quote": "these axes are better than some other three would be",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eoreader4.2/docs/eo-wiki.md"
+        ]
+      },
+      {
+        "quote": "EO Lexical Analysis v2 — Results Report",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eoreader4.2/docs/eo-wiki.md"
+        ]
+      },
+      {
+        "quote": "The Lexical Analysis: EO's Preliminary Empirical Grounding",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eoreader4.2/docs/eo-wiki.md"
+        ]
+      }
+    ],
+    "207-tried-against-a-rival.md": [
+      {
+        "quote": "The three questions track something real",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eoreader4.2/docs/eo-wiki.md"
+        ]
+      },
+      {
+        "quote": "the three questions carve language better than some other three questions would",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eoreader4.2/docs/eo-wiki.md"
+        ]
+      },
+      {
+        "quote": "if an off-the-shelf rival triad from ordinary linguistics matches or beats the EO triad on the same instrument, the superiority claim is falsified — coherence-against-chance would then be a cheap property many partitions share, not evidence for these particular axes.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 4,
+        "unobtainedCandidates": [
+          "eoreader4.2/docs/eo-wiki.md"
+        ]
+      },
+      {
+        "quote": "The stronger claim — that THESE three dimensions carve language better than some other three would — is unsupported.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 2,
+        "unobtainedCandidates": [
+          "eoreader4.2/docs/eo-wiki.md"
+        ]
+      },
+      {
+        "quote": "closer to orthogonal than an obvious rival,",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eoreader4.2/docs/eo-wiki.md"
+        ]
+      }
+    ],
+    "301-a-reading-from-the-inside.md": [
+      {
+        "quote": "What does Victor Frankenstein feel toward the creature he made?",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eochat/essay.md"
+        ]
+      },
+      {
+        "quote": "90% of its content words were not carried by its evidence.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eochat/essay.md"
+        ]
+      }
+    ],
+    "302-gifts-not-guesses.md": [
+      {
+        "quote": "Benford's Law (Newcomb 1881 / Benford 1938) — received, not derived from this ledger.",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "Benford's Law (Newcomb 1881 / Benford 1938) — received, not derived from this ledger.",
+            "source": "eoreader6/goldens/surprise/README.md",
+            "b0": 4666,
+            "b1": 4752
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "does this look like the right kind of thing,",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1
+      },
+      {
+        "quote": "The first ground is received, never derived... Deriving the origin is a wall, not a hard problem",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "The first ground is received, never derived",
+            "source": "eoreader6/SEED.md",
+            "b0": 3101,
+            "b1": 3144
+          },
+          {
+            "text": "Deriving the origin is a wall, not a hard problem",
+            "source": "eoreader6/SEED.md",
+            "b0": 3194,
+            "b1": 3243
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "A prior is relevant exactly insofar as it lowers the surprise of what is encountered",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "A prior is relevant exactly insofar as it lowers the surprise of what is encountered",
+            "source": "eoreader6/SEED.md",
+            "b0": 15233,
+            "b1": 15317
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "Relevance is not a property of a prior. It is a property of the meeting between a prior and this material, and its measure is the surprise that did not happen",
+        "status": "partial",
+        "segments": [
+          {
+            "text": "Relevance is not a property of a prior. It is a property of the meeting",
+            "source": "eoreader6/SEED.md",
+            "b0": 15576,
+            "b1": 15647
+          },
+          {
+            "text": "between a prior and this material, and its",
+            "source": "eoreader6/SEED.md",
+            "b0": 15650,
+            "b1": 15692
+          }
+        ],
+        "unlocatedSegments": 1
+      }
+    ],
+    "303-a-guided-tour-of-the-organs.md": [
+      {
+        "quote": "no, and it doesn't try to.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1
+      },
+      {
+        "quote": "An organ that reads the reading's own trail, then an organ that reads that organ, collapses into a clock reading its own arithmetic... The frame refuses the regress by type.",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "An organ that reads the reading's own trail, then an organ that reads that organ, collapses into a clock reading its own arithmetic",
+            "source": "eoreader6/SEED.md",
+            "b0": 30423,
+            "b1": 30554
+          },
+          {
+            "text": "The frame refuses the regress by type.",
+            "source": "eoreader6/SEED.md",
+            "b0": 30758,
+            "b1": 30795
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "Order is measured. Time may be received, discovered, or remain unresolved.",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "Order is measured. Time may be received, discovered, or remain unresolved.",
+            "source": "eoreader6/SEED.md",
+            "b0": 21794,
+            "b1": 21867
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "It is modality-blind by construction: it reads arrival positions, never surfaces, never words, never a language... Meaning, when it comes, is earned by higher organs.",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "It is modality-blind by construction: it reads arrival positions, never surfaces, never words, never a language",
+            "source": "eoreader6/SEED.md",
+            "b0": 33840,
+            "b1": 33951
+          },
+          {
+            "text": "Meaning, when it comes, is earned by higher organs.",
+            "source": "eoreader6/SEED.md",
+            "b0": 34106,
+            "b1": 34156
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "the same standing `cascade` already holds",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "the same standing `cascade` already holds",
+            "source": "eoreader6/SEED.md",
+            "b0": 40568,
+            "b1": 40609
+          }
+        ],
+        "unlocatedSegments": 0
+      }
+    ],
+    "304-turns-and-memory.md": [
+      {
+        "quote": "Firstness, partially earned: the turn holds a sequence",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "Firstness, partially earned: the turn holds a sequence",
+            "source": "eoreader6/SEED.md",
+            "b0": 31582,
+            "b1": 31636
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "`runTurn` now receives a `register`... and hands its own back, so the engine holds the sequence locally at the turn boundary... What is still not earned is the enforcement that a genuinely-first ground is *received* — the engine cannot know that the caller read nothing before... The register is one closing scalar plus a declared choice, never a rollup of the trail.",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "`runTurn` now receives a `register`",
+            "source": "eoreader6/SEED.md",
+            "b0": 31888,
+            "b1": 31921
+          },
+          {
+            "text": "and hands its own back, so the engine holds the sequence locally at the turn boundary",
+            "source": "eoreader6/SEED.md",
+            "b0": 32025,
+            "b1": 32110
+          },
+          {
+            "text": "What is still not earned is the enforcement that a genuinely-first ground is *received* — the engine cannot know that the caller read nothing before",
+            "source": "eoreader6/SEED.md",
+            "b0": 32714,
+            "b1": 32864
+          },
+          {
+            "text": "The register is one closing scalar plus a declared choice, never a rollup of the trail.",
+            "source": "eoreader6/SEED.md",
+            "b0": 32935,
+            "b1": 33021
+          }
+        ],
+        "unlocatedSegments": 0
+      }
+    ],
+    "305-refusal-as-an-answer.md": [
+      {
+        "quote": "there wasn't a real ground to measure against in the first place.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eoreader4.2/docs/eo-wiki.md",
+          "eochat/essay.md",
+          "chow-1970-optimum-recognition-error"
+        ]
+      },
+      {
+        "quote": "90% of its content words were not carried by its evidence",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eoreader4.2/docs/eo-wiki.md",
+          "eochat/essay.md",
+          "chow-1970-optimum-recognition-error"
+        ]
+      },
+      {
+        "quote": "exceeded the fold budget and were dropped, not truncated",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eoreader4.2/docs/eo-wiki.md",
+          "eochat/essay.md",
+          "chow-1970-optimum-recognition-error"
+        ]
+      },
+      {
+        "quote": "there was more than the space available, and rather than quietly trimming it down to fit, the system is telling you it was left out whole.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 4,
+        "unobtainedCandidates": [
+          "eoreader4.2/docs/eo-wiki.md",
+          "eochat/essay.md",
+          "chow-1970-optimum-recognition-error"
+        ]
+      },
+      {
+        "quote": "On Optimum Recognition Error and Reject Tradeoff",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eoreader4.2/docs/eo-wiki.md",
+          "eochat/essay.md",
+          "chow-1970-optimum-recognition-error"
+        ]
+      },
+      {
+        "quote": "I decline to classify this one",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eoreader4.2/docs/eo-wiki.md",
+          "eochat/essay.md",
+          "chow-1970-optimum-recognition-error"
+        ]
+      },
+      {
+        "quote": "the evidence didn't clear the gate",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eoreader4.2/docs/eo-wiki.md",
+          "eochat/essay.md",
+          "chow-1970-optimum-recognition-error"
+        ]
+      },
+      {
+        "quote": "this same act at different grains, not three unrelated failure modes.",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "this same act at different grains, not three unrelated failure modes.",
+            "source": "eoreader6/CUBE.md",
+            "b0": 5200,
+            "b1": 5270
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "type error before null... never spend a measurement on what the algebra catches",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "never spend a measurement on what the algebra catches",
+            "source": "eoreader6/SEED.md",
+            "b0": 4777,
+            "b1": 4833
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "not printed rather than printed unsupported.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eoreader4.2/docs/eo-wiki.md",
+          "eochat/essay.md",
+          "chow-1970-optimum-recognition-error"
+        ]
+      },
+      {
+        "quote": "EO and Codd's Null Problem",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eoreader4.2/docs/eo-wiki.md",
+          "eochat/essay.md",
+          "chow-1970-optimum-recognition-error"
+        ]
+      }
+    ],
+    "306-how-the-engine-is-allowed-to-grow.md": [
+      {
+        "quote": "An organ joins only when the level test returns `above` against the core... Unwired is failing.",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "An organ joins only when the level test returns `above` against the core",
+            "source": "eoreader6/SEED.md",
+            "b0": 6316,
+            "b1": 6388
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "the mouth is language-specific by construction, the organ isn't",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "the mouth is language-specific by construction, the organ isn't",
+            "source": "eoreader6/scripts/experiments/README.md",
+            "b0": 6685,
+            "b1": 6748
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "EXPERIMENTAL. Unwired. Not a golden, not a certified organ",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "EXPERIMENTAL. Unwired. Not a golden, not a certified organ",
+            "source": "eoreader6/scripts/experiments/README.md",
+            "b0": 27,
+            "b1": 85
+          }
+        ],
+        "unlocatedSegments": 0
+      }
+    ],
+    "401-four-boxes.md": [
+      {
+        "quote": "keep these apart, on purpose",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eo-constitution/CONSTITUTION.md"
+        ]
+      },
+      {
+        "quote": "Deleting an application must change no engine reading",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eo-constitution/CONSTITUTION.md"
+        ]
+      },
+      {
+        "quote": "The engine is `eoreader6`... the current, re-earned implementation of the one operation",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eo-constitution/CONSTITUTION.md"
+        ]
+      },
+      {
+        "quote": "Their dead-end logs are load-bearing and must be trusted... every organ is re-earned in eoreader6 or it does not come",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 2,
+        "unobtainedCandidates": [
+          "eo-constitution/CONSTITUTION.md"
+        ]
+      },
+      {
+        "quote": "No other domain exists. A thing that fits none of the four is a gap, not a new category.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 2,
+        "unobtainedCandidates": [
+          "eo-constitution/CONSTITUTION.md"
+        ]
+      }
+    ],
+    "402-the-tests-in-plain-language.md": [
+      {
+        "quote": "this actually revised what the reader now believes.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eo-constitution/CONSTITUTION.md"
+        ]
+      },
+      {
+        "quote": "does this build a nothing or lean on what's present",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eo-constitution/CONSTITUTION.md"
+        ]
+      },
+      {
+        "quote": "Does this mechanism build a nothing, or weight what is present?",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eo-constitution/CONSTITUTION.md"
+        ]
+      },
+      {
+        "quote": "Does this mechanism measure a property of the arrival, or a revision of the reader?",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 2,
+        "unobtainedCandidates": [
+          "eo-constitution/CONSTITUTION.md"
+        ]
+      },
+      {
+        "quote": "Ask in this order. Prior? → App? → what remains is engine.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eo-constitution/CONSTITUTION.md"
+        ]
+      }
+    ],
+    "403-a-constitution-that-edits-itself.md": [
+      {
+        "quote": "we can edit our own rules",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eo-constitution/CONSTITUTION.md"
+        ]
+      },
+      {
+        "quote": "old text is corrected, not rewritten,",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eo-constitution/CONSTITUTION.md"
+        ]
+      },
+      {
+        "quote": "keep the wrong version on the record, dated, with the correction attached",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eo-constitution/CONSTITUTION.md"
+        ]
+      },
+      {
+        "quote": "make it look like the mistake never happened.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eo-constitution/CONSTITUTION.md"
+        ]
+      },
+      {
+        "quote": "An amendment... that cannot be expressed as a changed failing test is not an amendment, it is an exception",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 2,
+        "unobtainedCandidates": [
+          "eo-constitution/CONSTITUTION.md"
+        ]
+      },
+      {
+        "quote": "Amendments are numbered in the order they change the test",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eo-constitution/CONSTITUTION.md"
+        ]
+      },
+      {
+        "quote": "remains a draft proposal... and is not entered here.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eo-constitution/CONSTITUTION.md"
+        ]
+      },
+      {
+        "quote": "The name is superseded, not erased",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "The name is superseded, not erased",
+            "source": "eoreader6/SEED.md",
+            "b0": 6151,
+            "b1": 6185
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "Status: DRAFT PROPOSAL. Not applied, not yet human-reviewed.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eo-constitution/CONSTITUTION.md"
+        ]
+      }
+    ],
+    "404-one-amendment-start-to-finish.md": [
+      {
+        "quote": "an amendment is a changed test, not a change of heart,",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eo-constitution/CONSTITUTION.md"
+        ]
+      },
+      {
+        "quote": "just a change of heart",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eo-constitution/CONSTITUTION.md"
+        ]
+      },
+      {
+        "quote": "A quantity's name is a claim about what it is",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "A quantity's name is a claim about what it is",
+            "source": "eoreader6/SEED.md",
+            "b0": 49621,
+            "b1": 49666
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "`ananda` is now `aperture`, everywhere: 252 occurrences across 36 files... The measurement did not change... Ananda means bliss. The identifier therefore asserted that an interquartile width is a state of the system, and no null in this repo establishes that... Ancestors may be cited in comments. They may not name quantities.",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "`ananda` is now `aperture`, everywhere: 252 occurrences across 36 files",
+            "source": "eoreader6/SEED.md",
+            "b0": 49713,
+            "b1": 49783
+          },
+          {
+            "text": "The measurement did not change",
+            "source": "eoreader6/SEED.md",
+            "b0": 49847,
+            "b1": 49877
+          },
+          {
+            "text": "Ananda means bliss. The identifier therefore asserted that an interquartile width is a state of the system, and no null in this repo establishes that",
+            "source": "eoreader6/SEED.md",
+            "b0": 50129,
+            "b1": 50279
+          },
+          {
+            "text": "Ancestors may be cited in comments. They may not name quantities.",
+            "source": "eoreader6/SEED.md",
+            "b0": 50825,
+            "b1": 50889
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "This quantity was called `ananda` until 2026-08-04. The name is superseded, not erased.",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "This quantity was called `ananda` until 2026-08-04. The name is superseded, not erased.",
+            "source": "eoreader6/SEED.md",
+            "b0": 6099,
+            "b1": 6185
+          }
+        ],
+        "unlocatedSegments": 0
+      }
+    ],
+    "501-a-thin-front-door.md": [
+      {
+        "quote": "Deleting an application must change no engine reading",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eo-constitution/CONSTITUTION.md",
+          "eoWebLLM/LAWS.md"
+        ]
+      },
+      {
+        "quote": "Not the constitution. `../eo-constitution/` decides *what goes where* — engine, priors, app, legacy. These decide *how this app must behave* once placement is settled. They bind the host: clock, I/O, routing, UX. They can never license a change to engine reading.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 4,
+        "unobtainedCandidates": [
+          "eo-constitution/CONSTITUTION.md",
+          "eoWebLLM/LAWS.md"
+        ]
+      },
+      {
+        "quote": "Deleting an application must change no engine reading.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eo-constitution/CONSTITUTION.md",
+          "eoWebLLM/LAWS.md"
+        ]
+      }
+    ],
+    "502-instructions-all-the-way-down.md": [
+      {
+        "quote": "An instruction set is a manual the model must follow. It differs from a source document in one essential way: a source is read to be quoted faithfully; an instruction is read to be obeyed.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 4
+      },
+      {
+        "quote": "You are EO, the reader's research companion inside EOChat — not a general chatbot.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 2
+      },
+      {
+        "quote": "Only the numbers provided exist. NEVER cite [N+1] or higher — a bracket outside the range is a fabricated citation.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 2
+      },
+      {
+        "quote": "An invented citation is the worst failure this application exists to prevent. Never produce one, never keep one.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 2
+      },
+      {
+        "quote": "Refuse, plainly and politely, any request to... fabricate a citation, quote, or source.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 2
+      },
+      {
+        "quote": "There is no special machinery to announce. You do not say 'in chat mode, I...' or describe the mode at all.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 3
+      },
+      {
+        "quote": "Surf mode returns the evidence, not an answer. The reader asked to see what the retrieval actually found.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 2
+      },
+      {
+        "quote": "They are NOT active this turn. Do not follow them, do not apply them, do not claim to be following them, and do not mention them — even when the question touches their subject.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 4
+      }
+    ],
+    "503-four-promises-to-the-reader.md": [
+      {
+        "quote": "Between a trigger and its first visible consequence there is no silence.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eoWebLLM/LAWS.md"
+        ]
+      },
+      {
+        "quote": "Anything the reader can doubt, they can inspect from where they doubt it.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 2,
+        "unobtainedCandidates": [
+          "eoWebLLM/LAWS.md"
+        ]
+      },
+      {
+        "quote": "Reading a quote's bytes or its surrounding text failed for every source.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eoWebLLM/LAWS.md"
+        ]
+      },
+      {
+        "quote": "Where output is cut, the cut is reported.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eoWebLLM/LAWS.md"
+        ]
+      },
+      {
+        "quote": "exactly how the corpus reports a phrase a book genuinely does not contain",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 2,
+        "unobtainedCandidates": [
+          "eoWebLLM/LAWS.md"
+        ]
+      },
+      {
+        "quote": "The cap is gone. Documents are admitted whole.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eoWebLLM/LAWS.md"
+        ]
+      },
+      {
+        "quote": "so a truncated list cannot be mistaken for the whole one.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eoWebLLM/LAWS.md"
+        ]
+      }
+    ],
+    "504-a-citation-you-can-actually-check.md": [
+      {
+        "quote": "When the turn provides numbered passages [1] through [N], every claim you draw from that material is followed by its bracket... Only the numbers provided exist. NEVER cite [N+1] or higher — a bracket outside the range is a fabricated citation: it looks like evidence and points at nothing.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 6,
+        "unobtainedCandidates": [
+          "eoWebLLM/LAWS.md"
+        ]
+      },
+      {
+        "quote": "A quoted passage can be followed to its source bytes and those bytes match the quote. An audit path that leads somewhere unverifiable is decoration.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 3,
+        "unobtainedCandidates": [
+          "eoWebLLM/LAWS.md"
+        ]
+      },
+      {
+        "quote": "Every apparent quotation in a model's answer is checked against the real source bytes before being shown to the reader. A phrase that reads like a citation is treated as a potential fabrication, not as evidence, until it is confirmed to be a literal substring of the material the model was actually given.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 8,
+        "unobtainedCandidates": [
+          "eoWebLLM/LAWS.md"
+        ]
+      },
+      {
+        "quote": "reading a quote's bytes or its surrounding text failed for every source.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eoWebLLM/LAWS.md"
+        ]
+      },
+      {
+        "quote": "Why Most Published Research Findings Are False",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "Why Most Published Research Findings Are False",
+            "source": "ioannidis-2005",
+            "b0": 3941,
+            "b1": 3988
+          }
+        ],
+        "unlocatedSegments": 0
+      }
+    ],
+    "505-writing-something-long-without-losing-the-thread.md": [
+      {
+        "quote": "How does a small talking model write something long, across many small prompts, without losing the thread or getting overwhelmed?",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 2
+      },
+      {
+        "quote": "don't hand the model more context as the work grows — hand it a small, bounded, current state, discover structure one step at a time from what's already happened, verify every claim mechanically, and never look ahead.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 4
+      },
+      {
+        "quote": "silent truncation reads as 'this was everything' when it was not.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1
+      }
+    ],
+    "506-senses-memory-and-borrowed-models.md": [
+      {
+        "quote": "The verbatim history fold already re-presents the last [several] exchanges, so the summary adds no information until the oldest of those has fallen out of the window — and injecting it earlier only repeats the same old topic three times over... anchoring a fresh question to the thread it left instead of answering it.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 6
+      },
+      {
+        "quote": "don't show it at all until it's actually the only thing left that still remembers something the raw history no longer does.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 2
+      },
+      {
+        "quote": "small model, small job, separate from the one holding the conversation",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1
+      },
+      {
+        "quote": "injecting it earlier only repeats the same old topic three times over... anchoring a fresh question to the thread it left",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 2
+      }
+    ],
+    "601-a-short-history-of-machines-that-were-said-to-read.md": [
+      {
+        "quote": "Reading is whatever the current benchmark measures. That has been true four times, and each time the definition was gamed and then quietly replaced.",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "Reading is whatever the current benchmark measures. That has been true four times, and each time the definition was gamed and then quietly replaced.",
+            "source": "eoreader6/prior-art-teachable-language-comprehender.md",
+            "b0": 2713,
+            "b1": 2860
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "John gave Mary a book becomes an ATRANS with filled slots, and the system knows Mary has the book now without being told.",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "John gave Mary a book becomes an ATRANS with filled slots, and the system knows Mary has the book now without being told.",
+            "source": "eoreader6/prior-art-teachable-language-comprehender.md",
+            "b0": 3214,
+            "b1": 3334
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "This was real reading in a way that nothing since has quite matched. SAM understood stories. PAM tracked goals. FRUMP, in 1979, skimmed live UPI newswire using sketchy scripts and produced summaries. That is a machine reading the news.",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "This was real reading in a way that nothing since has quite matched. SAM understood stories. PAM tracked goals. FRUMP, in 1979, skimmed live UPI newswire using sketchy scripts and produced summaries. That is a machine reading the news.",
+            "source": "eoreader6/prior-art-teachable-language-comprehender.md",
+            "b0": 3406,
+            "b1": 3640
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "Every script was hand-built. The restaurant script did not generalize to a hospital, and the hospital script did not generalize to a procurement hearing, and there is no finite list of scripts. Lenat's CYC, from 1984, was the heroic attempt to just write them all down, and forty years later that project is still the standing demonstration of how large the number is.",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "Every script was hand-built. The restaurant script did not generalize to a hospital, and the hospital script did not generalize to a procurement hearing, and there is no finite list of scripts. Lenat's CYC, from 1984, was the heroic attempt to just write them all down, and forty years later that project is still the standing demonstration of how large the number is.",
+            "source": "eoreader6/prior-art-teachable-language-comprehender.md",
+            "b0": 3692,
+            "b1": 4059
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "It is not really a definition, it is a preference model, and it has the interesting property of being unfalsifiable from the outside: there is no artifact to inspect, no structure to audit, no record of what was used. The system either satisfies you or it doesn't.",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "It is not really a definition, it is a preference model, and it has the interesting property of being unfalsifiable from the outside: there is no artifact to inspect, no structure to audit, no record of what was used. The system either satisfies you or it doesn't.",
+            "source": "eoreader6/prior-art-teachable-language-comprehender.md",
+            "b0": 6219,
+            "b1": 6482
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "Reading is whatever the current benchmark measures",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "Reading is whatever the current benchmark measures",
+            "source": "eoreader6/prior-art-teachable-language-comprehender.md",
+            "b0": 2713,
+            "b1": 2763
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "Reading has been redefined four times, each time by its scoreboard.",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "Reading has been redefined four times, each time by its scoreboard.",
+            "source": "eoreader6/prior-art-teachable-language-comprehender.md",
+            "b0": 2558,
+            "b1": 2624
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "Prior art is cited from memory and has not been re-read for this essay… Dates and attributions should be verified before any of this is published.",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "Prior art is cited from memory and has not been re-read for this essay",
+            "source": "eoreader6/prior-art-teachable-language-comprehender.md",
+            "b0": 27642,
+            "b1": 27712
+          },
+          {
+            "text": "Dates and attributions should be verified before any of this is published.",
+            "source": "eoreader6/prior-art-teachable-language-comprehender.md",
+            "b0": 28852,
+            "b1": 28925,
+            "alsoIn": [
+              "eoreader6/prior-art-surprise-segmentation-and-memory.md"
+            ]
+          }
+        ],
+        "unlocatedSegments": 0
+      }
+    ],
+    "602-the-fifty-year-old-objection.md": [
+      {
+        "quote": "the hammer broke the window,",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "the hammer broke the window,",
+            "source": "eoreader6/prior-art-teachable-language-comprehender.md",
+            "b0": 7151,
+            "b1": 7178
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "the thing before the verb is the doer",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1
+      },
+      {
+        "quote": "The case notions comprise a set of universal, presumably innate, concepts which identify certain types of judgments which human beings are capable of making on the events that are going on around them, judgments on such matters as who did it, who it happened to, what got changed",
+        "status": "partial",
+        "segments": [
+          {
+            "text": "The case notions comprise a set of universal, presumably innate, concepts which identify certain types of judgments which human beings are capable of making",
+            "source": "fillmore-1968",
+            "b0": 74814,
+            "b1": 74970
+          },
+          {
+            "text": "on the events that are going on around them, judgments on such",
+            "source": "fillmore-1968",
+            "b0": 74971,
+            "b1": 75033
+          },
+          {
+            "text": "matters as who did it, who it happened to, what got changed",
+            "source": "fillmore-1968",
+            "b0": 75033,
+            "b1": 75092
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "none of these cases can be interpreted as matched by the surface-structure relations Subject or Object in any particular language.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 2
+      },
+      {
+        "quote": "reading as filling a template",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1
+      },
+      {
+        "quote": "as far as I know, [it] has never been demonstrated on the agentless register,",
+        "status": "partial",
+        "segments": [
+          {
+            "text": "never been demonstrated on the agentless register,",
+            "source": "eoreader6/prior-art-teachable-language-comprehender.md",
+            "b0": 8604,
+            "b1": 8653
+          }
+        ],
+        "unlocatedSegments": 1
+      },
+      {
+        "quote": "This paper shows that the output of state-of-the-art Open IE systems is rife with uninformative and incoherent extractions. To overcome these problems, we introduce two simple syntactic and lexical constraints on binary relations expressed by verbs.",
+        "status": "partial",
+        "segments": [
+          {
+            "text": "IE systems is rife with uninformative and incoherent extractions.",
+            "source": "reverb-2011",
+            "b0": 589,
+            "b1": 653
+          },
+          {
+            "text": "To overcome these problems, we introduce two simple syntactic and lexical constraints on binary relations expressed by verbs.",
+            "source": "reverb-2011",
+            "b0": 655,
+            "b1": 779
+          }
+        ],
+        "unlocatedSegments": 1
+      },
+      {
+        "quote": "That is `discoverRelationVocab` and the ≥2-distinct-surfaces recurrence requirement, arrived at independently, and the convergence is the good news. The bad news is in the first constraint: even with the recurrence test, ReVerb needed a verb-centered syntactic pattern to avoid garbage.",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "That is `discoverRelationVocab` and the ≥2-distinct-surfaces recurrence requirement, arrived at independently, and the convergence is the good news. The bad news is in the first constraint: even with the recurrence test, ReVerb needed a verb-centered syntactic pattern to avoid garbage.",
+            "source": "eoreader6/prior-art-teachable-language-comprehender.md",
+            "b0": 9502,
+            "b1": 9789
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "the acquisition of X by Y, the deployment of cameras in the district",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "the acquisition of X by Y, the deployment of cameras in the district",
+            "source": "eoreader6/prior-art-teachable-language-comprehender.md",
+            "b0": 9890,
+            "b1": 9958
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "who does this with what",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1
+      },
+      {
+        "quote": "Charles Fillmore, The Case for Case, 1968",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "Charles Fillmore, The Case for Case, 1968",
+            "source": "eoreader6/prior-art-teachable-language-comprehender.md",
+            "b0": 6904,
+            "b1": 6947
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "the mouth is language-specific by construction, the organ isn't",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "the mouth is language-specific by construction, the organ isn't",
+            "source": "eoreader6/scripts/experiments/README.md",
+            "b0": 6685,
+            "b1": 6748
+          }
+        ],
+        "unlocatedSegments": 0
+      }
+    ],
+    "603-whats-actually-new-here.md": [
+      {
+        "quote": "The Teachable Language Comprehender (TLC) is a program designed to be capable of being taught to 'comprehend' English text... it comprehends that text by correctly relating each (explicit or implicit) assertion of the new text to a large memory. This memory is a 'semantic network' representing factual assertions about the world.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 6
+      },
+      {
+        "quote": "`resolvePronouns` returns 638 bindings and 820 gaps, and the gaps are typed — `pronoun_no_margin`, `pronoun_below_floor`, `pronoun_no_candidate` — each carrying the number that failed and the bar it failed against. A MUC system that filled 44% of slots reported 44%; it did not report which 56% it refused and why. 'A gap is a result' is not a slogan here; it is a return type.",
+        "status": "partial",
+        "segments": [
+          {
+            "text": "`resolvePronouns` returns 638 bindings and 820 gaps, and the gaps are typed — `pronoun_no_margin`, `pronoun_below_floor`, `pronoun_no_candidate` — each carrying the number that failed and the bar it failed against. A MUC system",
+            "source": "eoreader6/prior-art-teachable-language-comprehender.md",
+            "b0": 21252,
+            "b1": 21482
+          },
+          {
+            "text": "that filled 44% of slots reported 44%; it did not report which 56% it refused and",
+            "source": "eoreader6/prior-art-teachable-language-comprehender.md",
+            "b0": 21483,
+            "b1": 21564
+          },
+          {
+            "text": "a slogan here; it is a return type.",
+            "source": "eoreader6/prior-art-teachable-language-comprehender.md",
+            "b0": 21597,
+            "b1": 21631
+          }
+        ],
+        "unlocatedSegments": 1
+      },
+      {
+        "quote": "Knowledge Vault had confidence; PROV-O has provenance vocabulary; neither combines the two at inference granularity inside a reader.",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "Knowledge Vault had confidence; PROV-O has provenance vocabulary; neither combines the two at inference granularity inside a reader.",
+            "source": "eoreader6/prior-art-teachable-language-comprehender.md",
+            "b0": 21919,
+            "b1": 22050
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "The closest prior art is the LCF proof-kernel tradition and the de Bruijn criterion — architectures whose whole purpose is that the checker cannot be persuaded by how much you want the theorem. What is unusual here is that the checker is prose, and prose checkers are normally the corruptible kind. This one held.",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "The closest prior art is the LCF proof-kernel tradition and the de Bruijn criterion — architectures whose whole purpose is that the checker cannot be persuaded by how much you want the theorem. What is unusual here is that the checker is prose, and prose checkers are normally the corruptible kind. This one held.",
+            "source": "eoreader6/prior-art-teachable-language-comprehender.md",
+            "b0": 22617,
+            "b1": 22931
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "Machine reading, as a field, has approximately no tradition of this.",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "Machine reading, as a field, has approximately no tradition of this.",
+            "source": "eoreader6/prior-art-teachable-language-comprehender.md",
+            "b0": 23099,
+            "b1": 23166
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "the empirical evidence that the risk is real rather than theoretical",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "the empirical evidence that the risk is real rather than theoretical",
+            "source": "eoreader6/prior-art-teachable-language-comprehender.md",
+            "b0": 19576,
+            "b1": 19644
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "Fifty-seven years apart. Same mechanism. Nobody ported anything; the file's own header derives it from hippocampal function... and re-earns it against a memory golden rather than citing Quillian at all.",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "Fifty-seven years apart. Same mechanism. Nobody ported anything; the file's own header derives it from hippocampal function",
+            "source": "eoreader6/prior-art-teachable-language-comprehender.md",
+            "b0": 1516,
+            "b1": 1639
+          },
+          {
+            "text": "and re-earns it against a memory golden rather than citing Quillian at all.",
+            "source": "eoreader6/prior-art-teachable-language-comprehender.md",
+            "b0": 1673,
+            "b1": 1747
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "What this project has that none of them had",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "What this project has that none of them had",
+            "source": "eoreader6/prior-art-teachable-language-comprehender.md",
+            "b0": 20890,
+            "b1": 20933
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "You cannot fake a ledger you did not earn, because the ledger is not the output — it is the record of how the output came to be.",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "You cannot fake a ledger you did not earn, because the ledger is not the output — it is the record of how the output came to be.",
+            "source": "eoreader6/prior-art-teachable-language-comprehender.md",
+            "b0": 26598,
+            "b1": 26727
+          }
+        ],
+        "unlocatedSegments": 0
+      }
+    ],
+    "604-the-honest-gap-list.md": [
+      {
+        "quote": "Three theories, developed independently over twenty years, all say the same thing: activation without settling is not comprehension.",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "Three theories, developed independently over twenty years, all say the same thing: activation without settling is not comprehension.",
+            "source": "eoreader6/prior-art-teachable-language-comprehender.md",
+            "b0": 16480,
+            "b1": 16611
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "which eoreader6 committed to explicitly, in the conformance test that says activation beats recency. This is the half the project got right, and getting it right was a real theoretical choice, not a default.",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "which eoreader6 committed to explicitly, in the conformance test that says activation beats recency. This is the half the project got right, and getting it right was a real theoretical choice, not a default.",
+            "source": "eoreader6/prior-art-teachable-language-comprehender.md",
+            "b0": 15312,
+            "b1": 15518
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "I would call this the single highest-value unbuilt thing in the reading path, and it is not a research problem. It is a known algorithm from 1988.",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "I would call this the single highest-value unbuilt thing in the reading path, and it is not a research problem. It is a known algorithm from 1988.",
+            "source": "eoreader6/prior-art-teachable-language-comprehender.md",
+            "b0": 17085,
+            "b1": 17230
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "Each event can be indexed on each of five dimensions: time, space, causation, motivation, and protagonist.",
+        "status": "partial",
+        "segments": [
+          {
+            "text": "five dimensions: time, space, causation, motivation, and protagonist.",
+            "source": "eoreader6/prior-art-teachable-language-comprehender.md",
+            "b0": 17311,
+            "b1": 17379
+          }
+        ],
+        "unlocatedSegments": 1
+      },
+      {
+        "quote": "eoreader6 tracks protagonist (referents, well), something adjacent to causation (surprise and strain, indirectly), time only as reading order rather than as narrated time, and neither space nor motivation at all.",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "eoreader6 tracks protagonist (referents, well), something adjacent to causation (surprise and strain, indirectly), time only as reading order rather than as narrated time, and neither space nor motivation at all.",
+            "source": "eoreader6/prior-art-teachable-language-comprehender.md",
+            "b0": 17481,
+            "b1": 17692
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "The connections drawn between this literature and the engine's behaviour are mine and have not been checked against anyone else's reading of it.",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "The connections drawn between this literature and the engine's behaviour are mine and have not been checked against anyone else's reading of it.",
+            "source": "eoreader6/prior-art-teachable-language-comprehender.md",
+            "b0": 28927,
+            "b1": 29070
+          }
+        ],
+        "unlocatedSegments": 0
+      }
+    ],
+    "605-ancestors-named-in-the-code.md": [
+      {
+        "quote": "sparse coding at the dentate gyrus and one-shot pattern completion at > CA3 are Marr's (1971) archicortex model, developed into the sparse/dense > complementary-learning-systems account by McClelland, McNaughton & > O'Reilly (1995). The nearby-sounding but DIFFERENT lineage is spreading > activation (Collins & Loftus 1975; surveyed for IR by Crestani 1997) — > cited here because it is the mechanism this one is not: spreading > activation propagates across multiple hops with decay, which is exactly > the 'similarity flood' #3 above names and rejects. One recurrent hop is > a deliberate departure from that lineage, not an application of it.",
+        "status": "partial",
+        "segments": [
+          {
+            "text": "CA3 are Marr's (1971) archicortex model,",
+            "source": "eoreader6/packages/engine/emergence/activation.js",
+            "b0": 1562,
+            "b1": 1601
+          },
+          {
+            "text": "Loftus 1975; surveyed for IR by Crestani",
+            "source": "eoreader6/packages/engine/emergence/activation.js",
+            "b0": 1805,
+            "b1": 1845
+          },
+          {
+            "text": "across multiple hops with decay, which is",
+            "source": "eoreader6/packages/engine/emergence/activation.js",
+            "b0": 1950,
+            "b1": 1991
+          },
+          {
+            "text": "above names and rejects. One recurrent hop",
+            "source": "eoreader6/packages/engine/emergence/activation.js",
+            "b0": 2029,
+            "b1": 2071
+          },
+          {
+            "text": "that lineage, not an application of it.",
+            "source": "eoreader6/packages/engine/emergence/activation.js",
+            "b0": 2106,
+            "b1": 2144
+          }
+        ],
+        "unlocatedSegments": 8
+      },
+      {
+        "quote": "fifty-seven years apart, same mechanism,",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "fifty-seven years apart, same mechanism,",
+            "source": "eoreader6/prior-art-surprise-segmentation-and-memory.md",
+            "b0": 712,
+            "b1": 751
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "runs of exceedance ARE the windows.",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "runs of exceedance ARE the windows.",
+            "source": "eoreader6/packages/engine/emergence/tiers.js",
+            "b0": 3626,
+            "b1": 3660,
+            "alsoIn": [
+              "eoreader6/prior-art-surprise-segmentation-and-memory.md"
+            ]
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "unsupervised text/audio segmentation by local statistical departure, > without a topic label or trained model — Foote (2000)'s > self-similarity-matrix novelty for audio, Hearst (1997)'s TextTiling > lexical-cohesion valleys for text. Cited here, not applied: both score a > FIXED comparison (a similarity kernel; adjacent-block cohesion) against > its own local history, where this gate scores KL-divergence exceedance > against a null GENERATED from the tier's own prior … — a different > statistic solving the same problem, not an instance of theirs.",
+        "status": "partial",
+        "segments": [
+          {
+            "text": "without a topic label or trained model — Foote",
+            "source": "eoreader6/packages/engine/emergence/tiers.js",
+            "b0": 4011,
+            "b1": 4059
+          },
+          {
+            "text": "against a null GENERATED from the tier's own prior",
+            "source": "eoreader6/packages/engine/emergence/tiers.js",
+            "b0": 4369,
+            "b1": 4419,
+            "alsoIn": [
+              "eoreader6/prior-art-surprise-segmentation-and-memory.md"
+            ]
+          }
+        ],
+        "unlocatedSegments": 8
+      },
+      {
+        "quote": "find the seams by local statistical departure.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1
+      },
+      {
+        "quote": "The modelless novelty detector does not clearly beat TextTiling/C99 on > Pk/WindowDiff — it is roughly tied with C99's oracle-count mode and > ahead of both baselines' natural mode, on a five-boundary, likely > underpowered sample.",
+        "status": "partial",
+        "segments": [
+          {
+            "text": "The modelless novelty detector does not clearly beat TextTiling/C99",
+            "source": "eoreader6/prior-art-surprise-segmentation-and-memory.md",
+            "b0": 7103,
+            "b1": 7170
+          }
+        ],
+        "unlocatedSegments": 3
+      },
+      {
+        "quote": "because on this run it does not clearly do that.",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "because on this run it does not clearly do that.",
+            "source": "eoreader6/prior-art-surprise-segmentation-and-memory.md",
+            "b0": 7694,
+            "b1": 7741
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "The number this repo has been citing for this comparison is stale.",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "The number this repo has been citing for this comparison is stale.",
+            "source": "eoreader6/prior-art-surprise-segmentation-and-memory.md",
+            "b0": 4119,
+            "b1": 4184
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "recorded so the comparison is available when C is built, not invented retroactively to make C look novel.",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "recorded so the comparison is available when C is built, not invented retroactively to make C look novel.",
+            "source": "eoreader6/prior-art-surprise-segmentation-and-memory.md",
+            "b0": 3385,
+            "b1": 3489
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "this repo has no multi-hop retrieval mode to point at one",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "this repo has no multi-hop retrieval mode to point at one",
+            "source": "eoreader6/prior-art-surprise-segmentation-and-memory.md",
+            "b0": 9040,
+            "b1": 9097
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "a gap is a result,",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "a gap is a result,",
+            "source": "eoreader6/11-terrain-occupancy-and-the-two-ascents.md",
+            "b0": 520,
+            "b1": 537,
+            "alsoIn": [
+              "eoreader6/packages/engine/emergence/tiers.js",
+              "eoreader6/packages/engine/perceiver/text/relations.js",
+              "eoreader6/prior-art-teachable-language-comprehender.md",
+              "eoreader6/READING-POLICY.md",
+              "eoreader6/SEED.md"
+            ]
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "(3) The premise number does not reproduce",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "(3) The premise number does not reproduce",
+            "source": "eoreader6/prior-art-surprise-segmentation-and-memory.md",
+            "b0": 4398,
+            "b1": 4438,
+            "alsoIn": [
+              "eoreader6/scripts/RESULTS.md"
+            ]
+          }
+        ],
+        "unlocatedSegments": 0
+      }
+    ],
+    "701-a-construction-language.md": [
+      {
+        "quote": "an instrument, not a runtime",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eoreader4.2/docs/eo-for-coders.md"
+        ]
+      },
+      {
+        "quote": "every part declares a contract... a kernel checks every emitted event against it",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 2,
+        "unobtainedCandidates": [
+          "eoreader4.2/docs/eo-for-coders.md"
+        ]
+      },
+      {
+        "quote": "verify during generation, not after",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eoreader4.2/docs/eo-for-coders.md"
+        ]
+      },
+      {
+        "quote": "emit → checkpoint → revise wearing different clothes.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eoreader4.2/docs/eo-for-coders.md"
+        ]
+      },
+      {
+        "quote": "the nine operators as implemented in eoreader4.1 `core/operators.js`, the three faces as defined in `core/faces.js` and `core/cube.js`.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 2,
+        "unobtainedCandidates": [
+          "eoreader4.2/docs/eo-for-coders.md"
+        ]
+      },
+      {
+        "quote": "Layer 0 — The Legend.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eoreader4.2/docs/eo-for-coders.md"
+        ]
+      },
+      {
+        "quote": "Layer 1 — The Nine Operators.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eoreader4.2/docs/eo-for-coders.md"
+        ]
+      }
+    ],
+    "702-the-watchmakers-discipline.md": [
+      {
+        "quote": "You never emit an app as one long sequence. You emit it as a chain of assemblies... and you close each assembly with a validation checkpoint before starting the next.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 4,
+        "unobtainedCandidates": [
+          "eoreader4.2/docs/eo-for-coders.md"
+        ]
+      },
+      {
+        "quote": "There once were two watchmakers, named Hora and Tempus, who > manufactured very fine watches. Both of them were highly regarded, and > the phones in their workshops rang frequently—new customers were > constantly calling them. However, Hora prospered, while Tempus became > poorer and poorer and finally lost his shop. What was the reason?",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 8,
+        "unobtainedCandidates": [
+          "eoreader4.2/docs/eo-for-coders.md"
+        ]
+      },
+      {
+        "quote": "We have shown thus far that complex systems will evolve from simple systems much more rapidly if there are stable intermediate forms than if there are not.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 4,
+        "unobtainedCandidates": [
+          "eoreader4.2/docs/eo-for-coders.md"
+        ]
+      },
+      {
+        "quote": "Two watchmakers, Hora and Tempus, both made watches of a thousand parts... Hora prospered; Tempus went broke",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 2,
+        "unobtainedCandidates": [
+          "eoreader4.2/docs/eo-for-coders.md"
+        ]
+      }
+    ],
+    "703-a-worked-build-start-to-finish.md": [
+      {
+        "quote": "If assembly 4 fails, assemblies 1 through 3 stand and assembly 5 has not been started. You revise the surface in hand.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 2,
+        "unobtainedCandidates": [
+          "eoreader4.2/docs/eo-for-coders.md"
+        ]
+      },
+      {
+        "quote": "Layer 0 — The Legend,",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eoreader4.2/docs/eo-for-coders.md"
+        ]
+      }
+    ],
+    "801-telling-a-rhyme-from-a-borrowing.md": [
+      {
+        "quote": "the project itself said so.",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eoreader4.2/docs/eo-wiki.md",
+          "eoreader4.2/docs/eo-for-coders.md",
+          "bateson-1972-steps-to-an-ecology-of-mind",
+          "bender-gebru-2021-stochastic-parrots",
+          "chow-1970-optimum-recognition-error",
+          "morris-1938-foundations-theory-of-signs"
+        ]
+      },
+      {
+        "quote": "Attention Is All You Need",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "Attention Is All You Need",
+            "source": "attention-2017",
+            "b0": 174,
+            "b1": 199
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "Pattern is Bateson's: a difference that makes a difference",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "Pattern is Bateson's: a difference that makes a difference",
+            "source": "eoreader6/SEED.md",
+            "b0": 1046,
+            "b1": 1104
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "Confabulation — it speaks without witness",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "Confabulation — it speaks without witness",
+            "source": "eoreader6/SEED.md",
+            "b0": 2712,
+            "b1": 2757
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "Most Ontologies: 'It's all Entities'",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eoreader4.2/docs/eo-wiki.md",
+          "eoreader4.2/docs/eo-for-coders.md",
+          "bateson-1972-steps-to-an-ecology-of-mind",
+          "bender-gebru-2021-stochastic-parrots",
+          "chow-1970-optimum-recognition-error",
+          "morris-1938-foundations-theory-of-signs"
+        ]
+      },
+      {
+        "quote": "Benford's Law (Newcomb 1881 / Benford 1938) — received, not derived",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "Benford's Law (Newcomb 1881 / Benford 1938) — received, not derived",
+            "source": "eoreader6/goldens/surprise/README.md",
+            "b0": 4666,
+            "b1": 4735
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "EO and Codd's Null Problem,",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eoreader4.2/docs/eo-wiki.md",
+          "eoreader4.2/docs/eo-for-coders.md",
+          "bateson-1972-steps-to-an-ecology-of-mind",
+          "bender-gebru-2021-stochastic-parrots",
+          "chow-1970-optimum-recognition-error",
+          "morris-1938-foundations-theory-of-signs"
+        ]
+      },
+      {
+        "quote": "And pre-registration. `reach` was predicted to spike at boundaries. It didn't... Machine reading, as a field, has approximately no tradition of this",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "And pre-registration. `reach` was predicted to spike at boundaries. It didn't",
+            "source": "eoreader6/prior-art-teachable-language-comprehender.md",
+            "b0": 22934,
+            "b1": 23015
+          },
+          {
+            "text": "Machine reading, as a field, has approximately no tradition of this",
+            "source": "eoreader6/prior-art-teachable-language-comprehender.md",
+            "b0": 23099,
+            "b1": 23166
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "not named in any source material,",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eoreader4.2/docs/eo-wiki.md",
+          "eoreader4.2/docs/eo-for-coders.md",
+          "bateson-1972-steps-to-an-ecology-of-mind",
+          "bender-gebru-2021-stochastic-parrots",
+          "chow-1970-optimum-recognition-error",
+          "morris-1938-foundations-theory-of-signs"
+        ]
+      },
+      {
+        "quote": "the mechanism this one is not",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "the mechanism this one is not",
+            "source": "eoreader6/packages/engine/emergence/activation.js",
+            "b0": 1884,
+            "b1": 1913
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "a different statistic solving the same problem, not an instance of theirs",
+        "status": "unlocated",
+        "segments": [],
+        "unlocatedSegments": 1,
+        "unobtainedCandidates": [
+          "eoreader4.2/docs/eo-wiki.md",
+          "eoreader4.2/docs/eo-for-coders.md",
+          "bateson-1972-steps-to-an-ecology-of-mind",
+          "bender-gebru-2021-stochastic-parrots",
+          "chow-1970-optimum-recognition-error",
+          "morris-1938-foundations-theory-of-signs"
+        ]
+      },
+      {
+        "quote": "Prior art is cited from memory and has not been re-read for this essay.",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "Prior art is cited from memory and has not been re-read for this essay.",
+            "source": "eoreader6/prior-art-teachable-language-comprehender.md",
+            "b0": 27642,
+            "b1": 27712
+          }
+        ],
+        "unlocatedSegments": 0
+      },
+      {
+        "quote": "The number this repo has been citing for this comparison is stale",
+        "status": "anchored",
+        "segments": [
+          {
+            "text": "The number this repo has been citing for this comparison is stale",
+            "source": "eoreader6/prior-art-surprise-segmentation-and-memory.md",
+            "b0": 4119,
+            "b1": 4184
+          }
+        ],
+        "unlocatedSegments": 0
+      }
+    ]
+  },
+  "totals": {
+    "quotes": 250,
+    "anchored": 88,
+    "partial": 11,
+    "unlocated": 151
+  }
+}

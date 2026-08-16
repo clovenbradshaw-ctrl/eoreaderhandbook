@@ -115,6 +115,23 @@ reproducibility-crisis and chain-of-custody connections above are this
 book's own added links to the philosophy of science and forensics, not
 something the codebase itself cites.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+- “Why Most Published Research Findings Are False” → `ioannidis-2005#b3941-3988`
+
+Not located because a source this chapter names is **not yet obtained** (`eoWebLLM/LAWS.md` — see the manifest's `unobtained` list for each one's reason):
+
+- “When the turn provides numbered passages [1] through…”
+- “A quoted passage can be followed to its…”
+- “Every apparent quotation in a model's answer is…”
+- “reading a quote's bytes or its surrounding text…”
+
+<!-- anchors:end -->
+
 <!-- nav:start -->
 [← 5.3 — Four Promises to the Reader, in Plain Language](503-four-promises-to-the-reader.md) · [Contents](000-index.md) · [5.5 — Writing Something Long Without Losing the Thread →](505-writing-something-long-without-losing-the-thread.md)
 <!-- nav:end -->
