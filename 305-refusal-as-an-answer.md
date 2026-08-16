@@ -139,7 +139,7 @@ already caught for free.
 **Where this comes from:** the three gap types are named in `eoreader6/
 CUBE.md`, lines 95-97, as "this same act at different grains, not three
 unrelated failure modes." The two-tier refusal rule ("type error before
-null... never spend a measurement on what the algebra catches") is
+null... Never spend a measurement on what the algebra catches") is
 `eoreader6/SEED.md`, "What follows," clause 7. The worked example is
 `eochat/essay.md`, "What this leaves out" — including the exact phrase "not
 printed rather than printed unsupported." The reject-option, missing-data,
@@ -157,7 +157,7 @@ is precise, not because it describes eoreader6 itself.
 **Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
 
 - “this same act at different grains, not three…” → `eoreader6/CUBE.md#b5200-5270`
-- “type error before null... never spend a measurement…” → `eoreader6/SEED.md#b4777-4833`
+- “type error before null... Never spend a measurement…” → `eoreader6/SEED.md#b4777-4833`
 
 Not located because a source this chapter names is **not yet obtained** (`eoreader4.2/docs/eo-wiki.md`, `eochat/essay.md`, `chow-1970-optimum-recognition-error` — see the manifest's `unobtained` list for each one's reason):
 

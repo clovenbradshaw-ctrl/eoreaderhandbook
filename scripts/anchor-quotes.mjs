@@ -245,33 +245,55 @@ const needleOf = (s) => normQuote(s).replace(/^[\s.,;:!?'"()-]+|[\s.,;:!?'"()-]+
 
 // ── extraction ──────────────────────────────────────────────────────────────
 
-const STRIP_BLOCKS = [
+const MASK_BLOCKS = [
   /<!-- nav:start -->[\s\S]*?<!-- nav:end -->\n?/g,
   /<!-- anchors:start -->[\s\S]*?<!-- anchors:end -->\n?/g,
   /```[\s\S]*?```/g,
 ];
 
-function extractQuotes(markdown) {
-  let text = markdown;
-  for (const re of STRIP_BLOCKS) text = text.replace(re, " ");
-  const quotes = [];
-  const push = (raw) => {
+/**
+ * Every quoted span in the chapter, WITH its offsets in the original
+ * markdown — start/end bound the content between the quote marks, so a
+ * backport can rewrite exactly what sits inside them. Masked regions (nav
+ * blocks, generated anchors blocks, code fences) are skipped by range, not
+ * by pre-stripping, so offsets stay the file's own.
+ */
+function extractQuoteSpans(markdown) {
+  const masked = [];
+  for (const re of MASK_BLOCKS) {
+    re.lastIndex = 0;
+    let m;
+    while ((m = re.exec(markdown)) !== null) masked.push([m.index, m.index + m[0].length]);
+  }
+  const inMask = (a, b) => masked.some(([s, e]) => a < e && b > s);
+  const spans = [];
+  const push = (raw, start, end) => {
+    if (inMask(start, end)) return;
     const q = raw.trim().replace(/\s+/g, " ");
     const segments = q
       .split(/\.\.\.|…/)
       .map((s) => s.trim())
       .filter((s) => s.split(/\s+/).filter(Boolean).length >= MIN_SEGMENT_WORDS);
     if (!segments.length) return;
-    if (!quotes.some((prev) => prev.quote === q)) quotes.push({ quote: q, segments });
+    spans.push({ quote: q, segments, start, end });
   };
   // Curly-quoted spans are never ambiguous.
-  for (const m of text.matchAll(/“([^“”]+)”/g)) push(m[1]);
-  // Straight quotes are paired by position: split on the mark, odd chunks
-  // are the quoted spans. A lazy regex mis-paired the marks whenever a
-  // quotation ran across a line break, and captured the prose BETWEEN two
-  // quotations as if it were one — measured on the first run of this tool.
-  const chunks = text.split('"');
-  for (let i = 1; i < chunks.length; i += 2) push(chunks[i]);
+  for (const m of markdown.matchAll(/“([^“”]+)”/g)) push(m[1], m.index + 1, m.index + 1 + m[1].length);
+  // Straight quotes are paired by position: consecutive marks delimit a
+  // span. A lazy regex mis-paired the marks whenever a quotation ran
+  // across a line break, and captured the prose BETWEEN two quotations as
+  // if it were one — measured on the first run of this tool.
+  const marks = [];
+  for (let i = markdown.indexOf('"'); i !== -1; i = markdown.indexOf('"', i + 1)) marks.push(i);
+  for (let i = 0; i + 1 < marks.length; i += 2) push(markdown.slice(marks[i] + 1, marks[i + 1]), marks[i] + 1, marks[i + 1]);
+  return spans;
+}
+
+function extractQuotes(markdown) {
+  const quotes = [];
+  for (const s of extractQuoteSpans(markdown)) {
+    if (!quotes.some((prev) => prev.quote === s.quote)) quotes.push({ quote: s.quote, segments: s.segments });
+  }
   return quotes;
 }
 
@@ -418,6 +440,106 @@ function injectBlock(markdown, block) {
   return cleaned.replace(/\n+$/, "\n\n") + block + "\n";
 }
 
+// ── backport: the chapter's quotes become the source's own bytes ────────────
+//
+// The anchor made the quote CHECKABLE; the backport makes it TRUE BY
+// CONSTRUCTION. For every anchored segment, the quoted words in the chapter
+// are replaced by the exact bytes at the anchor — so what the book prints
+// IS the slice, not a remembered version of it, and drift between the prose
+// and the source (case, punctuation, a re-worded phrase that still matched
+// under normalization, a paraphrase that happened to share the words)
+// disappears at the byte level.
+//
+// Two transformations on a slice, both declared because "verbatim" must not
+// silently mean "almost": (1) whitespace runs collapse to one space — a
+// slice may cross the source's own line wrap, and the wrap is the source
+// FILE's layout, not the quotation's content; (2) a double quotation mark
+// INSIDE the slice becomes a single mark, because the chapter's own quote
+// delimiters are double marks and an inner double would split the quote in
+// two on the next read. Everything else — case, accents, punctuation,
+// wording — is the source's bytes, untouched.
+
+function backport() {
+  const sources = loadSources();
+  if (!sources.length) {
+    console.error("no sources on hand — run --snapshot first");
+    process.exit(2);
+  }
+  const bufs = new Map(sources.map((s) => [s.id, fs.readFileSync(path.join(ROOT, s.path))]));
+  // Three declared transformations between the source's bytes and the
+  // printed quote — the anchor still names the true byte range; these
+  // govern only what sits between the chapter's quotation marks:
+  //   whitespace runs → one space   (the source FILE's line wrap is layout)
+  //   markdown emphasis marks drop  (typesetting, not words — and a slice
+  //                                  cut inside an emphasis pair would
+  //                                  carry an unbalanced mark that breaks
+  //                                  the chapter's own rendering)
+  //   inner double quotes → single  (an inner double mark would split the
+  //                                  chapter's quote in two on re-read)
+  const cleanSlice = (raw) =>
+    raw.replace(/[*_`]/g, "").replace(/\s+/g, " ").replace(/["“”]/g, "'").trim();
+
+  let filesTouched = 0;
+  let quotesTouched = 0;
+  let segmentsRewritten = 0;
+  for (const file of chapterFiles()) {
+    const md = fs.readFileSync(path.join(ROOT, file), "utf8");
+    const spans = extractQuoteSpans(md);
+    const entries = locate(sources, md, spans);
+    // Right-to-left through the file so earlier offsets stay valid.
+    const jobs = [];
+    entries.forEach((e, i) => {
+      if (!e.segments?.length) return;
+      jobs.push({ span: spans[i], entry: e });
+    });
+    jobs.sort((a, b) => b.span.start - a.span.start);
+    let out = md;
+    let changedHere = 0;
+    for (const { span, entry } of jobs) {
+      let content = out.slice(span.start, span.end);
+      const { norm, map } = normalizedIndex(content);
+      // Segments in order of appearance; the search cursor only moves
+      // forward so repeated words land on their own occurrence.
+      const repls = [];
+      let cursor = 0;
+      for (const seg of entry.segments) {
+        const needle = needleOf(seg.text);
+        if (!needle) continue;
+        const at = norm.indexOf(needle, cursor);
+        if (at === -1) continue;
+        const c0 = map[at];
+        const c1 = map[at + needle.length - 1] + 1;
+        cursor = at + needle.length;
+        const slice = cleanSlice(bufs.get(seg.source).subarray(seg.b0, seg.b1).toString("utf8"));
+        // Whitespace and emphasis are layout, not content — the chapter
+        // hard-wraps and italicizes as its own typesetting, exactly as the
+        // source file does. A segment is rewritten only when it differs
+        // from the source bytes in WORDS OR CHARACTERS after both sides
+        // shed layout; a wrap- or emphasis-only difference is already
+        // verbatim and stays as the chapter set it.
+        const existing = content.slice(c0, c1).replace(/[*_`]/g, "").replace(/\s+/g, " ").trim();
+        if (existing !== slice) repls.push({ c0, c1, slice });
+      }
+      if (!repls.length) continue;
+      for (const r of repls.sort((a, b) => b.c0 - a.c0)) {
+        content = content.slice(0, r.c0) + r.slice + content.slice(r.c1);
+        segmentsRewritten++;
+      }
+      out = out.slice(0, span.start) + content + out.slice(span.end);
+      changedHere++;
+    }
+    if (out !== md) {
+      fs.writeFileSync(path.join(ROOT, file), out);
+      filesTouched++;
+      quotesTouched += changedHere;
+      console.log(`${file}: ${changedHere} quote(s) rewritten to source bytes`);
+    }
+  }
+  console.log(
+    `backport: ${segmentsRewritten} segment(s) in ${quotesTouched} quote(s) across ${filesTouched} file(s) now carry the source's own bytes`,
+  );
+}
+
 // ── run / verify / report ───────────────────────────────────────────────────
 
 function chapterFiles() {
@@ -496,4 +618,5 @@ else if (args[0] === "--add-web") addWeb(args.slice(1));
 else if (args[0] === "--add-unobtained") addUnobtained(args.slice(1));
 else if (args[0] === "--verify") verify();
 else if (args[0] === "--report") run({ write: false });
+else if (args[0] === "--backport") backport();
 else run({ write: true });

@@ -81,6 +81,17 @@ normalization; the current count is 127 anchors, 0 failures. Unlocated
 quotes stay listed, split into two typed groups: explained by a named
 unobtained source, or a genuine suspect — a passage that reads as verbatim
 and could not be found, which is a finding, not a formatting problem.
+`--backport` closes the loop from the other side: every anchored segment's
+quoted words in the chapter are rewritten to the source's own bytes, so
+the printed quotation IS the slice rather than a remembered version of it.
+Layout is not content — a wrap-only or emphasis-only difference never
+rewrites — and the declared transformations between bytes and print are
+exactly three (whitespace runs to one space, markdown emphasis marks
+dropped, inner double quotation marks to single). The first backport pass
+found and fixed six real drifts, all silent re-capitalizations of the
+source's own words at quote boundaries ("What kind of thing is this?"
+where CUBE.md's bytes read "what…"; "to be is to be…" where Quine's page
+reads "To be is to be…").
 
 **Purpose of this file:** decide, on paper, what the handbook teaches, in what
 order, to whom, using what material — before spending the effort to write it.

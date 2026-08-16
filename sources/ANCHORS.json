@@ -98,11 +98,11 @@
     ],
     "003-ontology-and-epistemology-primer.md": [
       {
-        "quote": "What kind of thing is this?",
+        "quote": "what kind of thing is this?",
         "status": "anchored",
         "segments": [
           {
-            "text": "What kind of thing is this?",
+            "text": "what kind of thing is this?",
             "source": "eoreader6/SEED.md",
             "b0": 92109,
             "b1": 92135
@@ -148,11 +148,11 @@
         "unlocatedSegments": 1
       },
       {
-        "quote": "to be is to be the value of a variable.",
+        "quote": "To be is to be the value of a variable.",
         "status": "anchored",
         "segments": [
           {
-            "text": "to be is to be the value of a variable.",
+            "text": "To be is to be the value of a variable.",
             "source": "quine-1948",
             "b0": 32023,
             "b1": 32061
@@ -858,11 +858,11 @@
         "unlocatedSegments": 1
       },
       {
-        "quote": "a stance is not a mood and cannot be chosen",
+        "quote": "A stance is not a mood and cannot be chosen",
         "status": "anchored",
         "segments": [
           {
-            "text": "a stance is not a mood and cannot be chosen",
+            "text": "A stance is not a mood and cannot be chosen",
             "source": "eoreader6/CUBE.md",
             "b0": 1977,
             "b1": 2020
@@ -1099,11 +1099,11 @@
         "unlocatedSegments": 1
       },
       {
-        "quote": "An organ that reads the reading's own trail, then an organ that reads that organ, collapses into a clock reading its own arithmetic... The frame refuses the regress by type.",
+        "quote": "an organ that reads the reading's own trail, then an organ that reads that organ, collapses into a clock reading its own arithmetic... The frame refuses the regress by type.",
         "status": "anchored",
         "segments": [
           {
-            "text": "An organ that reads the reading's own trail, then an organ that reads that organ, collapses into a clock reading its own arithmetic",
+            "text": "an organ that reads the reading's own trail, then an organ that reads that organ, collapses into a clock reading its own arithmetic",
             "source": "eoreader6/SEED.md",
             "b0": 30423,
             "b1": 30554
@@ -1178,7 +1178,7 @@
         "unlocatedSegments": 0
       },
       {
-        "quote": "`runTurn` now receives a `register`... and hands its own back, so the engine holds the sequence locally at the turn boundary... What is still not earned is the enforcement that a genuinely-first ground is *received* — the engine cannot know that the caller read nothing before... The register is one closing scalar plus a declared choice, never a rollup of the trail.",
+        "quote": "`runTurn` now receives a `register`... and hands its own back, so the engine holds the sequence locally at the turn boundary... What is still not earned is the enforcement that a genuinely-first ground is *received* — the engine cannot know that the caller read nothing before... the register is one closing scalar plus a declared choice, never a rollup of the trail.",
         "status": "anchored",
         "segments": [
           {
@@ -1200,7 +1200,7 @@
             "b1": 32864
           },
           {
-            "text": "The register is one closing scalar plus a declared choice, never a rollup of the trail.",
+            "text": "the register is one closing scalar plus a declared choice, never a rollup of the trail.",
             "source": "eoreader6/SEED.md",
             "b0": 32935,
             "b1": 33021
@@ -1301,11 +1301,11 @@
         "unlocatedSegments": 0
       },
       {
-        "quote": "type error before null... never spend a measurement on what the algebra catches",
+        "quote": "type error before null... Never spend a measurement on what the algebra catches",
         "status": "anchored",
         "segments": [
           {
-            "text": "never spend a measurement on what the algebra catches",
+            "text": "Never spend a measurement on what the algebra catches",
             "source": "eoreader6/SEED.md",
             "b0": 4777,
             "b1": 4833

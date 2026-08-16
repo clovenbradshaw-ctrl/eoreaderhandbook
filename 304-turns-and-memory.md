@@ -100,8 +100,7 @@ partially earned: the turn holds a sequence" — *"`runTurn` now receives a
 `register`... and hands its own back, so the engine holds the sequence
 locally at the turn boundary... What is still not earned is the enforcement
 that a genuinely-first ground is *received* — the engine cannot know that
-the caller read nothing before... The register is one closing scalar plus a
-declared choice, never a rollup of the trail."* The HTTP-statelessness and
+the caller read nothing before... the register is one closing scalar plus a declared choice, never a rollup of the trail."* The HTTP-statelessness and
 working-memory connections above are this book's own added links to web
 architecture and cognitive psychology, not something the codebase itself
 cites.

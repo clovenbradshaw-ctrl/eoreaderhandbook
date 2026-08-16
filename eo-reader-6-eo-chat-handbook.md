@@ -275,7 +275,7 @@ Those two grids will look like arbitrary jargon unless you first have a feel
 for the two ordinary questions they're built out of — and you already ask
 both questions every day without a name for either.
 
-## "What kind of thing is this?"
+## "what kind of thing is this?"
 
 Say the word "patient." It can point at three different kinds of thing,
 and mixing them up causes real confusion:
@@ -341,7 +341,7 @@ others: the same basic move as telling "a specific patient" apart from
 Twentieth-century philosophy came back to the same question with new
 tools — W.V.O. Quine's 1948 essay "On What There Is" asked what a sentence
 has to assume exists for it to be meaningful at all, and left behind his
-own shorthand for it: "to be is to be the value of a variable."
+own shorthand for it: "To be is to be the value of a variable."
 
 The second question is epistemology's oldest, running at least from
 Plato's *Theaetetus* (what separates knowledge from a merely true guess)
@@ -426,9 +426,9 @@ code."*
 
 **Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
 
-- “What kind of thing is this?” → `eoreader6/SEED.md#b92109-92135`
+- “what kind of thing is this?” → `eoreader6/SEED.md#b92109-92135`
 - “what *kind* of thing is this — a…” → `eoreader6/SEED.md#b92109-92135` *(+1 segment(s) not located)*
-- “to be is to be the value of…” → `quine-1948#b32023-32061`
+- “To be is to be the value of…” → `quine-1948#b32023-32061`
 - “As a classifier — deriving a cell from…” → `eoreader6/CUBE.md#b406-498`, `eoreader6/CUBE.md#b750-780`
 
 Quoted spans **not located in any obtained source** and not explained by a known gap — each is either the book's own illustrative speech, or a passage that reads as verbatim and is not, which is itself a finding to resolve:
@@ -1890,7 +1890,7 @@ shortly," cashed in.
 
 **Where this comes from:** the stance grid (`stance = (mode, grain)`) and
 its nine names are defined in `eoreader6/CUBE.md`, lines 45-47, including
-the rule that "a stance is not a mood and cannot be chosen" (line 50). The
+the rule that "A stance is not a mood and cannot be chosen" (line 50). The
 Aristotle connection above is this book's own added link to the history of
 philosophy, not something the codebase itself cites.
 
@@ -1900,7 +1900,7 @@ philosophy, not something the codebase itself cites.
 
 **Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
 
-- “a stance is not a mood and cannot…” → `eoreader6/CUBE.md#b1977-2020`
+- “A stance is not a mood and cannot…” → `eoreader6/CUBE.md#b1977-2020`
 
 Quoted spans **not located in any obtained source** and not explained by a known gap — each is either the book's own illustrative speech, or a passage that reads as verbatim and is not, which is itself a finding to resolve:
 
@@ -2772,9 +2772,7 @@ back with a citation.
 **Where this comes from:** `nul` is the organ performing the operation set
 out across `eoreader6/SEED.md`, "One operation" and "The unit of record."
 `frame` and its refusal of the self-watching regress are from SEED.md
-Amendment VIII, *"An organ that reads the reading's own trail, then an
-organ that reads that organ, collapses into a clock reading its own
-arithmetic... The frame refuses the regress by type."* `temporality`'s
+Amendment VIII, *"an organ that reads the reading's own trail, then an organ that reads that organ, collapses into a clock reading its own arithmetic... The frame refuses the regress by type."* `temporality`'s
 three-way distinction (ordered / directional / temporal) is from Amendment
 V, *"Order is measured. Time may be received, discovered, or remain
 unresolved."* The binding organ is from Amendment X, *"It is modality-blind
@@ -2793,7 +2791,7 @@ not something the codebase itself cites.
 
 **Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
 
-- “An organ that reads the reading's own trail,…” → `eoreader6/SEED.md#b30423-30554`, `eoreader6/SEED.md#b30758-30795`
+- “an organ that reads the reading's own trail,…” → `eoreader6/SEED.md#b30423-30554`, `eoreader6/SEED.md#b30758-30795`
 - “Order is measured. Time may be received, discovered,…” → `eoreader6/SEED.md#b21794-21867`
 - “It is modality-blind by construction: it reads arrival…” → `eoreader6/SEED.md#b33840-33951`, `eoreader6/SEED.md#b34106-34156`
 - “the same standing `cascade` already holds” → `eoreader6/SEED.md#b40568-40609`
@@ -2905,8 +2903,7 @@ partially earned: the turn holds a sequence" — *"`runTurn` now receives a
 `register`... and hands its own back, so the engine holds the sequence
 locally at the turn boundary... What is still not earned is the enforcement
 that a genuinely-first ground is *received* — the engine cannot know that
-the caller read nothing before... The register is one closing scalar plus a
-declared choice, never a rollup of the trail."* The HTTP-statelessness and
+the caller read nothing before... the register is one closing scalar plus a declared choice, never a rollup of the trail."* The HTTP-statelessness and
 working-memory connections above are this book's own added links to web
 architecture and cognitive psychology, not something the codebase itself
 cites.
@@ -3062,7 +3059,7 @@ already caught for free.
 **Where this comes from:** the three gap types are named in `eoreader6/
 CUBE.md`, lines 95-97, as "this same act at different grains, not three
 unrelated failure modes." The two-tier refusal rule ("type error before
-null... never spend a measurement on what the algebra catches") is
+null... Never spend a measurement on what the algebra catches") is
 `eoreader6/SEED.md`, "What follows," clause 7. The worked example is
 `eochat/essay.md`, "What this leaves out" — including the exact phrase "not
 printed rather than printed unsupported." The reject-option, missing-data,
@@ -3080,7 +3077,7 @@ is precise, not because it describes eoreader6 itself.
 **Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
 
 - “this same act at different grains, not three…” → `eoreader6/CUBE.md#b5200-5270`
-- “type error before null... never spend a measurement…” → `eoreader6/SEED.md#b4777-4833`
+- “type error before null... Never spend a measurement…” → `eoreader6/SEED.md#b4777-4833`
 
 Not located because a source this chapter names is **not yet obtained** (`eoreader4.2/docs/eo-wiki.md`, `eochat/essay.md`, `chow-1970-optimum-recognition-error` — see the manifest's `unobtained` list for each one's reason):
 

@@ -113,9 +113,7 @@ back with a citation.
 **Where this comes from:** `nul` is the organ performing the operation set
 out across `eoreader6/SEED.md`, "One operation" and "The unit of record."
 `frame` and its refusal of the self-watching regress are from SEED.md
-Amendment VIII, *"An organ that reads the reading's own trail, then an
-organ that reads that organ, collapses into a clock reading its own
-arithmetic... The frame refuses the regress by type."* `temporality`'s
+Amendment VIII, *"an organ that reads the reading's own trail, then an organ that reads that organ, collapses into a clock reading its own arithmetic... The frame refuses the regress by type."* `temporality`'s
 three-way distinction (ordered / directional / temporal) is from Amendment
 V, *"Order is measured. Time may be received, discovered, or remain
 unresolved."* The binding organ is from Amendment X, *"It is modality-blind
@@ -134,7 +132,7 @@ not something the codebase itself cites.
 
 **Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
 
-- “An organ that reads the reading's own trail,…” → `eoreader6/SEED.md#b30423-30554`, `eoreader6/SEED.md#b30758-30795`
+- “an organ that reads the reading's own trail,…” → `eoreader6/SEED.md#b30423-30554`, `eoreader6/SEED.md#b30758-30795`
 - “Order is measured. Time may be received, discovered,…” → `eoreader6/SEED.md#b21794-21867`
 - “It is modality-blind by construction: it reads arrival…” → `eoreader6/SEED.md#b33840-33951`, `eoreader6/SEED.md#b34106-34156`
 - “the same standing `cascade` already holds” → `eoreader6/SEED.md#b40568-40609`
