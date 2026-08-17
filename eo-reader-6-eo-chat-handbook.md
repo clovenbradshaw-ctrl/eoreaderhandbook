@@ -241,16 +241,19 @@ visible.
 **Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
 
 
+**Attested by secondary witnesses** — the primary is not obtained (see the manifest's `unobtained` list), so the anchor names the bytes of an independent source that quotes the passage. A witness says what the witness quotes, never what the primary's own edition reads:
+
+- “the relations of signs to the objects to…” → `attest-morris-eric#b7605-7634` *(witness for `morris-1938-foundations-theory-of-signs`)* *(+1 segment(s) not located)*
+- “the relation of signs to interpreters.” → `attest-morris-eric#b7730-7767` *(witness for `morris-1938-foundations-theory-of-signs`)*
+- “Foundations of the Theory of Signs” → `attest-morris-eric#b47613-47647` *(witness for `morris-1938-foundations-theory-of-signs`)*
+
 Not located because a source this chapter names is **not yet obtained** (`morris-1938-foundations-theory-of-signs` — see the manifest's `unobtained` list for each one's reason):
 
 - “The dog bit the man”
 - “the dog bit the man”
 - “the man bit the dog”
 - “the formal relations of signs to one another”
-- “the relations of signs to the objects to…”
-- “the relation of signs to interpreters.”
 - “the dog bit the man.”
-- “Foundations of the Theory of Signs”
 
 <!-- anchors:end -->
 
@@ -576,12 +579,15 @@ codebase itself cites.
 - “Attention Is All You Need” → `attention-2017#b174-199`
 - “there is no ledger. You cannot ask which…” → `eoreader6/prior-art-teachable-language-comprehender.md#b20194-20315`
 
+**Attested by secondary witnesses** — the primary is not obtained (see the manifest's `unobtained` list), so the anchor names the bytes of an independent source that quotes the passage. A witness says what the witness quotes, never what the primary's own edition reads:
+
+- “On the Dangers of Stochastic Parrots” → `attest-parrots-citing#b165015-165051` *(witness for `bender-gebru-2021-stochastic-parrots`)*
+
 Not located because a source this chapter names is **not yet obtained** (`eo-constitution/CONSTITUTION.md`, `bender-gebru-2021-stochastic-parrots` — see the manifest's `unobtained` list for each one's reason):
 
 - “was that answer based on this document, or…”
 - “what's already in the document”
 - “what's already inside the model”
-- “On the Dangers of Stochastic Parrots”
 - “what the model already knew”
 - “Does this mechanism build a nothing, or weight…”
 
@@ -872,13 +878,16 @@ only claim is SEED.md's attribution line quoted above.
 - “a difference that made no difference is not…” → `eoreader6/SEED.md#b1858-1913`
 - “Pattern is Bateson's: a difference that makes a…” → `eoreader6/SEED.md#b1046-1104`, `eoreader6/SEED.md#b1231-1326`
 
+**Attested by secondary witnesses** — the primary is not obtained (see the manifest's `unobtained` list), so the anchor names the bytes of an independent source that quotes the passage. A witness says what the witness quotes, never what the primary's own edition reads:
+
+- “In fact, what we mean by information—the elementary…” → `attest-bateson-polanyi#b12308-12376` *(witness for `bateson-1972-steps-to-an-ecology-of-mind`)* *(+3 segment(s) not located)*
+- “A 'bit' of information is definable as a…” → `attest-bateson-leydesdorff#b14291-14334` *(witness for `bateson-1972-steps-to-an-ecology-of-mind`)* *(+1 segment(s) not located)*
+
 Not located because a source this chapter names is **not yet obtained** (`bateson-1972-steps-to-an-ecology-of-mind` — see the manifest's `unobtained` list for each one's reason):
 
 - “it changed what happens next”
 - “the same difference showed up again”
 - “we failed to detect it,”
-- “In fact, what we mean by information—the elementary…”
-- “A 'bit' of information is definable as a…”
 - “compare against something freshly rebuilt, not something fixed,”
 
 <!-- anchors:end -->
@@ -1122,7 +1131,7 @@ those fields — not something the codebase itself cites.
 
 **Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
 
-- “Two deaths, one conformance family each: Confabulation —…” → `eoreader6/SEED.md#b2822-2964` *(+2 segment(s) not located)*
+- “Two deaths, one conformance family each: Confabulation —…” → `eoreader6/SEED.md#b2666-2964`
 
 <!-- anchors:end -->
 
@@ -1444,12 +1453,15 @@ something the codebase itself cites.
 - “it structurally *requires* `pattern.moved === true`” → `eoreader6/CUBE.md#b5353-5403`
 - “Structure-tier relations (Figure cell on the operator grid).” → `eoreader6/SEED.md#b33976-34034`
 
+**Attested by secondary witnesses** — the primary is not obtained (see the manifest's `unobtained` list), so the anchor names the bytes of an independent source that quotes the passage. A witness says what the witness quotes, never what the primary's own edition reads:
+
+- “A sign, or representamen, is something which stands…” → `attest-morris-eric#b9814-10044` *(witness for `morris-1938-foundations-theory-of-signs`)*
+
 Not located because a source this chapter names is **not yet obtained** (`eoreader4.2/docs/eo-for-coders.md` — see the manifest's `unobtained` list for each one's reason):
 
 - “does this exist at all.”
 - “never let it go stale”
 - “synthesize a ward from beds”
-- “A sign, or representamen, is something which stands…”
 - “refers to the Object that it denotes merely…”
 - “by virtue of being really affected by that…”
 - “why nine, and not some other number”
@@ -2650,7 +2662,7 @@ something the codebase itself cites.
 - “Benford's Law (Newcomb 1881 / Benford 1938) —…” → `eoreader6/goldens/surprise/README.md#b4666-4752`
 - “The first ground is received, never derived... Deriving…” → `eoreader6/SEED.md#b3101-3144`, `eoreader6/SEED.md#b3194-3243`
 - “A prior is relevant exactly insofar as it…” → `eoreader6/SEED.md#b15233-15317`
-- “Relevance is not a property of a prior.…” → `eoreader6/SEED.md#b15576-15647`, `eoreader6/SEED.md#b15650-15692` *(+1 segment(s) not located)*
+- “Relevance is not a property of a prior.…” → `eoreader6/SEED.md#b15576-15738`
 
 Quoted spans **not located in any obtained source** and not explained by a known gap — each is either the book's own illustrative speech, or a passage that reads as verbatim and is not, which is itself a finding to resolve:
 
@@ -3079,13 +3091,16 @@ is precise, not because it describes eoreader6 itself.
 - “this same act at different grains, not three…” → `eoreader6/CUBE.md#b5200-5270`
 - “type error before null... Never spend a measurement…” → `eoreader6/SEED.md#b4777-4833`
 
+**Attested by secondary witnesses** — the primary is not obtained (see the manifest's `unobtained` list), so the anchor names the bytes of an independent source that quotes the passage. A witness says what the witness quotes, never what the primary's own edition reads:
+
+- “On Optimum Recognition Error and Reject Tradeoff” → `attest-chow-reject-survey#b92827-92875` *(witness for `chow-1970-optimum-recognition-error`)*
+
 Not located because a source this chapter names is **not yet obtained** (`eoreader4.2/docs/eo-wiki.md`, `eochat/essay.md`, `chow-1970-optimum-recognition-error` — see the manifest's `unobtained` list for each one's reason):
 
 - “there wasn't a real ground to measure against…”
 - “90% of its content words were not carried…”
 - “exceeded the fold budget and were dropped, not…”
 - “there was more than the space available, and…”
-- “On Optimum Recognition Error and Reject Tradeoff”
 - “I decline to classify this one”
 - “the evidence didn't clear the gate”
 - “not printed rather than printed unsupported.”
@@ -5172,7 +5187,7 @@ output — it is the record of how the output came to be."*
 
 **Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
 
-- “`resolvePronouns` returns 638 bindings and 820 gaps, and…” → `eoreader6/prior-art-teachable-language-comprehender.md#b21252-21482`, `eoreader6/prior-art-teachable-language-comprehender.md#b21483-21564`, `eoreader6/prior-art-teachable-language-comprehender.md#b21597-21631` *(+1 segment(s) not located)*
+- “`resolvePronouns` returns 638 bindings and 820 gaps, and…” → `eoreader6/prior-art-teachable-language-comprehender.md#b21252-21631`
 - “Knowledge Vault had confidence; PROV-O has provenance vocabulary;…” → `eoreader6/prior-art-teachable-language-comprehender.md#b21919-22050`
 - “The closest prior art is the LCF proof-kernel…” → `eoreader6/prior-art-teachable-language-comprehender.md#b22617-22931`
 - “Machine reading, as a field, has approximately no…” → `eoreader6/prior-art-teachable-language-comprehender.md#b23099-23166`

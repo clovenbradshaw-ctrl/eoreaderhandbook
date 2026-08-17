@@ -160,7 +160,7 @@ something the codebase itself cites.
 - “Benford's Law (Newcomb 1881 / Benford 1938) —…” → `eoreader6/goldens/surprise/README.md#b4666-4752`
 - “The first ground is received, never derived... Deriving…” → `eoreader6/SEED.md#b3101-3144`, `eoreader6/SEED.md#b3194-3243`
 - “A prior is relevant exactly insofar as it…” → `eoreader6/SEED.md#b15233-15317`
-- “Relevance is not a property of a prior.…” → `eoreader6/SEED.md#b15576-15647`, `eoreader6/SEED.md#b15650-15692` *(+1 segment(s) not located)*
+- “Relevance is not a property of a prior.…” → `eoreader6/SEED.md#b15576-15738`
 
 Quoted spans **not located in any obtained source** and not explained by a known gap — each is either the book's own illustrative speech, or a passage that reads as verbatim and is not, which is itself a finding to resolve:
 

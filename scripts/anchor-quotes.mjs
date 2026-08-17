@@ -189,6 +189,42 @@ function addWeb([id, textPath, url, ...titleWords]) {
   console.log(`added web source ${id} (${buf.length} bytes)`);
 }
 
+// ── an attestation: a secondary witness for an unobtainable primary ─────────
+// When the primary's bytes cannot be lawfully obtained (in copyright,
+// paywalled, walled off), a quotation can still be grounded in what
+// INDEPENDENT SECONDARY SOURCES quote — the same asymptotic-perspectives
+// posture the corroboration tier takes, applied to the gap itself. An
+// attestation source is typed as exactly that: its anchor says "this
+// witness quotes these words," never "the primary's own edition reads
+// this" — and a backport never rewrites from a witness, because a witness
+// can itself misquote. Divergence between witnesses and the chapter is a
+// finding, surfaced, not smoothed.
+
+function addAttestation([id, textPath, url, attests, ...titleWords]) {
+  if (!id || !textPath || !url || !attests) {
+    console.error("usage: anchor-quotes.mjs --add-attest <id> <textPath> <url> <attests-primary-id> <title...>");
+    process.exit(2);
+  }
+  const abs = path.join(ROOT, textPath);
+  const buf = fs.readFileSync(abs);
+  const manifest = readManifest();
+  manifest.sources = manifest.sources.filter((s) => s.id !== id);
+  manifest.sources.push({
+    id,
+    kind: "web-attestation",
+    attests,
+    title: titleWords.join(" ") || null,
+    path: textPath,
+    bytes: buf.length,
+    sha256: sha256(buf),
+    origin: { url },
+    retrievedAt: new Date().toISOString(),
+  });
+  manifest.sources.sort((a, b) => a.id.localeCompare(b.id));
+  writeManifest(manifest);
+  console.log(`added attestation ${id} (witness for ${attests}, ${buf.length} bytes)`);
+}
+
 function addUnobtained([id, ...reasonWords]) {
   const manifest = readManifest();
   if (!manifest.unobtained.some((u) => u.id === id))
@@ -205,7 +241,13 @@ function addUnobtained([id, ...reasonWords]) {
 
 const CHAR_FOLD = {
   "‘": "'", "’": "'", "“": '"', "”": '"',
-  "–": "-", "—": "-", "…": "...", " ": " ",
+  // Dashes and hyphens fold to a SPACE, not to "-": PDF extraction
+  // routinely drops an em-dash entirely (measured: the Polanyi chapter's
+  // "information—the" came out "information the"), and a separator that
+  // sometimes survives and sometimes vanishes can only be matched by
+  // folding it to the one separator that always survives. Symmetric on
+  // both sides, so hyphenated compounds still match each other.
+  "-": " ", "–": " ", "—": " ", "…": "...", " ": " ",
 };
 
 function normalizedIndex(text) {
@@ -218,6 +260,16 @@ function normalizedIndex(text) {
   for (let i = 0; i < text.length; i++) {
     let ch = CHAR_FOLD[text[i]] ?? text[i];
     if (ch === "*" || ch === "_" || ch === "`") continue; // markdown emphasis is the chapter's, not the quote's
+    // Quotation marks and apostrophes are glyphs around words, not words —
+    // a witness that quotes a phrase inside its own quote marks must still
+    // match it (measured: Leydesdorff's «as "a difference which makes a
+    // difference"» against the chapter's unquoted run). Folded curly forms
+    // land here too. Symmetric on both sides of every comparison.
+    if (ch === "'" || ch === '"') continue;
+    // A line-leading ">" is a blockquote marker — the chapter's markup,
+    // not the quotation's words (measured: Bateson's long quote failed to
+    // locate because "> " rode inside the extracted span).
+    if (ch === ">" && (i === 0 || /[\n\r]/.test(text[i - 1]) || (text[i - 1] === " " && /[\n\r>]/.test(text[i - 2] ?? "\n")))) continue;
     if (/\s/.test(ch)) {
       if (lastWasSpace) continue;
       norm += " ";
@@ -306,11 +358,17 @@ function loadSources() {
     const { norm, map } = normalizedIndex(text);
     // byte offset of each JS-char index, so anchors are UTF-8 byte ranges
     // into the snapshot file — the engine's own b0/b1 coordinate space.
+    // Walked by CODE POINT, not code unit: an astral character (the parrot
+    // emoji in a cited title, measured) is two JS code units but one UTF-8
+    // sequence, and a per-unit walk drifts every later offset by two bytes
+    // per such character — caught by --verify, which is the point of it.
     const byteAt = new Array(text.length + 1);
     let b = 0;
-    for (let i = 0; i < text.length; i++) {
-      byteAt[i] = b;
-      b += Buffer.byteLength(text[i], "utf8");
+    let u = 0;
+    for (const ch of text) {
+      for (let k = 0; k < ch.length; k++) byteAt[u + k] = b;
+      b += Buffer.byteLength(ch, "utf8");
+      u += ch.length;
     }
     byteAt[text.length] = b;
     return { ...s, text, norm, map, byteAt };
@@ -318,20 +376,32 @@ function loadSources() {
 }
 
 function locate(sources, chapterText, quotes) {
-  // Sources the chapter's own prose names get first claim on a segment
-  // found in more than one place.
-  const named = sources.filter((s) => chapterText.includes(path.basename(s.origin?.path ?? s.id)));
-  const ordered = [...named, ...sources.filter((s) => !named.includes(s))];
+  // Primaries first, always: an attestation is consulted only for a
+  // segment no primary contains. Sources the chapter's own prose names get
+  // first claim on a segment found in more than one place.
+  const primaries = sources.filter((s) => !s.attests);
+  const witnesses = sources.filter((s) => s.attests);
+  const named = primaries.filter((s) => chapterText.includes(path.basename(s.origin?.path ?? s.id)));
+  const ordered = [...named, ...primaries.filter((s) => !named.includes(s)), ...witnesses];
   const findIn = (needle) => {
     let hit = null;
     const alsoIn = [];
     for (const src of ordered) {
       const at = src.norm.indexOf(needle);
       if (at === -1) continue;
+      // A witness never outbids a primary: once a primary hit exists,
+      // witness occurrences are not even recorded as alternates (they are
+      // a different KIND of evidence, not a competing address).
+      if (hit && !hit.attestation && src.attests) continue;
       if (!hit) {
         const startChar = src.map[at];
         const endChar = src.map[at + needle.length - 1] + 1;
-        hit = { source: src.id, b0: src.byteAt[startChar], b1: src.byteAt[endChar] };
+        hit = {
+          source: src.id,
+          b0: src.byteAt[startChar],
+          b1: src.byteAt[endChar],
+          ...(src.attests ? { attestation: true, attests: src.attests } : {}),
+        };
       } else if (!alsoIn.includes(src.id)) alsoIn.push(src.id);
     }
     return hit ? { ...hit, ...(alsoIn.length ? { alsoIn } : {}) } : null;
@@ -369,7 +439,14 @@ function locate(sources, chapterText, quotes) {
       missing += locateSegment(seg, anchored);
       if (anchored.length - before > 1 || (anchored.length > before && anchored[before].text !== seg)) pieces++;
     }
-    const status = !anchored.length ? "unlocated" : missing ? "partial" : pieces ? "partial" : "anchored";
+    // A quote any of whose located segments came from a witness is
+    // ATTESTED — a different grade of ground from anchored, said as such.
+    const viaWitness = anchored.some((s) => s.attestation);
+    const status = !anchored.length
+      ? "unlocated"
+      : viaWitness
+        ? "attested"
+        : missing ? "partial" : pieces ? "partial" : "anchored";
     const entry = { quote, status, segments: anchored, unlocatedSegments: missing };
     if (status === "unlocated") {
       const candidates = Object.entries(UNOBTAINED_HINTS)
@@ -384,7 +461,8 @@ function locate(sources, chapterText, quotes) {
 // ── the anchors block a chapter carries ─────────────────────────────────────
 
 function anchorsBlock(entries) {
-  const anchored = entries.filter((e) => e.status !== "unlocated");
+  const anchored = entries.filter((e) => e.status !== "unlocated" && e.status !== "attested");
+  const attested = entries.filter((e) => e.status === "attested");
   const unlocated = entries.filter((e) => e.status === "unlocated");
   if (!entries.length) return null;
   const lines = [
@@ -406,6 +484,23 @@ function anchorsBlock(entries) {
         (e.status === "partial" ? ` *(+${e.unlocatedSegments} segment(s) not located)*` : ""),
     );
   }
+  if (attested.length) {
+    lines.push(
+      "",
+      "**Attested by secondary witnesses** — the primary is not obtained (see the manifest's `unobtained` list), so the anchor names the bytes of an independent source that quotes the passage. A witness says what the witness quotes, never what the primary's own edition reads:",
+      "",
+    );
+    for (const e of attested) {
+      const spans = e.segments.map(
+        (s) => `\`${s.source}#b${s.b0}-${s.b1}\`` + (s.attests ? ` *(witness for \`${s.attests}\`)*` : ""),
+      ).join(", ");
+      lines.push(
+        `- “${shorten(e.quote)}” → ${spans}` +
+          (e.unlocatedSegments ? ` *(+${e.unlocatedSegments} segment(s) not located)*` : ""),
+      );
+    }
+  }
+
   const gapExplained = unlocated.filter((e) => e.unobtainedCandidates?.length);
   const suspect = unlocated.filter((e) => !e.unobtainedCandidates?.length);
   if (gapExplained.length) {
@@ -489,8 +584,12 @@ function backport() {
     // Right-to-left through the file so earlier offsets stay valid.
     const jobs = [];
     entries.forEach((e, i) => {
-      if (!e.segments?.length) return;
-      jobs.push({ span: spans[i], entry: e });
+      // Never backport from a witness: a secondary source can itself
+      // misquote, and only the primary's own bytes may overwrite the
+      // chapter's words.
+      const primarySegs = (e.segments ?? []).filter((s) => !s.attestation);
+      if (!primarySegs.length) return;
+      jobs.push({ span: spans[i], entry: { ...e, segments: primarySegs } });
     });
     jobs.sort((a, b) => b.span.start - a.span.start);
     let out = md;
@@ -553,14 +652,14 @@ function run({ write }) {
     process.exit(2);
   }
   const out = { normalization: "typographic quotes/dashes folded, ellipsis to '...', markdown emphasis stripped, whitespace collapsed, case folded", minSegmentWords: MIN_SEGMENT_WORDS, chapters: {} };
-  let totals = { quotes: 0, anchored: 0, partial: 0, unlocated: 0 };
+  let totals = { quotes: 0, anchored: 0, partial: 0, attested: 0, unlocated: 0 };
   for (const file of chapterFiles()) {
     const md = fs.readFileSync(path.join(ROOT, file), "utf8");
     const entries = locate(sources, md, extractQuotes(md));
     if (entries.length) out.chapters[file] = entries;
     for (const e of entries) {
       totals.quotes++;
-      totals[e.status === "anchored" ? "anchored" : e.status === "partial" ? "partial" : "unlocated"]++;
+      totals[["anchored", "partial", "attested"].includes(e.status) ? e.status : "unlocated"]++;
     }
     if (write) {
       const injected = injectBlock(md, anchorsBlock(entries));
@@ -570,7 +669,7 @@ function run({ write }) {
   if (write) fs.writeFileSync(ANCHORS_PATH, JSON.stringify({ ...out, totals }, null, 2) + "\n");
   console.log(
     `${totals.quotes} quotation(s) of substance across ${Object.keys(out.chapters).length} chapter(s): ` +
-      `${totals.anchored} anchored, ${totals.partial} partially anchored, ${totals.unlocated} unlocated` +
+      `${totals.anchored} anchored, ${totals.partial} partially anchored, ${totals.attested} attested by witnesses, ${totals.unlocated} unlocated` +
       (write ? " — ANCHORS.json and chapter blocks written" : ""),
   );
   return totals;
@@ -615,6 +714,7 @@ function verify() {
 const args = process.argv.slice(2);
 if (args[0] === "--snapshot") snapshot();
 else if (args[0] === "--add-web") addWeb(args.slice(1));
+else if (args[0] === "--add-attest") addAttestation(args.slice(1));
 else if (args[0] === "--add-unobtained") addUnobtained(args.slice(1));
 else if (args[0] === "--verify") verify();
 else if (args[0] === "--report") run({ write: false });

@@ -148,13 +148,16 @@ only claim is SEED.md's attribution line quoted above.
 - “a difference that made no difference is not…” → `eoreader6/SEED.md#b1858-1913`
 - “Pattern is Bateson's: a difference that makes a…” → `eoreader6/SEED.md#b1046-1104`, `eoreader6/SEED.md#b1231-1326`
 
+**Attested by secondary witnesses** — the primary is not obtained (see the manifest's `unobtained` list), so the anchor names the bytes of an independent source that quotes the passage. A witness says what the witness quotes, never what the primary's own edition reads:
+
+- “In fact, what we mean by information—the elementary…” → `attest-bateson-polanyi#b12308-12376` *(witness for `bateson-1972-steps-to-an-ecology-of-mind`)* *(+3 segment(s) not located)*
+- “A 'bit' of information is definable as a…” → `attest-bateson-leydesdorff#b14291-14334` *(witness for `bateson-1972-steps-to-an-ecology-of-mind`)* *(+1 segment(s) not located)*
+
 Not located because a source this chapter names is **not yet obtained** (`bateson-1972-steps-to-an-ecology-of-mind` — see the manifest's `unobtained` list for each one's reason):
 
 - “it changed what happens next”
 - “the same difference showed up again”
 - “we failed to detect it,”
-- “In fact, what we mean by information—the elementary…”
-- “A 'bit' of information is definable as a…”
 - “compare against something freshly rebuilt, not something fixed,”
 
 <!-- anchors:end -->

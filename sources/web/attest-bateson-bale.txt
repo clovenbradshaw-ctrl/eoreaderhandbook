@@ -1,0 +1,2550 @@
+ 
+ GREGORY BATESON, CYBERNETICS,   
+ AND THE SOCIAL/BEHA VIORAL SCIENCES  
+ 
+ ABSTRACT 
+ 
+Gregory Bateson's interdisciplinary work in Anthropology, Psychiatry, Evolution, and 
+Epistemology was profoundly influenced by th e ideas set forth in systems theory, 
+communication theory, information theory a nd cybernetics. As is now quite common, 
+Bateson used the single term cybernetics in reference to an aggregate of these ideas that grew 
+together shortly after World War II. For him,  cybernetics, or communication theory, or 
+information theory, or systems theory, together constituted a unified set of ideas, and he was 
+among the first to appreciate the fact that the patterns of organization and relational 
+symmetry evident in all living systems are indicative of mind.  
+Here, we must not forget that due to the nineteenth century polemic between science 
+and religion, any consideration of purpose and plan, e.g., mental process, had been a priori 
+excluded from science as non-empirical, or immeasurable. Any reference to mind as an 
+explanatory or causal principle had been banned from biology. Even in the social/behavioral 
+sciences, references to mind remained suspect. Building on the work of Norbert Wiener, 
+Warren McCulloch, and W. Ross Ashby, Bateson realized that it is precisely mental process 
+or mind which must be investigated.  
+Thus, he formulated the criteria of mind and the cybernetic epistemology  that are 
+pivotal elements in his "ecological philosophy."  In fact, he referred to cybernetics as an 
+epistemology: e.g., the model, itself, is a means of knowing what sort of world this is, and 
+also the limitations that exist concerning our ability to know something (or perhaps nothing) 
+of such matters. As his work progressed, Bateson proposed that we consider Epistemology as 
+an overarching discipline of the natural sciences, including the social/behavioral sciences:  a 
+meta-science whose parameters extend to include the science of mind in the widest sense of 
+the word. Apparently, many scholars and practitioners of the social/behavioral sciences, as 
+well as the humanities, were first introduced to the cybernetic paradigm through Bateson's 
+work. Yet, he seldom offered his audience more than a cursory reference to the key principles 
+underlying cybernetics. Hence, the aim of this essay is to incrementally and historically 
+delineate the fundamental principles underlying wh at is now often referred to as the 'first' 
+cybernetics. 
+ 
+ 
+ 
+ 
+Lawrence S. Bale, Ph.D. 
+101 Elmwood Ave., Apt. A 
+Narberth, PA  19072-2409 
+ph. (610) 664-0585 
+bale@pil.net 
+ 
+ 
+
+ 
+ GREGORY BATESON, CYBERNETICS, 
+ AND THE SOCIAL/BEHA VIORAL SCIENCES  
+ 
+The ideas were generated in many places: in Vienna by Bertalanffy, in 
+Harvard by Wiener, in Princeton by von Neumann, in Bell Telephone labs by 
+Shannon, in Cambridge by Craik, and so on. All these separate developments 
+dealt with communicational problems, especially with the problem of what 
+sort of thing is an organized system.1 [emphasis mine] 
+ —Gregory Bateson 
+ 
+Gregory Bateson was among the first to appr eciate the fact that the patterns of 
+organization and relational symmetry evident in all living systems are indicative of mind. 
+Here, we must not forget that due to the ni neteenth century polemic between science and 
+religion, any consideration of purpose and plan, e.g., mental process, had been a priori  
+excluded from science as non-empirical, or immeasurable. Any reference to mind as an 
+explanatory or causal principle had been banned from biology. Even in the social/behavioral 
+sciences, references to mind remained suspect. Building on the work of Norbert Wiener, W. 
+Ross Ashby and Warren McCulloch,
+2 Bateson realized that it is precisely mental process or 
+mind which must be investigated. Thus, he formulated the criteria of mind and the cybernetic 
+epistemology that are pivotal elements in his "ecological philosophy." In fact, he referred to 
+cybernetics as an epistemology: e.g., the model, itself, is a means of knowing what sort of 
+world this is, and also the limitations that exist concerning our ability to know something (or 
+perhaps nothing) of such matters. As his work  progressed, he proposed that we consider 
+Epistemology as an overarching discipline of the natural sciences, including the 
+social/behavioral sciences: a meta-science whose parameters extend to include the science of 
+mind in the widest sense of the word. 
+With its focus on communication and informa tion as the key elements of the selfregulation and self-organization in cybernetic systems, the cybernetic paradigm exemplifies 
+the hierarchical patterns of organization evident in living systems. The elaborate differences 
+of pattern, organization and symmetry embodied in living systems are also indicative of 
+mental process. Thus, Bateson employed the aggregate of ideas referred to under the rubric 
+of cybernetics as a unifying model of mental phenomena, and as a tool for "mapping" and 
+explaining the previously inaccessible "territory" of mind. Taking his lead particularly from 
+
+Warren McCulloch,3 Bateson's work led to the conclusi on that epistemology is, in fact, a 
+normative branch of natural history . Fo r Bateson, McCulloch' s work had "pulled 
+epistemology down out of the realm s of abst ract philosophy into the m uch more simple 
+realm of natural history," and established "that, to understand human beings, even at a very 
+elementary level, you had to know the limitations of their sensory input."4 
+Apparently, many scholars and practitioners of the social/behavioral sciences, as well 
+as the hum anities (m yself included), were first introduced to the cybernetic paradigm  
+through Bateson's work. Yet, he seldom offered his audience more than a cursory reference 
+to the key principles underlying cybernetics. Hence, the aim of this essay is to delineate the 
+fundamental principles underlying what is now of ten referred to as the ' first' cybernetics. 
+Clearly, Bateson' s interdisciplinary work in Anthropology, Psychiatry , Evolution, and 
+Epistemology was profoundly influenced by th e ideas set forth in system s theory , 
+communication theory , inform ation theory a nd cybernetics. As is now quite com mon, 
+Bateson used the single term cybernetics in reference to an aggregate of these ideas that grew 
+together shortly after World War II, and for him, cybernetics, or communication theory, or 
+information theory, or systems theory, together constituted a unified set of ideas.  The 
+quotation headlining this essay is intended to indicate that our topic deals with essentially 
+communicational pr oblems, "especially with the problem  of what sort of ' thing' is an 
+organized system," i.e., a mind system, a communications system, a social system, and an 
+ecosystem. Since we will be considering an aggregate of  disciplines, I proceed 
+chronologically, with the first of these disciplines to emerge, i.e., general systems theory, and 
+then move to consider how the recursive regularities of negative and positive f eedback 
+mechanisms, and circular causal system s (principles established f irst in m athematics, 
+communication theory , and inform ation theory) 5 led Norbert Wiener to coin the term  
+cybernetics, and serendipitously offered a firmer theoretical foundation for systems theory. 
+ 
+ 
+2
+ 
+
+The Classical Paradigm of Science, and the 
+Emergence of General Systems Theory 
+General system s theory em erged out of the need to m ap and explain biological 
+phenomena that cannot be suitably understood us ing the classical m echanistic model of 
+reality. "The analytic, m echanistic, one-way causal paradigm of classical science," as the 
+Austrian biologist Ludwig von Bertalanffy describes it, assumes that reality can be quantifiably analyzed; that a whole can be understood in terms of its parts; and that the nature and 
+function of a substance or an organism can be comprehended by reducing it to its material, 
+externally observable components.6  
+Systems analysis acknowledges the im pressive gains in scientific inquiry, and the 
+subsequent technological advances, afforded by the classical scientific paradigm. Granted, 
+highly sophisticated methods of dissecting and quantifiably analyzing natural phenomena 
+have provided important insights into the construction of our world. Such insights have also 
+afforded a considerable, though lim ited, capacity to predict and control sm all pieces of 
+reality, at a given moment in time. Yet, these gains have been achieved at considerable costs, 
+costs that notably include: overspecializati on and narrow professionalism  in scientific 
+research; the fracturing and fragm entation of science's vision of nature; and a subsequent 
+sense of alienation from the beauty of nature's underlying unity.  
+Systems analysis observes that with the cl assical paradigm of reality, wider more 
+inclusive patterns interaction are disregar ded as im measurable. Also, virtually all 
+considerations of purpose and plan, e.g., mental process, and final causes, are a priori  
+excluded as non-em pirical, or again, im measurable. Coupled with Cartesian m ind-body 
+duality, the one-way causal paradigm  of  cla ssical science assum es the nature of  a 
+substance—and this includes or ganisms—is reduc ible to forces, impacts and regularities that 
+are inevitably subject to the second law of thermodynamics. It also assumes that all causes, 
+effects and potentialities can be traced back, in linear fashion, to initial conditions. 
+While these assumptions are adequate for explaining carefully isolated phenomena, 
+and the causal relationships between one "thing" and another "thing," science has found it 
+difficult to apply this m odel of reality in situations displaying m ore than two variables. 7 
+Mapping m ultivariable com plexes in term s of linear relations involves a piecem eal, 
+ 
+ 
+3
+ 
+
+fragmented analysis, in which the units invol ved are reduced to sequences of interacting 
+pairs. Any process that is more complex than a hydrogen atom, with one electron orbiting its 
+nucleus, embodies a complexity that escapes suf ficient explanation. This method affords 
+useful information, but it cannot sufficiently map the flow of an interactive complex.  
+Moreover, the successes garnered by the classical scientific paradigm  revealed its 
+inadequacies. As refined tools have opened wider panoramas of research, exhibiting data of 
+increasing complexity, science has been driven to search for new ways of conceptualizing 
+reality. In short, the classical paradigm  of science has proven inadequate to the task of  
+mapping the natural world. It is particularly inadequate when applied to describing and 
+explaining the m ultivariable processes of hum an interaction, e.g., com munication, and 
+humankind's intricate interrelationship with local and global ecological systems. 
+Under closer observation, it has becom e evident that natural phenom ena do not 
+behave as they are though subject to the narrow determinism postulated by the paradigm of 
+classical science. This has led to a tangential or corollary view , a view that com pletely 
+abandons causality and envisions the cosmos as random. As Joanna Rogers Macy has noted, 
+the unidirectional paradigm of classical science has culminated in two distinct alternatives: 
+"either we live in a clockwork universe, wholly predetermined by initial conditions, with no 
+scope for genuine novelty , or the cosm os is a blind and purposeless play of atom s, and 
+determinable only statistically , by the laws of  chance." 8 Macy, identif ies these dism al 
+alternatives as a m ajor contributing factor in  the spiritual and psychic dislocation, or the 
+sense of alienation experienced by contemporary humankind. These limited alternatives also 
+serve as key barriers, blocking meaningful dialogue between science and religion. 
+I should also note that while the assumptions of the classical scientific paradigm have 
+provided a capacity to predict and control th e natural world, the impressive technological 
+gains they af ford are lar gely responsible for a fam iliar litany of alarm ing environmental 
+crises: overpopulation, pollution and degradation of the environment, global warming and 
+ozone depletion, etc.9 We must recognize the role played by religion, as well as economics 
+and other cultural factors, in shaping the attitudes that have fostered the ecological crisis we 
+now face. S till, the now com monly held mistaken notions (concerning hum ankind's 
+ 
+ 
+4
+ 
+
+relationship with the biosphere, as well as what constitutes an appropriate and thoughtful 
+application of scientific knowledge) are directly attributable to the myopic excesses of the 
+classical scientific paradigm.  
+It is one thing to fantasize that we have  the right to dom inate nature. It is quite 
+another thing, when techniques developed by science actually give us the ability to play out 
+our dominant fantasies: altering and destroying vast sections of the natural order evident in 
+the biosphere. Hum ankind's successes in scien tific exploration have allowed for , and 
+apparently encouraged, unwise intervention in natural system s that we do not f ully 
+understand. Our overconfidence in the veracity  and reliability of a lim ited scientific 
+paradigm, and our haste in applying tec hniques borrowed from  this m odel—notably 
+prediction and control—have fostered a pseudo-scientific and overly technological culture of 
+consumerism. Such have been the costs of our over-reliance on the reductionist, mechanistic, 
+one-way causal paradigm of classical science. 
+The perspective offered by advocates of general systems analysis identifies at least 
+four areas where the inadequacy of the classi cal scientific paradigm is m ost apparently 
+manifest, areas where its failings have stim ulated the developm ent and acceptance of 
+systems analysis and subsequently cybernetics: 
+  1. As previously noted, natural phenomena displaying a multiplicity of variables cannot be 
+adequately understood through an analysis of their variables as separate entities. While 
+analysis of the physical nature of differentiated "parts" comprising a whole may be useful, it 
+is limited in what it reveals about the whole. Since focusing on isolated traits obscures or 
+eclipses attributes characteristic of the whole, our focus should m ove to exam ining the 
+combined interaction of these variables. 
+  2. A linear concept of causality cannot adequa tely explain the interactions of a com plex 
+system or Gestalt. The classical scientific paradigm  is suf ficient only for understanding 
+carefully isolated phenom ena, where unidirec tional cause and ef fect relationships occur 
+between interacting pairs, e.g., between one thing and another thing. 
+  3. Entropy, or evidence of negentropic pro cesses in the growth and evolution of living 
+organisms, is also a realm of explanation where the classical paradigm of science has proven 
+ 
+ 
+5
+ 
+
+to be inadequate. While not eluding the laws of physics, the complex interactions of biological systems involve regularities other than the second law of thermodynamics. According to 
+the second law of thermodynamics, entropy always increases: with every transformation of 
+energy there is a measure of that energy which is lost; therefore differences in heat become 
+gradually equalized and the universe is s een as ultim ately tending toward sam eness, 
+randomness and disor ganization. In the physi cal sciences, this law has never been 
+contradicted or disproved, and it is generally regarded as holding a "supreme position among 
+the laws of Nature."10 Yet, the second law of thermodynamics cannot adequately explain the 
+evidence of continued biological negentropy. In their forms of life and patterns of interaction 
+living organisms have not tended toward sameness, randomness and disorganization. Living 
+systems differentiate, evolve and maintain increasingly complex forms of social and selforganization. Such self-or ganization in biol ogical phenomena has been studied since the 
+1920's, and the anti-entropic evidence in the e volution of order and increased com plexity 
+within biological systems simply cannot be explained with traditional linear concepts such as 
+the second law of thermodynamics, where effect is understood to pre-exist in cause. 
+  4. The classical paradigm of science has led to overspecialization and departmentalization, 
+blocking the perception and investigation of interdependence in natural phenom ena. The 
+shared presuppositions: that reality can be quantifiably analyzed; that a whole can be understood in terms of its parts; and that the nature and function of a substance or organism can be 
+ascertained by dissecting it into sm aller and smaller components, has bred acute specialization. As specialists have learned "m ore and more about less and less," the separations 
+between their disciplines becom e virtually im penetrable. A specificity of disciplines and 
+terminology impedes communication among scientists, limiting understanding of scientific 
+inquiry to a limited class of experts. Perhaps the most damaging result of over-specialization 
+in scientific inquiry is that it has obstructed the perception and study of the non-substantial 
+phenomena intrinsically manifest in relationships. As Ervin Laszlo notes, 
+We are drilling holes in the wall of mystery that we call nature and reality on 
+many locations, and we carry out delicate analyses on each of these sites. But it 
+is only now that we are beginning to realize the need for connecting the probes 
+with one another and gaining some coherent insight into what is there.11 
+ 
+ 
+ 
+6
+ 
+
+General Systems Analysis: 
+Homeostatic and Self-Organizing 
+Open Systems in the Phenomena of Life 
+ 
+General systems theory first originated in biology, a science where the need to move 
+beyond a reductionist and atomistic approach is perhaps most evident. In the 1920's, Austrian 
+scientist Ludwig von Bertalanf fy directed his attention to the or ganization of organisms, 
+rather than their substance—focusing on whol es, and the manner in which wholes function, 
+rather than on parts. Concerning the early stages of his work von Bertalanffy wrote:  
+ 
+[I] becam e puzzled about obvious lacun ae in the research and theory of 
+biology. The then prevalent mechanistic approach . . . appeared to neglect or 
+actively deny just what is essential in the phenomena of life. [I] advocated an 
+organismic conception of biology whic h emphasizes consideration of the 
+organism as a whole or system , and see the m ain objective of biological 
+sciences in the discovery of the prin ciples of or ganization at its various 
+levels.12 
+ 
+ 
+Of course, von Bertalanf fy's thinking was not entirely isolated. Process-oriented, 
+holistic approaches were being considered in many places. Whitehead's process philosophy, 
+Jung's Gestalt therapy, and more to the point, Ca nnon's work on homeostasis (an integral 
+element of systems thought) first appeared at this time.13 
+Von Bertalanffy's work established that the behavior of living phenom ena is best 
+comprehended in term s of wholes, rather than parts. He also discerned that biological 
+wholes—anim al or vegetable; cell, organ, or organism—are best described as system s. The 
+system, as described by von Bertalanf fy, is le ss a "thing" than a pattern of or ganization. 
+Systems are comprised of a unified pattern of events, and their existence, as well as their 
+character are derived more from the nature of their organization, than from the nature of their 
+components. As such, a system  consists of a dynam ic flow of interactions that cannot 
+themselves be quantified, weighed or m easured. The pattern of the whole is "nonsummative" and irreducible. Hence, as a pattern of organization, the character of a system is 
+altered with any addition, subtraction or other form of perturbation in any of its constitutive 
+elements.  
+ 
+ 
+7
+ 
+
+Doubtless, a living system is more than simply the sum of its parts. However, this 
+more is not something extra, such as an elan vital or a vitalist principle. Even af ter significant disruption, an organism in nature can continue to develop in a manner normal for its 
+species—evidence the fact that or ganisms can  heal them selves. Since this sort of 
+phenomenon seems to contradict the classical laws of physics, giving organisms an aspect of 
+independence from the external operation of cause and effect earlier biologists attributed it to 
+a soul-like vitalist factor. 
+ Having found this sort of explanation inadequate and unwarranted, von Bertalanffy 
+attributed the phenom enon to a function of the dynam ic organization of the system  as a 
+whole.14 That is, through the com bined interaction of the dif ferentiated elem ents that 
+comprise the system , a new level of operati on is form ed. Nam ely, a unique status of 
+existence is facilitated by the fully integrated interdependence of its "parts." Thus, the very 
+nature of a system is immanent in the combined interaction of the system as a whole, and 
+hence, the system's true character is lost from view when its distinguishable components are 
+investigated independently of each other . Von Bertalanf fy cam e to understand that the 
+organic interdependence which governs the inte rnal functioning of a living system  also 
+exemplifies its relations with its environment. Whether an organism or an organ, a cell or an 
+organelle, a living system  functions and e volves within a lar ger system —linked in 
+relationships which em body both dependence and indispensability. Living system s both 
+envelop, and are enveloped by , other living systems with which they are in steady 
+communication, thus forming a natural hierarchical order. 
+Thus, the diverse morphogenesis apparent in the discernable wholes studied by the 
+biological sciences—or ganelle or cell, organ or organism, vegetable or animal, species or 
+genus, etc.—are not only system s, they are open system s.15 They organize and sustain 
+themselves by exchanging matter, energy and information with their environment. Moreover, 
+it is precisely the processes involved in th ese exchanges which constitute the life and 
+continuity of such living systems. For although a living system may replicate itself, no single 
+component of the system is permanent.  
+ 
+ 
+8
+ 
+
+The manner in which these exchanges and transformations take place, the principles 
+by which an incessantly changing pattern both retains its conf iguration or identity and 
+evolves its order , have been a centr al focus of system s inquiry. As for what exactly is 
+exchanged, since the distinctions between m atter, energy, and inform ation have becom e 
+blurred, answers to this question are not entirel y clear. Yet, it is clear that all three f low 
+through the system  and are subsequently transform ed by it. Von Bertalanf fy's m ajor 
+discovery was that regardless of a system's material ingredients or external appearance, in 
+their relational patterns and processes, the regularities or invariances which govern these 
+operations are essentially the sam e. Furthermore, in maintaining and organizing itself, an 
+open system is distinguished by wh at von Bertalanf fy identified as Fließ-Gleichgewicht 
+(literally, "flux-balance"), or steady state. Because a living system is incessantly involved in 
+processes of exchange and transformation—in st ates of inflow and outflow—the system  is 
+recognized as maintaining a continual state of flux. Never stationary or fixed in chemical or 
+thermodynamic equilibrium, its components are constantly altered by metabolic events.  
+The terms balance and steady are here most significant. These terms underscore the 
+fact that the system  m aintains itself in  tension between opposing forces—between the 
+formation and the dissolution of its constitutive components, i.e., its "substance." A system 
+compensates for its deterioration by importing and processing energy. Thus, it attains and 
+sustains a steady balance—a dynamic equilibrium—between its own im probable state and 
+the surrounding environment.16 While its elements dissipate, its pattern endures and can even 
+evolve in complexity. The morphogenesis embodied in living systems exemplifies negentropic or anti-entropic qualities that apparently  defy the physical laws of nature. Living 
+systems represent a successful m aintenance and increase of order within the prevailing 
+thermodynamic drift toward randomness and disorganization. Their orderliness persists, not 
+only in spite of disintegrative forces, but actually by means of utilizing them. 
+The processes through which living systems generate and sustain order are two-fold. 
+One is self -stabilizing or hom eostatic, where the continuity of  the system 's pattern or 
+configuration is maintained. The other is self-organizing, where the overall pattern of the 
+system itself is m odified, and its or ganization increased. Increased com plexity fosters a 
+ 
+ 
+9
+ 
+
+decrease in structural stability , and com plexification m oves the system  toward greater 
+variety, improbability, and possible inviability. The more complex and intricately ref ined 
+system is more vulnerable to physical disor ganization. Yet, this tendency is also counterbalanced by subsequent increases in the system's flexibility, and its heightened capacity to 
+process information and adapt. 
+Systems theorists observe that it is within closed systems, like a machine without an 
+outside source of energy, that entropy inevitably increases. This highlights the fact that while 
+open systems do manifest entropy, they can also import energy from their environment, and 
+through orderly differentiation they can increase in complexity. Unless the universe as a whole is 
+taken as one, the concept of a closed system is an abstraction that does not exist in nature.17 
+ The self-organizing and homeostatic (self-stabilizing) processes exhibited by open 
+systems constitute evidence of persistent phenomena which are contrary to the mechanically 
+and statistically demonstrable dissolution of the universe, postulated by the second law of 
+thermodynamics. Also, open systems provide evidence that demonstrates the existence of 
+anti-entropic (negentropic) tendencies with in our perceived universe—negentropic 
+tendencies in which order, complexity, and improbability are sustained and increased. Hence, 
+we may safely assume that the existence of open systems resolves the apparent contradiction 
+between data from physics which supports dissipation, disorganization and randomness, on 
+the one hand, and am ple documentation of increased order and com plexity in biological 
+evolution, on the other. 
+Cybernetics: Circular Causal Systems 
+in Biological and Social Systems 
+Gregory Bateson embraced the concepts and vocabulary of cybernetics because this 
+interdisciplinary field of fered a m ore rigorous  formulation of theoretical concerns with 
+which his work had already been dealing. In fact, Bateson's biography offers ample evidence 
+that long before he first encountered cybernetic theory, a systems approach to the biology 
+and the behavioral sciences were for him not a foreign concept.18 His father William Bateson 
+was a preeminent British biologist and a pioneer in the study of genetics (he introduced the 
+term to the English speaking world). Of  hi s f ather, Bateson has written that he, "was 
+ 
+ 
+10
+ 
+
+certainly ready in 1894 to receive the cybernetic ideas."19 It is also interesting to note that as 
+early as 1906, the elder Bateson had written:  
+ We commonly think of anim als and plants as m atter, but they are really 
+systems through which matter is continually passing. The orderly relations of 
+their parts are as much under geometrical control as the concentric waves 
+spreading from a splash in a pool. If we could in any real way identify or 
+analyze the causation  of growth, biology woul d becom e a branch of 
+physics.20 [emphasis mine] 
+ 
+Judging from the above, it does appear that Bateson was raised in an atmosphere where the 
+concerns and ideas central to systems analysis, and later cybernetics, were familiar topics. 
+Moreover, at Cambridge University in the 1920's, the pattern of his education in science had 
+encouraged broad, general, interdisciplinary interests.21 No doubt, having been raised and 
+educated in such an environment favorably prepared Bateson for the advent of cybernetic ideas.  
+Well before 1946, when he was invited to  attend the first form al conference on 
+cybernetics sponsored by the Macy foundation, Bateson' s work in cultural anthropology 
+dealt with the processes by which social system s or ganize and stabilize them selves. 
+However, he was not satisfied with his inte rpretations of his own social anthropological 
+fieldwork.22 It was not until cybernetics offered the possibility of extending the precision of 
+mathematics to these processes, that he became actively involved in the movement to apply a 
+variety of concepts originating in mathematics and engineering to biology and the behavioral 
+sciences.23 Still, Bateson was by no means a mathematician. He understood relatively little 
+mathematics and his distaste for engineering is well documented:24  
+. . . his interest was in the concepts from logical and mathematical theories 
+which he could use, as m etaphors or in an heuristic way , to form ulate 
+conceptual schemes in the behavioral and social sciences. His tool was and is 
+the English language, and he tried to achieve clarity and precision in its use, 
+as far as was possible, but never mathematical rigor.25 
+ 
+Bateson not only assimilated the conceptual schemes of cybernetics into his work, during the 
+remainder of his career he refined the newly de veloped lexicon of cybernetics, so that it 
+could be used with both scientific rigor and poetic imagination,26 and cybernetic principles 
+became the central metaphor in his proposed meta-science of Epistemology.  
+ 
+ 
+11
+ 
+
+James Watt's invention of the governor  on a steam  engine (given precise 
+mathematical analysis by Clerk Maxwell in 1868) and Cannon's discovery of homeostasis in 
+the maintenance of the chemical balance of the blood, had already revealed the principles 
+underlying the processes of self-regulation.27 These principles were more rigorously clarified 
+through research initially carried out on the im provement of anti-aircraft artillery during 
+World War II. To delineate further the opera tion of self-corrective or "T eleological 
+Mechanisms," research was directed to the ways in which such devices receive, exchange 
+and use information to adjust to m ultivariable contingencies in the environm ent. Devices 
+were built that could monitor their own performance, correct for deviations and changing 
+conditions, and within set parameters, alter their goals. The method used to accomplish all of 
+this utilized the properties of  closed self -corrective circuits, ref erred to as f eedback 
+mechanisms, and in time as cybernetics. 
+The term Cybernetics was coined by Norbert Wiener, at the end of World War Two, 
+in reference to the, "entire field of cont rol and com munication theory, whether in the 
+machine or in the animal."28 He was, of course, referring to a remarkable set of discoveries 
+concerning the nature of self-corrective machines that he and many others had made while 
+working on defense projects. During the war Wiener had been part of an interdisciplinary 
+team at the Massachusetts Institute of Technology who had worked on the m athematical 
+aspects of guidance and control systems for anti-aircraft fire. His earliest public use of the 
+term Cybernetics was in March 1946, 29 at the f irst of  the Macy conf erences, entitled, 
+"Feedback Mechanisms and Circular Causal Systems in Biological and Social Systems."30 
+Ironically, it was their consideration of guided ("purposeful") anti-aircraft projectiles, and 
+other weapons being developed for the war, which had alerted Wiener and his associates to 
+the similarity of organisms and machines: 
+Rosenblueth, Wiener, and Bigelow had, in effect, announced a new paradigm 
+in science, according to which one s eeks an overarching theory to include 
+machines and organisms; the theory would clearly involve ideas of information, control, and feedback.31 
+ 
+The introduction of cybernetics as an inte rdisciplinary field led to considerable 
+enthusiasm am ong the scientists who atte nded the Macy conferences. Many , including 
+ 
+ 
+12
+ 
+
+Bateson, believed the ideas offered were sufficiently deep, yet acceptably overarching, that 
+out of them might come a vocabulary suitable as a unifying conceptual framework for the 
+biological and social sciences. Norbert Wiener perhaps best captured the mood of enthusiasm 
+when he wrote: 
+If the seventeenth and early eighteenth centuries are the age of clocks, 
+and the later eighteenth and the ninet eenth centuries constitute the age of  
+steam engines, the present time is the age of communication and contr ol. 
+There is in electrical engineering a split . . . between the technique of strong 
+currents and the technique of weak currents, and which we know as the 
+distinction between power and com munication engineering. It is this split 
+which separates the age just past fr om that in which we ar e now living . 
+Actually, com munication engineering can deal with currents of any size 
+whatever . . . what distinguishes it from power engineering is that its main 
+interest is not economy of energy but the accurate reproduction of a signal.32 
+[emphasis mine] 
+ 
+Here, I want to call particular attention to the fact that in this quotation Wiener 
+emphasizes the accurate reproduction of a signal, i.e., communication, as the separation 
+which distinguishes cybernetics from the laws of thermodynamics. Later, when he stated that 
+"the study of m essages, and in particular ef fective m essages of control, constitutes the 
+science of Cybernetics,"33 Wiener was referring to the principles exhibited in the recursive 
+processes of feedback. 
+Clearly, the fundamental concepts of cybernetic theory include the closely related 
+phenomena of com munication, inform ation, and feedback. Sim ply put, "the feedback 
+principle means that behavior is scanned for its result, and that the success or failure of this 
+result modifies future behavior."34 As straight forward as this may seem, the actual processes 
+involved in feedback are considerably more complex. Consider the following observation 
+from von Bertalanffy, 
+The m inimum elem ents of a cybernetic system  are a "receptor" 
+accepting stim uli (or inform ation) from  outside as input; from  this 
+information a message is led to a "center" which in som e way reacts to the 
+message . . . ; the center, in its turn, transmits the messages to an "effector" 
+which eventually reacts to the stimulus with a response as output. The output, 
+however, is monitored back, by a "feedback" loop, to the receptor which so 
+senses the prelim inary response and steers the subsequent action of the 
+ 
+ 
+13
+ 
+
+system so that eventually the desire d result is obtained. In this way , the 
+system is self-regulating or self-directing.35 
+ 
+If we consider the tangible instances of c ybernetic systems, found both in technology and 
+biology, the configurations outlined above are usually of extraordinary com plexity. Yet, 
+cybernetic and system s theorists have discovere d that they can always be analyzed into 
+feedback circuits.36  
+According to Wiener, the operations of biological and technological system s are 
+precisely parallel. "Feedback" indicates the operation of  a system whereby its actions are 
+scanned by sensory receptors as one state in its cycle of operation. The system can monitor 
+itself and direct its behavior: that is, the system must have a special apparatus for collecting 
+information at low energy levels, and for making this information available in the operation 
+of the system. These messages are not selected and conveyed in an unaltered state. Rather, 
+through transform ing operations which are integral to the system , the inform ation is 
+translated and encoded into a new form  that is available for further stages of the system 's 
+performance. Thus, the system can modify its future behavior. "In both the animal and the 
+machine this perf ormance is m ade to be effective on the outer world. In both, their 
+performed action on the outer world, not merely their intended action, is reported back to the 
+central regulatory apparatus."37 
+The above description of feedback again indicates the extent to which the cybernetic 
+paradigm employed Shannon and Weaver's information and communication theory, in which 
+the pivotal concept is codification, i.e., the transformation of perceived events into symbolic 
+information.38 The degree to which the principles of communication theory are integral to 
+the cybernetic model are evidenced above, in  that: (a) the entire process hinges upon the 
+communication of messages, e.g., information, (b) em phasis is placed upon information 
+collected at low energy levels, (c) information from outside the system is not selected and 
+conveyed in an unaltered state, (d) if such info rmation is to be available to the system , it 
+must be transform ed, i.e., translated and encoded into a new form . At this juncture, a 
+quotation from Bateson's work m ay help to illustrate the significance that Shannon and 
+ 
+ 
+14
+ 
+
+Weavers theories hold for cybernetic theory , and also to indicate the radical shift in 
+perspective that information and communication theory require:  
+This world, of communication, is a Berkeleyan world, but the good 
+bishop was guilty of understatement. Relevance or reality must be denied not 
+only to the sound of the tree which falls unheard in the forest but also to this 
+chair which I can see and on which I am sitting. My perception of the chair is 
+communicationally real, and that on which I sit is, for m e, only an idea, a 
+message in which I put my trust.39 [emphasis mine]  
+ 
+Positive Feedback, Negative Feedback 
+and Mutual Causal Loops  
+As we have seen, feedback is a recursiv e process whereby a system 's behavior is 
+scanned and fed back through its sensory receptors. Data about the system's previous actions, 
+as a part of the input it receives, is monitored, allowing the system to "watch" itself, and thus 
+signal the degree of attainm ent or non-attainment of a given operation relative to pr eestablished goals. This process allows a system to alter its output and thereby regulate or 
+steer its behavior in relation to its pre-encoded goals. Thus, two form s of feedback are 
+recognized, negative and positive. 
+Negative feedback signals the absence of deviation, or the absence of any perceived 
+mismatch, between the system 's actual behavior and its tar geted goal(s). In ef fect, the 
+negative m essage of "no problem " is reporte d back to the system s central regulatory 
+apparatus (servomechanism, computer, autonomic nervous system, brain, etc.,) signaling that 
+no change in the system's output is necessary. Thus, negative feedback stabilizes the system, 
+allowing it to remain steady or constant within its prevailing course of trajectory. Conversely, 
+positive feedback signals a mismatch between the system's actual behavior and its intended 
+performance.40 Positive feedback messages initiate modifications in the system's operation, 
+until the f eedback is again negative and the sy stem is on tar get. In f act, within highly 
+complex systems, positive feedback can actually modify the goal(s), and hence the aim(s), of 
+the overall system, itself. 
+Before further considering the properties of negative and positive feedback, we again 
+underscore the fact that cybernetics has opened new horizons for the exam ination and 
+explanation of living systems. Charting the traits of negative and positive feedback loops has 
+ 
+ 
+15
+ 
+
+unveiled pattern-building, or isom orphisms and invariances unlike any accepted by the 
+linear, or lineal paradigm that continues to dominate Western culture.41 Hence, phenomena 
+such as circular and mutual causality, dynamic stability, and complexly interrelated systemic 
+hierarchies are now open to more rigorous investigation.  
+For many people, the analogy of feedback as a "loop" or circle may tend to suggest a 
+"vicious circle," or reversion to a pre-existing state—an incessant return to the sam e point, 
+and the exclusion of novelty. However, as we will discover, feedback generates information 
+and innovates novelty. Through the recursive operation of negative and positive feedback, 
+elements within a system, be they cells in a body or members of a society, become informed 
+and differentiated. Hence, they are able to grow and evolve. 
+An accessible exam ple of the cybernetic m odel is the therm ostatically controlled 
+heating system. The entire unit, weather-house-heater-thermostat-homeowner, is here understood as a system of communication. The thermostat contains a thermometer (a receptor or a 
+sort of sense or gan), which responds to messages or transform s of dif ference ( e.g., 
+information) between a specified ideal temperature and actual changes in room temperature. 
+Note that it is the hom eowner who specifies, sets or encodes, the therm ostat's ideal 
+temperature. Hence, as the following obser vation from  Bateson indicates, from  one 
+perspective the system's circuitry is closed; but, the system is also open to changes in both 
+weather patterns and the homeowner's personal preferences. 
+When the phenomena of the universe are seen as linked together by 
+cause-and-effect and energy transfer, the resulting picture is of com plexly 
+branching and interconnecting chains of causation. In certain regions of this 
+universe (notably organisms in environments, ecosystems, thermostats, steam 
+engines with governors, societies, computers, and the like), these chains of 
+causation form circuits which are closed in the sense that causal interconnection can be traced around the circuit and back through whatever position was 
+(arbitrarily) chosen as the starting point of the description. In such a circuit, 
+evidently, events at any position in the circuit may be expected to have effect 
+at all positions on the circuit at later times.  
+Such systems are, however , always open: (a) in the sense that the 
+circuit is energized from some external source and loses energy usually in the 
+form of heat to the outside; and (b) in the sense that events within the circuit 
+may be influenced from outside or may influence outside events.42 
+ 
+ 
+ 
+16
+ 
+
+In our exam ple of a cybernetic sy stem (weather -house-heater-thermostathomeowner), when the temperature of the house is too warm or too cold, the thermostat will 
+respond to its own codification of the change—not to a physical ener gy transfer—and will 
+signal the heater to turn of f or on, thereby equilibrating to conserve the system 's ideal 
+temperature. This typifies the interactive oscillation between messages communicating the 
+real to the ideal and the ideal to the real within the comprehensive circuitry of a cybernetic 
+system—exem plified in steady state, hom eostasis or morphostasis. In this system  the 
+messages of temperature change, i.e., deviation from the ideal, represent positive feedback, 
+and are counteracted through self-stabilizing messages of control, e.g., negative feedback, 
+which activate or deactivate the heating element so as to maintain a balanced approximation 
+of the system's encoded ideal. 
+Feedback "mechanisms" are circular and self-referential by nature. In the closed 
+"circuitry" of a feedback loop, "cause" and "effect" cannot be categorically isolated. They 
+modify each other in a continuous proce ss whereby input and output, percepts and 
+performance, interact. This complex interaction between perception and action, evident in 
+exploratory and learning behaviors, is the means by which a system—anim al or machine—
+has the capacity to adapt, or ganize and increase its complexity. It is the key to a system 's 
+self-organization and its self-stabilization. Thus, cybernetic models mandate explanation in 
+terms of serial and reciprocal sequences of cause and effect: 
+All that is required is that we ask not about the characteristics of lineal chains 
+of cause and ef fect but about the ch aracteristics of system s in which the 
+chains of cause and effect are circular or more complex than circular. If, for 
+example, we consider a circular system containing elements A, B, C, and D—
+so related that an activity of A affects an activity of B, B affects C, C affects 
+D, and D has an ef fect back upon A—we find that such a system  has 
+properties totally different from anything which can occur in lineal chains.43 
+ 
+Precisely because lineal one-way causal pr emises—with categorical distinctions 
+between cause and effect—can only be applied piecemeal to two variables at a tim e, they 
+have proven inadequate for explaining the prope rties of circular or m ore complex than 
+circular systems. The interactions of cybernetic pattern-building disclose a different kind of 
+causality, one involving interdependence and reciprocal relationships between causes and 
+ 
+ 
+17
+ 
+
+effects. The recursive processes involved in feedback serve to link causal variables in a 
+continuous flow of information and energy. Not unlike an electrical circuit, feedback loops 
+connect output with input, and the inform ation they communicate sustains an interactive 
+oscillation between the systems targeted ideal(s) and the success or failure of its behavior(s).  
+Consequently, the circular or m ore complex than circular processes of feedback 
+exhibit properties that far exceed the general notion of interaction, or the mere presence of 
+influences in two directions . They function in terms of mutual causal loops, and as such, 
+these influences actively influence each other—both within a given system , or a subsystem, 
+and between systems. A may affect B in a way that is unrelated to B's influence on A. Yet, 
+only where A's effect on B is qualified by B's effect on A (or, where A is modified by its 
+effect on B), is there a feedback loop and mutual causality in a strict sense.44 
+ 
+Regenerative Feedback, 
+Deviation Amplification, 
+and Cybernetic Stability 
+Although developed from  work with self-c orrective, purposive or "teleological" 
+machines, the application of feedback principles was quickly recognized as a valuable tool 
+for describing the function of living open systems.45 In an organism, sensory signals, such as 
+the pain which results from touching a hot object, constitute feedback. In social relations, 
+feedback reports the result—or the perceived result— of our behavior on other persons, such 
+as our perception of a smile or frown in return for our own.46 Particularly in relation to the 
+self-stabilizing and self-organizing nature of a system (i.e., cybernetic stability), the mutual 
+causal ef fects of feedback have been recogni zed as invaluable tools for appropriately 
+explaining the interaction observed in the rela tionship of a system  with its environm ent. 
+They also offer concepts with which the ex traordinary self-regulative capacities of living 
+systems can be comprehended and investigated. Hence, cybernetics serendipitously provided 
+a firmer theoretical foundation for general systems theory. 
+Nevertheless, it should be noted that so me general system s theorists adopted 
+cybernetic principles with firm reservations. For example, von Bertalanffy asserted that: 
+Cybernetic systems are "closed" with respect to exchange of  matter with 
+environment, and open only to inform ation. For this reason the cybernetic 
+ 
+ 
+18
+ 
+
+model does not provide for an essen tial characteristic of  living system s 
+whose components are continually destroyed in catabolic and replaced in 
+anabolic processes, with corollari es such as growth, developm ent, 
+differentiation, etc.47  
+ 
+According to von Bertalanffy, the cybernetic model introduced circular causality by 
+way of the feedback loop, which accounts for the self-regulation, goal directedness, etc., of 
+the system. Yet, the feedback m odel is only one, "rather special," type of self-regulating 
+system; and it is too "mechanistic" in the sense that it presupposes structural arrangements 
+(receptors, effectors, control center , etc.). In contrast, he m aintained that the concept of 
+general systems is broader and non-mechanistic, in that regulative behavior is not determined 
+by structural or "machine" conditions, but a dynamic interaction between many variables. 
+John Milsum and others seem to have resolved these issues, but von Bertalanffy's resistance 
+persisted.48  
+Be that as is may, Von Bertalanffy's remarks do highlight some of the key objections 
+voiced when the cybernetic m odel is applied to living system s. Once again, the general 
+confusion regarding inform ation, m atter, and ener gy is apparent, and although von 
+Bertalanffy neglects the crucial point that matter may serve as information, his objections 
+underscore the fact that a sharp distinction must be drawn between matter and energy, and 
+information.49 As for his claim s that the cyberne tic model does not provide for growth, 
+development or differentiation, and that regula tive behavior in the feedback m odel is too 
+structural and mechanistic, they are simply overdrawn.50 
+Von Bertalanffy made use of the cybernetic model, and he was well aware that it is 
+intended as an analogy. His objections cannot have been an instance of mistaking map for 
+territory. Yet, as the founder of general systems analysis, he was inclined toward maintaining 
+its uniqueness and superior comprehensiveness. In his favor, we should recognize that as a 
+conscientious pioneer of scientific thought he was also concerned with avoiding overly 
+ambitious applications of both general systems analysis and cybernetics.51 It is interesting to 
+note that Bateson chose to avoid this particul ar mode of systems/cybernetics controversy, 
+and was am ong those who integrated the elem ents shared in com mon by these "related 
+disciplines." Von Bertalanffy's objections are echoed in the criticisms leveled at employing a 
+ 
+ 
+19
+ 
+
+cybernetic model in the social/behavioral scie nces. However, at this point m y aim is to 
+delineate the prem ises upon which cybernetics is based, and attem pting to resolve these 
+issues moves beyond our present topic.  
+As systems theory assimilated cybernetic principles, the self-stabilization of a system 
+came to be understood as an operation of the deviation-counteracting processes of negative 
+feedback.52 Natural systems respond to change in the environment in much the same way as 
+a therm ostat. Both adjust their behavior so as to m inimize deviations between their 
+perceptions or measurements of the environment (the input) and their internal requirements 
+encoded in a control center (brain, servomechanism, etc.). Thus, they maintain a steady state 
+of morphostasis in the ongoing relationship of their systems' mutually affecting variables, the 
+continuity of their pattern is ensured, and their systemic integrity is actively "stabilized."  
+Yet, cybernetic systems exhibit a capacity for pathology and self-destruction. In the 
+example of a hom e therm ostat, if the polarity of  the system 's codifier is reversed so it 
+responds to positive feedback with positive feedback—increased  room temperature triggers 
+the heating elem ent, which raises room  temperature and triggers the therm ostat, etc; the 
+system will shift into a state of runaway , like a steam  engine without a governor , and 
+exponentially self-destruct. This attr ibute of positive feedback is term ed regenerative 
+feedback. If left uncorrected, it leads to pathology and ultimately self-destruction. Mapping 
+and explaining the capacity for system ic pathology is a recognized contribution of 
+cybernetics. Indeed, it seems Wiener focused on the study of effective messages of control, as 
+constituting the science of cybernetics, precise ly because he assum ed that self-regulating 
+systems tend toward entropy. Thus, in cybernetic explanation questions are framed in terms 
+of what restraints are activated in order to maintain a system in steady state.53 
+Although degrees of pathology are a potential consequence of positive feedback, a 
+related phenom enon, oddly enough, is the system 's capacity for self-organization. This 
+particular aspect of positive feedback is a result of  the deviation-amplifying processes of 
+regenerative feedback. Recognized in growth, learning, and evolution, it is perhaps the most 
+significant consequence of positive feedback. If there is a persistent mismatch in the mutual 
+causal relationship between the environm ent and a system 's configuration (between a 
+ 
+ 
+20
+ 
+
+system's input and its code), such perturbations may trigger modifications in the code and the 
+overall "structure" of the system, itself. Messages of deviation m ay be "interpreted" by a 
+system to require increased deviation. Conse quently, the deviation-amplifying process of 
+positive feedback, through which a system  m ay destroy itself, m ay also trigger 
+morphogenesis —changes that reor ganize and complexify the system's overall pattern of 
+operation, transforming it to a therm odynamically less probable, but a contextually m ore 
+viable order of configuration and interaction.54 
+Cybernetic research has convincingly dem onstrated that through the deviationamplifying mutual causal process of positive feedback, starting anywhere except the thermodynamically m ost probable equilibrium , open system s will com plexify in response to 
+enduring perturbations from the environment. In short, "whenever a lasting deviation from 
+uniformity (thermodynamic equilibrium) develops," a system will move toward increased 
+differentiation and com plexification, and therefore, a m ore tenuous steady state. 55 It will 
+adapt itself to environmental conditions by altering and complexifying its organization, and 
+increased complexification in all natural systems represents movement away from systemic 
+stability. That is, as a system's configuration becomes more intricately organized and more 
+intimately interrelated with increased extern al variables, it becom es more sensitive and 
+responsive to change, and thereby less stable. However , the em ergence of increased 
+differentiation and complexification also manifests a corresponding increase in the system's 
+array of available responses, or what Ervin Laszlo terms cybernetic stability—the system 's 
+capacity for effective adaptation.56 
+Note how the cybernetic paradigm  shifts the focus of our discourse away from : 
+discreet m aterial substances, oneway causality , structure, and sum mativity. Rather , a 
+cybernetic explanation focuses on: process and behavior, dynamic or animated organization, 
+circular or more complex than circular causality, the mutual causal loops of feedback cycles, 
+interaction between multiple variables, and emergent morphogenesis. Hence, the cybernetic 
+stability of a system  must be understood not as an inactive structure, but as a pattern of 
+events—an anim ated organization of exchange s and transf ormations within the system 's 
+parameters. Hence, it is not the characteristics of the "parts" alone that are basic to any 
+ 
+ 
+21
+ 
+
+whole. Rather , it is the m anner in which the system 's dif ferentiated com ponents are 
+interrelated that gives them their distinctive properties. Furthermore, within more complex 
+systems the "differentiated parts" exhibit pr operties which they owe specif ically to being 
+components of a larger whole. 
+Through its receptors, a cybernetic system acquires and processes information and 
+energy according to its needs or code. Information, energy and matter may spread through 
+the system  following a fixed pathway , but they do not trigger responses and produce 
+systemic behavior (output) directly. Rather, they are subject to the dynamics of the system's 
+configuration, and in the circular or more complex than circular operations of a cybernetic 
+circuit or network, events at any position in the circuit may be expected to have effect at all 
+positions on the circuit at later times. Incoming messages are received as encoded transforms 
+of perceived events, and such inform ation is translated or "interpreted" (sifted, sorted, 
+evaluated and recombined) before it is conveyed to effectors and translated into action. Thus, 
+the cybernetic system does not passively undergo the effects of external causes, but actively 
+transforms them. It is not simply input that determines a system's behavior, but what happens 
+to the input within the system, how the input is interpreted and used in terms of the system's 
+organization. As Laszlo insists, "this is dir ectly contrary to linear -causality input-output 
+systems."57 
+Indeed, the cybernetic m odel does contradict the linear concept of  causality , 
+undermining the axiom that, "similar conditions produce similar results and that different 
+conditions will produce dif ferent results." Mar uyama observes that this "sacred law of 
+causality in classical philosophy" has guided m uch research, leading scientists to seek 
+explanations for differences between phenomena in their initial conditions, rather than in 
+ongoing m utual causal interactions. 58 However , deviation-counteracting and deviationamplifying m utual causal interactions influe nce and shape events in accordance with a 
+system's codes and goals. Accordingly, they can produce dif ferent results from  the sam e 
+initial inputs or similar results from differing inputs. 
+Focusing on the deviation-counteracting aspects of a system's mutual causal process 
+discloses negative feedback, through which a system maintains morphostasis, or steady state. 
+ 
+ 
+22
+ 
+
+Still, although a system's overall configuration (including its code) must remain "stable," it is 
+not static. In the fluctuating context of a changing environm ent, a system 's code m ust 
+determine how it uses or "interprets" its  input, and through the deviation-am plifying 
+messages of positive feedback, morphogenesis may emerge. Triggered by perturbations of a 
+persistent mismatch in the mutual causal relationship between a changing environment and a 
+system's overall configuration, a system  m ay transform itself. Thus, a system  has the 
+capacity to maintain cybernetic stability precisely by altering its code and reorganizing its 
+overall operation into a more complex order of configuration and performance.  
+Here, I should also underscore the fact that in cybernetic explanation the ongoing 
+relationship between a system and its environment is discerned as essentially nonsubstantial, 
+communicational, and stochastic.59 Cybernetic systems aim at sustaining a viable steady state 
+of interaction within changing contexts through the stochastic process of trial and error. Bear 
+in mind that such a system  must respond to the effects of its own output, as well as other 
+alterations in its environm ent. This process includes exchanges of ener gy, and generally, 
+exchanges of m atter as well. S till, it is exch anges of inform ation, messages of ef fective 
+control, which restrain and govern systems. Thus, the processes that together comprise the 
+pattern of events discernable in whole syst ems, and within the continuing relationship 
+between a system and its environment, exhibit regularities that are not primarily subject to 
+the physical laws of ener gy transfer and the second law of therm odynamics. Rather, they 
+proceed according to regularities discovered in the transformation of perceived events into 
+symbolic information. This is the realm of existence, the universe of discourse, that Bateson 
+referred to as "the Berkeleyan world of communication." 
+Negative feedback m essages communicate information which allow a system  to 
+delimit or restrain its array of available responses, and thus m aintain the system's steady 
+state. Positive feedback messages communicate information which may trigger emergent 
+(e.g., delimited by previously successful patterns) morphogenesis. A living system does not 
+initially contain coded within it all the information required for it to evolve into what it has 
+or will become. However, morphogenesis can "employ" the deviation-amplifying processes 
+of positive feedback to produce variations of previously encoded inform ation. As a 
+ 
+ 
+23
+ 
+
+consequence, the process of m orphogenesis can generate m essages that determ ine the 
+innovative "direction" in which a system's overall pattern of operation will change. Through 
+such stochastic exchanges of signals or messages, restraints and transform ations, a 
+cybernetic system maintains and evolves its pattern of  organization in mutual interaction 
+with its environment. 
+ 
+Systemic Invariance and Isomorphisms: 
+Whole Systems and the Hierarchy of the Observable Cosmos 
+As we have seen, Norbert Wiener proposed Cybernetics as a general study of control 
+and communication theory in both the machine and the animal. As such, cybernetics became 
+a master concept which assimilated a number of analytic methods, including computerization 
+and sim ulation, set theory , graph theory , net theory , autom ata theory, decision theory , 
+queuing theory , gam e theory , and general sy stems theory , as well. Indeed, with the 
+introduction of the cybernetic paradigm , systems theory was m ore readily accepted and 
+applied to num erous fields of research. Hence, as is apparent in the wealth of  available 
+literature, cybernetic processes became discernible to many theorists, not only in biological 
+systems, but also in the sub-organic and supra-organic world—from  microphysics to organic 
+life, through social groups, to the biosphere of our planet, and beyond. 
+In short, the introduction of cybernetic principles led to the identification of systemic 
+invariance or isomorphisms throughout the observable cosm os. S till, whether or not 
+employment of the cybernetic paradigm has been appropriate in each instance remains an 
+area of dispute. Nevertheless, once perceive d, the recognition of such isom orphisms has 
+fostered a valuable epistemic shift: from consideration of "entities," to the discernment of 
+whole systems. The recognition of systemic isomorphisms also initiated further disclosure of 
+the logic evident in the behavior and interaction of systems, enabling theorists to frame the 
+formal characteristics inherent in whole (cybernetic) systems. 
+The properties of such a system are identified as four-fold, three of which have been 
+discussed in detail: 
+ 
+ 
+24
+ 
+
+  1. The system is a holistic/non-summative whole that cannot be reduced to its parts without 
+altering its pattern. Artificially composed aggregates, wherein the constituent elements can 
+be added or subtracted without altering the overall system are not included.  
+  2. The system is self-regulating, e.g., hom eostatic, stabilizing itself through negative 
+feedback. If input matches a system's coded requirements, the system maintains its output in 
+order to maintain its match. 
+  3. The system is self-organizing. If mismatch between input and internal code persists, the 
+system searches for, and encodes a new pattern with which to operate. Thus, in the passage 
+of time, differentiation and com plexification of the overall system  may emerge through 
+positive feedback. 
+  4. Moreover, the system  is understood as a dif ferentiated sub-whole within a systemic 
+hierarchy. The "environment" in which a system  exists is also a whole system , a m etasystem. Whether ecosystem , anim al, or gan or cell, system s consist of  subsystem s that 
+operate within a hierarchy of progressively inclusive m eta-systems. As a subsystem , the 
+system's characteristics and operations are co-determinative components of the larger system 
+within which it is an integral component. Thus, a system may be understood as Janus-faced. 
+As a whole, it faces inward, i.e., the system is concerned with maintaining its internal steady 
+state; as a sub-whole, the system  faces out ward, responding to its environm ent (a m etasystem) in a potentially infinite regression of relevant contexts.  
+Spurred by the enthusiasm with which cybernetics was received, systems research 
+has been applied to m any fields of scientific enquiry . Such research supports the 
+evolutionary view that over time, through self-organization and mutual adaptation, systems 
+tend to form structural hierarchies, i.e., they fashion progressively lar ger, more inclusive 
+systems out of preexisting sub-systems or microhierarchies. Notably, such research has also 
+revealed that this phenomenon is delimited by hierarchical restraints of a morphic nature.60 
+In the patterns they exhibit, these new sy stems generate unique qualities, including m ore 
+complex organization and inherently novel forms of operation. 
+The view which subsequently em erged, discerns a com plementary relationship 
+between the morphic nature of systemic integration and systemic differentiation within a 
+ 
+ 
+25
+ 
+
+hierarchical universe. Systemic differentiation and integration are conventionally understood 
+as delimited by the channeling of energy, matter and information to maintain and generate 
+form. Also, through the cybernetic interaction of their patterns of operation, systems tend to 
+complexify and form hierarchies. Hence, in the realm of astronomy, hierarchical restraints 
+are understood as gravitational; in the hierarc hy from microphysics to organic life, these 
+cybernetic restraints are understood as electrochemical forces; and in social and cognitive 
+hierarchies, such constraints are understood as operating in the communication of symbols.61  
+Bateson rejected the use of energy and matter in this context—except in those 
+instances where they act as information and thus have communicational value. As is well 
+known, Bateson's work aimed at clearly drawing the distinction between energy and matter, 
+on the one hand, and information, on the other, by pointing out that information represents a 
+difference, and unlike ener gy or m atter, difference is a non-substantial phenom enon that 
+cannot be located in space or tim e. Hence, he  m aintained that cybernetic m odels and 
+metaphors are most appropriately applied to the mental realm of cognitive systems, i.e., mind 
+systems—both artificial and natural. Given the unique status of information and communication, as nonsubstantial phenom ena which nevertheless govern and control cybernetic 
+systems, he maintained that cybernetic systems best exemplify mental process.  
+In this context the use of  energy and matter as explanatory principles is clearly 
+inappropriate—except in those instances where they function as information and thus have 
+communicational value. Recall that in cybernetics, zero has a "causal" value because zero 
+represents a difference, it is different from one, and zero (quite literally, no thing) may thus 
+be used to explain a response in this realm of mental process. As a consequence, the holistic 
+systems under discussion cannot be effectively measured or studied in quantitative terms. 
+Quantifiable concepts such as power, gravity, and energy, etc. are applicable only in what 
+Bateson ref erred to as the Pleromic realms of explanation, i.e., the physical sciences. 62 
+Atoms, molecules and stones do not respond to information. They do not scan their behavior 
+for its result, nor do they m odify f uture behavior on the success or failure of such 
+information. Thus, in contrast to Laszlo a nd others, Bateson rejects the application of 
+ 
+ 
+26
+ 
+
+cybernetic principles in describing and explaining atomic, subatomic and electrochemical 
+realms of physical existence.  
+In Bateson's cybernetic epistemology, mental process emerges out of certain types of 
+organization of matter, and the mental properties of the system are understood as immanent, 
+not in any one part, but within the system as a whole . Mental process ( e.g., m ind) is 
+understood as immanent in the ci rcuits of the brain which are complete within the brain; 
+mental processes are sim ilarly im manent in the cir cuits which are com plete within the 
+system, brain-plus-body; and m ind is im manent in the lar ger system —person- plusenvironment.63 The resulting image requires that we eliminate the commonly held notion that 
+mind is to be identified as residing only w ithin the boundary of our physical body , and is 
+somehow radically separate from others.  
+. . . there is no requirement of a clear boundary, like a surrounding envelope 
+of skin or m embrane, and you can rec ognize that this definition [of m ind] 
+includes only some of the characteristics of what we call "life." As a result it 
+applies to a much wider range of those complex phenomena called "systems," 
+including systems consisting of multiple organisms or systems in which some 
+of the parts are living and some are not, or even to systems in which there are 
+no living parts.64 
+ 
+To be sure, mental process requires collateral energy. However, the interactions of 
+mental process are triggered by difference, and "difference is not energy and usually contains 
+no energy."65 Mental process requires some amount of energy (apparently very little), but as 
+a stim ulus the nonsubstantial phenom enon of difference does not provide ener gy. The 
+respondent mind system has collateral energy, usually provided by metabolism. If we kick a 
+stone, it receives energy and it moves with that energy. However, if we kick a cat or a dog, 
+our kick may transfer enough energy to move the animal. We may even imagine placing the 
+animal into a Newtonian orbit. However, a living organism responds with energy from its 
+metabolism. In the control of anim ation by inform ation, energy is already present in the 
+respondent, the energy is available in advance of the "impact" of events. 
+Moreover, the phenomena of coding, an integral element of feedback in cybernetic 
+systems, is centrally incorporated into Bateson's epistemic model; and here we should note 
+that his cybernetic epistemology assigns unequivocal limitations as to what mind systems are 
+ 
+ 
+27
+ 
+
+capable of knowing, largely due to this phenomena. That is, the process in which information 
+is translated and encoded into a new form—for only then is information available for further 
+stages of a system's performance— limits the perception of mental systems to images that are 
+reminiscent of the shadows in Plato's allegory of the cave.  
+The perspective which is thus added to  Bateson' s work em erges out of the 
+information theory and com munication theory developed by Shannon and Weaver, and it 
+effectively places his epistem ic m odel in what Bateson refers to as "the world of 
+communication." This world of communication is to be understood as a realm of explanation 
+wherein the only relevant entities or "realities" are messages. And for Bateson, this is the 
+realm of m ind, in which relationships and m etarelationships, context, and the context of 
+context—all of which are com plex aggregates of information or differences which make a 
+difference—m ay be identified in a potentially infinite regress of relevant contexts. Consider 
+Bateson's comparison of the Newtonian world and the world of communication: 
+The dif ference between the Newtonian world and the world of 
+communication is simply this: that the Newtonian world ascribes reality to 
+objects and achieves its simplicity by excluding the context of the context—
+indeed excluding all m etarelationships—a fortiori excluding an infinite 
+regress of such relations. In contrast , the theorist of communication insists 
+upon exam ining the m etarelationships while achieving its sim plicity by 
+excluding all objects.66 
+ 
+ 
+As previously noted, Bateson goes on to suggest that the world of communication is a 
+Berkeleyan world, but the good bishop was guilty of understatement, "relevance or reality 
+must be denied not only to the sound of the tree which falls unheard in the forest but also to 
+the chair that I can see and on which I m ay sit." Our perception of a chair is communicationally real, but in the realm of mental process—the world of com munication—the chair on 
+which we sit is only an idea, a message in which we put our trust. There are in fact no chairs 
+or tables, no birds or cats,  no students or professors in the working circuitry of the m ind, 
+except in the form  of "ideas." Dinge an Sich  or things-in-them selves are inaccessible to 
+direct inquiry. Only ideas (difference, news of difference, images or maps) and information 
+(differences which make a difference) about "things" are accessible to mind: 
+ 
+ 
+28
+ 
+
+Ideas (in som e very wide sense of  that word) have a cogency and reality . 
+They are what we can know, and we can know nothing else. The regularities 
+or laws that bind ideas together—these are the (eternal) verities. These are as 
+close as we can get to ultimate truth.67 
+ 
+Be that as it may, in each of the above examples (astronomy, microphysics, organic 
+life, and social and cognitive hierarchies), th e hierarchical constraints are of  a m orphic 
+nature, e.g., they deal with pattern, not substance. Each step between the hierarchies may be 
+recognized as an advance the developm ent of form  toward increasingly com plex 
+organization. Furtherm ore, as cybernetic/sys tems proponents point out, in asserting the 
+irreducibility of levels, the hierarchical view of cybernetic theory conflicts with traditional 
+monism, as well as with dualism and pluralism.68 Since hierarchical constraints produce both 
+novelty and organization, causal or generative relations necessarily exist between the levels.  
+Hence, the cybernetic view of  observed reality is hierarchical: the universe is 
+understood as a hierarchy of systems, wherein each higher level of system is composed of 
+systems of lower levels. Yet, as Joanna Macy  notes, this is not the hierarchy of rank and 
+authority associated with organized religions or an army, nor is it the hierarchy of being and 
+value found in the thought of Plato and Plotinus. 69 It is more like a set of  self-organizing 
+Chinese boxes, each one neatly fashioned to fit inside the other, ad infinitum. The hierarchy 
+of observed reality is thus maintained through structured interaction, with self-organization 
+and mutual adaptation acting as hierarchical restraints; regulating an "osm otic" flow of 
+energy, matter, and information exchanged between its differentiated levels. Or, to use the 
+metaphor offered by Macy, it is more like an inverted tree, as the ancient verses of the Katha 
+Upanisad im aged, where system s branch downward into subsystem s, seem ingly ad 
+infinitum: 
+In this tree, however , the m ovement of growth and or ganization is in the 
+reverse direction. Like the shape of the inverted tree, or like pyramids, these 
+natural systemic hierarchies narrow as they go up, in the sense that the higher 
+levels, since they enclose the lower, are fewer in number. Yet they represent a 
+vastly greater variety. While there are, for example, more atoms in the world 
+than forms of plant and animal life, atoms come in only 82 kinds, whereas 
+types of organic species number some million.70 
+ 
+ 
+ 
+29
+ 
+
+In this view, each level of the hierarchy cybernetically builds on more basic levels of 
+organization: integrating pre-existing subsystems and micro-hierarchies into novel patterns; 
+and fashioning new, more inclusive systems. As observed in embryology (e.g., epigenesis), 
+evolution and child developm ent, growth and learning occur increm entally or step-wise. 
+Whole system s never begin from  scratch. Their growth is inevitably based upon the 
+organization of pre-or ganized com ponents. They are both delim ited and enabled by 
+hierarchal constraints that perm it stability, economy, and speed in the unfolding of new 
+forms of life and more inclusive hierarchical levels.71  
+Since their introduction, investigation of the holistic/non-summative, self-stabilizing, 
+self-organizing and hierarchical traits formally identified in cybernetic systems has spread 
+into the social/behavioral sciences. Thus, the informational nature of cybernetic processes: 
+including the concepts of feedback, mutual causality, and self-regulating systems— i.e., that 
+cybernetic system s adapt to and alter their environm ents through sequences of selfstabilization around steady states—have been a dopted and fruitfully em ployed in these 
+universes of discourse. In closing, we may note that this shift in methodology and theory is 
+more than a m ere attempt to take the co mmon sense notion of com munication as having 
+something basic to do with the social/behavioral sciences and give it a firm scientific status. 
+Following Bateson, et al., we m ay safely assert that  cybernetics discloses a new 
+paradigm of science, a paradigm that Bateson used with rigor and imagination, and which, as 
+he often asserted, initiates four theoretical advancements that redefine the social/behavioral 
+sciences:72 
+  1. Rather than focusing on the substance a nd content of isolated phenom ena, as in the 
+reductionist, mechanistic, one-way causal paradigm of classical science, cybernetics focuses 
+on form, pattern and redundancy in whole systems. 
+  2. The cybernetic paradigm clarifies the operational significance of inform ation and 
+communication— i.e., mental process—in biological, social and behavioral phenom ena. 
+   3. With its focus on communication and information, the cybernetic paradigm illuminates 
+the negentropic realm of living system s. This is realm of mind in the widest sense of the 
+word, and this realm  m ust be approached through its own set of preconceptions and 
+ 
+ 
+30
+ 
+
+premises. When we wish to describe and explain the negentropic processes evident in living 
+systems, physical analogies are inadequate, and the analogies of method taken from the "hard 
+sciences" are inappropriate. 
+  4. The cybernetic paradigm provides a rigor ous model of m ental process with a unified 
+vocabulary and a unified methodology which serve as an effective counterbalance to the charge of 
+subjectivism aimed at the methodologies used in the social/behavioral sciences, as well as the 
+currently fashionable assortment of "vicious criticisms" aimed at all forms of linguistic discourse.73  
+These four points suggest the problem solving values claimed for cybernetics by its 
+proponents in the social/behavioral sciences. Although not without reservations concerning 
+uncritical applications of the cybernetic para digm, I believe the characteristics f ormally 
+identified in cybernetic system s offer profoundly significant advances for studies in the 
+human sciences, including my own field of specialization, religious studies and interreligious 
+dialogue. Consequently, in continuing the line of  inquiry presented in this essay , I have 
+written an essay that further details the problem-solving values claimed for cybernetics by its 
+advocates in the social/behavioral sciences. Inasm uch as the utilization of  cybernetics 
+principles in these realms of discourse has not gone without its critics, this companion piece 
+focuses on the m ajor criticisms leveled at em ploying cybernetics in the social/behavioral 
+sciences, while exploring the manner in which insights from the work of Gregory Bateson 
+confront and resolve these often valid criticisms. 
+ 
+ 
+31
+ 
+
+Notes  
+                                                 
+     1Gregory Bateson, "From  Versailles to Cybernetics," in Steps to an Ecology of Mind: 
+Collected Essays in Anthropology, Psychiatry, Evolution, and Epistemology (San Francisco: 
+Chandler Publishing Company, 1972), pp. 482-83. (hereafter — STEPS)  
+ 
+     2Warren S. McCulloch, Embodiments of Mind (Cambridge, Massachusetts: M.I.T. Press, 
+1965). McCulloch was a key member of the group that did the original work in cybernetics. 
+He is referred to by Bateson more often than any other modern scientist.  
+     3In this context, Bateson was notably influenced by a paper that McCulloch coauthored. 
+See, J. Y. Lettvin, W. S. McCulloch, H. R. Maturana, and W. H. Pitts, "What the Frog's Eye 
+Tells the Frog's Brain," Proceedings of the Institute of Radio Engineers 47 (1959): 1940-52; 
+reprinted in Warren S. McCulloch, Embodiments of Mind, Chapter 14, pp. 230-255. 
+     4Gregory Bateson, "This Norm ative Natural Hi story Called Epistem ology," reprint of 
+Bateson's, "Afterword," in About Bateson, edited, with a new title taken from the body of the 
+text; reprinted in Sacred Unity: Further Steps to an Ecology of Mind, Part III: Epistemology 
+and Ecology, pp. 215-224, edited by Rodney E. Donaldson; see, p. 216. 
+ 
+     5Claude E. Shannon and Warren Weaver, The Mathematical Theory of Communication 
+(Urbana: University of Illinois Press, 1949; 6t h ed., Urbana: University of Illinois Press, 
+1964), p. 1, n 1. (hereafter — Shannon & Weaver) 
+     6Ludwig von Bertalanffy, General Systems Theory (New York: George Braziller, 1968), p. 
+xxi. 
+ 
+     7Ervin Laszlo, Systems View of the World (New York: George Braziller, 1972), pp. 5, 6. 
+     8Joanna Rogers Macy, "Interdependence:" (Ph.D. dissertation, Syracuse University, 1978), p. 
+58. 
+     9Lester R. Brown, et al., State of the World 1989: A Worldwatch Institute Report on 
+Progress Toward a Sustainable Society (New York: W.W. Norton & Co., 1989). 
+     10Shannon & Weaver, pp. 12-28; also, Spyros Makridakis, "The Second Law of Systems," 
+International Journal of General Systems, 4 (September 1977): 2-4. (hereafter — IJGS)  
+     11Ervin Laszlo, Systems View of the World, p. 4. 
+ 
+     12Von Bertalanffy, General Systems Theory, p. 12. 
+     13Gordon Allport, "The Open System  in Personality Theory," in Modern Systems 
+Research for the Behavioral Scientist, pp. 343-350, edited by Walter F. Buckley (Chicago: 
+Aldine Publishing Co., 1968), p. 344. 
+     14Von Bertalanffy, General Systems Theory, p. 40. 
+ 
+ 
+32
+ 
+
+                                                                                                                                                 
+     15Ludwig von Bertalanf fy, Organismic Psychology and Systems Theory (Barre, 
+Massachusetts: Clark University Press, 1968), pp. 44-47. 
+     16Von Bertalanffy, Organismic Psychology and Systems Theory, pp. 46-48. 
+ 
+     17Kenneth Sayre has remarked that, "the universe cannot coherently be conceived as a 
+closed system, since there is no coherent con cept of what it could be closed to." Kenneth 
+Sayre, Cybernetics and the Philosophy of Mind (Atlantic Highlands, New Jersey: Humanities 
+Press, 1976), p. 46.  
+     18David Lipset, Gregory Bateson: The Legacy of a Scientist  (Boston: Beacon Press, 
+1982), pp. 142-159. 
+     19"Introduction" in STEPS, p. xvi. 
+ 
+     20William Bateson, "Gam ete and Zygote," in William Bateson, F.R.S.: Naturalist, His 
+Essays and Addresses Together with a Short Account of His Life, Caroline Beatrice Bateson 
+(Cambridge: Cambridge University Press, 1928), p. 209. 
+     21Steve P. Heim s, "Gregory Bateson and the Mathem aticians: f rom interdisciplinary 
+interaction to societal functions," Journal of the History of the Behavioral Sciences 13 (April 
+1977): 141. (hereafter - JHBS) 
+     22Gregory Bateson, Naven (Stanford: Stanford University Press, 1965, reprint of 2nd. ed., 
+with "Preface to the Second Edition," and "Epilogue 1958,"), pp. 1-5. (hereafter — Naven) 
+     23Steve P. Heims, "Gregory Bateson and th e Mathematicians," JHBS 13 (April 1977): 
+142-44; also see, Steve P. Heims, "Encounter of Behavioral Sciences with New Machine-
+Organism Analogies in the 1940s," JHBS 11 (October 1975): 368-373. 
+     24E.g., see, Gregory Bateson, Mind & Natur e: A Necessary Unity  (New York: E. P . 
+Dutton, 1979), p. 207. (hereafter — Mind & Nature) 
+     25Steve P. Heims, "Gregory Bateson and th e Mathematicians," JHBS 13 (April 1977): 
+146. 
+     26Catherine Wilder-Mott and John H. Weakland, editors, Rigor & Imagination: Essays 
+from the Legacy of Gregory Bateson (New York: Praeger Publishers, 1981). 
+     27Mind & Nature, p. 106. 
+     28Norbert Wiener, Cybernetics—or Contr ol and Communication in the Animal and the 
+Machine (New York: John Wiley & Sons, Inc., 1948), p. 11. This work's introduction details 
+the major contributors and developm ents which led to the f ormation of cybernetics as a 
+single field of research. 
+     29"Historically, the word [cybernetics] had three diverse sets of reference: to automated 
+ 
+ 
+33
+ 
+
+                                                                                                                                                 
+control mechanisms, to men controlling vehicles such as ships, and to political control in 
+Society. Writing in 1948, as if he was wide ning the im plication of the word, Wiener 
+attributed his use of the term solely to the Greek, κυ_ερvήτης for 'steersman.' Yet in Plato, 
+this word was already used to refer both to na utical and to social control." David Lipset, 
+Gregory Bateson: Legacy of a Scientist, p. 180. 
+     30Ibid., pp. 179-181; Cf., Steve P. Heims, "Gregory Bateson and the Mathem aticians," 
+JHBS 13 (April 1977): 141-42; The conferences continued through 1953, and except for the 
+second conference, entitled "Teleological Mechanisms and Circular Causal Systems," they 
+all retained the original nam e. The first conference dealt with a vari ety of concepts that 
+originated in mathematics and engineering, with John von Neum ann and Norbert Wiener 
+leading discussions on: servom echanisms, analogical and digital coding, negative and 
+positive feedback, the measurement of information and its relation to the idea of  entropy, 
+binary systems, von Neumann's theory of games, Bertrand Russell's theory of logical types, 
+"pathological" oscillations (yes-no-yes-no-yes, etc.) in a computer confronted by Russellian 
+paradox, and the concept that com munication systems depend upon information and not 
+energy. Bateson unequivocally stated that membership in these conferences was "one of the 
+great events of m y life." See, John Brockm an, et al. , About Bateson , edited by John 
+Brockman (New York: E. P. Dutton, 1977), pp. 9-10. (hereafter — About Bateson) 
+     31Steve P. Heims, "Gregory Bateson and th e Mathematicians," JHBS 13 (April 1977): 
+142-143; also see, Arturo Rosenblueth, Norber t Wiener and Julian Bigelow , "Behavior, 
+Purpose and Teleology," Philosophy of Science 10 (January 1943): 18-24. 
+ 
+     32Norbert Wiener, Cybernetics, p. 50. 
+     33Norbert W iener, The Human Use of Human Beings: Cybernetics and Society  
+(Cambridge, Massachusetts: Riverside Press, 1950), pp. 8-9. 
+     34Ibid., p. 69. 
+     35Von Bertalanffy, Organismic Psychology and Systems Theory, pp. 40-41. 
+     36William Ross Ashby, Design For A Brain (New York: John Wiley & Sons Inc., 1952), 
+pp. 36-52. 
+     37Norbert Wiener, The Human Use of Human Beings, p. 15. 
+     38Shannon & Weaver, pp. 1-12; regarding the close relationship between Shannon's work 
+and Norbert Wiener, see p. 1, n 1. 
+     39Gregory Bateson, "Minim al Requirements for a Theory of Schizophrenia," A.M.A. 
+Archives of General Psychiatry 2 (May 1960): 477-491; reprinted in STEPS, Part III: Form 
+and Pathology in Relationship, pp. 244-270; see, p. 250. 
+     40Note how a rigorous use of these terms conflicts with common parlance, where negative 
+feedback signifies criticism and positive feedback denotes encouragement. 
+ 
+ 
+34
+ 
+
+                                                                                                                                                 
+     41"Linear and lineal. Linear is a technical term in mathematics describing a relationship 
+between variables such that when they are plotted against each other on orthogonal Cartesian 
+coordinates, the result will be a straight line. Lineal describes a relation among a series of causes 
+or arguments such that the sequence does not come back to the starting point. The opposite of 
+linear is nonlinear. The opposite of lineal is recursive." See, "Glossary," in Mind & Nature, p. 
+228. 
+     42Gregory Bateson, "Cybernetic Explanation," American Behavioral Scientist 10 (April 
+1967): 29-32; reprinted in STEPS, Part V: Epistemology and Ecology, pp. 405-416; see, pp. 
+409-10. 
+ 
+     43"Epilogue 1958," in Naven, p. 288. 
+     44Magoroh Maruyama, "Mutual Causality in General System s," in Positive Feedback, 
+edited by John H. Milsum (London: Pergamon Press, 1968), pp. 80-81. 
+     45Evident in the title of the Macy conferences on Cybernetics, e.g., ". . . in Biological and 
+Social Systems." 
+     46Ernest Kramer, "Man's Behavior Patterns," in Positive Feedback, pp. 139-148, edited by 
+John H. Milsum (London: Pergamon Press, 1968), p. 140. 
+     47Von Bertalanffy, Organismic Psychology and Systems Theory, pp. 42-43. 
+     48John H. Milsum , ed., Preface to Positive Feedback, p. viii. Milsum 's preface to this 
+volume notes that: (a) "sem antic and conceptual problem s have arisen between control 
+specialists and lif e scientists over use of  the term  feedback for living system s," (b) that 
+"Magoroh Maruyam a advocates the term  mutual causality  as m ore appropriate than 
+purposeful for positive and negative f eedback processes in living system s," and (c) "the 
+synthesis attempted in this volum e should help clear up confusion on this m atter." Also 
+consider Ernest Kram er's remarks in the sa me work, p. 140, "It is only recently that the 
+feedback principle has been isolated in mechanics and extensively made use of: in organisms 
+the corresponding principle has long been recognized; it is only the term which is new. And 
+being new, its exact usage is not stabilized." 
+     49Clarification of the concept "information" is one of Bateson's major contributions to this 
+field of enquiry . Drawing an unobstructed distinction between m atter, ener gy, and 
+information is a key element of Bateson's epistemology, and thus, his vision of a sacred unity 
+of the biosphere. 
+     50William Ross Ashby, An Introduction to Cybernetics  (New York: Chapman & Hall, 
+1956; Science Editions, New York: John Wiley & Sons, Inc., 1963), pp. v-vii, indicates that 
+early cybernetic theory provided for adaptive behavior, differentiation and growth; also, A. 
+Rosenblueth; N. Wiener; and J. Bigelow, "Behavior, Purpose and Teleology." Philosophy of 
+Science 10 (January 1943): 22-23, clearly acknowledge the distinctions between animal and 
+machine. 
+ 
+ 
+35
+ 
+
+ 
+ 
+36
+ 
+                                                                                                                                                 
+     51Ludwig von Bertalanffy, "General Systems Theory—A Critical Review," in Modern 
+Systems Research for the Behavioral Scientist , pp. 11-30, edited by Walter F. Buckley, 
+(Chicago: Aldine Publishing Co., 1968), p. 22. 
+     52Ibid., p. 17. Consider the example of hom eothermy, the maintenance of body 
+temperature in the homeostasis of warm-blooded animals. Contrary to the rules of physical 
+chemistry, where a decrease in temperature leads to a slower rate of chemical reaction, body 
+cooling stimulates thermogenic centers in the brain which "turn on" the heat-producing 
+mechanisms of the body. Cold is offset by an increased metabolic rate. Similarly, in the 
+thermostat, a relationship between a minimum of three variables—the temperature readings, 
+the control center, and the furnace switch—maintai ns a systemic balance; the lower the heat 
+in the house, the more the fuel is used. In both cases, mutually affecting variables work to 
+counteract or balance each other.  
+     53Gregory Bateson, "Cybernetic Explanation," American Behavioral Scientist 10 (April 1967): 
+29-32; reprinted in STEPS, Part V: Epistemology and Ecology, pp. 405-416; see, pp. 410-411. 
+Bateson observes that, "For purposes of cybernetic explanation, when a machine is observed to be 
+(improbably) moving at a constant rate, even under varying load, we shall look for restraints—e.g., 
+for a circuit which will be activated by changes in rate and which, when activated, will operate 
+upon some variable (e.g., the fuel supply) in such a way as to diminish the change in rate." 
+ 
+     54Magoroh Maruyama, "The Second Cybernetic s: deviation-amplifying mutual causal 
+process," American Scientist  51 (June 1963): 164-79; also see, Magoroh Maruyama, 
+"Morphogenesis and morphostasis," Methodos 12-48 (1960): 251-96. 
+     55Spyros Makridakis, "The Second Law of Systems," IJGS 4 (September 1977): 3, 
+"Organization starts whenever a lasting deviation from uniformity (thermodynamic 
+equilibrium) develops." Makridakis generali zes this principle as the "Second Law of 
+Systems," which he submits as an antithetical complement to the Second Law of 
+Thermodynamics, the employment of which is restricted to closed systems. His "First Law of 
+Systems" is that the relation between organization and energy is non-linear; more complex 
+systems do not require more energy to self-organize and often much less. 
+     56Ervin Laszlo, Introduction to Systems Philosophy (New York: Harper Torchbook, 1973), 
+p. 269. 
+     57Ibid., p. 25. 
+     58Magoroh Maruyama, "The Second Cybernetic s: deviation-amplifying mutual causal 
+process," American Scientist 51 (June 1963): 167. 
+     59"Stochastic. (Greek stochazein, to shoot with a bow at a target; that is to scatter events 
+in a partially random manner, some of which achieve a preferred outcome) If a sequence of 
+events combines a random component with a selective process so that only certain outcomes 
+of the random are allowed to endure, that sequence is said to be stochastic." See, "Glossary," 
+in Mind and Nature, p. 230. 
+
+ 
+ 
+37
+ 
+                                                                                                                                                 
+     60Lancelot L. Whyte, "The Structural Hierarchy in Organisms," in Unity in Diversity: A 
+Festschrift for Ludwig von Bertalanffy, pp. 271-285; V ol. 1 of 2 vols, edited by William Gray 
+and Nicholas D. Rizzo (New York: Gordon and Breach, 1973), p. 275. 
+     61Ervin Laszlo, Introduction to Systems Philosophy, pp. 57-117; also, pp. 177-180. 
+     62See, Mind and Nature, pp. 91-94. 
+     63Ibid., p. 317. 
+     64Gregory Bateson and Mary Catherine Bateson, Angels Fear: Towards an Epistemology 
+of the Sacred (New York: Macmillan Publishing Co., 1987); posthumously reconstructed and 
+edited by Bateson's daughter, Mary Catherine Bateson, see p. 19. (hereafter — Angels Fear) 
+ 
+     65Mind & Nature, p. 100. Qualifying the word triggered, Bateson notes that, "Firearms are 
+a somewhat inappropriate metaphor because in most simple [nonrepeating] firearms there is 
+only a lineal sequence of energetic dependencies.  . . In biological systems, the end of the 
+lineal sequence sets up conditions for a future repetition," p. 101n. 
+ 
+     66"Minimal Requirements for a Theory of Schizophrenia," in STEPS, p. 250. 
+     67Mind & Nature, p. 191. 
+     68Ibid., p. 175. 
+     69Joanna Rogers Macy, "Interdependence:" (Ph.D. dissertation, Syracuse University, 1978),  
+p. 69. 
+     70Katha Upanisad II, iii.1., quoted in Joanna Rogers  Macy, "Interdependence:" (Ph.D. 
+dissertation, Syracuse University, 1978), p. 69-70. In n 2, Macy observes that, "these 
+systemic pyramids or tree-forms narrow as they ascend only by virtue of the fact that lower 
+or previous levels channel into them—in th at sense they are like a company's table of 
+organization. On the other hand, if we take as our measure the variety they display, they 
+widen. This calls to mind the two reversed and intersecting gyres which W. B. Yeats beheld 
+in his vision (1937)." 
+     71Herbert A. Simon, "The Organization of Complex Systems," in Hierarchy Theory, 
+edited by Howard Pattee (New York: George Braziller, 1973), p. 7. 
+     72Gregory Bateson, "Epilogue: The Growth of Paradigms for Psychiatry," in 
+Communication and Social Interaction: Clinical and Therapeutic Aspects of Human 
+Behavior, pp. 331-337, edited by Peter F. Ostwald (New York: Grune & Stratton, 1977), pp. 
+336-37. 
+ 
+     73Richard J. Bernstein, Beyond Objectivism and Relativism: Science, Hermeneutics, and 
+Praxis (Philadelphia: University of Pennsylvania Press, 1983), p. 16.  
+
+ BIBLIOGRAPHY 
+ 
+Allport, Gordon. "The Open System in Personality Theory." In Modern Systems Research 
+for the Behavioral Scientist , pp. 343-350. Edited by Walter F. Buckley. Chicago: 
+Aldine Publishing Co., 1968. 
+ 
+Ashby, William Ross. An Introduction to Cybernetics. New York: Chapman & Hall, 1956; 
+Science Editions, New York: John Wiley & Sons, Inc., 1963. 
+  
+------. Design for a Brain. New York: John Wiley & Sons Inc., 1952. 
+ 
+Bateson, Caroline Beatrice. William Bateson, F .R.S.: Naturalist, His Essays and Addresses 
+Together with a Short Account of His Life. Cambridge: Cambridge University Press, 
+1928.  
+ 
+Bateson, Gregory. Mind and Nature: A Necessary Unity. New York: E. P. Dutton, 1979.  
+------. Steps to an Ecology of Mind: Collected Essays in Anthropology, Psychiatry, Evolution, 
+and Epistemology. San Francisco: Chandler Publishing Company, 1972.  
+ 
+------. Naven. Cambridge: Cambridge University Press, 1936; 2nd. ed., with "Preface to the 
+Second Edition," and "Epilogue 1958," Stanford: Stanford University Press, 1958; 
+reprint ed., Stanford: Stanford University Press, 1965.  
+ 
+------. A Sacred Unity: Further Steps to an Ecology of Mind . Edited by Rodney E. 
+Donaldson. San Francisco: Harper Collins, 1991. 
+  
+------. "Afterword." In About Bateson, pp. 235-247. Edited by John Brockman. New York: E. 
+P. Dutton, 1977.  
+ 
+------. "This Normative Natural History Called Epistemology." Reprint of "Afterword," in 
+About Bateson; edited, with a new title taken from the body of the text. In, A Sacred 
+Unity: Further Steps to an Ecology of Mind, Part III: Epistemology and Ecology, pp. 
+215-224. 
+  
+  ------. "Epilogue: The Growth of Paradigms for Psychiatry." In Communication and Social 
+Interaction: Clinical and Therapeutic Aspects of Human Behavior , pp. 331-337. 
+Edited by Peter F. Ostwald. New York: Grune & Stratton, 1977.  
+ 
+------. "Cybernetic Explanation." American Behavioral Scientist  10 (April 1967): 29-32; 
+reprinted in Steps to an Ecology of Mind , Part V: Epistemology and Ecology, pp. 
+405-416. 
+  
+------. "Minimal Requirements for a Theory of Schizophrenia." A.M.A. Archives of General 
+Psychiatry 2 (May 1960): 477-491; reprinted in Steps to an Ecology of Mind, Part III: 
+Form and Pathology in Relationship, pp. 244-270. 
+ 
+Bateson, Gregory, and Bateson, Mary Catherine. Angels Fear: Towards an Epistemology of 
+the Sacred. New York: Macmillan Publishing Co., 1987. 
+  
+
+Bateson, William. "Gamete and Zygote," in William Bateson, F .R.S.: Naturalist, His Essays 
+and Addresses Together with a Short Account of His Life. Bateson, Caroline Beatrice. 
+Cambridge: Cambridge University Press, 1928; cited in, Lipset, David. Gregory 
+Bateson: Legacy of a Scientist, p. 75. 
+ 
+Bernstein, Richard J. Beyond Objectivism and Relativism: Science, Hermeneutics, and 
+Praxis. Philadelphia: University of Pennsylvania Press, 1983. 
+ 
+Bertalanffy, Ludwig von. General Systems Theory. New York: George Braziller, 1968.  
+ 
+------. Organismic Psychology and Systems Theory. Barre, Massachusetts: Clark University 
+Press, 1968.  
+ 
+------. "General Systems Theory—A Critical Review." In Modern Systems Research for the 
+Behavioral Scientist , pp. 11-30. Edited by Walter F. Buckley. Chicago: Aldine 
+Publishing Co., 1968.  
+ 
+Brockman, John, ed.; Bateson, M. C.; Birdwhistell, R. L.; Lipset, D.; May, R.; Mead, M.; 
+and Schlossberg, E. About Bateson. New York: E. P. Dutton, 1977. "Afterword" by 
+Gregory Bateson.  
+ 
+Brown, Lester R.; Durning, A.; Flavin, C.; Heise, L.; Jacobson, J.; Postel, S.; Renner, M.; 
+Pollock Shea, C.; and Starke, L. State of the World 1989: A Worldwatch Institute Report 
+on Progress Toward a Sustainable Society. New York: W. W. Norton & Co., 1989.  
+ 
+Buckley, Walter Frederick. Modern Systems Research for the Behavioral Scientist. Chicago: 
+Aldine Publishing Co., 1968.  
+ 
+Heims, Steve P. "Gregory Bateson and the Mathematicians: from Interdisciplinary 
+Interaction to Societal Functions." Journal of the History of the Behavioral Sciences 
+13 (April 1977): 141-159.  
+ 
+------. "Encounter of Behavioral Sciences with New Machine-Organism Analogies in the 
+1940s." Journal of the History of the Behavioral Sciences 11 (October 1975): 368-
+373.  
+ 
+Kramer, Ernest. "Man's Behavior Patterns." In Positive Feedback, pp. 139-48. Edited by 
+John H. Milsum. London: Pergamon Press, 1968. 
+  
+Laszlo, Ervin. Introduction to Systems Philosophy. New York: Harper Torchbook, 1973. 
+ 
+------. Systems View of the World. New York: George Braziller, 1972.  
+ 
+Lettvin, J. Y .; McCulloch, W. S.; Maturana, H. R.; and Pitts, W. H.; co-authors. "What the 
+Frog's Eye Tells the Frog's Brain." Proceedings of the Institute of Radio Engineers 47 
+(1959): 1940-1952; reprinted in McCulloch, Warren S. Embodiments of Mind , 
+Chapter 14, pp. 230-255. Cambridge, Massachusetts: M.I.T. Press, 1965. 
+ 
+Lipset, David. Gregory Bateson: The Legacy of a Scientist. Boston: Beacon Press, 1982.  
+
+Macy, Joanna Rogers. "Interdependence: Mutual Causality in Early Buddhist Teachings and 
+General Systems Theory." Ph.D. dissertation, Syracuse University, 1978. 
+  
+Makridakis, Spyros. "The Second Law of Systems." International Journal of General 
+Systems 4 (September 1977): 1-12.  
+ 
+Maruyama, Magoroh. "Morphogenesis and Morphostasis." Methodos 12-48 (1960): 251-
+296.  
+ 
+------. "Mutual Causality in General Systems." In Positive Feedback, pp. 80-100. Edited by 
+John H. Milsum. London: Pergamon Press, 1968.  
+ 
+------. "The Second Cybernetics: Deviation-amplifying Mutual Causal Process." American 
+Scientist 51 (June 1963): 164-179.  
+ 
+McCulloch, Warren S. Embodiments of Mind . Cambridge, Massachusetts: M.I.T. Press, 
+1965. 
+ 
+Milsum, John H., ed. Positive Feedback. London Pergamon Press, 1968.  
+ 
+Rosenblueth, Arturo; Wiener, Norbert; and Bigelow, Julian. "Behavior, Purpose and 
+Teleology." Philosophy of Science 10 (January 1943): 18-24.  
+ 
+Sayre, Kenneth M. Cybernetics and the Philosophy of Mind . Atlantic Highlands, New 
+Jersey: Humanities Press, 1976.  
+ 
+Shannon, Claude E. and, Weaver, Warren. The Mathematical Theory of Communication . 
+Urbana: University of Illinois Press, 1949;  6th. ed., Urbana: University of Illinois 
+Press, 1964.  
+ 
+Simon, Herbert A. "The Organization of Complex Systems." In Hierarchy Theory, pp. 1-28. 
+Edited by Howard Pattee. New York: George Braziller, 1973.  
+ 
+Whyte, Lancelot L. "The Structur al Hierarchy in Organisms." In Unity in Diversity: A 
+Festschrift for Ludwig Von Bertalanffy , pp. 271-285; V ol. 1 of 2 vols. Edited by 
+William Gray and, Nicholas D. Rizzo. New York: Gordon and Breach, 1973.  
+ 
+Wiener, Norbert. The Human Use of Human Beings: Cybernetics and Society. Cambridge, 
+Massachusetts: Riverside Press, 1950.  
+ 
+------. Cybernetics—or Control and Communication in the Animal and the Machine . New 
+York: John Wiley & Sons, Inc., 1948.  
+ 
+Wilder-Mott, Catherine and, Weakland, John H., editors. Rigor & Imagination: Essays from 
+the Legacy of Gregory Bateson. New York: Praeger Publishers, 1981.  
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Gregory Bateson’s Theory of Mind: 
+ Practical Applications to Pedagogy 
+ 
+ by 
+ Lawrence S. Bale 
+November 1992 
+ 
+ 
+ 
+Gregory Bateson was one of the first scholars to appreciate that the patterns of organization 
+and relational symmetry evident in all living systems are indicative of mind. We should not forget 
+that due to the nineteenth century polem ic between science and religion, any consideration of 
+purpose and plan, e.g., mental process, had been a priori excluded from science as non-empirical, or 
+immeasurable. Any reference to mind as an explanatory or causal principle had been banned from 
+biology. Even in the social and behavioral sciences, references to mind remained suspect. Building 
+on the work of Norbert Wiener and Warren McCulloch,1 Bateson realized that it is precisely mental 
+process or mind which must be investigated. Thus, he formulated the cybernetic epistemology and 
+the criteria of mind that are pivotal elements in his “ecological philosophy.” In fact, he referred to 
+cybernetics as an epistemology: e.g., the model, itself, is a means of knowing what sort of world this 
+is, and also the limitations that exist concerning our ability to know something (or perhaps nothing) 
+of such matters. As his work progresse d, Bateson proposed that we consider Epistemology as an 
+overarching discipline of the natural sciences, including the social and behavioral sciences: a metascience whose parameters extend to include the science of mind in the widest sense of the word. 
+Ideally, teaching should entail an unending search for theoretical and methodological perspectives 
+that inspire and challenge teacher and students alike. In that spirit, this essay presents an overview of the 
+cybernetic principles that influenced so much of Bateson’s work, and discusses his understanding of 
+the concepts information and communication, which are pivotal elem ents of his “cybernetic 
+epistemology” and his theory of m ind. The essay concludes with a brief rendering of Bateson’ s 
+“learning theory,” and since the essay reflects the highly abstract and formal tone of Bateson’s work, 
+at various junctures along the way some of the practical applications that this complex material may 
+have for pedagogy are indicated. 
+ 
+ 
+
+ 
+ 
+2
+The Cybernetic Paradigm: A Brief Introduction 
+The term Cybernetics was coined by Norbert Wiener, at the end of World War Two, in 
+reference to the, “entire field of control and communication theory, whether in the machine or in the 
+animal.”2 As such, cybernetics has become a master concept which assimilated a number of analytic 
+methods, including computerization and simulation, set theory, graph theory, net theory, automata 
+theory, decision theory, queueing theory, game theory, and general systems theory. As is apparent in 
+the wealth of available literature, cybernetic pr ocesses became discernible to many theorists, not 
+only in biological systems, but also in the sub-organic and supra-organic world—from  microphysics 
+to organic life, through social groups, to the biosphere of our planet, and beyond. 
+The introduction of cybernetic principles led to the identification of systemic invariance or 
+isomorphisms throughout the observable cosmos. Here we should note that whether or not employment of the cybernetic paradigm has been appropriate in each instance remains an area of dispute. 
+Nevertheless, once perceived, the recognition of su ch patterns has f ostered a valuable epistem ic 
+shift: from consideration of discrete “entities,” to the discernment of whole systems. The recognition 
+of system ic patterns also initiated f urther disclo sure of  the logic evident in the behavior and 
+interaction of systems, enabling theorists to frame the formal characteristics inherent in whole (e.g., 
+cybernetic) systems. The properties of such a system are identified as fourfold: 
+  1. The system is a holistic and cannot be reduced to its parts without altering its pattern. Artificially 
+composed aggregates, wherein the constituent elements can be added or subtracted without altering 
+the overall system are not included.  
+  2. The system is self-regulating, stabilizing itself through negative feedback loops. Thus, cybernetic 
+systems respond to information. They scan their behavior to determ ine its outcom e, and if this 
+“input” or feedback communicates a m atch with the system’s “coded requirements,” the system 
+maintains its output, its behavior, in order to maintain the match (i.e., it maintains a steady-state). If 
+the system “learns” that its coded requirements are not being matched, it modifies its behavior on the 
+basis of such information. 
+  3. The system is self-organizing. If a mismatch between sensory input and “internal code” persists, 
+the system searches for, and encodes a new pattern with which to operate. Thus, in the passage of 
+time, dif ferentiation and com plexification of the overall system  m ay em erge through positive 
+feedback. 
+  4. Moreover, the system is understood as a differentiated sub-whole within a systemic hierarchy. 
+The “environment” in which a system  exists is  also a whole system , a m eta-system. Whether 
+ 
+
+ 
+ 
+3
+ecosystem, animal, organ or cell, systems consist of subsystems that operate within a hierarchy of 
+progressively inclusive meta-systems. As a subsystem, the system’s characteristics and operations 
+are co-determinative components of the lar ger system within which it is an integral com ponent. 
+Thus, a system may be understood as Janus-faced. As a whole, it faces inward, i.e., the system is 
+concerned with m aintaining its internal steady st ate; as a sub-whole, the system  faces outward, 
+responding to its environm ent (a m eta-system) in  a potentially infinite regression of relevant 
+contexts.  
+Spurred by the enthusiasm with which cybernetics was received, systems research has been 
+applied to many fields of scientific enquiry. Such research supports the evolutionary view that over 
+time, through self-organization and mutual adaptation, systems tend to form structural hierarchies, 
+i.e., they fashion progressively lar ger, m ore incl usive system s out of preexisting sub-system s. 
+Furthermore, in the patterns they exhibit, these new system s generate unique qualities, including 
+more complex organization and inherently novel forms of operation. 
+The view which has subsequently emerged discerns a complementary relationship between 
+the m orphic nature of system ic integration and systemic dif ferentiation within a hierarchical 
+universe. Systemic differentiation and integration are conventionally understood as delimited by the 
+channeling of energy, matter and inform ation to m aintain and generate form .3 Also, through the 
+cybernetic interaction of their patterns of operation, system s tend to com plexify and form  
+hierarchies. Hence, in the realm of astronomy, hierarchical restraints are understood as gravitational; 
+in the hierarchy from  m icrophysics to or ganic life, cybernetic restraints are understood as 
+electrochemical forces; and in social and cognitive hierarchies, such constraints are understood as 
+operating in the communication of symbols.4  
+Notably, such research has also revealed that this phenomenon is delimited by hierarchical 
+restraints of a m orphic nature.5 That is, in each of these realm s the hierarchical constraints are 
+related to pattern formation, not substance or quantity. Each step between the hierarchies advances 
+the development of form toward increasingly complex organization. Also, systems proponents point 
+out that in asserting the irreducibility of levels, the hierarchical view of cybernetic/systems theory 
+conflicts with traditional monism, as well as with dualism and pluralism.6 That is, since hierarchical 
+constraints produce both novelty and organization, causal or generative relations necessarily exist 
+between the levels.  
+Hence, the cybernetic/system s view of  obser ved reality is hierarchical: the universe is 
+understood as a hierarchy of systems, wherein each higher level of system is composed of systems of 
+ 
+
+ 
+ 
+4
+lower levels. In this view, each level of the hierarchy cybernetically builds on more basic levels of 
+organization: integrating pre-existing subsystem s and m icro-hierarchies into novel patterns; and 
+fashioning new, more inclusive systems. Therefore, as observed in embryology, evolution and child 
+development, growth and learning occur increm entally or step-wise. Whole systems never begin 
+from scratch. Their growth is inevitably based upon the organization of pre-organized components. 
+They are both delimited and enabled by hierarchical constraints that permit stability, economy, and 
+speed in the unfolding of new forms of life and more inclusive hierarchical levels.  
+Since their introduction, investigation of the holistic, self-stabilizing, self-organizing and 
+hierarchical traits f ormally identified in cyberne tic systems has also spread into the social and 
+behavioral sciences. Thus, the informational nature of cybernetic processes: including the concepts 
+of feedback, mutual causality, and self-regulating systems— i.e., that cybernetic systems adapt to and 
+alter their environments through sequences of self-stabilization around steady states—have been 
+adopted and fruitfully employed in these disciplines.  
+Arguably, the most significant contribution of cybernetics to these disciplines stems from an 
+appreciation of the informational character of the processes evident in cybernetic systems. Along 
+with other vital insights, this view supports a collapse of the supposed dichotom ies between 
+“subjective” and “objective” data. Consequently , through the em ployment of the cybernetic 
+paradigm, phenom ena previously dism issed as  non-em pirical—including feeling, em otions, 
+cognition and perception of meaning—were judged accessi ble and relevant to scientific inquiry. In 
+summary, we may note that the principles underlying the cybernetic paradigm have been recognized 
+as a valuable m eans of conceptualizing hum ankind, not only as a biological  entity, but also as a 
+social and cognitive being.7 
+Some scholars have objected to the “dehumanizing” effect of applying principles derived from 
+machines to the study of human beings. Yet, the aim of employing cybernetic theories in the social and 
+behavioral sciences has never been to reduce identity formation— e.g. subjective learning processes, 
+unconscious symbolic processes, etc.—to the principles of system  organization. What is claimed, is 
+that cybernetics provides a legitimate analogy, although not an exact one, “which explains a much 
+wider variety of outcomes in terms of the significance of inform ation,” than has previously been 
+available.8 As such, cybernetic principles also hold valuable insights for the field of pedagogy.  
+For instance, we may assume that a classroom of students (including the instructor) rapidly 
+becomes a holistic system comprised of self-stabilizing, self-organizing personalities, each of whom 
+perceives the class through their own set of past experiences, and each of whom is concerned with 
+ 
+
+ 
+ 
+5
+maintaining an internal, or personal, balance of predefined expectations and goals. Hence, any “new 
+information” that enters the holistic, and m utually causal system  of the class will be uniquely 
+perceived and responded to by each personality within the class. Each personality within the class 
+will receive-organize-translate information according to their own set of self-stabilizing patterns— 
+patterns that have succeeded, over time, in allowing the “individual” to “fit” within the context of a 
+learning environment. From this perspective teaching is a dialogical process in which the teacher’s 
+primary role is one of establishing or communicating contexts wherein the students may effectively 
+perceive and assimilate “new information.”  
+Since every person in the classroom is a holistic, self-stabilizing, self-organizing system, but 
+also a participant in a larger more inclusive system— e.g., the learning environment or class, which 
+also operates as a holistic, self-stabilizing, self -organizing system—a crucial com ponent of the 
+dialogical teaching process must include a recognition and enhancement of the “feedback circuitry” 
+that enables the larger context of the class to operate as holistic system. As a holistic unit, the class 
+develops it own history of interaction, and as anyone who has led a class will note, no one part of the 
+system can ef fectively exercise unilateral contro l over the entire system . In short, the class coevolves, and every member of the class develops their own strategies for appropriately responding to 
+the messages of interrelationship(s) that govern a class’ becoming. In this intricate and com plex 
+process, an effective teacher must be skilled at dialogical and trans-contextual communication: i.e., 
+communicating contexts wherein diverse systems (personalities) can effectively exchange information; 
+recognizing and effectively responding to various manifestations of negative, positive and regenerative feedback; and, assisting students in the largely unconscious processes of learning to learn. 
+ 
+Envisaging the Negentropic Realm of Mind: 
+A Realm of Communication, Information, and Learning 
+Our consideration of Bateson’s model of mind, his cybernetic epistemology, and his theory of 
+learning, necessarily begins with his criteria of mind . The criteria listed below are intended to 
+differentiate the phenom ena of thought from  the much simpler phenomena observed in m aterial 
+events. Hence, the six criteria of m ental process are intended to provide a list, “such that if any 
+aggregate of phenomena, any system, satisfies all the criteria listed, I shall unhesitatingly say that the 
+aggregate is a mind and shall expect that, if I am to understand that aggregate, I shall need sorts of 
+explanation different from those which would suf fice to explain the characteristics of its sm aller 
+parts.”9 
+ 
+
+ 
+ 
+6
+ Criteria of Mind 10 
+1) A mind is an aggregate of interacting parts or components. 
+2) The interaction between parts of mind is triggered by difference, and difference 
+is a nonsubstantial phenomenon not located in space or time; difference is related 
+to negentropy and entropy rather than energy.  
+3) Mental process requires collateral energy.  
+4) Mental process requires circular (or more complex) chains of determination. 
+5) In mental process, the effects of difference are to be regarded as transforms 
+(i.e., coded versions) of events which proceeded them. The rules of such transformation must be comparatively stable (i.e., more stable than the content), but are in 
+themselves subject to transformation.  
+6) The description and classification of these processes of transformation disclose 
+a hierarchy of logical types immanent in the phenomena. 
+ 
+Bateson argues that using the above criteria the m ind-body dilemma is soluble. He also 
+asserts that, “the phenomena which we call thought, evolution, ecology, life, learning, and the like 
+occur only in systems that satisfy these criteria.”11  
+From the above discussion of the cybernetic paradigm, the degree to which the informational 
+nature of cybernetic process has informed Bateson’s criteria is readily apparent. One might insist that 
+he has reduced mental process to the operations of  cybernetic systems. However, he consistently 
+maintained that the criteria are intended to be employed as an analogous and metaphoric model of 
+mind. Above all, the criteria are intended for use as a tool of abduction, e.g., comparing that which is 
+shared among apparently unrelated phenomena. 
+In part, the aim in this essay is to consider how the model of mind, or mental process that 
+emerges from Bateson’s criteria of mind relate to the phenomena of learning. After all, it is “mind” 
+that learns. Therefore, we should exam ine each of the criteria before m oving on to discuss the 
+practical applications of Bateson’s theory of learning. 
+1) A mind is an aggregate of interacting parts or components. The model of mind mapped 
+out by Bateson’s criteria is holistic, and as with all serious holism it is premised on an interaction of 
+differentiated (as opposed to separate or individual) ‘parts.’12 Holistic systems require a differentiation of parts, or there can be no dif ferentiation of events and functioning. Therefore, mind is 
+understood as an aggregate of differentiated parts, which at their primary level are not themselves 
+mental. These ‘parts’ in combined interaction constitute wholes, or whole mind systems. In more 
+ 
+
+ 
+ 
+7
+complex instances, some of the ‘parts’ of a mind system may fulfill all the necessary requirements of 
+the criteria. In this case, these ‘parts’ are also recognized as minds, or subminds. In either case, mind 
+or mental process is understood as immanent in, and emergent from “certain sorts of organization of 
+parts.”13 
+With this foundation for understanding mental process, we may now consider the nature of 
+the relationships within which m ind is im manent, or out of which m ind emerges, i.e., how the 
+relationships between the ‘parts’ interact to create mental process. 
+2) The interaction between parts of mind is triggered by difference, and difference is related 
+to negentropy and entropy rather then energy. Here, the informational nature of cybernetic process is 
+first incorporated into the criteria, and we encounter a clarification of the concept “information,” as 
+distinct from “energy” and “matter.” We are also introduced to the lim itations of knowing in this 
+model of mind.  
+Beginning with an idea as the basic unit of mental process, Bateson defines an idea as, “A 
+difference or distinction or news of differences,” adding that more commonly we refer to complex 
+aggregates of such units as ideas.14 Of course difference is a nonsubstantial phenomenon that cannot 
+be located in space or time. The difference between an egg and an apple does not lie in the egg or in 
+the apple, nor does it exist in the space between them.  
+In agreement with Kant, Bateson notes that even the simplest of objects “contain” an infinite 
+number of differences, but only differences which make a dif ference are used in form ing mental 
+images—i deas, or aggregates of ideas. Mind responds only to the differences in its environment that 
+it is able to discern. And in this process, the holistically bonded ‘parts’ that comprise mind systems 
+act as a sort of filter or sieve, sorting, se lecting and collecting and subsequently decoding 
+information, i.e., differences, or news of difference.15 Ideas (news of difference, images, maps) about 
+things is what get into the working circuitry of mind, but mental systems know nothing of “thingsin-themselves” (Dinge an sich).16 In short, mind systems are influenced by maps, never territory. 
+This suggests why Bateson feels cybernetic models and metaphors are most appropriately 
+applied to the realm of mental process, i.e., mind systems. Given the importance of information and 
+communication in cybernetic theory, and the unique status of information (news of difference) as a 
+nonsubstantial phenomenon that nevertheless influences, governs and controls a cybernetic system, 
+it ought to be evident that cybernetic models best exemplify mental process. Thus, the use of energy 
+and matter as explanatory principles is clearly inappropriate—except in those instances where they 
+function as information and thus have communicational value. 
+ 
+
+ 
+ 
+ 
+8
+Consider the fact that in the realm of communication and information, zero has a “causal” 
+value because it represents a difference, it is different from one, and zero (quite literally, no ‘thing’) 
+may thus be used to explain a response in both the realms of communication and mental process. In 
+this context, quantifiable concepts such as power, gravity, and energy, etc. are applicable only in the 
+so-called “hard sciences”— i.e., realms of explanation used in  exploring the physical realm of 
+material events. In contrast to cybernetic systems (including our computers), atoms, molecules and 
+stones do not respond to information. There is no evidence that these entities scan their behavior for 
+its result, nor do they modify future behavior on the basis of such information.  
+Thus, in contrast to Laszlo and others, Bate son feels we should reject the application of 
+cybernetic feedback principles in describing and explaining atomic, subatomic and electrochemical 
+realms of physical existence. He also believes that given the preponderance of metaphors and 
+explanatory principles borrowed from the energetic s and hard sciences, we must totally re-think 
+most of the theoretical basis underpinning much of the social and behavioral sciences.  
+3) Mental process requires collateral energy. Although the interactions of mental process are 
+triggered by difference, “difference is not energy and usually contains no energy.”17 Mental process 
+requires some amount of energy (apparently very little), but as a stimulus the nonsubstantial 
+phenomenon of difference does not provide energy. The res pondent mind system has collateral 
+energy, usually provided by metabolism. If we kick a stone, it receives energy and it moves with that 
+energy. However, if we kick a cat or a dog, our kick may transfer enough energy to move the animal, 
+and we may even imagine placing the animal into a Newtonian orbit, but living organisms generally 
+respond to stimuli with energy from their own metabolism. In the control of animation by 
+information, energy is already present in the respondent, the energy is available in advance of the 
+“impact” of events. 
+4) Mental process requires circular (or more complex) chains of determination. Since the 
+central themes of this holistic model are drawn from the recursive nature of cybernetic systems, there 
+is a fundamental emphasis on circular causal chai ns in mental process. Here again, mind is 
+understood as immanent in the combined interaction of the differentiated ‘parts’ of the system, and 
+this interaction depends upon the existence of a ne twork of circular, or more complex, chains of 
+determination, i.e., the parts of the system are connected and interact within a closed circuit. Since 
+the system is circular (i.e., recursive), effects of events at any point in the circuit will move around or 
+throughout the system, eventually producing changes at the point of origin. Thus, “a special sort of 
+holism is generated by feedback and recursiveness,” in the system.18  
+
+ 
+ 
+9
+Moreover, in accordance with the regularities discovered in cybernetic systems, the closed 
+circuitry—in com bination with the effects of time—generates a holis tic matrix in which no one part 
+of the system can exercise unilateral control over the system as a whole. Each part is controlled by 
+information moving throughout the closed circuitry of the whole system. Such systems are subject to 
+the effects of time, and therefore, each part m ust adapt to the tim e characteristics of the system . 
+Thus, each part m ust adapt to the ef fects of its own past action within the system .19 Hence, the 
+mental properties of the system  are understood as immanent, not in any one part, but within the 
+system as a whole . For exam ple, mental process ( e.g., mind) is understood as im manent in the 
+circuits of the brain which are complete within the brain; mental processes are similarly immanent in 
+the circuits which are complete within the system, brain-plus-body; and mind is immanent in the 
+larger system — person- plus-environment.20 The resulting im age requires that we elim inate the 
+commonly held notion that m ind is to be identif ied as residing only within the boundary of our 
+physical body, and is somehow radically separate from others: 
+. . . there is no requirement of a clear boundary, like a surrounding envelope of skin 
+or membrane, and you can recognize that this definition [of m ind] includes only 
+some of the characteristics of what we ca ll “life.” As a result it applies to a m uch 
+wider range of those com plex phenom ena called “system s,” including system s 
+consisting of multiple organisms or systems in which some of the parts are living and 
+some are not, or even to systems in which there are no living parts.21 
+ 
+The resulting image also suggests that authoritative methods of teaching are not going to be 
+as effective as apprenticeship methods of instruction. Like it or not, instructors cannot effectively 
+foist their will upon the mind system of a class, nor upon any “individual” student within the class. 
+One may exercise authority, but unilateral control is not a valid option, and any attempt to exercise 
+dominance will only succeed if the student(s) “submits.” The end result of an authoritative “lesson” 
+of dominance cannot be predicted or controlled, and although the students are often unaware of the 
+fact, they are in control of their personal and collective dialogical learning processes. 
+We might want to pause here and consider how this inclusive image of mind suggests that the 
+context of a classroom or a learning environment full of students ‘is’, or becomes, a holistic mind 
+system —com prised of teacher, students, and technological extensions of mental process (books, 
+computers, microscopes, etc.). Also, consider how the physical context of the classroom contains 
+“context markers” (blackboards, desks, visual aids, the flag, etc.), that communicate the message(s) 
+(information available only to mind systems) that this context is different from other locations, it is a 
+learning environment.  
+ 
+
+ 
+ 
+10
+We should also note that the feedback loops which maintain the holistic nature of the larger 
+more inclusive mind system identified as “a class,” represent a fundamentally dialogical process. 
+Thus, each person in a learning environm ent operates as a holist m ind system in dialogue with 
+themselves, while sim ultaneously participating in the (often silent) dialogue of the lar ger mind 
+system that can be recognized as persons- plus-environment. Moreover, the m ental phenomena 
+described here undoubtedly reflect not only primary and autonomic process, but also the complex 
+interaction of social behavior. If we are going to effectively create contexts in which students can 
+learn, we would do well to have  our m ethods parallel the dialogical principles that bond m ind 
+systems across a broad spectrum of primary and social levels of mental process. 
+5) In mental process the effects of differences are to be regarded as transforms (i.e., coded 
+versions) of events which proceeded them. The phenomena of coding, an integral element of feedback in cybernetic system s, is incorporated in to the m odel through this criterion; and again, we 
+should note that the model assigns unequivocal limitations as to what mind systems are capable of 
+knowing, largely due to this phenomena. That is, the process in which information is translated and 
+encoded into a new form —for only then is inform ation available for further stages of a system ’s 
+performance—lim its the perception of mental systems to images that are reminiscent of the shadows 
+in Plato’s allegory of the cave.  
+The perspective added to the model by this criterion emerges out of information theory, but 
+this is not a “garbage in, garbage out” use of the information processing model. After all, Bateson 
+was one of the founders of the family therapy movement, and he does not suggest that our minds are 
+simply an information processing apparatus. He  vehemently opposed such sim plistic and vulgar 
+application of cybernetic theory . The model of mind drawn by the criteria applies to all m ental 
+systems, but on a gradation of com plexity. The concept of “information in,” “information out” is 
+appropriate enough for computers, and perhaps single cell animals; but clearly not for the complex 
+interaction of families and classrooms, nor the personalities who—when bonded together through 
+communication—form  these m ore inclusive m ind sy stems. The transform ation of inform ation 
+referred to in this criterion is intended to include  influences from the sum total of a personality’s 
+contextual learning experiences, e.g., a construct of biological, cultural and social habituation. 
+This criterion also effectively places mental process in what Bateson refers to as “the world 
+of communication,” which is a realm of explanation wherein the only relevant entities or “realities” 
+are messages. This is the realm of mind, in which relationships and metarelationships, context, and 
+the context of context—all of which are com plex aggregates of information or differences which 
+ 
+
+ 
+ 
+11
+make a difference—m ay be identified in a potentially infinite regress of relevant contexts. Consider 
+Bateson’s comparison of the Newtonian world and the world of communication: 
+The difference between the Newtonian wo rld and the world of com munication is 
+simply this: that the Newtonian world ascribes reality to objects and achieves its 
+simplicity by excluding the context of  the context—indeed excluding all 
+metarelationships—a fortiori excluding an infinite regress of such relations. In 
+contrast, the theorist of communication insists upon examining the metarelationships 
+while achieving its simplicity by excluding all objects.22 
+ 
+Bateson suggests that the world of communication (the realm of mental process, and learning) is a 
+Berkeleyan world, but the good bishop was guilty of understatement. “Relevance or reality must be 
+denied not only to the sound of the tree which falls unheard in the forest but also to the chair that I 
+can see and on which I may sit.”23 Our perception of a chair is communicationally real, but in the 
+realm of mental process—the world of com munication—the chair on which we sit is only an idea, a 
+message in which we put our trust. There are in fact no chairs or tables, no birds or cats, no students 
+or professors in the working circuitry of the mind, except in the form of “ideas.” Dinge an Sich or 
+things-in-themselves are inaccessible to direct inquiry. Only ideas (difference, news of difference, 
+images or maps) and information (differences which make a difference) about “things” are accessible 
+to mind: 
+Ideas (in some very wide sense of that word) have a cogency and reality. They are 
+what we can know, and we can know nothing else. The regularities or laws that bind 
+ideas together—these are the (eternal) verities. These are as close as we can get to 
+ultimate truth.24 
+ 
+At this juncture, considering the importance of “context” in learning and pedagogical theory, 
+we should pause and consider what exactly context might “be”? The list of criteria we have thus far 
+examined suggests that: A context is nonsubstantial phenomenon which cannot be located in space 
+or time. Or perhaps we should say that a context is a constellation of differences; not a ‘thing’, but 
+rather a mental image or a map—a recognition of th e differences that make a difference within a set 
+of relationships. Here, it is interesting to note that the Artificial Intelligence movement (which has 
+little in common with Bateson’s ideas, other than it also grew out of cybernetic theory) falters on the 
+concept of context. The m ost powerful com puters cannot be program med to recognize and 
+distinguish the differences that mark a given context as separate or different from any other context.  
+6) The description and classification of these processes of transformation disclose a 
+hierarchy of logical types immanent in the phenomena . This final criterion applies the concept of 
+logical types to the mutual causal and hierarchical characteristics of the cybernetic paradigm, and 
+ 
+
+ 
+ 
+12
+employs the result in the model of mental process. We have previously observed that mental process 
+requires circular or m ore complex, causal relations, and that the closed circuitry of whole m ind 
+systems generates a holistic matrix in which the mental properties of the system are immanent within 
+the working circuitry of the system  as a whole. Thus, mental process is both immanent in, and 
+inseparable from the realm of physical appearances. Mind is immanent in, and emergent from certain 
+sorts of organization of parts. Nevertheless, mental systems are not isolated monads. They have the 
+capacity to unite with other sim ilar system s, thus f orming systemic hierar chies com prised of 
+differentiated sub-minds. 
+This view requires that we regard mind as an interpenetrating process that includes (or, is 
+included within) other mental systems, in sequential moments of time. The mind system(s) in which 
+sub-minds participate is thus discerned as a m eta-system, where perceived levels of dif ference 
+separate progressively abstract and inclusive levels of logical types. The mental properties of a submind are co-determinative and mutually causal components of the larger mind system within which 
+it is an integral component. Again, we find that like cybernetic systems, mind systems are Janusfaced: as a whole, the system “faces” inward, i.e., its dialogue with itself is concerned with maintaining the integrity of its internal steady state (the system’s knowing is its being); as a sub-whole, 
+the system “faces” outward, responding to perceived differences in its environment, and differences 
+communicated to it through pathways or networks of recursive circuitry within the lar ger mind 
+system—the m eta-system of which it is a differentiated part (knowing how to appropriately fit and 
+adapt preserves the system’s being). All of which occurs within a virtually infinite regress of relevant 
+contexts.  
+“Any object may become a part of a mental system, but the object does not then become a 
+thinking subsystem in the larger mind.”25 When mental systems do unite with other similar systems, 
+they become operational (i.e., “thinking”) subsystems, or differentiated sub-minds within a larger 
+mind that is subsequently form ed. Mental systems are thus understood as form ing hierarchies of 
+levels of difference; i.e., such difference as is evident “between a cell and tissue, between tissue and 
+organ, organ and organism, and organism and society”: 
+These are the hierarchies of units or Gestalten [whole mental systems], in which each 
+subunit is a part of the unit of the next lar ger scope. And, always in biology , this 
+difference or relationship which I call “part of “ is such that certain differences in the 
+part will have informational effect upon the larger unit, and vice versa [the larger unit 
+will have to have informational effect upon the subunit].26 
+ 
+ 
+
+ 
+ 
+13
+With informational effects moving between or being exchanged throughout the system, the 
+non-substantial phenomenon of difference produces substantial, i.e., “real”, effects. In keeping with 
+Gestalt theory, this is a uniting or combining of information that results in a new order of information or the creation of a logical product—som ething more than simple addition. An apt analogy is 
+that of self-organizing Chinese boxes, each one dialogically fashioning itself to fit inside the other, 
+ad infinitum. This combining of ‘parts’ results in something more on the order of multiplication or 
+fractionation,27 with each level of difference in the systemic hierarchy forming a pattern of interaction that represents a difference of logical type. 
+Bateson’s intent with this final criterion seems to mean that the description and classification 
+of mind systems discloses a dialogical hierarchy of logical types, where each logical type—each 
+level of m ental process—is distinguished by a leve l of dif ference. Each le vel of dif ference also 
+represents a context where similar systems may form larger Gestalten and operate as subsystems. 
+Thus, viewed through the hierarchic structure of thought and the “world of com munication” 
+proposed by cybernetic theory, the hierarchies of levels of difference evident in the natural world are 
+a result of informational patterns of interaction.  
+Self-organization, self-stabilization and mutual adaptation (all governed by inform ational 
+feedback loops) act as hierarchical restraints th at regulate som ething like an “osm otic” flow of 
+information that is dialogically exchanged within and between the differentiated levels. Levels of 
+knowing that we experience (for instance) as the “self;” that separation between our personal 
+knowing/being and the knowing/being of the living environment—the natural world in which we 
+live, sharing our interpretation of experience, learning, adapting, and growing; the world of mental 
+process with which we co-evolve. 
+ 
+Characteristics and Potentialities of a Mind System 
+Below is a list of the distinctive traits and potentialities of mind systems that exhibit the six 
+criteria. This includes all living organisms, as well as any component of a living system that fulfills 
+all the criteria, and thus exhibits a degree of autonomy in its self-regulation and operation: for 
+example, individual cells; organs; and aggregates of organs. 
+The model of mind advanced in this essay is a radically inclusive paradigm: extending the 
+meaning of mind well beyond its previous boundari es; and where warranted, recognizing m ental 
+process in systems that do not include living components. Here we should also note that this model 
+totally discredits the traditional view of arrogating mind to our species, alone. As we review these 
+ 
+
+ 
+ 
+14
+characteristics and potentialities of m ind systems, we should bear in m ind that the six criteria 
+propose a holistic model of mind which operates as a totally integrated system. They are useful as a 
+description and explanation of mental process only in combination, and we should expect any such 
+mental system to exhibit the following distinctive traits or attributes:  
+  1. Mind systems will exercise some degree of autonomy or self control: the recursive nature of 
+feedback loops within the system’s circuitry give the system information about itself and allow the 
+system to exercise self-regulation. 
+  2. Mind systems will exhibit a capacity for death: either through the randomization or disassembly 
+of the multiple parts of the system  or through the breaking of the circuitry that gives the system  
+information about itself, thus destroying its autonomy. 
+  3. Mind systems will exercise the capacity of se lf-correction: thus, we m ay recognize that they 
+exercise purpose and choice. 
+  4. Mind systems will adapt to their environments through sequences of self-stabilization around 
+steady states: therefore they exhibit stability (steady state), extreme instability (runaway), or some 
+mixture of these two. 
+  5. Mind systems will learn and remember: they exercise the ability to change and adapt in response 
+to internal or external differences in their environment; and they fashion some degree of ordering or 
+predictability through the stochastic process of trail and error. 
+  6. Mind systems will exhibit some capacity to store energy. 
+  7. Mind systems will be influenced by “maps,” never “territory.” 
+  8. Mind systems will be subject to the f act that all messages are of some logical type: thus, the 
+possibility always exists that they will commit errors in logical typing. 
+  9. The culmination of our synopsis is the principle that mind systems will have the capacity to unite 
+with other similar systems, and thus create still larger wholes. 
+ 
+The Logical Categories of Changing Mind: 
+Bateson’s Theory of Learning 
+While highly form al and abstract, Bateson’s criteria of mind  and the m odel of m ind he 
+presents offer valuable insights for pedagogy. His model of mind is intended to be understood as a 
+relational process rather than a ‘thing’ that is som ehow disassociated or separable from  another 
+‘thing’ (the “body”). His insights introduce a rigorously formulated basis for what I call removing 
+“ego” from the process of teaching, replacing authoritative modes of instruction with more dialogical 
+modes of instruction, such as mentoring and apprenticeship. Taken seriously, his concept of mind 
+ 
+
+ 
+ 
+15
+insists that teaching m ust address the whol e person—physical, em otional and intellectual—in 
+dialogues that cut across a wide range of contextual boundaries and communication pathways. 
+One significant implication of Bateson’s holistic and dialogical notion of mind is that when 
+the patterns of interaction we commonly refer to as “minds” actually do connect via communication, 
+the relationship thus established triggers or releases a potential for change that may bring about a 
+profound transformation of the “entities” involved, as well as the larger mental systems in which 
+they are embedded. Hence, the insight that mental systems become thinking subsystems of larger 
+holistic minds (more inclusive Gestalten) suggests that when genuine dialogue occurs, we enter into 
+a process that holds the possibility of experiencing one another in a manner that is as integrative and 
+consequential as that which is evident in the integration of a living organism.  
+Equally significant implications of Bateson’s work emerge when we consider his theory of 
+learning. Bateson examined the phenomenon of learning in several essays written between 1942 and 
+1971. He presented his theory of learning from more than one perspective, addressed a number of 
+related agendas, and fine tuned the details of his work over time. Since my aim in concluding this 
+essay with an examination of Bateson’s learning theory is to help us explore the relationship between 
+the phenomena involved in learning and the contexts of learning  we attem pt to established in a 
+classroom, it is not be necessary to detail all the nuances of this sizable body of work. 
+For Bateson, the key to understanding the lear ning process is the phenom ena of change, 
+context, and the recognition of context of contexts.  “The whole m atter turns on whether the 
+distinction between a class and its members is an ordering principle in the behavioral phenomena” 
+which we call learning.28 
+The word “learning” undoubtedly denotes change of some kind. To say what kind 
+of change is a delicate matter. However, from the gross common denominator, 
+“change,” we can deduce that our descriptions of “learning” will have to make the 
+same sort of allowance for the varieties of logical type which has been routine in 
+physical science since the days of Newton. The simplest and most familiar form 
+of change is motion, and even if we work at that very simple physical level we 
+must structure our descriptions in terms of “position or zero motion,” “constant 
+velocity,” “acceleration,” “rate of change of acceleration,” and so on.29 
+ 
+
+ 
+ 
+16
+ 
+Bateson employs the theory of logical types to  delineate a set of five classes of learning 
+labeled Learning 0 through IV , with each higher class encompassing the lower classes of learning. 
+Learning IV is a special type of learning that is not readily accessible, and since this level of learning 
+“probably does not occur in any adult living organism on this earth,” 30 our focus is necessarily 
+limited to examining Learning 0 through III.  
+Before continuing, we should note some of the difficulties posed by language. The terms 
+“higher” and “lower” convey a considerable surplus meaning, with “higher” suggesting a “superior” 
+value and “lower” suggesting an “inferior” value. In this discussion of learning theory we should not 
+fail to recognize that the first four levels of learning are potentially available to everyone. Just as the 
+class “furniture” is no better or worse than the subclasses included within it—”table” or “chair,” for 
+example—Learning 0 and Learning I are also to be understood as no better or worse than Learning II 
+or Learning III. All four are potentially a part of the human experience and thus equally important. It is 
+precisely our awareness that this is the case which is commonly difficult to perceive and understand. 
+Learning 0: Zero learning is “the simplest receipt of information from an external event in 
+such a way that a similar event at a later (and appropriate) time will convey the same information: I 
+‘learn’ from the factory whistle that it is twelve o’clock.”31 This type of learning represents a context 
+where a person exhibits minimal change in response to an item of sensory input, be it simple or 
+complex. Learning 0 lacks any stochastic process, i.e., it does not contain components of trial and 
+error, and it is typified “by specificity of response , which—right or wrong—is not subject to 
+correction.”32 This level of learning may be identified in phenomena that occur in various contexts, 
+and here a brief list of such contexts may help illustrate the intended meaning:  
+(a) In experimental settings, when “learni ng” is complete and the animal gives 
+approximately 100 per cent responses to the repeated stimulus.  
+(b) In cases of habituation, where the animal has ceased to give overt responses to 
+what was formerly a disturbing stimulus.  
+(c) In cases where the pattern of the response is minimally determined by the 
+experience and maximally determined by genetic factors.  
+(d) In cases where the response is now highly stereotyped. 
+(e) In simple electronic circuits, where the circuit structure is not itself subject to 
+change resulting from the passage of impulses within the circuit—i.e., where the causal 
+links between “stimulus” and “response” are as the engineers say “soldered in.”33 
+ 
+Although Learning 0 does not contain a component of trial and error, at this level of learning 
+we are capable of at least two types of “error.” If the context offers a set of alternatives to choose 
+from, one may correctly employ the information that signals these available alternatives, but choose 
+
+ 17
+the wrong alternative; or , one m ay misidentify the context and thus choose from  a wrong set of 
+alternatives.34 
+If now we accept the overall notion that all learning (other than zero learning) is in 
+some degree stochastic . . . it follows that an ordering of the process of learning can 
+be built upon an hierarchic classification of  the types of error which are to be 
+corrected in the various learning process. Zero learning will then be the label for the 
+immediate base of all those acts (sim ple and complex) which are not subject of 
+correction by trial and error. Learning I will be an appropriate label for the revision 
+of choice within and unchanged set of alternatives; and Learning II will be the label 
+for the revision of the set from which the choice is to be made; and so on.35 
+ 
+Learning I: In common, nontechnical parlance this leve l of learning is generally what we 
+mean by the term “learning.” It is often referred to as trial-and-error learning, instrumental learning, 
+or conditioning. “These are cases where an entity gives at time two a different response from what it 
+gave at tim e one.”36 This level of learning covers a br oad range of phenom ena, including rote 
+learning, a rat learning which turn to make in a maze, and a person learning to play a Bach fugue. In 
+essence, Learning I may be recognized when, with repeated practice, new responses occur.  
+Here, it is important to note that without the assumption of repeatable contexts there can be 
+no learning of this sort . . .  “we may regard ‘context’ as a collective term for all those events which 
+tell the organism among what set of alternatives he must make his next choice.”37  
+Without the assum ption of repeatable cont ext (and the hypothesis that for the 
+organisms which we study the sequence of experience is really somehow punctuated 
+in this manner), it would follow that all “learning” would be of one type: namely, all 
+would be zero learning.38 
+ 
+If all learning were zero learning, all behavior  would be genetically determ ined, and we 
+would be little more than genetically programmed automatons, in which case our physical, em otional, and intellectual life would am ount to Pavl ovian responses. However , if the prem ise of 
+repeatable context is correct, “the case for logical typing of the phenomena of learning necessarily 
+stands, because the notion ‘context’ itself is subject to logical typing.” Either we reject the notion of 
+repeatable context or we accept it, and by accepting it, we “accept the hierarchic series—stimulus, 
+context of stimulus, context of context of stimulus, etc. This series can be spelled out in the form of a 
+hierarchy of logical types as follows”: 
+a) Stimulus is an elementary signal, internal or external. 
+b) Context of stimulus is a metamessage which classifies the elementary signal.  
+c) Context of context of stimulus is a meta-metamessage which classifies 
+the metamessage. And so on.39  
+ 
+
+ 18
+ 
+Bateson insists that the concept of repeatable context— and by extension the above hierarchic series 
+of contexts—is a necessary prem ise for any theory that defines learning as change. Moreover, “this 
+notion is not a mere tool of our description but contains the implicit hypothesis that . . . the sequence 
+of life experience, action, etc., is somehow segmented or punctuated into subsequences or ‘contexts’ 
+which may be equated or differentiated by the organism.”40 
+This all raises the question as to what sort of creatures we are that we can identify a context, 
+or further, that we can recognize a repeatable c ontext, or a context of contexts?  Since we m ay 
+respond to the “same” stimulus differently in differing contexts, what is the source of information 
+necessary for us to recognize the dif ference between Context A and Context B? To answer these 
+questions, Bateson introduces the term “context markers,” and employs this term to designate the 
+signals or labels with which humans and quite likely many other organisms classify or differentiate 
+between two contexts. 
+When we enter a classroom on the day of an exam, everyone in attendance knows that on this 
+day, for the duration of the examination, their activities will differ from those of other times in the 
+“same” classroom. Similarly, it is reasonable to assume that when a harness or some other apparatus 
+is placed on a dog, who has had extended experience in a psychological laboratory, the smell and 
+feel of the equipment, as well as the setting of the laboratory, all act as signals with which the animal 
+marks that he is about to undergo a series of not unfamiliar contexts. Such sources of information 
+may be referred to as “context m arkers,” and at least for humans, there must also be “markers of 
+contexts of contexts.”41 
+When we attend the perf ormance of a play , the playbills, the stage, the curtain, and the 
+seating arrangement, etc., act as “markers of context of context.” If a character in the play commits a 
+crime, we do not go out and sum mon the police, because through these “m arkers of context of 
+context” we have received information about the context of the character’s context. We know we are 
+watching a play. In contrast, Shakespeare uses a twist of irony in Hamlet when, precisely because 
+Claudius ignores several “markers of context of context,” the King has his conscience prodded by 
+the play within the play.  
+In the complex social life of humans, a diverse set of events can be  identified as “context 
+markers.” If I pick up my keys, for whatever reason, my wife is apt to ask where I intend to go. In 
+this instance, my keys are a “context marker” that for my wife signals my intention of leaving the 
+house. By way of example, Bateson offers the following list:  
+ 
+
+ 19
+(a) The Pope’s throne from  which he m akes announcements ex cathedra, which 
+announcements are thereby endowed with a special order of validity.  
+(b) The placebo, by which the doctor sets the st age for a change in the patient’ s     
+subjective experience,  
+(c) The shining object used by some hypnotists in “inducing trance.” 
+(d) The air raid siren and the “all clear.” 
+(e) The boxers handshake before a fight.  
+(f) The observances of etiquette.42 
+The notions of repeatable context and defining “learning” as change are not foreign to the 
+field of pedagogy. For centuries, instructors have tacitly recognized and fashioned context markers 
+(employing visual aids, and other less obvious means), as I indicated earlier in this essay. What I find 
+most valuable (most practical) in this theory of learning is the elegant clarity with which Bateson 
+focuses our attention on the phenom ena of context, repeatable context, and context markers as 
+somehow central to understanding and encouraging those changes we designate as “learning.”  
+Learning II: The next higher level or logical type of learning entails changes in the process of 
+Learning I, or learning about learning.43 Learning II is recognizable as “corrective change in the set 
+of alternatives from which choice is made,” and this includes “changes in the manner in which the 
+stream of action and experience is segmented or punctuated into contexts together with changes in 
+the use of context markers.”44  
+Simply put, Learning II represents the generally unconscious phenomena wherein we learn 
+about and classify the contexts in which learning takes place. For example, when we first learn to 
+play a musical instrument, it usually takes a considerable amount of time to play with few errors. 
+Yet, as we continue to play and learn new pieces, the speed with which we learn to play at the same 
+level of performance increases. We have learned a pattern or class of behaviors, for instance “guitar 
+playing,” and we are able to progressively transfer skills acquired in learning one member of that 
+class, “folk guitar,” to another, “classical guitar.” For anyone who has contemplated the processes 
+involved in this type of learning (riding a bicycl e, mathematical and language skills m ay also be 
+included as exam ples) it is evident that m uch of this kind of learning takes place outside of our 
+awareness. 
+Bateson argues that, “an essential and necessary function of all habit formation and Learning 
+II is an economy of the thought processes (or neural pathways) which are used for problem-solving 
+or Learning I.”45 The phenomena of learning occur within a hierarchy of perceived and classified 
+contexts and meta-contexts in which our percepts are con tinually being verified or contradicted. 
+ 
+
+ 20
+However, as with typing or riding a bicycle, Learning II affords us the advantage of not questioning 
+the details of our actions. We may carry on “without thinking.”46 
+Some types of knowledge can conveniently be sunk to unconscious levels, but other 
+types must be kept on the surface. Broadly , we can af ford to sink those sorts of 
+knowledge which continue to be true regardless of changes in the environment, but 
+we must maintain in an accessible place all those controls of behavior which must be 
+modified for every instance. The economics of the system, in fact, pushes organisms 
+toward sinking into the unconscious those generalities of relationship which remain 
+permanently true and toward keeping within the conscious the pragmatic of particular 
+instances.47 
+ 
+Learning II amounts to habit formation, e.g., it allows generalities of relationship that remain 
+true to settle progressively further into the unc onscious, and we should note that this pattern of 
+learning is not restricted to classif ying the contexts of acquired skills, such as operational tasks. 
+Consider the premises for what is generally referred to as “character,” or definitions of “self.” In this 
+instance, Learning II saves us from  having to continually re-examine the abstract, philosophical, 
+aesthetic, and ethical aspects of many sequences of life. For precisely this reason, Learning II can 
+create problems for anyone attempting to reconstruct the context of the classroom system.  
+. . . Learning II is a way of punctuating events. But a way of punctuating is not true 
+or false. . .  It is like a picture seen in an inkblot; it has neither correctness nor 
+incorrectness. It is only a way of seeing the inkblot. . . 
+The practitioner of magic does not unlearn his magical view of events when 
+the magic does not work. In fact, the propositions which govern punctuation have the 
+general characteristic of being self-validating. What we term “context” includes the 
+subject’s behavior as well as the external events. But this behavior is controlled by 
+former Learning II and therefore it will be of such a kind as to mold the total context 
+to fit the expected punctuation.48 
+ 
+In other words, patterns of learned behavior regarding our interrelationship with the milieu in 
+which we are embedded tend to become more and more generalized and come to determine the bias 
+of a person’s global expectations. Consequently , one may then anticipate that one’s existence is 
+orderly and structured, or sim ply chaotic; m ostly punishing, or m ostly rewarding. These more 
+general relational patterns develop early in life and quickly drop out of awareness, and since what is 
+learned is a way of punctuating events, what then happens is that we tend to mold our environment 
+to fit the expected punctuation.49  
+The self-validating nature of this process renders it notoriously difficult to reverse because 
+the personality involved is unaware, and he or she will unconsciously manipulate their perception of 
+the environment to fit their expectations, and subsequently bypasses other learning opportunities. For 
+ 
+
+ 21
+instance, overcoming the expectations of a “fit and proper” learning environment, whether from 
+students, parents or administrators—expectations controlled by former Learning II, and therefore, 
+largely unconscious—poses a dif ficult task for anyone attem pting to reconstruct the learning 
+contexts of the classroom system. 
+Still, we are called upon to “educate” our students, and a close analysis of the words we use 
+to describe the patterns of relationship and definitions of “self “ commonly called “character” reveals 
+that no one is dependent, liberated, or competitive, etc. in isolation— all perception and all learning 
+are essentially interactional. It follows that if (as scholars such as Bateson and Klaus Krippendorff 
+suggest) in the operation of our perception we are all cartographers, then our role as educators is to 
+communicate contexts and meta-contexts wherein our students may construct, explore and 
+reexamine some of their most fundamental reality constructs. The “context markers” we broadcast 
+will signal meta-metamessages with which the students m ay choose to punctuate or classify the 
+context of their lives. If we are successful in our task, the dialogical l earning environments we 
+fashion can offer our students an experience “like entering the cartographer on the map he or she is 
+making.”50 Like the border on a m ap, our “context m arkers” frame the inform ation within the 
+dialogue, setting the stage for the emergence of self-discovery. 
+In such systems, involving two or more persons, where most of the important events 
+are postures, actions, or utterances of the living creatures, we note immediately that 
+the stream of events is com monly punctuated into contexts of learning by a tacit 
+agreement between the persons regarding the nature of their relationship—or by 
+context markers and tacit agreem ents that these context m arkers shall “mean” the 
+same for both parties.51 
+ 
+In the above quotation, note that Bateson brings the contemplation of “contexts of learning” 
+back to a discussion of systems, involving two or more persons, and the nature of their relationship. 
+Although he does not plainly state his intention, we can fairly assume this reference to systems is a 
+context marker that refers to his theories concerning mental process. Also, note the importance of 
+“tacit agreement” and “context markers” in the operation of the stream of events that may lead to the 
+change in punctuating events that he designates Learning II, e.g., the largely unconscious process of 
+“learning about learning.” This suggests that in structuring the contexts of our classroom(s), we must 
+be able to present and successfully com municate context markers in our postures, actions, and 
+utterances—as well as in the physical layout of the learning environment—such  that the students can 
+enter into the tacit agreements that enable Learning 0, Learning I, and Learning II.  
+ 
+
+ 22
+The above leads to our consideration of Learning III. This type of learning involves a radical 
+modification or expansion of one’s set of alternatives, e.g., “Learning III is change in the process of 
+Learning II, e.g., a corrective change in the system  of sets  of alternatives f rom which choice is 
+made.”52 This level of learning can be identified as a radical shift in perspective, or as developing the 
+ability to cross the “boundaries” of different learning types. 
+The very definition of this type of learning suggests that paradoxes and logical difficulties 
+arise when we attempt to apprehend such phenom ena in logical discourse. Yet, without claiming 
+personal knowledge, we may suppose that at this level of learning previously constricted awareness 
+is released and new frames of reference are accessible. Here, Bateson cautiously observes that: 
+Learning III is likely to be difficult and rare even in human beings. Expectably, it will 
+also be dif ficult for scientists, who are only human, to im agine or describe this 
+process. But it is claimed that something of this sort does from time to time occur in 
+psychotherapy, religious conversion, and in  other sequences in which there is 
+profound reorganization of character.53 
+ 
+The profound reorganization of character that characterizes Learning III limits the usefulness 
+of this level of learning for our discussion, but may disclose something of the nature of learning that 
+has been left out of our previous discussion. First we should note that there can be a replacement of 
+premises at the level of Learning II without the achievem ent of any Learning III. Hence, the 
+profound reorganization of character indicative of Learning III is not a transposition of subclasses at 
+the level of Learning II. However , such a transposition (exchanging one set of habituation for 
+another) in and of itself m ust certainly be an accom plishment worth noting. Yet, the question 
+remains, how are such transpositions achieved.  
+Bateson suggests that one is “driven” to level III by “contraries” generated at level II, and it 
+is the resolving of contraries that constitutes “positive reinforcement” at level III. I would suggest 
+that since all learning cannot be the product of rote memorization, the experience of contraries, and 
+their subsequent resolution, is the key to understanding much of what “moves” one through each of 
+the previously discussed levels of learning: Learning 0, Learning I, and Learning II. Therefore, we 
+may employ Bateson’s concept of Learning III as an extreme example of all transitional experience 
+“between” the levels of learning.  
+Precisely because it constitutes learning about Learning II, Learning III proposes paradox. 
+Learning III may lead to either an increase or a limitation, and possibly a reduction of the habits 
+acquired in Learning II. “Certainly it must lead to a greater flexibility in the premises acquired by the 
+process of Learning II—a freedom from their bondage.”54 My point is that we m ay make similar 
+ 
+
+ 23
+observations concerning the relationship between the punctuation of experience that occurs between 
+Learning 0 and I, or between Learning I and II.  
+Beyond the necessary components of rote learning and habituation, one is most likely driven, 
+or nudged, into “higher” levels of learning through paradox and contraries. Similarly, any skill or 
+ability that is integrated into one’ s mental system through the process of resolving paradox and 
+contraries will lead to greater flexibility in the premises that govern the “lower” levels of learning. 
+This “resolution of  contraries” will, in itself , positively reinf orce one’s having learned a given 
+“lesson.” In structuring the contexts of a classroom system, we certainly should not attempt to drive 
+our students into a Learning III experience. However , we should be able to learn how to fashion 
+challenging contexts, which allow for safely experiencing contraries and paradoxes. Apparently, this 
+is the experience that is needed in order to nudge one’s “self” into “higher” levels of learning. 
+One final word concerning the processes involved in Learning III. In a sense this entire essay 
+has been an invitation to the sort of “reorganization of character” that characterizes Learning III. Our 
+brief examination of the holistic, self-regulating, self-organizing, mutually causal (hence, dialogic), 
+and hierarchic characteristics of cybernetic systems was intended to set the context for considering a 
+major portion of Bateson’s work. Given the f act that it is mind that learns, the explication of the 
+holistic and dialogical model of mind which emerges out of Bateson’s criteria of mind—including 
+his understanding of information, and his concept of the “world of communication”—was intended 
+to prepare the contextual frame for considering Bateson’s learning theory. Clearly, the views thus 
+presented invite the reader to reexamine commonly held dualistic notions concerning the “self,” as 
+well as similar notions concerning the relationship between “self” and “other.” 
+Bateson’s views thus propose a radical reexam ination of the principles that govern the 
+instructor/student/classroom system. To be sure, the principles examined in this essay are not the 
+only means of reaching the conclusions I have incrementally drawn along the way, nor do I claim 
+that the principles here presented, and the conclusions here drawn are the only viable rationale 
+around which we should reconstruct the classroom system. My intent has been merely to offer an 
+alternative optic (one of many such valuable resources) through which we may view learning and 
+pedagogy. These concluding observations are not simply standard disclaimers, offered as a means of 
+conveniently bringing the essay to closure. It is my conviction that if the ideas presented in this essay 
+are taken seriously, they call for a profound reorganization of the way we approach instruction and 
+learning in the classroom. In this sense the above is an invitation to the sort of “reorganization of 
+character” that is the hallmark of Learning III. 
+ 
+
+ 24
+WORKS CITED 
+ 
+Bateson, Gregory. Mind and Nature: A Necessary Unity. New York: E. P. Dutton, 1979.  
+ 
+------. Steps to an Ecology of Mind: Collected Essays in Anthropology, Psychiatry, Evolution, and 
+Epistemology. San Francisco: Chandler Publishing Company, 1972.  
+ 
+------. “Afterword.” In About Bateson, pp. 235-247. Edited by John Brockman. New York: E. P. 
+Dutton, 1977.  
+ 
+------. “The Message is Reinforcement,” in Language Behavior: A Book of Readings in 
+Communication. Janua Linguarum: Studia Memoriae Nocolai Van Wijk Dedicata, Series 
+Maior, no. 41, pp. 62-72. Edited by Johnnye Akin, Alvin Goldberg, Gail Myers, and 
+Joseph Stewart. The Hague and Paris: Mouton & Co., 1971. 
+ 
+------. “The Cybernetics of ‘Self’: A Theory of Alcoholism.” Psychiatry, 34 (February 1971):     
+1-18; reprinted in Steps to an Ecology of Mind, Part III: Form and Pathology in 
+Relationship, pp. 309-337.  
+ 
+------. “Form, Substance, and Difference.” General Semantics Bulletin 37: 5-13. The Nineteenth 
+Annual Alfred Korzybski Memorial Lecture, delivered at New York, January 9, 1970; 
+reprinted in Steps to an Ecology of Mind, Part V: Epistemology and Ecology, pp. 454-
+471.  
+ 
+------. “The Logical Categories of Learning and Communication.” in Steps to an Ecology of 
+Mind, Part III: Form and Pathology in Relationship, pp. 279-308. [Expanded version of 
+“The Logical Categories of Learning and Communication, and the Acquisition of World 
+Views.” Paper presented at the Wenner-Gren Symposium on World Views: Their Nature 
+and Their Role in Culture, Burg Wartenstein, Austria, August 2-11, 1968.]  
+ 
+------. “Style, Grace, and Information in Primitive Art,” in Steps to an Ecology of Mind, Part II: 
+Form and Pattern in Anthropology, pp. 128-152. 
+ 
+------. “Minimal Requirements for a Theory of Schizophrenia.” A.M.A. Archives of General 
+Psychiatry 2 (May 1960): 477-491; reprinted in Steps to an Ecology of Mind, Part III: 
+Form and Pathology in Relationship, pp. 244-270. 
+ 
+------. Comment on “The Comparative Study of Culture and the Purposive Cultivation of 
+Democratic Values,” by Margaret Mead, in Science Philosophy and Religion; Second 
+Symposium, Chapter IV, pp. 81-97. Edited by Lyman Bryson and Louis Finkelstein. New 
+York: Conference on Science, Philosophy and Religion in Their Relation to the 
+Democratic Way of Life, Inc., 1942; reprinted as, “Social Planning and the Concept of 
+ 
+
+ 25
+Deutero-Learning,” in Steps to an Ecology of Mind, Part III: Form and Pathology in 
+Relationship, pp. 159-176. 
+ 
+Bateson, Gregory, and Bateson, Mary Catherine. Angels Fear: Towards an Epistemology of the 
+Sacred. New York: Macmillan Publishing Co., 1987.  
+ 
+Brockman, John, ed.; Bateson, M. C.; Birdwhistell, R. L.; Lipset, D.; May, R.; Mead, M.; and 
+Schlossberg, E. About Bateson. New York: E. P. Dutton, 1977. “Afterword” by Gregory 
+Bateson.  
+ 
+Krippendorff, Klaus. “The Power of Communication and the Communication of Power: Toward 
+an Emancipatory Theory of Communication.” Communication 12 (July 1991): 175-196. 
+ 
+Laszlo, Ervin. Introduction to Systems Philosophy. New York: Harper Torchbook, 1973. 
+ 
+McCulloch, Warren S. Embodiments of Mind. Cambridge, Massachusetts: M.I.T. Press, 1965.  
+ 
+Vickers, Geoffrey, Sir. Value Systems and Social Process. New York: Basic Books, 1968.  
+ 
+Whyte, Lancelot L. “The Structural Hierarchy in Organisms.” In Unity in Diversity: A Festschrift 
+for Ludwig Von Bertalanffy, pp. 271-285; Vol. 1 of 2 vols. Edited by William Gray and, 
+Nicholas D. Rizzo. New York: Gordon and Breach, 1973.  
+ 
+Wiener, Norbert. Cybernetics—or Contr ol and Communication in the Animal and the Machine. 
+New York: John Wiley & Sons, Inc., 1948. 
+ 
+
+ 
+ 
+                                                          
+NOTES 
+ 
+     1 Warren S. McCulloch, Embodiments of Mind (Cambridge, Massachusetts: M.I.T. Press, 1965). McCulloch was 
+a key member of the group that did the original work in cybernetics, and he is referred to by Bateson more often 
+than any other modern scientist.  
+     2 Norbert Wiener, Cybernetics—or Control and Communication in the Animal and the Machine  (New York: John 
+Wiley & Sons, Inc., 1948), p. 11. 
+     3 However, following Bateson many theorists reject the use of energy and matter in this context—except in those 
+instances where they act as information and thus have communicational value. 
+     4 Ervin Laszlo, Introduction to Systems Philosophy, pp. 57-117; also, pp. 177-180. 
+     5 Lancelot L. Whyte, “The Structural Hierarchy in Organisms,” in Unity in Diversity: A Festschrift for Ludwig 
+von Bertalanffy, pp. 271-285, edited by William Gray and Nicholas D. Rizzo (New York: Gordon and Breach, 
+1973), p. 275. 
+     6 Ervin Laszlo, Introduction to Systems Philosophy, p. 175. 
+     7 Sir Geoffrey Vickers, Value Systems and Social Progress (New York: Basic Books Inc., 1968), pp. 176-209. 
+8 Ibid., pp. 183-184; see also, pp. xi-xxii. 
+     9 Gregory Bateson, Mind and Nature: A Necessary Unity (New York: E. P. Dutton, 1979), p. 92. 
+(Hereafter — Mind & Nature) 
+     10 Ibid., p. 92. 
+     11 Mind & Nature, p. 92 [emphasis mine]. 
+     12 Ibid., pp. 92-94. 
+     13  Ibid., p. 212. 
+     14 “Glossary,” in Mind & Nature, p. 228. 
+     15 “Form, Substance, and Difference,” in Gregory Bateson, Steps to an Ecology of Mind: Collected Essays in 
+Anthropology, Psychiatry, Evolution, and Epistemology (San Francisco: Chandler Publishing Company, 1972),     
+pp. 457-461 (Hereafter — STEPS). 
+     16 Ibid., p. 459 
+     17 Mind & Nature, p. 100. Qualifying the word triggered, Bateson notes that, “Firearms are a somewhat 
+inappropriate metaphor because in most simple [nonrepeating] firearms there is only a lineal sequence of energetic 
+dependencies. . . In biological systems, the end of the lineal sequence sets up conditions for a future repetition,” p. 
+101n. 
+     18 “Afterword,” in About Bateson, Edited by John Brockman (New York: E. P. Dutton, 1977), p. 243. 
+     19 “The Cybernetics of ‘Self ‘: A Theory of Alcoholism,” STEPS, p. 316.  
+     20 Ibid., p. 317. 
+     21 Gregory Bateson and Mary Catherine Bateson, Angels Fear: Towards an Epistemology of the Sacred (New 
+York: Macmillan Publishing Co., 1987), p. 19; this work was posthumously reconstructed, edited and co-authored 
+by Bateson’s daughter, Mary Catherine Bateson. 
+
+ 
+ 
+                                                                                                                                                                                           
+     22 “Minimal Requirements for a Theory of Schizophrenia,” in STEPS, p. 250. 
+     23 Ibid. 
+     24 Mind & Nature, p. 191. 
+     25 Ibid., p. 94. 
+     26  “Form, Substance, and Difference,” in STEPS, p. 464. 
+     27 Mind & Nature, p. 86. 
+     28 “The Logical Categories of Learning and Communication,” in STEPS, p. 282. Bateson addressed learning 
+theory in several essays. The above, written in 1964 and given its final form in 1971, gives his definitive accounting 
+on the topic. Also see, Gregory Bateson, Comment on “The Comparative Study of Culture and the Purposive 
+Cultivation of Democratic Values,” by Margaret Mead, in Science Philosophy and Religion; Second Symposium, 
+Chapter IV , pp. 81-97, edited by Lyman Bryson and Louis Finkelstein (New York: Conference on Science, 
+Philosophy and Religion in Their Relation to the Democratic Way of Life, Inc., 1942); reprinted as, “Social Planning 
+and the Concept of Deutero-Learning,” in Steps to an Ecology of Mind, Part III: Form and Pathology in 
+Relationship, pp. 159-176; also, “The Message is Reinforcement,” in Language Behavior: A Book of Readings in 
+Communication, Janua Linguarum: Studia Memoriae Nocolai Van Wijk Dedicata, Series Maior, no. 41, pp. 62-72, 
+edited by Johnnye Akin, et al. (The Hague and Paris: Mouton & Co., 1971). 
+     29 Ibid., p. 283, n 3. Subtly maintaining his distinction between the mental and physical sciences, Bateson notes 
+that, “the Newtonian equations which describe the motions of a ‘particle’ stop at the level of ‘acceleration.’ Change 
+of acceleration can only happen with deformation of the moving body, but the Newtonian ‘particle’ was not made up 
+of ‘parts’ and was therefore (logically) incapable of deformation or any other internal change. It was therefore not 
+subject to rate of change of acceleration.” 
+     30 “The Logical Categories of Learning and Communication,” in STEPS, p. 293. Bateson’s description of 
+Learning IV clearly marks it as a special instance of learning: “Learning IV would be change in Learning III. 
+[Which probably does not occur, but . . .] Evolutionary process has, however, created organisms whose ontogeny 
+bring them to Level III. The combination of phylogenesis with ontogenesis, in fact, achieves Level IV .” 
+     31 Ibid., p. 284. 
+     32 Ibid., p. 293. 
+     33 “The Logical Categories of Learning and Communication,” in STEPS, p. 284. 
+     34 Ibid., p. 286. Bateson notes that, “There is also an interesting class of cases in which the sets of alternatives 
+contain common members. It is then possible for the organism to be ‘right’ but for the wrong reasons. This form of 
+error is inevitably self-reinforcing.” 
+     35 Ibid., p. 287.  
+     36 Ibid. 
+     37 Ibid., p. 289. 
+     38 “The Logical Categories of Learning and Communication,” in STEPS, p. 288. 
+     39 Ibid., p. 289. 
+     40 Ibid., p. 292. 
+ 
+
+ 
+ 
+                                                                                                                                                                                           
+     41 “The Logical Categories of Learning and Communication,” in STEPS, p. 290. 
+     42 Ibid., p. 290. 
+     43 “The Logical Categories of Learning and Communication,” in STEPS,  pp. 292-293. Bateson notes that 
+“various terms have been proposed in the literature for various phenomena of this order. ‘Deutero-learning,’ ‘set 
+learning,’ ‘learning to learn,’ and ‘transfer of learning’ may be mentioned.”  
+     44 Ibid., p. 293. 
+     45 Ibid., p. 302. 
+     46 “Style, Grace, and Information in Primitive Art,” in STEPS, pp. 128-152; see, p. 148. 
+     47 “Style, Grace, and Information in Primitive Art,” in STEPS, p. 142.  
+     48 “The Logical Categories of Learning and Communication,” in STEPS, pp. 300, 301. 
+     49 Ibid., p. 301. 
+     50 Klaus Krippendorff, “The Power of Communication and the Communication of Power; Toward an 
+Emancipatory Theory of Communication,” p. 192.  
+     51 “The Logical Categories of Learning and Communication,” in STEPS, p. 298. 
+ 
+     52 “The Logical Categories of Learning and Communication,” in STEPS, p. 293. 
+     53 Ibid., p. 301. 
+     54 “The Logical Categories of Learning and Communication,” in STEPS, p. 304. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+copyright© 2000 by Down 'n Out Press All rights reserved 

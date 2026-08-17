@@ -1,0 +1,616 @@
+	
+	
+ 
+Education Quarterly 
+Reviews 
+ 
+ 
+ 
+Niu, M., & Dechsubha, T . (2022).	 The Development of Pragmatics in Morris’s 
+Behavioral Semiotics: Semiotic Perspective . Education Quarterly Reviews , 5(2), 
+216-225. 
+  
+ISSN 2621-5799 
+ 
+DOI: 10.31014/aior.1993.05.02.482 
+ 
+The online version of this article can be found at: 
+https://www.asianinstituteofresearch.org/ 
+ 
+ 
+ 
+Published by: 
+The Asian Institute of Research 
+ 
+The Education Quarterly Reviews is an Open Access publication. It may be read, copied, and distributed free of 
+charge according to the conditions of the Creative Commons Attribution 4.0 International license. 
+ 
+The Asian Institute of Research Education Quarterly Reviews is a peer-reviewed International Journal. The journal 
+covers scholarly articles in the fields of education, linguistics, literature, educational theory, research, and 
+methodologies, curriculum, elementary and secondary education, higher education , foreign language education, 
+teaching and learning, teacher education, education of special groups, and other fields of study related to education. 
+As the journal is Open Access, it ensures high visibility and the increase of citations for all research ar ticles 
+published. The Education Quarterly Reviews aims to facilitate scholarly work on recent theoretical and practical 
+aspects of education. 
+ 
+ 
+ 
+ 
+ 
+
+
+	
+216 
+ 
+The Asian Institute of Research 
+Education Quarterly Reviews 
+Vol.5, No.2, 2022: 216-225 
+ISSN 2621-5799 
+Copyright © The Author(s). All Rights Reserved  
+DOI: 10.31014/aior.1993.05.02.482 
+ 
+ 
+ 
+ 
+The Development of Pragmatics in Morris’s Behavioral 
+Semiotics: Semiotic Perspective 
+Min Niu1, Thawascha Dechsubha2 
+ 
+ 
+1 PH.D. candidate in School of Liberal Arts, Shinawatra University, Bangkok, Thailand 
+2 Asst. Professor in School of Liberal Arts, Shinawatra University, Bangkok, Thailand 
+ 
+Correspondence: Min Niu, School of Liberal Arts, Shinawatra University, Pathumthani, 12160, Bangkok, 
+Thailand. Tel: +66(0) 25990000. E-mail: niumin810@163.com 
+ 
+Abstract 
+Many pragmaticists claimed that pragmatics developed mainly from 1970s and 1980s, taking the emergence of its 
+series of pragmatic theories (e.g., Cooperative Principle, Conversation Implicature, Relevance Theory, etc.), 
+methodology, and the official issue of Journal of Pragmatics (1977) in Amsterdam as its marks. However, few 
+scholars reinstate the historical trut h of the real development of pragmatics by comparing and reviewing the 
+semiotic thoughts between Peirce and Morris so as to discover the development and prosperity of pragmatics in 
+Morris’s times (around 1930s). As one of the founders of modern semiotics, Morris’s major contribution derives 
+from his proposal of trichotomy theory of semiosis, that is, syntactics, semantics, and pragmatics, grounded on 
+which Morris intends to establish an all-inclusive general theory of signs. Substantially, Morris’s semiotic theory 
+involves rich pragmatic thought which is inherited and developed from Peirce theory of signs that has logic and 
+pragmaticism as its foundations. This paper aims to reveal the formation and development of pragmatics in 
+Morris’s behavioral semiotics by means of comparing the semiotic thoughts between Peirce and Morris from the 
+perspective of dynamic history. Specifically, this paper involves the analysis of the philosophical foundations of 
+pragmatics, disciplinary classification, the establishment of pragmatics, theory of sign inquiry, the relevant specific 
+semiotic views, and three semiotic dimensions of Morris’s pragmatics, which are conducive to explore the 
+pragmatic origin and development from the perspective of Morris’s semiotic thoughts. As such,  Pragmatics in 
+Morris’s behavioral semiotics is established and developed in a systematic and formal way.  
+ 
+Keywords: Pragmatics, Pragmaticism, Semiotics, Peirce, Morris 
+ 
+ 
+1. Morris and his major semiotic thoughts 
+ 
+Charles William Morris (1901 -1979) is a classic writer of semiotics. He had a decisive influence on the 
+development of Semiotics in the 1930s and 1940s. His semiotic thoughts are the integration of Pierce’s Semiotics, 
+George Mead’s social behaviorism and s ymbolic interaction theory, and American pragmatism, empiricism and 
+logical positivism. Morris discusses the general theory of Semiotics in order to establish a unified science. His 
+definition of general semiotics and the theory of three branches of semios is is still one of the basic theories of 
+contemporary semiotics. In applied semiotics, his semiotic thought has great influence on semiotic aesthetics and 
+
+
+Asian Institute of Research            Education Quarterly Reviews Vol.5, No.2, 2022 
+	
+	
+	
+	
+217 
+ 
+ 
+similitude theory. What the great contribution he made is his classification of discourse pragmatics, which is the 
+specific application of his theory of pragmatics from the perspective of semiotics. His most important semiotic 
+work is Writings on the General Theory of Signs, in which the essay “Foundations of Theory of Signs” (1938) is 
+his classic and famous paper on Semiotics. His famous trichotomy of semiotic respectively refers to syntactics, 
+semantics and pragmatics. Morris promo tes the development of the theory of pragmatics. The proposal of 
+pragmatics as one of the branches of semiotics is the kernel of his pragmatic thought and the classifications of 
+discourse types are the specific application of his pragmatic thought. Morris divides the common language into 16 
+types of discourse by virtue of connecting the two dimensions of the signifying modes of signs and the usage of 
+signs. Grounded on the theory of behavioral semiotic, his distinctions of semiosis not only take into accoun t the 
+relationships between signs and objects, signs themselves, but also pay key attention to the relationship between 
+signs and sign users, which is the specific application of his pragmatic thought. 
+ 
+“Semiotic, or sign theory, has come to serve for many as an all-inclusive term, subsuming such diverse enterprises 
+as semiology, cybernetics, hermeneutics, and so forth; yet the contemporary use of the term “semiotic” derives 
+from the highly influential theory articulated by Charles Morris, who in turn acqui red it from C. S. Peirce, the 
+founder of modern semiotic. The term semiotic was first used in modern times by John Locke, who mentioned it 
+near the end of his masterwork, An Essay Concerning Human Understanding (1690). Locke only suggested a 
+division of science in which semiotic would form the third of three sections, and would be identified with logic. It 
+was first used as a term denoting a specific and detailed theory by Peirce, who spent the greater portion of his life 
+working out his semiotic, which for him was a normative theory of logic” (Rochberg-Halton & McMurtrey 1983, 
+pp.129-130). This theory is at the heart of Peirce’s philosophy, and he considered pragmatism, which he founded, 
+to form one area within its domain.  
+ 
+Morris adopts from Peirce the name semiosis for the general theory of signs. Being influenced by Charles Sanders 
+Peirce, he first used the term ‘pragmatics’ as a branch of semiotics in 1930s (Morris, 1938). Later this term was 
+taken in linguistics for granted as a name of one of its core  branches dealing with usage of language. Morris, in 
+fact, isolates semiotics into three different branches — syntactics, semantics and pragmatics. According to his 
+interpretation, syntactics deals with ‘the formal relation of signs to one another’, semanti cs denotes the study of 
+‘the relations of signs to the object to which signs are applicable’ and, finally, pragmatics incorporates the study 
+of ‘the relation of signs to interpreters’ (Morris 1938, p.6; Levinson, 1983). Later Carnap (1942) (cf. Recanati, 
+2004) makes an order of the degree of abstraction of these three branches. More elaborately, according to Carnap, 
+syntactics is the most abstract and pragmatics is the least abstract, whereas semantics belongs to these two in 
+expressing the degree of abstraction. Morris’s semiotics has three dimensions of semiosis, and the pragmatic 
+dimension is only one of them (cf. Arif 2013, pp.30-31).  
+ 
+2. The disciplinary classification of Morris’s pragmatics 
+ 
+The three components of Morris’s philosophy generate the eme rgence of three branches of his semiotics.  As a 
+kind of formalism, positivism studies the formal structure of scientific language, empiricism researches on the 
+object and its relation to scientific language, pragmatism focuses on the methods and steps of clarifying ideas and 
+communicating with each other among scientists. Grounded on the three schools of philosophy, Morris proposed 
+three branches of semiotics, i.e., syntactics, semantics and pragmatics.  By virtue of positivist research methods 
+and achievements, Syntactics is “the study of the syntactical relations of signs to one another in abstraction from 
+the relations of signs to objects or to interpreters,”  and “is the best developed of all the branc hes of semiotic” 
+(1938, p.13). “Semantics deals with the relation of signs to their designate and so to the objects which they may 
+or do denote” by means of empirical method (1938, p.21). In reference to the term “pragmatism” first used by C. 
+S. Peirce, Morris coined the term “pragmatics” to refer to “the science of the relation of signs to their interpreters” 
+by means of pragmatism (1938, p.30).  Morris’s three dimensions of semiotics, which are based on three 
+philosophical thoughts, cannot be separated from the influence of Peirce’s trichotomy of signs.  Peirce’s 
+trichotomic sign is grounded on his Trinity definition of signs and the trivium taught in medieval universities. A 
+sign, or representamen, is something which stands to somebody for something in some  respect or capacity. It 
+addresses somebody, that is, creates in the mind of that person an equivalent sign, or perhaps a more developed 
+sign. That sign which it creates I call the interpretant of the first sign. The sign stands for something, its object (CP 
+
+Asian Institute of Research            Education Quarterly Reviews Vol.5, No.2, 2022 
+	
+	
+	
+	
+218 
+ 
+ 
+2.228). “Representamen is a subject of a triadic relation to a second, called its object, for a third, called its 
+Interpretant, this triadic relation being such that the Representamen determines its interpretant to stand in the same 
+triadic relation to the same object for some interpretant” (CP 1.541). The medieval trivium refers to grammar, 
+dialectic, and rhetoric. Peirce reformed the trivium into three branches of semiotics: the first branch is speculative 
+Grammar (also known as pure grammar), which st udies the form, function and classification of all symbols;  the 
+second branch is the critical logic, which studies the relationship between signs and their objects and the validity 
+and conditions of objects being conformity to signs; The third branch is pure rhetoric, which studies the conditions 
+for signs producing interpretants and the methods to obtain truth. This method is mainly called pragmatic maxim, 
+i.e., the meaning of signs can be interpreted as the interpreter’s response ---interpretant according to the actual 
+effects. In words, the three branches of Morris’s Semiotics basically correspond to Peirce’s trichotomy of signs.  
+Morris’s trichotomy is indeed related to Peirce’s, who distinguished between speculative grammar, critical logic 
+(previously dialectic) and methodeutic (previously rhetoric) (cf. CP 1.191ff and CP 2.93). Syntactics and pure 
+grammar focus on the syntactical dimension of semiosis, semantics and critical logic focus on the semantical 
+dimension of semiosis, pragmatics and pure rhetoric focus on the pragmatical dimension of semiosis. In this sense, 
+semiotics consists of three subdisciplines: ‘speculative grammar’, which gives us a physiognomy of forms, a 
+classification of the function and form of all signs; ‘critic’, the study of the classification and validity of arguments 
+(divided into three parts: the logic of abduction, induction and deduction); and ‘methodeutic’, the study of methods 
+for attaining truth (Petrilli 2004, p.297). Pragmatism, which is based on the thesis that the meaning of a sign can 
+be explicated by considering its practical consequences as the response of an interpretant, is a methodeutic theory 
+in Peirce’s sense (cf. Petrilli 2004, p.297; Helmut Pape, Art.100, ‘Peirce and his followers’, in S/S, 2: 2020). 
+ 
+3. Morris’s inheritance and development of Pierce’s pragmatic theory: a semiotic perspective 
+ 
+Peirce’s obvious and direct influence on Morris is embodied in pragmatics. In terms of terminology, “Pragmatics” 
+is made by Morris with the reference to the word “pragmatism ” coined by Peirce, of which relationships shows 
+that Peirce’s pragmatism plays a special role in the foundation of Morris’s pragmatics. The importance of 
+pragmatism in Peirce’s pure rhetoric lies in that it attaches more importance to the relationship between signs and 
+their users than ever before, and pays more attention to the relevance of this relationship in understanding 
+intellectual activities. Morris believes that Peirce’s works have made no less contribution to semiotics, specifically 
+to pragmatics, and his pragmatic theory paves the way for the development of modern pragmatics. According to 
+Peirce, the interpretant of a sign must lie in a habit, not only in the direct psychological reaction or the image or 
+emotion accompanying the psychological reaction caused by the sign. Interpretant is the influence of signs on the 
+interpreter. Habit is the tendency to act in a similar way under similar circumstances in the future. It is the tendency 
+to respond to a given stimulus in a specific way. Habit will af fect the actual action. Morris extracted some 
+properties from pragmatism and integrated them into his pragmatics: The interpreter of a sign is an organism; the 
+interpretant is the habit of the organism to respond, because of the sign vehicle, to absent objects which are relevant 
+to a present problematic situation as if they were present (Morris 1971, p.45). Therefore, Morris defines pragmatics 
+as the science of the relationship between the sign and the interpreter. Peirce has ever expounded on the 
+relationship between men and signs, interpreters and interpretants in the article “Some Consequences of Four 
+Incapacities” (1868). Peirce explicates that in man’s consciousness, every element has its counterpart in words. “It 
+is that the word or sign which man uses  is the man himself. For, as the fact that every thought is a sign, taken in 
+conjunction with the fact that life is a train of thought, proves that man is a sign, […] thus my language is the sum 
+total of myself; for the man is the thought” (CP 5.314). From  Peirce’s point of view, there is no substantial 
+distinction between a man and a word. Both men and words are signs. Our concept of a symbol cannot surpass the 
+effect of signs on us. Every effect on the interpreter, i.e., the interpretant is a sign. The in terpreter is a sign, and 
+the interpretant is a sign as well, so men are in the open chain of signs. Therefore, Peirce’s semiosis becomes the 
+pivot of Morris’s pragmatics. In Peirce’s view, interpretant is the influence of sign on interpreter. In order to 
+understand the meaning of a sign, we have to discern the behavior habits caused by signs. Peirce’s emphasis on 
+behavior is highly praised by Morris, who believes that only human behavior can provide a clear empirical criterion 
+for defining signs (Morris 1971, p.339). 
+ 
+Morris explores pragmatic rules from the perspective of behavioral habits, i.e., the expected habits of the interpreter 
+while employing signs under certain circumstances. Pragmatic rules include formative rules and transformative 
+
+Asian Institute of Research            Education Quarterly Reviews Vol.5, No.2, 2022 
+	
+	
+	
+	
+219 
+ 
+ 
+rules, which corresponds to the actual combination and transformation of signs employed by the interpreter or the 
+regulations made by the interpreter for the application of signs. These rules are the same as other behavior rules 
+that the interpreters attempt to consciously control. From the perspective of pragmatics, language structure is a set 
+of behavioristic systems (Morris 1971, p.45). Pragmatic rules indicate the conditions under which the interpreter 
+interprets a sign vehicle as a sign. Any rule in practical application works as a type of behavior. In other words, 
+pragmatic factors are existed in both syntactic and semantic rules. Even if it is impossible to express it in terms of 
+syntactical rules or semantical planning, we can also find a standpoint of pragmatic rules, such a s the employ of 
+interjections and some rhetorical devices. Morris proposes the term “pragmatic rule” to further expound the signs, 
+sign vehicles, interpreters from the perspective of pragmatics, defining “pragmatical rules as the statement of the 
+conditions in the interpreters under which the sign vehicle is a sign. Any rule when actually in use operates as a 
+type of behavior, and in this sense, there is a pragmatical component in all rules” (Morris 1971, p.48). In Morris’s 
+view, behavior affects the interpreter’s habit of using the sign vehicle in specific context. Conversely, when the 
+interpreter uses signs, it also produces the expectations in the pragmatic dimension. Morris explores pragmatic 
+rules from behavioral habits, i.e., the expected habits of the  interpreter while employing signs under certain 
+context. In terms of pragmatics, a linguistic sign is used in combination with other signs by the members of a 
+social group; a language is a social system of signs mediating the responses of members of a com munity to one 
+another and to their environment (Morris 1971, p.48). Thereby, a linguistic structure is a behavioral system. In the 
+process of sign combination, designative signs direct the interpreter’s attention to some parts of the environment, 
+while des criptive signs limit the expected response. When both designative and descriptive functions are 
+performed, the interpreter needs to make judgment, but the sign combination itself is a kind of judgment as well, 
+which is equivalent to sentences in syntax and  propositions in semantics. Actually, “to understand a language is 
+to employ only those sign combinations and transformations not prohibited by the usages of the social group in 
+question, to denote objects and situations as do the members of this group, to  have the expectations which the 
+others have when certain sign vehicles are employed, and to express one’s own states as others do - in short, to 
+understand a language or to use it correctly is to follow the rules of usage (syntactical, semantical, and pragmatical) 
+current in the given social community” (Morris 1971, p. 48). To a certain extent, when the interpreter’s expectation 
+is consistent with the reality, the sign is confirmed, but only part of the sign can be confirmed generally. From the 
+behavioral point of view, when the sign correctly reflects the expected reaction of the sign user, the sign is 
+“genuine”. Morris’s Semiotics, especially pragmatics, mainly originates from Peirce’s pragmatism. Grounded on 
+Peirce’s sign theory, Morris inherits and develops Peirce’s Semiotics. 
+ 
+4. Morris’s development of Inquiry in Pragmatics 
+ 
+Pragmatic thought in Peirce’s pragmatism is represented in his trichotomy sign theory grounded on pragmaticism, 
+but this pragmatic thought has not been formed in a systematic way, is presented in fragments. It turns out to be 
+the initial proposal of the term “Pragmatics” in Morris’s groundbreaking essay “Foundations of Signs of Theory” 
+that stands for the establishment and formation of Pragmatics. With the further various specific explication of the 
+meanings and functions of signs in Morris’s behavioral semiotics, pragmatics, as one of the three dimensions in 
+semiosis, has been developed, so as to lay the foundations of the modern pragmatics developed in the post-semiotic 
+period. 
+ 
+As one of the important theories in Morris’s semiotics, inquiry theory is closely related to the development of 
+Pragmatics in the semiotic dimension. Pragmatics determines the relationship between the interpreter and the sign, 
+and focuses on the employment o f the sign. So how is the meaning of the symbol determined and transmitted 
+among the members of the community to reach consensus? Morris answers this question according to Peirce’s 
+Inquiry theory. Inquiry is interpreted by Morris as a process of reflection  involving signs and problem solving 
+oriented (Morris 1964, p.26). Peirce described the task of pure rhetoric as a process of inquiry, i.e., […] “the study 
+of those general conditions under which a problem presents itself for solution and those under which one question 
+leads to another” (CP 3.430). In other words, inquiry is a psychological activity or struggle to determine the 
+meaning of a sign or proposition so as to make people enter a state of belief. Peirce holds that if a group of inquirers 
+has enough time to inquire something, their opinions will eventually be converged and fixed in a common stable 
+belief which is the “true conclusion” of an issue or a sign. In Peirce’s view, inquiry is directional from individual 
+to community, which is a public process. The limitations of individual inquirers in environment, power, preference, 
+
+Asian Institute of Research            Education Quarterly Reviews Vol.5, No.2, 2022 
+	
+	
+	
+	
+220 
+ 
+ 
+etc. are the sources of mistakes, which are filtered out in the process of public inquiry. People will arrive at the 
+final opinion agreed by all inquirers to overcoming their one-sidedness and establishing the common knowledge. 
+In principle, the meaning of all things could be available to people. In regarding to the proposition that the truth is 
+given to birth from people’s final agreement, the meaning of a sign is determined dep ending on the consensus 
+among subjects from the perspective of inquiry theory, i.e., the habitat of knowledge is not individuals, but 
+communities. 
+ 
+Morris inherits Peirce’s inquiry method in his semiotic theory, and distinguishes problem from non - problem in 
+his inquiry theory as well. Every problem to be analyzed appears in a context, such characteristics of this context 
+as object, meaning and belief, are non -problems as such, which are taken for granted as the starting point or 
+preconditions to solve the problem. However, Morris holds a dynamic and dialectical view on the relationship 
+between the problematic and the unproblematic, i.e., What is problematic in one context may become 
+unproblematic in another context and vice versa. The object or sign being the problematic is the object of inquiry 
+or research, while the object or sign being the unproblematic becomes the instrument of inquiry. The theory of 
+inquiry is specifically applied to the analysis of scientific terms (including Semiotic nomenclatures) by Morris. He 
+believes that the inquiry of signs is completed by signs that are not necessarily analyzed in this process of inquiry. 
+Corresponding to the problematic and the unproblematic, Morris divides the sign into an inquiry into two classes: 
+the analyzed sign and the unanalyzed sign. The unanalyzed signs of a given inquiry may be those of an established 
+science or they may be terms of the everyday language in which the inquiry is being carried on (Morris 1971, 
+p.435). The question of the adequacy of the unanalyzed terms depends on the purpose for which they are used. In 
+science, for example, the fixation of unanalyzed terms should be widely recognized by partners, while the analyzed 
+terms should be either completely or partially analyzed according to the necessary conditions of their application 
+(Morris 1971, pp. 435-436). In reality, inquiry in science is only one kind of inquiry. Morris divides inquiry into 
+three types according to the three dimensions of semiosis. Inquiry about what has happened, is happening or will 
+happen and the result of the designative statement are called designative inquiry; the inquiry about what should be 
+done ends with prescriptive discourse, which could be called prescriptive inquiry; the inquiry about what to prefer 
+ends with appraisive discourse, which could be called appraisive inquiry. Peirce mainly discussed the first kind of 
+inquiry, focusing on the field of natural science, while the latter two kinds of inquiries are common in the field of 
+Humanities and social sciences. In the process of inquiry, the inquiry of the problematic always depends on the 
+unprobematic which become the premise or standard of inquiry. When the result of an inquiry is acknowledged 
+by the community, it is transformed into a non-problem. 
+ 
+5. Morris’s behavioral pragmatics as the development of Peirce’s pragmatist semiotics 
+ 
+It may be drawn a conclusion from the above that, in terms of the basic framework and principles of semiotics, 
+Morris inherits and develops Peirce’s Semiotics. From some specific points of view, the former is a loyal follower 
+of the latter. Morris claims that his book Signs, Language, and Behavior (1946) is “an attempt to carry out 
+resolutely the insight of Charles Peirce that a sign gives rise to an interpretant and that an interpretant is in the last 
+analysis ‘a modification of a person’s tendencies toward action’” (Morris 1971, p.444).  Peirce’s exemplary role 
+for Morris could be explored in the respect of borrowing the semiotic academic terminologies, such as “semiotics”, 
+“semiosis”, “sign”, “interpretant”, “interpreter”, “representamen”, etc., The employment of these semiotic 
+academic terminologies without the inquiry shows that Morris regards these terms as the unanalyzed ones, i.e., the 
+non-questions in semiotic research, which is the axiom for the further semiotic research.  In other words, in the 
+field of semiotics represented by these terms, Morris directly inherits Peirce’s viewpoints. In terms of semiotic 
+methodology, both Morris and Peirce are good at creatin g semiotic academic terms, such as Peirce’s 
+“representamen”, “interpretant”, etc., and Morris’s “significatum”, “discriminatum”, “locatum”, “valuatum”, and 
+“obligatum”, etc. These neologisms respectively show their innovative ideas in the field of semiotic s. From the 
+perspective of semiotics ontology, Morris, like Peirce, attempts to establish an all -inclusive and comprehensive 
+semiotics. Peirce points that the sign is full of the whole universe, such as a book, a building, a man, etc. Even the 
+whole universe is in signs, which is the sign of a creator. Thought, as a medium to connect the sign vehicle and its 
+object in the semiosis, is expressed as interpretant in the sign process. Thought is not necessarily connected with 
+a brain. It appears in the work of bees, of crystals, and throughout the purely physical world (CP 4.551). Hereby, 
+Peirce’s semiosis is not confined to human beings. He does not make a strict distinction of sign processes between 
+
+Asian Institute of Research            Education Quarterly Reviews Vol.5, No.2, 2022 
+	
+	
+	
+	
+221 
+ 
+ 
+humans and non-human animals. Peirce’s practice lay the foundations for Morris to bring animal sign process into 
+the category of Semiotics in the future. In book of Sign, Language and Behavior, Morris often employs two typical 
+examples to interpret sign behavior:  one is that the sound of the buzzer is a sign designa ting food for dogs; the 
+other one is the words of the informant to driver are signs designating the conditions of road ahead. Morris applies 
+the word “organism” to summarize animal interpreter and human. Morris tries to establish an all-round semiotics 
+based on human beings. He studies not only rational behavior signs, but also irrational and even anti -rational 
+behavior signs. He studies both Western Christian culture and pagan culture, as well as Eastern Buddhist culture, 
+and put all kinds of signs into the scope of semiotics, such as mystical semiotics, pathological semiotics, semiotics 
+of social alienation, semiotics of mental illness, etc. In the article “Man -Cosmos Symbols”, Morris draws a 
+conclusion that organic process and non -organic process, science  and art, man and the world are completely 
+interlinked and integrated, i.e., Man is once more in the world and the world is in man. Similar processes and 
+similar structures are within and without (Morris 1971, p.464).  Although Morris was in accord with Pei rce’s 
+description of semiosis as the ‘action of a sign’ (CP 5.473), he limited his concept of action to behavior directed 
+toward a goal. This approach implies the presence of a subject, an organism, its goal-oriented behavior and a goalobject, that is, a ‘final object’ outside semiosis. 
+ 
+In the aspect of the expression of sign modes, Morris thinks that he is basically faithful to that of Peirce, but has 
+made some minor and subtle improvements. Peirce’s trichotomic signs include “representamen, or sign”, “object”, 
+and “interpretant”. In the book of Signs, Language, and Behavior and the essay “Foundations of Theory of Signs”, 
+Morris points out “the three components in semiosis, which may be called, respectively, the sign vehicle, the 
+designatum, or significatum, and the interpretant; the interpreter may be included as a fourth factor” (Morris 1938, 
+p.3). Again, in the book of Signification and Significance, Morris adds the fifth factor, context, but not discuss in 
+detail. Although Peirce’s semiotic model does not include the interpreter and context both of which are regarded 
+as the premises of the unanalyzed term in the process of interpreting signs, Peirce comments that “A sign, or 
+representamen, is something which stands to somebody for something in some resp ect or capacity. It addresses 
+somebody, that is, creates in the mind of that person an equivalent sign, or perhaps a more developed sign. That 
+sign which it creates I call the interpretant of the first sign. The sign stands for something, its object” (CP 2.228). 
+With the reference to Peirce’s definition of signs here, “somebody” is equivalent to the interpreter, while “some 
+respect” is related to context.  Therefore, there is no substantial difference of sign models between Morris and 
+Peirce. However, the terms of the two semioticians are not completely corresponding, but exists subtle differences 
+with the example that Peirce’s interpretant sometimes corresponds to Morris’s interpretant, or significatum in other 
+time. For Morris, the interpretant refers to the interpreter’s responsive tendency to a sign, while the significatum 
+refers to the interpreter’s response to the relevant conditions of the sign, both of which express the effects of the 
+sign on the interpreter. Therefore, it is natural for Morris to intr oduce the “interpreter” into the sign models.  In 
+fact, Peirce has also addressed inquiries to the effect of signs on interpreters, i.e., the nature of interpretant.  He 
+assumes that the effects of signs on the interpreter are the change of habits, the chang e of a man’s behavior 
+tendency, while habit is defined by Peirce as the interpreter’s tendency to respond to a given stimulus in a specific 
+way (CP 5.484 -5.487). From the perspective of their sign models, specifically the relationship between the 
+interpretant and the interpreter, both talk of effects of signs on interpreters, both describe interpretants in terms of 
+such effects, both regard the interpretant as an effect on an interpreter such that the interpreter tends to act in a 
+certain way under given circumstances when actuated by a given need (Morris 1971, p. 446). In Peirce and 
+Morris’s view, the nature of interpretant is, in a sense, the effects of signs (MS 318:14-5,1907).  
+ 
+In addition, Peirce’s view that the semiosis is a mediating process also influences Morris. Peirce interprets the 
+mediating process of signs by virtue of the three categories of phenomenology. In phenomenology, there are three 
+modes of being. Firstness is the mode of being of that which is such as it is, positively and without reference to 
+anything else. Secondness is the mode of being of that which is such as it is, with respect to a second but regardless 
+of any third. Thirdness is the mode of being of that which is such as it is, in bringing a second and third into relation 
+to each other (CP 8.328). Peirce believes that in the triadic relationships of signs, the relationship between 
+representamen and the objects is the first and the second, and the connect ion between them is inseparable from 
+interpretants being as the third which plays a role of mediator between the representamen and the objects. Peirce 
+connects the signing process with the mediating process involved the being as the third, while the interpretant for 
+
+Asian Institute of Research            Education Quarterly Reviews Vol.5, No.2, 2022 
+	
+	
+	
+	
+222 
+ 
+ 
+Peirce is the process of mental effect, thereby, Peirce basically equates the sign process with the mental process, 
+which Peirce himself attempts to avoid psychology as well in his semiotics after 1898. 
+ 
+Morris doesn’t fully agree with Peirce’s viewpoints of mediating process in semiotics. He advises “to delimit in 
+some way sign-processes within the general class of processes involving mediation”, as “there seem to be many 
+processes involving mediation other than conditioning which would not ordinarily be regarded as signs; the eye, 
+for example, in seeing is a genuine mediating element in the relation of certain responses to certain objects, and 
+yet the eye (or even the retinal image) would hardly be called a sign in such cases” (Morris 1971, p.338). 
+ 
+In terms of the meaning of signs, Morris also inherits and develops Peirce’s viewpoints of signs. Peirce proposes 
+that every sign has two objects: immediate object and dynamic object. The former is the object represented by the 
+sign, for example, the direct object of the rainbow is the seven-color ribbon available to people, while the latter is 
+the object that really functions but does not appear directly, i.e., the dynamic object of the rainbow is the refraction 
+of sunlight through water drops after r ain. Correspondingly, each sign has an immediate interpretant, i.e., its 
+meaning, represented or signified in the sign, and a dynamic interpretant, i.e., the actual effect of the sign in the 
+mind of the interpreter. In addition, a sign will get an acknowledged final interpretant after the full inquiry. Peirce 
+seldom employs the word “meaning”, Morris also uses the word “meaning” cautiously, which expresses the 
+complexity and diversity of meaning. For Morris, meaning includes the following contents: (1) denotatum, what 
+signs represent (Morris 1971, p.361); (2) designatum, the properties of the object or context that a sign refers to 
+(Morris 1971, p.361); (3) interpretant, the behavioral responsive tendency or mental effects of signs on the 
+interpreter (Morris 1971, p.363); (4) significatum, the conditions of being the object of a specific sign, according 
+to the means of signifying, it can be subdivided into five subclasses: discriminatum, locatum, valuatum, obligatum, 
+formatum (Morris 1971, p.366). 
+ 
+Peirce’s influence on Morris’s semiotics is shown in many aspects, but it cannot cover up Morris’s expansion and 
+revision of the semiotic viewpoints of Peirce. For example, Peirce’s definition of interpretant is limited in a 
+cognition of a mind to some extent, which Morris thinks it difficult in defining a sign in terms of mind or thought. 
+Without the ground of behavior situations in attempting to define “sign”, Morris argues that Peirce’s definition of 
+signs from the perspective of psychology cannot furnish an empirical criterion for determining whether a certain 
+thing is or is not a sign until a satisfactory criterion for the occurrence of mind of thought could be available 
+(Morris 1971, p.339). Therefore, Morris would rather choose Peirce’s emphasis on behavior and behavior habits 
+as the starting point of semiotics research. In addition, Peirce always defines ‘signs’ in such a way that the 
+interpretant of a sign is itself a sign, and so ad infinitum (Morris 1971, p.339). With the regard to Peirce theory of 
+unlimited semiosis (“semiosis ad infinitum”), Morris agrees that signs are usually grown into new signs and 
+produce a series of sign processes, i.e., a sign is just a link in the endless chain of signs, but he opposes to bring 
+this fact of unlimited semiosis into t he scientific definition of signs, which may trigger the suspicion of circular 
+argument in defining a sign. In conclusion, Peirce’s pragmatic semiotics is an important source of Maurice’s 
+behavioral semiotics. The former has a great influence on the latter, in which the revision of Peirce’s view cannot 
+erase Peirce’s influence on him. Conversely, Morris’s semiotic theory is a development of Peirce’s sign theory, 
+specifically, as one of the branches of Morris’s semiotic, pragmatics is not only formed with it s ontology and 
+methodology, it is also developed grounded on Peirce’s pragmatism or pragmaticism. Pragmatics is actually a 
+discipline pertaining the effects of sign on interpreter, which is closely related to Peirce’s pragmaticism, and 
+formed and developed in Morris’s behavioral semiotics. 
+ 
+6. The three semiotic dimensions of Morris’s developed pragmatics 
+ 
+This paper argues that Morris’s proposal of pragmatics as the development of pragmatic thought of Peirce has at 
+least three distinctive properties of semiotic.   
+(1) Pragmatics as science and scientific tool. Morris (1938, p.2) pointed out that “Semiotics has a double relation 
+to the sciences: it is both a science among the sciences and an instrument of the sciences. The significance of 
+semiotic as a science lies in the fact it is a step in the unification of science, since it supplies the foundations for 
+any special science of signs”. Every science must use signs and the means of signs to express its research results. 
+Therefore, semiotics must provide rele vant signs and principles needed for research. Semiotics must use meta -
+
+Asian Institute of Research            Education Quarterly Reviews Vol.5, No.2, 2022 
+	
+	
+	
+	
+223 
+ 
+ 
+signs of indices. He regards all the terms in generalized semiotics as “Semiotics”, including “pragmatism” (Morris 
+1938, p.8), and such terms as ‘interpreter’ ‘interpretant’ ‘convention’ (when applied to signs), ‘taking-account-of’ 
+(when a function of signs), ‘verification’, and ‘understands’ are terms of pragmatics, while many semiotic terms 
+such as ‘sign’ ‘language’ ‘truth’ and ‘knowledge’ have important pragmatical components (Morris 1938, p.33). In 
+Pragmatic terminology, many are new words or new meanings of old words, such as speech act, performative, 
+perlocutionary action, conversational implicature, cooperative principle, etc. Pragmatics itself is also a pragmatic 
+term, which cannot be defined separately without semantics and syntax. Morris distinguished pure semiotics from 
+descriptive Semiotics (Morris 1938, p.9), which is also the distinction between metasemiotics and semiotics. 
+ 
+(2) Pragmatics as meta -semiotics and meta -linguistics. Morris also pointed out that the science which takes 
+semiotics as an instrument to study science is meta science; Metapragmatics, which was proposed by Silverstein 
+(1976) in the field of linguistic anthropology, is a discipline that describes the pragm atic structure of language, 
+which is similar to the principle of meta semantics in describing semantic and grammatical structure. Mey (2001) 
+discusses metapragmatics based on the research of metapragmatics of Caffi (1994). He doesn’t recognize Morris’s 
+contribution to pragmatics, so he doesn't notice the inspiration of Morris’s metasemiotics to metapragmatics. 
+However, he proposed the importance of “metapragmatic thinking” (Mey 2001, p.178) on pragmatics itself and 
+its research objectives and methods, revealing an important semiotic dimension of pragmatics. Morris pointed out 
+that the language used to discuss scientific language is metalanguage (Morris 1938, p.9, p.22). He later emphasized 
+that semiotics could “provide meta language for Linguistics”, which could generate a science of linguistics 
+grounded on the Theory of Semiotics (Morris 1946, p.221). The fact that modern Logic and Linguistics distinguish 
+object language and metalanguage (Tarski1936/2002) divides linguistics into linguistics and metalinguisti cs. 
+What’s more, the application of “metalanguage” can be divided into metalingual and metalinguistic levels (Feng, 
+2005). Leech (1983) put forward “meta implicature” “metaproposition” and “meta maxim” on the basis of 
+pragmatic terms such as “meaning” “proposition” and “maxim”, which includes the quality of “metagrammar” in 
+the process of description, the problem of “metalanguage” of politeness, and the “metalinguistic strategy” used by 
+the speaker, all of which are applied in the exploration of meta theory. The theory of metalanguage and metatheory 
+is another semiotic dimension of contemporary pragmatics. 
+ 
+(3) Pragmatics as social semiotics. Social semiotics is an important branch of contemporary semiotics, which is 
+developed from Saussure’s Semiotics Theory. It studies the social dimension of human beings in the process of 
+designing and interpreting the meaning of signs. Social Pragmatics proposed by Leech (1983) is actually the 
+definition of another semiotic dimension of pragmatics under the influence of Halliday (1978)’s “language is social 
+sign”. Halliday has a further analysis of the “situational context” of language communication, and has noticed the 
+direct “pragmatic relationship” between discourse and environment. It is believed that pragmatic languag e is 
+language representing action, which has the social functions (Halliday 1978, pp.29 -32). Wierzbicka (1991) 
+challenged the classical pragmatic theory and called his pragmatic study “interpersonal interaction semantics”. 
+Semantics from the perspective of social semiotics, especially discourse and discourse semantics, is an important 
+part of contemporary pragmatics. Therefore, social semiotics is also an important semiotic dimension of 
+contemporary pragmatics. 
+ 
+Pragmatics is closely related to the qualities of Semiotics in many aspects. Eco defines that “Semiotics is concerned 
+with everything that can be taken as a sign” (Eco 1976, p.9) and Semiotics also focuses on anything meaningful 
+in the fields of Linguistics and Science of Language. Morris’s semiotics  is a summary of three philosophical 
+schools: pragmatism, empiricism and logical positivism. In 1934, he put forward three kinds of relations of signs 
+(with people, with objects, with other signs). It was only in 1938 that pragmatics, semantics and syntax were put 
+forward in the framework of sign theory. Saussure’s semiotics is the direct theoretical basis of modern linguistics, 
+but it did not have a wide influence in the English world until 1959. Although Saussure did not put forward 
+pragmatics, his semiotics has the nature of pragmatic semiotics, which is a method of discourse research that has 
+been developed traditionally by Barthes’ semiotics since the late 1960s (Sturrock 2003, p.41). The pragmatic scope 
+of classical pragmatics is much narrower than tha t of Morris Semiotics (Levinson 1983, p.2). Therefore, 
+Pragmatics is developed and prosperous in the connection with Semiotics, as one of the fastest growing fields in 
+“contemporary linguistics and philosophy of language” (Huang 2007, p.1), Pragmatics has become one of the most 
+
+Asian Institute of Research            Education Quarterly Reviews Vol.5, No.2, 2022 
+	
+	
+	
+	
+224 
+ 
+ 
+vigorous one in “contemporary linguistics and philosophy of language”, of which kernel of the fastest development 
+lies in its nature of semiotic dimension. 
+ 
+7. Conclusion 
+ 
+Morris was influenced by pragmatism such as Pierce and Mead in his early years, and then influenced by logical 
+positivism such as Carnap. In all his life, he tried to build a bridge between pragmatism and logical positivism and 
+advocated to combine the both to establish a kind of “scientific empiricism” which consists of semiotics and 
+axiology, whose thoughts have played an important role in the development and integration of English American 
+pragmatics and Continental pragmatics.  Morris directly inherited and applied the early American pragmatism, 
+especially the behaviorism caused by pragmatism and Peirce’s Semiotics, according to which Morris founded the 
+behaviorist pragmatics theory.  Morris first put forward three dimensions of semiotics, namely syntactics, 
+semantics and pragmatics which is generally accepted  by semioticians and linguists. Later, Morris redefined 
+Pragmatics: pragmatics is a part of semiotics, which studies the origin, application of signs and the effects of signs 
+in action. Morris clearly expounds that “pragmatics” is coined from the word “pra gmatism”, which emphasizes 
+the relationship between signs and the interpreters of signs, and solves the biological aspects of semiotics, i.e., 
+dealing with psychological, biological and social phenomena existing in the effects of signs; From the perspective 
+of pragmatics, language structure is a kind of behavioral system. What Morris proposed is actually a kind of 
+behaviorist pragmatics, which not only lays great influence on philosophy of language, but also gives birth to 
+pragmatics. His behaviorist pragma tics summarizes the pragmatic thinking since the beginning of pragmatism, 
+which makes the pragmatic thoughts in American philosophy widely spread. It is in this context that pragmatics, 
+as a new discipline, has been established and developed prosperously. 
+ 
+ 
+References 
+ 
+Arif, Hakim. 2013. A brief sketch on the origin and development of pragmatics. Philosophy and Progress. Vols. 
+LIII-LIV, January-June, July-December, pp.25-42. [DOI: http://dx.doi.org/10.3329/pp.v53i1-2.21946]. 
+Caffi, Claudia. 1994. Metapragmatics. In Ronald. E. Asher & J. M. Y. Simpson (eds.). Encyclopedia of Language 
+and Linguistics. Oxford: Pergamon, pp. 2461-2465. 
+Carnap, Rudolf. 1942. Introduction to Semantics. Cambridge, Mass: Harvard University Press. 
+Eco, Umberto. 1976. A theory of Semiotics. Bloomington, IN.: Indiana University Press. 
+Feng, Zongxin. 2005. On linguistic metalanguage and metalinguistic studies. Foreign Language Teaching and 
+Research 6, pp. 403-410.   
+Halliday, Michael. 1978. Language as social semiotic. London: Edward Arnold. 
+Huang, Yan. 2007. Pragmatics. Oxford: OUP. 
+Leech, Geoffrey. 1983. Principles of Pragmatics. London: Longman. 
+Levinson, Stephen C. 1983. Pragmatics. Cambridge: CUP. 
+Mey, Jacob. L. 2001. Pragmatics: An Introduction (2nd eds.). Oxford: Blackwell． 
+Morris, Charles. 1949 [1938]. Foundations of the theory of signs. In Otto Neurath, Rudolf Carnap & Charles W. 
+Morris (eds.), International Encyclopedia of unified science , vol. I –II, pp.1 –59. Chicago: University of 
+Chicago Press. 
+Morris, Charles. 1946. Sign, language and behavior. New York: Prentice-Hall. 
+Morris, Charles W. 1964. Signification and significance: A study of the relations of signs and values. The Hague: 
+Mouton, p.26. 
+Morris, Charles. 1971. Writings on the General Theory of Signs. The Hague: Mouton.  
+Locke, John. 1999[1690]. An Essay Concerning Human Understanding . Pennsylvania: The Pennsylvania State 
+University. 
+Peirce, Charles S. 1931 –1958. In Charles Hartshorne & Paul Weiss, Arthur W. Burks (eds.),  Collected papers, 
+vol. 1–8, vol. 7–8. Cambridge, MA: Harvard University Press (quoted as CP). 
+Peirce, Charles S. 1868. Some consequences of four incapacities. The Journal of Speculative Philosophy, Vol. 2, 
+No. 3, pp.140-157. 
+Peirce, Charles S. 1907. Pragmatism. MS 318 :14-5. Quote in M. Bergman & S. Paavola (Eds.),  The Commens 
+Dictionary: Peirce’s Terms in His Own Words. New Edition. (Quoted as MS).  
+[http://www.commens.org/dictionary/term/interpretant]. 
+Petrilli, Susan. 2004. From pragmatic philosophy to behavioral semiotics: Charles W. Morris after Charles S. 
+Peirce. Semiotica. 2004 (148), pp. 277-315. [DOI: http://10.1515/semi.2004.011]. 
+
+Asian Institute of Research            Education Quarterly Reviews Vol.5, No.2, 2022 
+	
+	
+	
+	
+225 
+ 
+ 
+Recanati, François. 2004. Pragmatics and semantics. In: L.R. Horn, G.Ward(eds.), The handbook of pragmatics. 
+Black-well Publishing, Oxford, pp.442-462. 
+Rochberg-Halton, Eugene & McMurtrey, Kevin. 1983. The foundations of modern Semiotic: Charles Peirce and 
+Charles Morris.  American Journal of Semiotics,  Vol. 2, Nos . 1-2 (1983), pp.129- 156. 
+[https://philarchive.org/archive/ROCTFO-2]. 
+Saussure, Ferdinand. 1959[1916]. Course in General Linguistics. New York: Philosophical Library. 
+Silverstein, Michael.1976. Shifers, linguistic categories, and cultural description. In K. Basso & H. Se lby (eds.). 
+Meaning in Anthropology. Albuquerque N. M.: University of New Mexico Press, pp.11-55. 
+Sturrock, John. 2003. Structuralism (2nd eds.). Oxford: Blackwell. 
+Tarski, Alfred.1936/2002. On the concept of following logically, trans. M. Stroinska & D. Hitchcock, History and 
+Philosophy of Logic 23, pp.155-196. 
+Wierzbicka, Anna. 1991. Cross-cultural pragmatics: The semantics of human interaction . Berlin: Mouton de 
+Gruyter. 
+ 
+ 

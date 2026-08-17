@@ -164,12 +164,15 @@ something the codebase itself cites.
 - “it structurally *requires* `pattern.moved === true`” → `eoreader6/CUBE.md#b5353-5403`
 - “Structure-tier relations (Figure cell on the operator grid).” → `eoreader6/SEED.md#b33976-34034`
 
+**Attested by secondary witnesses** — the primary is not obtained (see the manifest's `unobtained` list), so the anchor names the bytes of an independent source that quotes the passage. A witness says what the witness quotes, never what the primary's own edition reads:
+
+- “A sign, or representamen, is something which stands…” → `attest-morris-eric#b9814-10044` *(witness for `morris-1938-foundations-theory-of-signs`)*
+
 Not located because a source this chapter names is **not yet obtained** (`eoreader4.2/docs/eo-for-coders.md` — see the manifest's `unobtained` list for each one's reason):
 
 - “does this exist at all.”
 - “never let it go stale”
 - “synthesize a ward from beds”
-- “A sign, or representamen, is something which stands…”
 - “refers to the Object that it denotes merely…”
 - “by virtue of being really affected by that…”
 - “why nine, and not some other number”
