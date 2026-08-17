@@ -135,6 +135,25 @@ Complexity (Commons)" — a related but separate generation's own notes,
 which name the convergence themselves rather than this book asserting it
 from outside.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+- “`GRAINS` is the triad from `SEED.md`. It is…” → `eoreader6/CUBE.md#b943-1054`
+- “The binding organ ... reads an entity register…” → `eoreader6/SEED.md#b33689-33785`
+
+Not located because a source this chapter names is **not yet obtained** (`eoreader4.2/docs/eo-wiki.md` — see the manifest's `unobtained` list for each one's reason):
+
+- “ground before figure before pattern”
+- “you cannot use something before it's been established”
+- “a higher order only means something once a…”
+- “this level of structure has to be built…”
+- “Model of Hierarchical Complexity (Commons)”
+
+<!-- anchors:end -->
+
 <!-- nav:start -->
 [← 2.1 — Nine Verbs](201-nine-verbs.md) · [Contents](000-index.md) · [2.3 — Nine Kinds of "Where" →](203-nine-kinds-of-where.md)
 <!-- nav:end -->

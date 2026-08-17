@@ -100,9 +100,24 @@ shortly," cashed in.
 
 **Where this comes from:** the stance grid (`stance = (mode, grain)`) and
 its nine names are defined in `eoreader6/CUBE.md`, lines 45-47, including
-the rule that "a stance is not a mood and cannot be chosen" (line 50). The
+the rule that "A stance is not a mood and cannot be chosen" (line 50). The
 Aristotle connection above is this book's own added link to the history of
 philosophy, not something the codebase itself cites.
+
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+- “A stance is not a mood and cannot…” → `eoreader6/CUBE.md#b1977-2020`
+
+Quoted spans **not located in any obtained source** and not explained by a known gap — each is either the book's own illustrative speech, or a passage that reads as verbatim and is not, which is itself a finding to resolve:
+
+- “a stance is not a mood, and it…”
+- “you'll meet this again shortly,”
+
+<!-- anchors:end -->
 
 <!-- nav:start -->
 [← 2.3 — Nine Kinds of "Where"](203-nine-kinds-of-where.md) · [Contents](000-index.md) · [2.5 — Why All Three Have to Agree →](205-why-all-three-have-to-agree.md)

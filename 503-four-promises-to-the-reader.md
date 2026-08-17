@@ -121,6 +121,25 @@ audit is local (L2, lines 181 and 215-224, 237-241), no silent truncation
 this book's own added link to interface-design history, not something the
 codebase itself cites.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+
+Not located because a source this chapter names is **not yet obtained** (`eoWebLLM/LAWS.md` — see the manifest's `unobtained` list for each one's reason):
+
+- “Between a trigger and its first visible consequence…”
+- “Anything the reader can doubt, they can inspect…”
+- “Reading a quote's bytes or its surrounding text…”
+- “Where output is cut, the cut is reported.”
+- “exactly how the corpus reports a phrase a…”
+- “The cap is gone. Documents are admitted whole.”
+- “so a truncated list cannot be mistaken for…”
+
+<!-- anchors:end -->
+
 <!-- nav:start -->
 [← 5.2 — Instructions All the Way Down](502-instructions-all-the-way-down.md) · [Contents](000-index.md) · [5.4 — A Citation You Can Actually Check →](504-a-citation-you-can-actually-check.md)
 <!-- nav:end -->

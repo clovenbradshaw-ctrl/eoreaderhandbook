@@ -102,6 +102,21 @@ architecture connections above are this book's own added links to
 operating-systems and software-architecture history, not something the
 codebase itself cites.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+
+Not located because a source this chapter names is **not yet obtained** (`eo-constitution/CONSTITUTION.md`, `eoWebLLM/LAWS.md` — see the manifest's `unobtained` list for each one's reason):
+
+- “Deleting an application must change no engine reading”
+- “Not the constitution. `../eo-constitution/` decides *what goes where*…”
+- “Deleting an application must change no engine reading.”
+
+<!-- anchors:end -->
+
 <!-- nav:start -->
 [← 4.4 — One Amendment, Start to Finish](404-one-amendment-start-to-finish.md) · [Contents](000-index.md) · [5.2 — Instructions All the Way Down →](502-instructions-all-the-way-down.md)
 <!-- nav:end -->

@@ -151,6 +151,23 @@ comparison above it is this book's own added link to that field,
 contrasting a shared word with a different underlying test — not
 something the codebase itself cites.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+- “Benford's Law (Newcomb 1881 / Benford 1938) —…” → `eoreader6/goldens/surprise/README.md#b4666-4752`
+- “The first ground is received, never derived... Deriving…” → `eoreader6/SEED.md#b3101-3144`, `eoreader6/SEED.md#b3194-3243`
+- “A prior is relevant exactly insofar as it…” → `eoreader6/SEED.md#b15233-15317`
+- “Relevance is not a property of a prior.…” → `eoreader6/SEED.md#b15576-15647`, `eoreader6/SEED.md#b15650-15692` *(+1 segment(s) not located)*
+
+Quoted spans **not located in any obtained source** and not explained by a known gap — each is either the book's own illustrative speech, or a passage that reads as verbatim and is not, which is itself a finding to resolve:
+
+- “does this look like the right kind of…”
+
+<!-- anchors:end -->
+
 <!-- nav:start -->
 [← 3.1 — A Reading, From the Inside](301-a-reading-from-the-inside.md) · [Contents](000-index.md) · [3.3 — A Guided Tour of the Organs →](303-a-guided-tour-of-the-organs.md)
 <!-- nav:end -->

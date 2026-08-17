@@ -105,6 +105,20 @@ examples decided in §5 (Example A: `eochat/essay.md`; Example B: the
 domain-invariant triad from the `writing-code-in-eo` reference) and the two
 deaths named in `eoreader6/SEED.md`, "The entelechy."
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+
+Not located because a source this chapter names is **not yet obtained** (`eochat/essay.md` — see the manifest's `unobtained` list for each one's reason):
+
+- “What does Victor Frankenstein feel toward the creature…”
+- “to guard against the two deaths,”
+
+<!-- anchors:end -->
+
 <!-- nav:start -->
 ← *(start of the book)* · [Contents](000-index.md) · [0.2 — A Ten-Minute Grammar and Meaning Primer →](002-grammar-and-meaning-primer.md)
 <!-- nav:end -->

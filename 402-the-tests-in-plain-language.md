@@ -146,6 +146,23 @@ App? → what remains is engine."* The Popper and test-driven-development
 connections above are this book's own added links to philosophy of science
 and software engineering, not something the codebase itself cites.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+
+Not located because a source this chapter names is **not yet obtained** (`eo-constitution/CONSTITUTION.md` — see the manifest's `unobtained` list for each one's reason):
+
+- “this actually revised what the reader now believes.”
+- “does this build a nothing or lean on…”
+- “Does this mechanism build a nothing, or weight…”
+- “Does this mechanism measure a property of the…”
+- “Ask in this order. Prior? → App? →…”
+
+<!-- anchors:end -->
+
 <!-- nav:start -->
 [← 4.1 — Four Boxes](401-four-boxes.md) · [Contents](000-index.md) · [4.3 — A Constitution That Edits Itself →](403-a-constitution-that-edits-itself.md)
 <!-- nav:end -->

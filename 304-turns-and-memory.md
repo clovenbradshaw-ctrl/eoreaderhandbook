@@ -100,11 +100,21 @@ partially earned: the turn holds a sequence" — *"`runTurn` now receives a
 `register`... and hands its own back, so the engine holds the sequence
 locally at the turn boundary... What is still not earned is the enforcement
 that a genuinely-first ground is *received* — the engine cannot know that
-the caller read nothing before... The register is one closing scalar plus a
-declared choice, never a rollup of the trail."* The HTTP-statelessness and
+the caller read nothing before... the register is one closing scalar plus a declared choice, never a rollup of the trail."* The HTTP-statelessness and
 working-memory connections above are this book's own added links to web
 architecture and cognitive psychology, not something the codebase itself
 cites.
+
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+- “Firstness, partially earned: the turn holds a sequence” → `eoreader6/SEED.md#b31582-31636`
+- “`runTurn` now receives a `register`... and hands its…” → `eoreader6/SEED.md#b31888-31921`, `eoreader6/SEED.md#b32025-32110`, `eoreader6/SEED.md#b32714-32864`, `eoreader6/SEED.md#b32935-33021`
+
+<!-- anchors:end -->
 
 <!-- nav:start -->
 [← 3.3 — A Guided Tour of the Organs](303-a-guided-tour-of-the-organs.md) · [Contents](000-index.md) · [3.5 — Refusal as an Answer →](305-refusal-as-an-answer.md)

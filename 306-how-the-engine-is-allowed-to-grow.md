@@ -166,6 +166,18 @@ the top of README.md. The negative-control and preregistration connections
 above are this book's own added links to the general practice of
 experimental science, not something the codebase itself cites.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+- “An organ joins only when the level test…” → `eoreader6/SEED.md#b6316-6388`
+- “the mouth is language-specific by construction, the organ…” → `eoreader6/scripts/experiments/README.md#b6685-6748`
+- “EXPERIMENTAL. Unwired. Not a golden, not a certified…” → `eoreader6/scripts/experiments/README.md#b27-85`
+
+<!-- anchors:end -->
+
 <!-- nav:start -->
 [← 3.5 — Refusal as an Answer](305-refusal-as-an-answer.md) · [Contents](000-index.md) · [4.1 — Four Boxes →](401-four-boxes.md)
 <!-- nav:end -->

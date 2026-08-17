@@ -243,6 +243,31 @@ specific chapter footer it summarizes and the source file named in that
 footer; see each chapter's own "Where this comes from" for the full
 citation this table's evidence column compresses.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+- “Attention Is All You Need” → `attention-2017#b174-199`
+- “Pattern is Bateson's: a difference that makes a…” → `eoreader6/SEED.md#b1046-1104`
+- “Confabulation — it speaks without witness” → `eoreader6/SEED.md#b2712-2757`
+- “Benford's Law (Newcomb 1881 / Benford 1938) —…” → `eoreader6/goldens/surprise/README.md#b4666-4735`
+- “And pre-registration. `reach` was predicted to spike at…” → `eoreader6/prior-art-teachable-language-comprehender.md#b22934-23015`, `eoreader6/prior-art-teachable-language-comprehender.md#b23099-23166`
+- “the mechanism this one is not” → `eoreader6/packages/engine/emergence/activation.js#b1884-1913`
+- “Prior art is cited from memory and has…” → `eoreader6/prior-art-teachable-language-comprehender.md#b27642-27712`
+- “The number this repo has been citing for…” → `eoreader6/prior-art-surprise-segmentation-and-memory.md#b4119-4184`
+
+Not located because a source this chapter names is **not yet obtained** (`eoreader4.2/docs/eo-wiki.md`, `eoreader4.2/docs/eo-for-coders.md`, `bateson-1972-steps-to-an-ecology-of-mind`, `bender-gebru-2021-stochastic-parrots`, `chow-1970-optimum-recognition-error`, `morris-1938-foundations-theory-of-signs` — see the manifest's `unobtained` list for each one's reason):
+
+- “the project itself said so.”
+- “Most Ontologies: 'It's all Entities'”
+- “EO and Codd's Null Problem,”
+- “not named in any source material,”
+- “a different statistic solving the same problem, not…”
+
+<!-- anchors:end -->
+
 <!-- nav:start -->
 [← 7.3 — A Worked Build, Start to Finish](703-a-worked-build-start-to-finish.md) · [Contents](000-index.md) · *(more chapters coming)* →
 <!-- nav:end -->

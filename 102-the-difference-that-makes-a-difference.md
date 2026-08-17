@@ -137,6 +137,28 @@ statement of where the project's use goes beyond Bateson's sentence — is
 this book's own, not something the codebase itself does; the codebase's
 only claim is SEED.md's attribution line quoted above.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+- “A Mathematical Theory of Communication” → `shannon-1948#b124-162`
+- “The fundamental problem of communication is that of…” → `shannon-1948#b775-957`, `shannon-1948#b1070-1151`
+- “a difference that made no difference is not…” → `eoreader6/SEED.md#b1858-1913`
+- “Pattern is Bateson's: a difference that makes a…” → `eoreader6/SEED.md#b1046-1104`, `eoreader6/SEED.md#b1231-1326`
+
+Not located because a source this chapter names is **not yet obtained** (`bateson-1972-steps-to-an-ecology-of-mind` — see the manifest's `unobtained` list for each one's reason):
+
+- “it changed what happens next”
+- “the same difference showed up again”
+- “we failed to detect it,”
+- “In fact, what we mean by information—the elementary…”
+- “A 'bit' of information is definable as a…”
+- “compare against something freshly rebuilt, not something fixed,”
+
+<!-- anchors:end -->
+
 <!-- nav:start -->
 [← 1.1 — Noticing](101-noticing.md) · [Contents](000-index.md) · [1.3 — Witness →](103-witness.md)
 <!-- nav:end -->

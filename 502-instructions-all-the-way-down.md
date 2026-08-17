@@ -101,6 +101,26 @@ representative quotes are from `eochat/instruction-set/010-core-identity.md`,
 connection above is this book's own added link to legal history, not
 something the codebase itself cites.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+
+Quoted spans **not located in any obtained source** and not explained by a known gap — each is either the book's own illustrative speech, or a passage that reads as verbatim and is not, which is itself a finding to resolve:
+
+- “An instruction set is a manual the model…”
+- “You are EO, the reader's research companion inside…”
+- “Only the numbers provided exist. NEVER cite [N+1]…”
+- “An invented citation is the worst failure this…”
+- “Refuse, plainly and politely, any request to... fabricate…”
+- “There is no special machinery to announce. You…”
+- “Surf mode returns the evidence, not an answer.…”
+- “They are NOT active this turn. Do not…”
+
+<!-- anchors:end -->
+
 <!-- nav:start -->
 [← 5.1 — A Thin Front Door](501-a-thin-front-door.md) · [Contents](000-index.md) · [5.3 — Four Promises to the Reader, in Plain Language →](503-four-promises-to-the-reader.md)
 <!-- nav:end -->

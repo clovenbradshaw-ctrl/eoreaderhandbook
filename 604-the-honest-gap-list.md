@@ -136,6 +136,21 @@ positions above are carried only in the essay's words, not their own —
 stated per this book's rule that attested-at-one-remove and
 verified-against-the-printing are different claims.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+- “Three theories, developed independently over twenty years, all…” → `eoreader6/prior-art-teachable-language-comprehender.md#b16480-16611`
+- “which eoreader6 committed to explicitly, in the conformance…” → `eoreader6/prior-art-teachable-language-comprehender.md#b15312-15518`
+- “I would call this the single highest-value unbuilt…” → `eoreader6/prior-art-teachable-language-comprehender.md#b17085-17230`
+- “Each event can be indexed on each of…” → `eoreader6/prior-art-teachable-language-comprehender.md#b17311-17379` *(+1 segment(s) not located)*
+- “eoreader6 tracks protagonist (referents, well), something adjacent to…” → `eoreader6/prior-art-teachable-language-comprehender.md#b17481-17692`
+- “The connections drawn between this literature and the…” → `eoreader6/prior-art-teachable-language-comprehender.md#b28927-29070`
+
+<!-- anchors:end -->
+
 <!-- nav:start -->
 [← 6.3 — What's Actually New Here](603-whats-actually-new-here.md) · [Contents](000-index.md) · [6.5 — Ancestors Named in the Code →](605-ancestors-named-in-the-code.md)
 <!-- nav:end -->

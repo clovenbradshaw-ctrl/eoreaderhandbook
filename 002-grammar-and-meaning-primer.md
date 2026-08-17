@@ -110,6 +110,26 @@ one remove rather than verified against the printing — flagged here
 because this book means to keep the difference between those two claims
 visible.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+
+Not located because a source this chapter names is **not yet obtained** (`morris-1938-foundations-theory-of-signs` — see the manifest's `unobtained` list for each one's reason):
+
+- “The dog bit the man”
+- “the dog bit the man”
+- “the man bit the dog”
+- “the formal relations of signs to one another”
+- “the relations of signs to the objects to…”
+- “the relation of signs to interpreters.”
+- “the dog bit the man.”
+- “Foundations of the Theory of Signs”
+
+<!-- anchors:end -->
+
 <!-- nav:start -->
 [← 0.1 — What This Book Is, and Isn't](001-what-this-book-is-and-isnt.md) · [Contents](000-index.md) · [0.3 — A Ten-Minute Ontology and Epistemology Primer →](003-ontology-and-epistemology-primer.md)
 <!-- nav:end -->

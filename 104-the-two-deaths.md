@@ -114,6 +114,16 @@ history of "confabulation" and the parallel to Kuhn's *The Structure of
 Scientific Revolutions* (1962) above are this book's own added links to
 those fields — not something the codebase itself cites.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+- “Two deaths, one conformance family each: Confabulation —…” → `eoreader6/SEED.md#b2822-2964` *(+2 segment(s) not located)*
+
+<!-- anchors:end -->
+
 <!-- nav:start -->
 [← 1.3 — Witness](103-witness.md) · [Contents](000-index.md) · [1.5 — Three Numbers and a Vital Sign →](105-three-numbers-and-a-vital-sign.md)
 <!-- nav:end -->

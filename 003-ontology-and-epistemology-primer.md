@@ -20,7 +20,7 @@ Those two grids will look like arbitrary jargon unless you first have a feel
 for the two ordinary questions they're built out of — and you already ask
 both questions every day without a name for either.
 
-## "What kind of thing is this?"
+## "what kind of thing is this?"
 
 Say the word "patient." It can point at three different kinds of thing,
 and mixing them up causes real confusion:
@@ -86,7 +86,7 @@ others: the same basic move as telling "a specific patient" apart from
 Twentieth-century philosophy came back to the same question with new
 tools — W.V.O. Quine's 1948 essay "On What There Is" asked what a sentence
 has to assume exists for it to be meaningful at all, and left behind his
-own shorthand for it: "to be is to be the value of a variable."
+own shorthand for it: "To be is to be the value of a variable."
 
 The second question is epistemology's oldest, running at least from
 Plato's *Theaetetus* (what separates knowledge from a merely true guess)
@@ -164,6 +164,29 @@ out. The cube's demotion from classifier to instrument is
 `eoreader6/CUBE.md`: *"As a classifier — deriving a cell from content —
 this was already measured and refuted... It is promoted out of the
 code."*
+
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+- “what kind of thing is this?” → `eoreader6/SEED.md#b92109-92135`
+- “what *kind* of thing is this — a…” → `eoreader6/SEED.md#b92109-92135` *(+1 segment(s) not located)*
+- “To be is to be the value of…” → `quine-1948#b32023-32061`
+- “As a classifier — deriving a cell from…” → `eoreader6/CUBE.md#b406-498`, `eoreader6/CUBE.md#b750-780`
+
+Quoted spans **not located in any obtained source** and not explained by a known gap — each is either the book's own illustrative speech, or a passage that reads as verbatim and is not, which is itself a finding to resolve:
+
+- “what sort of thing would even count as…”
+- “How do you know, and what would change…”
+- “this patient has a fever.”
+- “How do you know, and what would make…”
+- “what would change your mind”
+- “Everybody is right. More specifically, everybody—including me—has some…”
+- “Material considered and deliberately left out of this…”
+
+<!-- anchors:end -->
 
 <!-- nav:start -->
 [← 0.2 — A Ten-Minute Grammar and Meaning Primer](002-grammar-and-meaning-primer.md) · [Contents](000-index.md) · [0.4 — What a Language Model Is, in Plain Terms, and Why This Project Keeps Its Distance From One →](004-what-a-language-model-is.md)

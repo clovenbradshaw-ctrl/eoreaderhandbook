@@ -165,6 +165,22 @@ discourse-awareness-memory-synthesis.md`, "References (Public)" — a
 related but separate generation's own literature review, written for its
 own design process, not eochat's.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+
+Quoted spans **not located in any obtained source** and not explained by a known gap — each is either the book's own illustrative speech, or a passage that reads as verbatim and is not, which is itself a finding to resolve:
+
+- “The verbatim history fold already re-presents the last…”
+- “don't show it at all until it's actually…”
+- “small model, small job, separate from the one…”
+- “injecting it earlier only repeats the same old…”
+
+<!-- anchors:end -->
+
 <!-- nav:start -->
 [← 5.5 — Writing Something Long Without Losing the Thread](505-writing-something-long-without-losing-the-thread.md) · [Contents](000-index.md) · [6.1 — A Short History of Machines That Were Said to Read →](601-a-short-history-of-machines-that-were-said-to-read.md)
 <!-- nav:end -->

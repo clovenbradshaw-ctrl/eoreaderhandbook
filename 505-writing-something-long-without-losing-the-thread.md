@@ -115,6 +115,21 @@ log.js`, lines 1-8 and 333-336. The identification of Herbert Simon's 1962
 book's own added link to that field, not something the codebase's own
 comments state.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+
+Quoted spans **not located in any obtained source** and not explained by a known gap — each is either the book's own illustrative speech, or a passage that reads as verbatim and is not, which is itself a finding to resolve:
+
+- “How does a small talking model write something…”
+- “don't hand the model more context as the…”
+- “silent truncation reads as 'this was everything' when…”
+
+<!-- anchors:end -->
+
 <!-- nav:start -->
 [← 5.4 — A Citation You Can Actually Check](504-a-citation-you-can-actually-check.md) · [Contents](000-index.md) · [5.6 — Senses, Memory, and Borrowed Models →](506-senses-memory-and-borrowed-models.md)
 <!-- nav:end -->

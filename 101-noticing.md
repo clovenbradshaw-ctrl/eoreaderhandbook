@@ -114,6 +114,22 @@ this book's own added link to that field's history, tracing where the
 words "ground" and "figure" actually come from — not something the
 codebase itself cites.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+- “A ground is a nothing constructed by perturbing…” → `eoreader6/SEED.md#b615-722`
+
+Not located because a source this chapter names is **not yet obtained** (`eo-constitution/CONSTITUTION.md` — see the manifest's `unobtained` list for each one's reason):
+
+- “how do you know a rule was broken”
+- “what would be unremarkable here”
+- “E. coli compares the gradient against a ground…”
+
+<!-- anchors:end -->
+
 <!-- nav:start -->
 [← 0.4 — What a Language Model Is, in Plain Terms, and Why This Project Keeps Its Distance From One](004-what-a-language-model-is.md) · [Contents](000-index.md) · [1.2 — The Difference That Makes a Difference →](102-the-difference-that-makes-a-difference.md)
 <!-- nav:end -->

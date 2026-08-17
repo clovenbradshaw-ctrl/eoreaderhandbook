@@ -163,6 +163,30 @@ glosses of those published methods, added so the reader knows what the
 cited papers actually do — the citations themselves are the code's and
 the essay's, not this book's.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+- “sparse coding at the dentate gyrus and one-shot…” → `eoreader6/packages/engine/emergence/activation.js#b1562-1601`, `eoreader6/packages/engine/emergence/activation.js#b1805-1845`, `eoreader6/packages/engine/emergence/activation.js#b1950-1991`, `eoreader6/packages/engine/emergence/activation.js#b2029-2071`, `eoreader6/packages/engine/emergence/activation.js#b2106-2144` *(+8 segment(s) not located)*
+- “fifty-seven years apart, same mechanism,” → `eoreader6/prior-art-surprise-segmentation-and-memory.md#b712-751`
+- “runs of exceedance ARE the windows.” → `eoreader6/packages/engine/emergence/tiers.js#b3626-3660`
+- “unsupervised text/audio segmentation by local statistical departure, >…” → `eoreader6/packages/engine/emergence/tiers.js#b4011-4059`, `eoreader6/packages/engine/emergence/tiers.js#b4369-4419` *(+8 segment(s) not located)*
+- “The modelless novelty detector does not clearly beat…” → `eoreader6/prior-art-surprise-segmentation-and-memory.md#b7103-7170` *(+3 segment(s) not located)*
+- “because on this run it does not clearly…” → `eoreader6/prior-art-surprise-segmentation-and-memory.md#b7694-7741`
+- “The number this repo has been citing for…” → `eoreader6/prior-art-surprise-segmentation-and-memory.md#b4119-4184`
+- “recorded so the comparison is available when C…” → `eoreader6/prior-art-surprise-segmentation-and-memory.md#b3385-3489`
+- “this repo has no multi-hop retrieval mode to…” → `eoreader6/prior-art-surprise-segmentation-and-memory.md#b9040-9097`
+- “a gap is a result,” → `eoreader6/11-terrain-occupancy-and-the-two-ascents.md#b520-537`
+- “(3) The premise number does not reproduce” → `eoreader6/prior-art-surprise-segmentation-and-memory.md#b4398-4438`
+
+Quoted spans **not located in any obtained source** and not explained by a known gap — each is either the book's own illustrative speech, or a passage that reads as verbatim and is not, which is itself a finding to resolve:
+
+- “find the seams by local statistical departure.”
+
+<!-- anchors:end -->
+
 <!-- nav:start -->
 [← 6.4 — The Honest Gap List](604-the-honest-gap-list.md) · [Contents](000-index.md) · [7.1 — A Construction Language →](701-a-construction-language.md)
 <!-- nav:end -->

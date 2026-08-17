@@ -160,6 +160,23 @@ The Porphyry/Linnaeus/Frege-Russell/Codd/BFO lineage is drawn from
 reusing this chapter's nine terrain names to make its own historical
 argument, not a claim eoreader6 itself makes.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+- “`Kind` is induced over relation *terms*; `Network` is…” → `eoreader6/11-terrain-occupancy-and-the-two-ascents.md#b754-847`
+- “the span between two re-zero events over the…” → `eoreader6/11-terrain-occupancy-and-the-two-ascents.md#b6945-7017`
+- “the current set of induced Kinds plus their…” → `eoreader6/11-terrain-occupancy-and-the-two-ascents.md#b863-918`
+
+Not located because a source this chapter names is **not yet obtained** (`eoreader4.2/docs/eo-wiki.md`, `eoreader4.2/docs/eo-for-coders.md` — see the manifest's `unobtained` list for each one's reason):
+
+- “what got established, by which kind of act.”
+- “Most Ontologies: 'It's all Entities.' EO: 'Entities are…”
+
+<!-- anchors:end -->
+
 <!-- nav:start -->
 [← 2.2 — The Order Things Happen In](202-the-order-things-happen-in.md) · [Contents](000-index.md) · [2.4 — Nine Kinds of "How" →](204-nine-kinds-of-how.md)
 <!-- nav:end -->

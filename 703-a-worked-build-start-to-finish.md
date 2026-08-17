@@ -82,6 +82,20 @@ patients room ──`. The closing quote about assembly 4's failure and
 assembly 5 not yet starting is from the same section, immediately following
 the code block.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+
+Not located because a source this chapter names is **not yet obtained** (`eoreader4.2/docs/eo-for-coders.md` — see the manifest's `unobtained` list for each one's reason):
+
+- “If assembly 4 fails, assemblies 1 through 3…”
+- “Layer 0 — The Legend,”
+
+<!-- anchors:end -->
+
 <!-- nav:start -->
 [← 7.2 — The Watchmaker's Discipline](702-the-watchmakers-discipline.md) · [Contents](000-index.md) · [8.1 — Telling a Rhyme From a Borrowing →](801-telling-a-rhyme-from-a-borrowing.md)
 <!-- nav:end -->

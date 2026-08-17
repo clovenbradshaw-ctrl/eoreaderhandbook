@@ -109,6 +109,20 @@ examples decided in §5 (Example A: `eochat/essay.md`; Example B: the
 domain-invariant triad from the `writing-code-in-eo` reference) and the two
 deaths named in `eoreader6/SEED.md`, "The entelechy."
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+
+Not located because a source this chapter names is **not yet obtained** (`eochat/essay.md` — see the manifest's `unobtained` list for each one's reason):
+
+- “What does Victor Frankenstein feel toward the creature…”
+- “to guard against the two deaths,”
+
+<!-- anchors:end -->
+
 ---
 
 # 0.2 — A Ten-Minute Grammar and Meaning Primer
@@ -220,6 +234,26 @@ one remove rather than verified against the printing — flagged here
 because this book means to keep the difference between those two claims
 visible.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+
+Not located because a source this chapter names is **not yet obtained** (`morris-1938-foundations-theory-of-signs` — see the manifest's `unobtained` list for each one's reason):
+
+- “The dog bit the man”
+- “the dog bit the man”
+- “the man bit the dog”
+- “the formal relations of signs to one another”
+- “the relations of signs to the objects to…”
+- “the relation of signs to interpreters.”
+- “the dog bit the man.”
+- “Foundations of the Theory of Signs”
+
+<!-- anchors:end -->
+
 ---
 
 # 0.3 — A Ten-Minute Ontology and Epistemology Primer
@@ -241,7 +275,7 @@ Those two grids will look like arbitrary jargon unless you first have a feel
 for the two ordinary questions they're built out of — and you already ask
 both questions every day without a name for either.
 
-## "What kind of thing is this?"
+## "what kind of thing is this?"
 
 Say the word "patient." It can point at three different kinds of thing,
 and mixing them up causes real confusion:
@@ -307,7 +341,7 @@ others: the same basic move as telling "a specific patient" apart from
 Twentieth-century philosophy came back to the same question with new
 tools — W.V.O. Quine's 1948 essay "On What There Is" asked what a sentence
 has to assume exists for it to be meaningful at all, and left behind his
-own shorthand for it: "to be is to be the value of a variable."
+own shorthand for it: "To be is to be the value of a variable."
 
 The second question is epistemology's oldest, running at least from
 Plato's *Theaetetus* (what separates knowledge from a merely true guess)
@@ -385,6 +419,29 @@ out. The cube's demotion from classifier to instrument is
 `eoreader6/CUBE.md`: *"As a classifier — deriving a cell from content —
 this was already measured and refuted... It is promoted out of the
 code."*
+
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+- “what kind of thing is this?” → `eoreader6/SEED.md#b92109-92135`
+- “what *kind* of thing is this — a…” → `eoreader6/SEED.md#b92109-92135` *(+1 segment(s) not located)*
+- “To be is to be the value of…” → `quine-1948#b32023-32061`
+- “As a classifier — deriving a cell from…” → `eoreader6/CUBE.md#b406-498`, `eoreader6/CUBE.md#b750-780`
+
+Quoted spans **not located in any obtained source** and not explained by a known gap — each is either the book's own illustrative speech, or a passage that reads as verbatim and is not, which is itself a finding to resolve:
+
+- “what sort of thing would even count as…”
+- “How do you know, and what would change…”
+- “this patient has a fever.”
+- “How do you know, and what would make…”
+- “what would change your mind”
+- “Everybody is right. More specifically, everybody—including me—has some…”
+- “Material considered and deliberately left out of this…”
+
+<!-- anchors:end -->
 
 ---
 
@@ -510,6 +567,26 @@ discarded."* The Vaswani et al. and Bender et al. connections above are
 this book's own added links to the wider NLP literature, not sources the
 codebase itself cites.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+- “Attention Is All You Need” → `attention-2017#b174-199`
+- “there is no ledger. You cannot ask which…” → `eoreader6/prior-art-teachable-language-comprehender.md#b20194-20315`
+
+Not located because a source this chapter names is **not yet obtained** (`eo-constitution/CONSTITUTION.md`, `bender-gebru-2021-stochastic-parrots` — see the manifest's `unobtained` list for each one's reason):
+
+- “was that answer based on this document, or…”
+- “what's already in the document”
+- “what's already inside the model”
+- “On the Dangers of Stochastic Parrots”
+- “what the model already knew”
+- “Does this mechanism build a nothing, or weight…”
+
+<!-- anchors:end -->
+
 ---
 
 
@@ -629,6 +706,22 @@ figure-ground studies, Koffka's writing on perceptual organization) is
 this book's own added link to that field's history, tracing where the
 words "ground" and "figure" actually come from — not something the
 codebase itself cites.
+
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+- “A ground is a nothing constructed by perturbing…” → `eoreader6/SEED.md#b615-722`
+
+Not located because a source this chapter names is **not yet obtained** (`eo-constitution/CONSTITUTION.md` — see the manifest's `unobtained` list for each one's reason):
+
+- “how do you know a rule was broken”
+- “what would be unremarkable here”
+- “E. coli compares the gradient against a ground…”
+
+<!-- anchors:end -->
 
 ---
 
@@ -768,6 +861,28 @@ statement of where the project's use goes beyond Bateson's sentence — is
 this book's own, not something the codebase itself does; the codebase's
 only claim is SEED.md's attribution line quoted above.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+- “A Mathematical Theory of Communication” → `shannon-1948#b124-162`
+- “The fundamental problem of communication is that of…” → `shannon-1948#b775-957`, `shannon-1948#b1070-1151`
+- “a difference that made no difference is not…” → `eoreader6/SEED.md#b1858-1913`
+- “Pattern is Bateson's: a difference that makes a…” → `eoreader6/SEED.md#b1046-1104`, `eoreader6/SEED.md#b1231-1326`
+
+Not located because a source this chapter names is **not yet obtained** (`bateson-1972-steps-to-an-ecology-of-mind` — see the manifest's `unobtained` list for each one's reason):
+
+- “it changed what happens next”
+- “the same difference showed up again”
+- “we failed to detect it,”
+- “In fact, what we mean by information—the elementary…”
+- “A 'bit' of information is definable as a…”
+- “compare against something freshly rebuilt, not something fixed,”
+
+<!-- anchors:end -->
+
 ---
 
 # 1.3 — Witness
@@ -867,6 +982,24 @@ information, so it is not testimony either... The system may perceive
 anything. It may speak only of what changed the ground."* The legal and
 signal-detection-theory connections above are this book's own added links
 to those fields, not something the codebase itself cites.
+
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+- “All three terms, or it is not a…” → `eoreader6/SEED.md#b1747-1944`, `eoreader6/SEED.md#b2007-2085`
+
+Quoted spans **not located in any obtained source** and not explained by a known gap — each is either the book's own illustrative speech, or a passage that reads as verbatim and is not, which is itself a finding to resolve:
+
+- “it stood out, but nothing changed”
+- “so I'll say something about it”
+- “I looked and there was nothing worth reporting”
+- “I wasn't allowed to look.”
+- “this was actually the signal”
+
+<!-- anchors:end -->
 
 ---
 
@@ -982,6 +1115,16 @@ pattern in place the second is largely self-announcing."* The clinical
 history of "confabulation" and the parallel to Kuhn's *The Structure of
 Scientific Revolutions* (1962) above are this book's own added links to
 those fields — not something the codebase itself cites.
+
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+- “Two deaths, one conformance family each: Confabulation —…” → `eoreader6/SEED.md#b2822-2964` *(+2 segment(s) not located)*
+
+<!-- anchors:end -->
 
 ---
 
@@ -1112,6 +1255,24 @@ an interquartile width is a state of the system, and no null in this repo
 establishes that."* The kernel-density-bandwidth and homeostasis/allostasis
 connections above are this book's own added links to statistics and
 physiology, not something the codebase itself cites.
+
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+- “the warmth you check for.” → `eoreader6/SEED.md#b6014-6038`
+- “They are the whole physiology. None of them…” → `eoreader6/SEED.md#b5127-5188`
+- “Aperture is the volume of the ground... Never…” → `eoreader6/SEED.md#b5550-5586`, `eoreader6/SEED.md#b5985-6038`
+- “A quantity's name is a claim about what…” → `eoreader6/SEED.md#b49621-49666`
+- “Ananda means bliss. The identifier therefore asserted that…” → `eoreader6/SEED.md#b50129-50279`
+
+Quoted spans **not located in any obtained source** and not explained by a known gap — each is either the book's own illustrative speech, or a passage that reads as verbatim and is not, which is itself a finding to resolve:
+
+- “don't answer below this number”
+
+<!-- anchors:end -->
 
 ---
 
@@ -1272,6 +1433,29 @@ belongs to a different generation. The Peirce connection earlier in this
 chapter is this book's own added link to the history of semiotics, not
 something the codebase itself cites.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+- “Clearing the ground of existence” → `eoreader6/CUBE.md#b3191-3225`
+- “the engine refusing a claim” → `eoreader6/CUBE.md#b4673-4700`
+- “it structurally *requires* `pattern.moved === true`” → `eoreader6/CUBE.md#b5353-5403`
+- “Structure-tier relations (Figure cell on the operator grid).” → `eoreader6/SEED.md#b33976-34034`
+
+Not located because a source this chapter names is **not yet obtained** (`eoreader4.2/docs/eo-for-coders.md` — see the manifest's `unobtained` list for each one's reason):
+
+- “does this exist at all.”
+- “never let it go stale”
+- “synthesize a ward from beds”
+- “A sign, or representamen, is something which stands…”
+- “refers to the Object that it denotes merely…”
+- “by virtue of being really affected by that…”
+- “why nine, and not some other number”
+
+<!-- anchors:end -->
+
 ---
 
 # 2.2 — The Order Things Happen In
@@ -1407,6 +1591,25 @@ drawn from `eoreader4.2/docs/eo-wiki.md`, "Model of Hierarchical
 Complexity (Commons)" — a related but separate generation's own notes,
 which name the convergence themselves rather than this book asserting it
 from outside.
+
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+- “`GRAINS` is the triad from `SEED.md`. It is…” → `eoreader6/CUBE.md#b943-1054`
+- “The binding organ ... reads an entity register…” → `eoreader6/SEED.md#b33689-33785`
+
+Not located because a source this chapter names is **not yet obtained** (`eoreader4.2/docs/eo-wiki.md` — see the manifest's `unobtained` list for each one's reason):
+
+- “ground before figure before pattern”
+- “you cannot use something before it's been established”
+- “a higher order only means something once a…”
+- “this level of structure has to be built…”
+- “Model of Hierarchical Complexity (Commons)”
+
+<!-- anchors:end -->
 
 ---
 
@@ -1569,6 +1772,23 @@ The Porphyry/Linnaeus/Frege-Russell/Codd/BFO lineage is drawn from
 reusing this chapter's nine terrain names to make its own historical
 argument, not a claim eoreader6 itself makes.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+- “`Kind` is induced over relation *terms*; `Network` is…” → `eoreader6/11-terrain-occupancy-and-the-two-ascents.md#b754-847`
+- “the span between two re-zero events over the…” → `eoreader6/11-terrain-occupancy-and-the-two-ascents.md#b6945-7017`
+- “the current set of induced Kinds plus their…” → `eoreader6/11-terrain-occupancy-and-the-two-ascents.md#b863-918`
+
+Not located because a source this chapter names is **not yet obtained** (`eoreader4.2/docs/eo-wiki.md`, `eoreader4.2/docs/eo-for-coders.md` — see the manifest's `unobtained` list for each one's reason):
+
+- “what got established, by which kind of act.”
+- “Most Ontologies: 'It's all Entities.' EO: 'Entities are…”
+
+<!-- anchors:end -->
+
 ---
 
 # 2.4 — Nine Kinds of "How"
@@ -1670,9 +1890,24 @@ shortly," cashed in.
 
 **Where this comes from:** the stance grid (`stance = (mode, grain)`) and
 its nine names are defined in `eoreader6/CUBE.md`, lines 45-47, including
-the rule that "a stance is not a mood and cannot be chosen" (line 50). The
+the rule that "A stance is not a mood and cannot be chosen" (line 50). The
 Aristotle connection above is this book's own added link to the history of
 philosophy, not something the codebase itself cites.
+
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+- “A stance is not a mood and cannot…” → `eoreader6/CUBE.md#b1977-2020`
+
+Quoted spans **not located in any obtained source** and not explained by a known gap — each is either the book's own illustrative speech, or a passage that reads as verbatim and is not, which is itself a finding to resolve:
+
+- “a stance is not a mood, and it…”
+- “you'll meet this again shortly,”
+
+<!-- anchors:end -->
 
 ---
 
@@ -1822,6 +2057,21 @@ codebase itself cites. The `commutator()`/Zurek account above is drawn
 directly from `eoreader4.2/docs/kernel-probe-2026-07.md` — that audit's
 own finding and own words, not this book's addition.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+- “Terrain and stance both carry grain, so grain…” → `eoreader6/CUBE.md#b2079-2241`
+- “A known contradiction in the prior engine,” → `eoreader6/CUBE.md#b8394-8435`
+
+Quoted spans **not located in any obtained source** and not explained by a known gap — each is either the book's own illustrative speech, or a passage that reads as verbatim and is not, which is itself a finding to resolve:
+
+- “apt as an outside reading of the code;…”
+
+<!-- anchors:end -->
+
 ---
 
 # 2.6 — Checked Against Language Itself
@@ -1963,6 +2213,23 @@ inter-model kappa figures, the per-language z-score table, and the
 coordinate-geometry (α/η/Ω) test and its three negative results are all
 drawn directly from those two entries.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+
+Not located because a source this chapter names is **not yet obtained** (`eoreader4.2/docs/eo-wiki.md` — see the manifest's `unobtained` list for each one's reason):
+
+- “Empirically strong on proportionality and face-level clustering; mixed…”
+- “the axes track something real”
+- “these axes are better than some other three…”
+- “EO Lexical Analysis v2 — Results Report”
+- “The Lexical Analysis: EO's Preliminary Empirical Grounding”
+
+<!-- anchors:end -->
+
 ---
 
 # 2.7 — Tried Against a Rival
@@ -2083,6 +2350,23 @@ system (material/mental/relational processes) — named here as the
 book's own choice of a strong rival, precisely *because* it is
 well-established prior art, not because this project ever drew on it.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+
+Not located because a source this chapter names is **not yet obtained** (`eoreader4.2/docs/eo-wiki.md` — see the manifest's `unobtained` list for each one's reason):
+
+- “The three questions track something real”
+- “the three questions carve language better than some…”
+- “if an off-the-shelf rival triad from ordinary linguistics…”
+- “The stronger claim — that THESE three dimensions…”
+- “closer to orthogonal than an obvious rival,”
+
+<!-- anchors:end -->
+
 ---
 
 
@@ -2190,6 +2474,20 @@ produced answer from the running system, including its own citation and its
 own "What this leaves out" accounting. The close-reading connection above
 is this book's own added link to literary-critical practice, not something
 the codebase itself cites.
+
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+
+Not located because a source this chapter names is **not yet obtained** (`eochat/essay.md` — see the manifest's `unobtained` list for each one's reason):
+
+- “What does Victor Frankenstein feel toward the creature…”
+- “90% of its content words were not carried…”
+
+<!-- anchors:end -->
 
 ---
 
@@ -2343,6 +2641,23 @@ comparison above it is this book's own added link to that field,
 contrasting a shared word with a different underlying test — not
 something the codebase itself cites.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+- “Benford's Law (Newcomb 1881 / Benford 1938) —…” → `eoreader6/goldens/surprise/README.md#b4666-4752`
+- “The first ground is received, never derived... Deriving…” → `eoreader6/SEED.md#b3101-3144`, `eoreader6/SEED.md#b3194-3243`
+- “A prior is relevant exactly insofar as it…” → `eoreader6/SEED.md#b15233-15317`
+- “Relevance is not a property of a prior.…” → `eoreader6/SEED.md#b15576-15647`, `eoreader6/SEED.md#b15650-15692` *(+1 segment(s) not located)*
+
+Quoted spans **not located in any obtained source** and not explained by a known gap — each is either the book's own illustrative speech, or a passage that reads as verbatim and is not, which is itself a finding to resolve:
+
+- “does this look like the right kind of…”
+
+<!-- anchors:end -->
+
 ---
 
 # 3.3 — A Guided Tour of the Organs
@@ -2457,9 +2772,7 @@ back with a citation.
 **Where this comes from:** `nul` is the organ performing the operation set
 out across `eoreader6/SEED.md`, "One operation" and "The unit of record."
 `frame` and its refusal of the self-watching regress are from SEED.md
-Amendment VIII, *"An organ that reads the reading's own trail, then an
-organ that reads that organ, collapses into a clock reading its own
-arithmetic... The frame refuses the regress by type."* `temporality`'s
+Amendment VIII, *"an organ that reads the reading's own trail, then an organ that reads that organ, collapses into a clock reading its own arithmetic... The frame refuses the regress by type."* `temporality`'s
 three-way distinction (ordered / directional / temporal) is from Amendment
 V, *"Order is measured. Time may be received, discovered, or remain
 unresolved."* The binding organ is from Amendment X, *"It is modality-blind
@@ -2471,6 +2784,23 @@ standing `cascade` already holds"*), without a passage this book found
 sufficient to teach them fully. The Fodor and homunculus-regress
 connections above are this book's own added links to philosophy of mind,
 not something the codebase itself cites.
+
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+- “an organ that reads the reading's own trail,…” → `eoreader6/SEED.md#b30423-30554`, `eoreader6/SEED.md#b30758-30795`
+- “Order is measured. Time may be received, discovered,…” → `eoreader6/SEED.md#b21794-21867`
+- “It is modality-blind by construction: it reads arrival…” → `eoreader6/SEED.md#b33840-33951`, `eoreader6/SEED.md#b34106-34156`
+- “the same standing `cascade` already holds” → `eoreader6/SEED.md#b40568-40609`
+
+Quoted spans **not located in any obtained source** and not explained by a known gap — each is either the book's own illustrative speech, or a passage that reads as verbatim and is not, which is itself a finding to resolve:
+
+- “no, and it doesn't try to.”
+
+<!-- anchors:end -->
 
 ---
 
@@ -2573,11 +2903,21 @@ partially earned: the turn holds a sequence" — *"`runTurn` now receives a
 `register`... and hands its own back, so the engine holds the sequence
 locally at the turn boundary... What is still not earned is the enforcement
 that a genuinely-first ground is *received* — the engine cannot know that
-the caller read nothing before... The register is one closing scalar plus a
-declared choice, never a rollup of the trail."* The HTTP-statelessness and
+the caller read nothing before... the register is one closing scalar plus a declared choice, never a rollup of the trail."* The HTTP-statelessness and
 working-memory connections above are this book's own added links to web
 architecture and cognitive psychology, not something the codebase itself
 cites.
+
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+- “Firstness, partially earned: the turn holds a sequence” → `eoreader6/SEED.md#b31582-31636`
+- “`runTurn` now receives a `register`... and hands its…” → `eoreader6/SEED.md#b31888-31921`, `eoreader6/SEED.md#b32025-32110`, `eoreader6/SEED.md#b32714-32864`, `eoreader6/SEED.md#b32935-33021`
+
+<!-- anchors:end -->
 
 ---
 
@@ -2719,7 +3059,7 @@ already caught for free.
 **Where this comes from:** the three gap types are named in `eoreader6/
 CUBE.md`, lines 95-97, as "this same act at different grains, not three
 unrelated failure modes." The two-tier refusal rule ("type error before
-null... never spend a measurement on what the algebra catches") is
+null... Never spend a measurement on what the algebra catches") is
 `eoreader6/SEED.md`, "What follows," clause 7. The worked example is
 `eochat/essay.md`, "What this leaves out" — including the exact phrase "not
 printed rather than printed unsupported." The reject-option, missing-data,
@@ -2729,6 +3069,29 @@ itself cites. The Codd/NULL and Łukasiewicz history is drawn from
 `eoreader4.2/docs/eo-wiki.md`, "EO and Codd's Null Problem" — a related but
 separate generation's own internal notes, cited here because the parallel
 is precise, not because it describes eoreader6 itself.
+
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+- “this same act at different grains, not three…” → `eoreader6/CUBE.md#b5200-5270`
+- “type error before null... Never spend a measurement…” → `eoreader6/SEED.md#b4777-4833`
+
+Not located because a source this chapter names is **not yet obtained** (`eoreader4.2/docs/eo-wiki.md`, `eochat/essay.md`, `chow-1970-optimum-recognition-error` — see the manifest's `unobtained` list for each one's reason):
+
+- “there wasn't a real ground to measure against…”
+- “90% of its content words were not carried…”
+- “exceeded the fold budget and were dropped, not…”
+- “there was more than the space available, and…”
+- “On Optimum Recognition Error and Reject Tradeoff”
+- “I decline to classify this one”
+- “the evidence didn't clear the gate”
+- “not printed rather than printed unsupported.”
+- “EO and Codd's Null Problem”
+
+<!-- anchors:end -->
 
 ---
 
@@ -2897,6 +3260,18 @@ the top of README.md. The negative-control and preregistration connections
 above are this book's own added links to the general practice of
 experimental science, not something the codebase itself cites.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+- “An organ joins only when the level test…” → `eoreader6/SEED.md#b6316-6388`
+- “the mouth is language-specific by construction, the organ…” → `eoreader6/scripts/experiments/README.md#b6685-6748`
+- “EXPERIMENTAL. Unwired. Not a golden, not a certified…” → `eoreader6/scripts/experiments/README.md#b27-85`
+
+<!-- anchors:end -->
+
 ---
 
 
@@ -3008,6 +3383,23 @@ other domain exists. A thing that fits none of the four is a gap, not a new
 category."* The Montesquieu and separation-of-concerns connections above
 are this book's own added links to political philosophy and software
 engineering, not something the codebase itself cites.
+
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+
+Not located because a source this chapter names is **not yet obtained** (`eo-constitution/CONSTITUTION.md` — see the manifest's `unobtained` list for each one's reason):
+
+- “keep these apart, on purpose”
+- “Deleting an application must change no engine reading”
+- “The engine is `eoreader6`... the current, re-earned implementation…”
+- “Their dead-end logs are load-bearing and must be…”
+- “No other domain exists. A thing that fits…”
+
+<!-- anchors:end -->
 
 ---
 
@@ -3156,6 +3548,23 @@ App? → what remains is engine."* The Popper and test-driven-development
 connections above are this book's own added links to philosophy of science
 and software engineering, not something the codebase itself cites.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+
+Not located because a source this chapter names is **not yet obtained** (`eo-constitution/CONSTITUTION.md` — see the manifest's `unobtained` list for each one's reason):
+
+- “this actually revised what the reader now believes.”
+- “does this build a nothing or lean on…”
+- “Does this mechanism build a nothing, or weight…”
+- “Does this mechanism measure a property of the…”
+- “Ask in this order. Prior? → App? →…”
+
+<!-- anchors:end -->
+
 ---
 
 # 4.3 — A Constitution That Edits Itself
@@ -3280,6 +3689,27 @@ scientific-retraction connections above are this book's own added links
 to constitutional law and scientific publishing, not something the
 codebase itself cites.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+- “The name is superseded, not erased” → `eoreader6/SEED.md#b6151-6185`
+
+Not located because a source this chapter names is **not yet obtained** (`eo-constitution/CONSTITUTION.md` — see the manifest's `unobtained` list for each one's reason):
+
+- “we can edit our own rules”
+- “old text is corrected, not rewritten,”
+- “keep the wrong version on the record, dated,…”
+- “make it look like the mistake never happened.”
+- “An amendment... that cannot be expressed as a…”
+- “Amendments are numbered in the order they change…”
+- “remains a draft proposal... and is not entered…”
+- “Status: DRAFT PROPOSAL. Not applied, not yet human-reviewed.”
+
+<!-- anchors:end -->
+
 ---
 
 # 4.4 — One Amendment, Start to Finish
@@ -3400,6 +3830,23 @@ synonymy and software-deprecation connections above are this book's own
 added links to biology and software engineering, not something the
 codebase itself cites.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+- “A quantity's name is a claim about what…” → `eoreader6/SEED.md#b49621-49666`
+- “`ananda` is now `aperture`, everywhere: 252 occurrences across…” → `eoreader6/SEED.md#b49713-49783`, `eoreader6/SEED.md#b49847-49877`, `eoreader6/SEED.md#b50129-50279`, `eoreader6/SEED.md#b50825-50889`
+- “This quantity was called `ananda` until 2026-08-04. The…” → `eoreader6/SEED.md#b6099-6185`
+
+Not located because a source this chapter names is **not yet obtained** (`eo-constitution/CONSTITUTION.md` — see the manifest's `unobtained` list for each one's reason):
+
+- “an amendment is a changed test, not a…”
+- “just a change of heart”
+
+<!-- anchors:end -->
+
 ---
 
 
@@ -3508,6 +3955,21 @@ architecture connections above are this book's own added links to
 operating-systems and software-architecture history, not something the
 codebase itself cites.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+
+Not located because a source this chapter names is **not yet obtained** (`eo-constitution/CONSTITUTION.md`, `eoWebLLM/LAWS.md` — see the manifest's `unobtained` list for each one's reason):
+
+- “Deleting an application must change no engine reading”
+- “Not the constitution. `../eo-constitution/` decides *what goes where*…”
+- “Deleting an application must change no engine reading.”
+
+<!-- anchors:end -->
+
 ---
 
 # 5.2 — Instructions All the Way Down
@@ -3609,6 +4071,26 @@ representative quotes are from `eochat/instruction-set/010-core-identity.md`,
 `eochat/instruction-set/050-core-gate.md`. The civil-law/common-law
 connection above is this book's own added link to legal history, not
 something the codebase itself cites.
+
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+
+Quoted spans **not located in any obtained source** and not explained by a known gap — each is either the book's own illustrative speech, or a passage that reads as verbatim and is not, which is itself a finding to resolve:
+
+- “An instruction set is a manual the model…”
+- “You are EO, the reader's research companion inside…”
+- “Only the numbers provided exist. NEVER cite [N+1]…”
+- “An invented citation is the worst failure this…”
+- “Refuse, plainly and politely, any request to... fabricate…”
+- “There is no special machinery to announce. You…”
+- “Surf mode returns the evidence, not an answer.…”
+- “They are NOT active this turn. Do not…”
+
+<!-- anchors:end -->
 
 ---
 
@@ -3732,6 +4214,25 @@ audit is local (L2, lines 181 and 215-224, 237-241), no silent truncation
 this book's own added link to interface-design history, not something the
 codebase itself cites.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+
+Not located because a source this chapter names is **not yet obtained** (`eoWebLLM/LAWS.md` — see the manifest's `unobtained` list for each one's reason):
+
+- “Between a trigger and its first visible consequence…”
+- “Anything the reader can doubt, they can inspect…”
+- “Reading a quote's bytes or its surrounding text…”
+- “Where output is cut, the cut is reported.”
+- “exactly how the corpus reports a phrase a…”
+- “The cap is gone. Documents are admitted whole.”
+- “so a truncated list cannot be mistaken for…”
+
+<!-- anchors:end -->
+
 ---
 
 # 5.4 — A Citation You Can Actually Check
@@ -3848,6 +4349,23 @@ reproducibility-crisis and chain-of-custody connections above are this
 book's own added links to the philosophy of science and forensics, not
 something the codebase itself cites.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+- “Why Most Published Research Findings Are False” → `ioannidis-2005#b3941-3988`
+
+Not located because a source this chapter names is **not yet obtained** (`eoWebLLM/LAWS.md` — see the manifest's `unobtained` list for each one's reason):
+
+- “When the turn provides numbered passages [1] through…”
+- “A quoted passage can be followed to its…”
+- “Every apparent quotation in a model's answer is…”
+- “reading a quote's bytes or its surrounding text…”
+
+<!-- anchors:end -->
+
 ---
 
 # 5.5 — Writing Something Long Without Losing the Thread
@@ -3963,6 +4481,21 @@ log.js`, lines 1-8 and 333-336. The identification of Herbert Simon's 1962
 "The Architecture of Complexity" as the parable's actual origin is this
 book's own added link to that field, not something the codebase's own
 comments state.
+
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+
+Quoted spans **not located in any obtained source** and not explained by a known gap — each is either the book's own illustrative speech, or a passage that reads as verbatim and is not, which is itself a finding to resolve:
+
+- “How does a small talking model write something…”
+- “don't hand the model more context as the…”
+- “silent truncation reads as 'this was everything' when…”
+
+<!-- anchors:end -->
 
 ---
 
@@ -4130,6 +4663,22 @@ discourse-awareness-memory-synthesis.md`, "References (Public)" — a
 related but separate generation's own literature review, written for its
 own design process, not eochat's.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+
+Quoted spans **not located in any obtained source** and not explained by a known gap — each is either the book's own illustrative speech, or a passage that reads as verbatim and is not, which is itself a finding to resolve:
+
+- “The verbatim history fold already re-presents the last…”
+- “don't show it at all until it's actually…”
+- “small model, small job, separate from the one…”
+- “injecting it earlier only repeats the same old…”
+
+<!-- anchors:end -->
+
 ---
 
 
@@ -4267,6 +4816,23 @@ is cited from memory and has not been re-read for this essay… Dates and
 attributions should be verified before any of this is published."* The
 Bridgman/operationalism connection above is this book's own added link to
 the philosophy of science, not something the codebase itself cites.
+
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+- “Reading is whatever the current benchmark measures. That…” → `eoreader6/prior-art-teachable-language-comprehender.md#b2713-2860`
+- “John gave Mary a book becomes an ATRANS…” → `eoreader6/prior-art-teachable-language-comprehender.md#b3214-3334`
+- “This was real reading in a way that…” → `eoreader6/prior-art-teachable-language-comprehender.md#b3406-3640`
+- “Every script was hand-built. The restaurant script did…” → `eoreader6/prior-art-teachable-language-comprehender.md#b3692-4059`
+- “It is not really a definition, it is…” → `eoreader6/prior-art-teachable-language-comprehender.md#b6219-6482`
+- “Reading is whatever the current benchmark measures” → `eoreader6/prior-art-teachable-language-comprehender.md#b2713-2763`
+- “Reading has been redefined four times, each time…” → `eoreader6/prior-art-teachable-language-comprehender.md#b2558-2624`
+- “Prior art is cited from memory and has…” → `eoreader6/prior-art-teachable-language-comprehender.md#b27642-27712`, `eoreader6/prior-art-teachable-language-comprehender.md#b28852-28925`
+
+<!-- anchors:end -->
 
 ---
 
@@ -4429,6 +4995,30 @@ citations itself. The stated ceiling against Fillmore's actual goal (two
 coarse, unlabeled kinds rather than named roles) is from `FINDINGS.md`
 §11.4.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+- “the hammer broke the window,” → `eoreader6/prior-art-teachable-language-comprehender.md#b7151-7178`
+- “The case notions comprise a set of universal,…” → `fillmore-1968#b74814-74970`, `fillmore-1968#b74971-75033`, `fillmore-1968#b75033-75092` *(+0 segment(s) not located)*
+- “as far as I know, [it] has never…” → `eoreader6/prior-art-teachable-language-comprehender.md#b8604-8653` *(+1 segment(s) not located)*
+- “This paper shows that the output of state-of-the-art…” → `reverb-2011#b589-653`, `reverb-2011#b655-779` *(+1 segment(s) not located)*
+- “That is `discoverRelationVocab` and the ≥2-distinct-surfaces recurrence requirement,…” → `eoreader6/prior-art-teachable-language-comprehender.md#b9502-9789`
+- “the acquisition of X by Y, the deployment…” → `eoreader6/prior-art-teachable-language-comprehender.md#b9890-9958`
+- “Charles Fillmore, The Case for Case, 1968” → `eoreader6/prior-art-teachable-language-comprehender.md#b6904-6947`
+- “the mouth is language-specific by construction, the organ…” → `eoreader6/scripts/experiments/README.md#b6685-6748`
+
+Quoted spans **not located in any obtained source** and not explained by a known gap — each is either the book's own illustrative speech, or a passage that reads as verbatim and is not, which is itself a finding to resolve:
+
+- “the thing before the verb is the doer”
+- “none of these cases can be interpreted as…”
+- “reading as filling a template”
+- “who does this with what”
+
+<!-- anchors:end -->
+
 ---
 
 # 6.3 — What's Actually New Here
@@ -4576,6 +5166,27 @@ what can and can't be faked is from §IX, "The fifth definition": *"You
 cannot fake a ledger you did not earn, because the ledger is not the
 output — it is the record of how the output came to be."*
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+- “`resolvePronouns` returns 638 bindings and 820 gaps, and…” → `eoreader6/prior-art-teachable-language-comprehender.md#b21252-21482`, `eoreader6/prior-art-teachable-language-comprehender.md#b21483-21564`, `eoreader6/prior-art-teachable-language-comprehender.md#b21597-21631` *(+1 segment(s) not located)*
+- “Knowledge Vault had confidence; PROV-O has provenance vocabulary;…” → `eoreader6/prior-art-teachable-language-comprehender.md#b21919-22050`
+- “The closest prior art is the LCF proof-kernel…” → `eoreader6/prior-art-teachable-language-comprehender.md#b22617-22931`
+- “Machine reading, as a field, has approximately no…” → `eoreader6/prior-art-teachable-language-comprehender.md#b23099-23166`
+- “the empirical evidence that the risk is real…” → `eoreader6/prior-art-teachable-language-comprehender.md#b19576-19644`
+- “Fifty-seven years apart. Same mechanism. Nobody ported anything;…” → `eoreader6/prior-art-teachable-language-comprehender.md#b1516-1639`, `eoreader6/prior-art-teachable-language-comprehender.md#b1673-1747`
+- “What this project has that none of them…” → `eoreader6/prior-art-teachable-language-comprehender.md#b20890-20933`
+- “You cannot fake a ledger you did not…” → `eoreader6/prior-art-teachable-language-comprehender.md#b26598-26727`
+
+Quoted spans **not located in any obtained source** and not explained by a known gap — each is either the book's own illustrative speech, or a passage that reads as verbatim and is not, which is itself a finding to resolve:
+
+- “The Teachable Language Comprehender (TLC) is a program…”
+
+<!-- anchors:end -->
+
 ---
 
 # 6.4 — The Honest Gap List
@@ -4712,6 +5323,21 @@ pass (paywalled; the one candidate site failed repeatedly), so their
 positions above are carried only in the essay's words, not their own —
 stated per this book's rule that attested-at-one-remove and
 verified-against-the-printing are different claims.
+
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+- “Three theories, developed independently over twenty years, all…” → `eoreader6/prior-art-teachable-language-comprehender.md#b16480-16611`
+- “which eoreader6 committed to explicitly, in the conformance…” → `eoreader6/prior-art-teachable-language-comprehender.md#b15312-15518`
+- “I would call this the single highest-value unbuilt…” → `eoreader6/prior-art-teachable-language-comprehender.md#b17085-17230`
+- “Each event can be indexed on each of…” → `eoreader6/prior-art-teachable-language-comprehender.md#b17311-17379` *(+1 segment(s) not located)*
+- “eoreader6 tracks protagonist (referents, well), something adjacent to…” → `eoreader6/prior-art-teachable-language-comprehender.md#b17481-17692`
+- “The connections drawn between this literature and the…” → `eoreader6/prior-art-teachable-language-comprehender.md#b28927-29070`
+
+<!-- anchors:end -->
 
 ---
 
@@ -4877,6 +5503,30 @@ glosses of those published methods, added so the reader knows what the
 cited papers actually do — the citations themselves are the code's and
 the essay's, not this book's.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+- “sparse coding at the dentate gyrus and one-shot…” → `eoreader6/packages/engine/emergence/activation.js#b1562-1601`, `eoreader6/packages/engine/emergence/activation.js#b1805-1845`, `eoreader6/packages/engine/emergence/activation.js#b1950-1991`, `eoreader6/packages/engine/emergence/activation.js#b2029-2071`, `eoreader6/packages/engine/emergence/activation.js#b2106-2144` *(+8 segment(s) not located)*
+- “fifty-seven years apart, same mechanism,” → `eoreader6/prior-art-surprise-segmentation-and-memory.md#b712-751`
+- “runs of exceedance ARE the windows.” → `eoreader6/packages/engine/emergence/tiers.js#b3626-3660`
+- “unsupervised text/audio segmentation by local statistical departure, >…” → `eoreader6/packages/engine/emergence/tiers.js#b4011-4059`, `eoreader6/packages/engine/emergence/tiers.js#b4369-4419` *(+8 segment(s) not located)*
+- “The modelless novelty detector does not clearly beat…” → `eoreader6/prior-art-surprise-segmentation-and-memory.md#b7103-7170` *(+3 segment(s) not located)*
+- “because on this run it does not clearly…” → `eoreader6/prior-art-surprise-segmentation-and-memory.md#b7694-7741`
+- “The number this repo has been citing for…” → `eoreader6/prior-art-surprise-segmentation-and-memory.md#b4119-4184`
+- “recorded so the comparison is available when C…” → `eoreader6/prior-art-surprise-segmentation-and-memory.md#b3385-3489`
+- “this repo has no multi-hop retrieval mode to…” → `eoreader6/prior-art-surprise-segmentation-and-memory.md#b9040-9097`
+- “a gap is a result,” → `eoreader6/11-terrain-occupancy-and-the-two-ascents.md#b520-537`
+- “(3) The premise number does not reproduce” → `eoreader6/prior-art-surprise-segmentation-and-memory.md#b4398-4438`
+
+Quoted spans **not located in any obtained source** and not explained by a known gap — each is either the book's own illustrative speech, or a passage that reads as verbatim and is not, which is itself a finding to resolve:
+
+- “find the seams by local statistical departure.”
+
+<!-- anchors:end -->
+
 ---
 
 
@@ -5029,6 +5679,25 @@ and ConstraintLLM comparisons are, by contrast, drawn directly from
 `eoreader4.2/docs/eot-coder-roadmap.md` §2.1-2.2 — that generation's own
 comparison to outside work, not this book's addition.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+
+Not located because a source this chapter names is **not yet obtained** (`eoreader4.2/docs/eo-for-coders.md` — see the manifest's `unobtained` list for each one's reason):
+
+- “an instrument, not a runtime”
+- “every part declares a contract... a kernel checks…”
+- “verify during generation, not after”
+- “emit → checkpoint → revise wearing different clothes.”
+- “the nine operators as implemented in eoreader4.1 `core/operators.js`,…”
+- “Layer 0 — The Legend.”
+- “Layer 1 — The Nine Operators.”
+
+<!-- anchors:end -->
+
 ---
 
 # 7.2 — The Watchmaker's Discipline
@@ -5143,6 +5812,22 @@ Society* 106(6), December 1962 (parable at p. 470; the moral from its
 concluding argument), retrieved as a scan of the printed article and
 corrected only for one OCR artifact.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+
+Not located because a source this chapter names is **not yet obtained** (`eoreader4.2/docs/eo-for-coders.md` — see the manifest's `unobtained` list for each one's reason):
+
+- “You never emit an app as one long…”
+- “There once were two watchmakers, named Hora and…”
+- “We have shown thus far that complex systems…”
+- “Two watchmakers, Hora and Tempus, both made watches…”
+
+<!-- anchors:end -->
+
 ---
 
 # 7.3 — A Worked Build, Start to Finish
@@ -5225,6 +5910,20 @@ every field and every checkpoint, is `eoreader4.2/docs/eo-for-coders.md`,
 patients room ──`. The closing quote about assembly 4's failure and
 assembly 5 not yet starting is from the same section, immediately following
 the code block.
+
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+
+Not located because a source this chapter names is **not yet obtained** (`eoreader4.2/docs/eo-for-coders.md` — see the manifest's `unobtained` list for each one's reason):
+
+- “If assembly 4 fails, assemblies 1 through 3…”
+- “Layer 0 — The Legend,”
+
+<!-- anchors:end -->
 
 ---
 
@@ -5474,6 +6173,31 @@ format is borrowed directly from `eoreader4.2/docs/eo-compliance-2026-07.md`,
 specific chapter footer it summarizes and the source file named in that
 footer; see each chapter's own "Where this comes from" for the full
 citation this table's evidence column compresses.
+
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+- “Attention Is All You Need” → `attention-2017#b174-199`
+- “Pattern is Bateson's: a difference that makes a…” → `eoreader6/SEED.md#b1046-1104`
+- “Confabulation — it speaks without witness” → `eoreader6/SEED.md#b2712-2757`
+- “Benford's Law (Newcomb 1881 / Benford 1938) —…” → `eoreader6/goldens/surprise/README.md#b4666-4735`
+- “And pre-registration. `reach` was predicted to spike at…” → `eoreader6/prior-art-teachable-language-comprehender.md#b22934-23015`, `eoreader6/prior-art-teachable-language-comprehender.md#b23099-23166`
+- “the mechanism this one is not” → `eoreader6/packages/engine/emergence/activation.js#b1884-1913`
+- “Prior art is cited from memory and has…” → `eoreader6/prior-art-teachable-language-comprehender.md#b27642-27712`
+- “The number this repo has been citing for…” → `eoreader6/prior-art-surprise-segmentation-and-memory.md#b4119-4184`
+
+Not located because a source this chapter names is **not yet obtained** (`eoreader4.2/docs/eo-wiki.md`, `eoreader4.2/docs/eo-for-coders.md`, `bateson-1972-steps-to-an-ecology-of-mind`, `bender-gebru-2021-stochastic-parrots`, `chow-1970-optimum-recognition-error`, `morris-1938-foundations-theory-of-signs` — see the manifest's `unobtained` list for each one's reason):
+
+- “the project itself said so.”
+- “Most Ontologies: 'It's all Entities'”
+- “EO and Codd's Null Problem,”
+- “not named in any source material,”
+- “a different statistic solving the same problem, not…”
+
+<!-- anchors:end -->
 
 ---
 

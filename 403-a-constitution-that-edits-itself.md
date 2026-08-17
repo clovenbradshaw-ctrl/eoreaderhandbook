@@ -123,6 +123,27 @@ scientific-retraction connections above are this book's own added links
 to constitutional law and scientific publishing, not something the
 codebase itself cites.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+- “The name is superseded, not erased” → `eoreader6/SEED.md#b6151-6185`
+
+Not located because a source this chapter names is **not yet obtained** (`eo-constitution/CONSTITUTION.md` — see the manifest's `unobtained` list for each one's reason):
+
+- “we can edit our own rules”
+- “old text is corrected, not rewritten,”
+- “keep the wrong version on the record, dated,…”
+- “make it look like the mistake never happened.”
+- “An amendment... that cannot be expressed as a…”
+- “Amendments are numbered in the order they change…”
+- “remains a draft proposal... and is not entered…”
+- “Status: DRAFT PROPOSAL. Not applied, not yet human-reviewed.”
+
+<!-- anchors:end -->
+
 <!-- nav:start -->
 [← 4.2 — The Tests, in Plain Language](402-the-tests-in-plain-language.md) · [Contents](000-index.md) · [4.4 — One Amendment, Start to Finish →](404-one-amendment-start-to-finish.md)
 <!-- nav:end -->

@@ -99,6 +99,24 @@ anything. It may speak only of what changed the ground."* The legal and
 signal-detection-theory connections above are this book's own added links
 to those fields, not something the codebase itself cites.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+- “All three terms, or it is not a…” → `eoreader6/SEED.md#b1747-1944`, `eoreader6/SEED.md#b2007-2085`
+
+Quoted spans **not located in any obtained source** and not explained by a known gap — each is either the book's own illustrative speech, or a passage that reads as verbatim and is not, which is itself a finding to resolve:
+
+- “it stood out, but nothing changed”
+- “so I'll say something about it”
+- “I looked and there was nothing worth reporting”
+- “I wasn't allowed to look.”
+- “this was actually the signal”
+
+<!-- anchors:end -->
+
 <!-- nav:start -->
 [← 1.2 — The Difference That Makes a Difference](102-the-difference-that-makes-a-difference.md) · [Contents](000-index.md) · [1.4 — The Two Deaths →](104-the-two-deaths.md)
 <!-- nav:end -->

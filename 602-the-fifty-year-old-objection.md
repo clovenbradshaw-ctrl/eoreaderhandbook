@@ -160,6 +160,30 @@ citations itself. The stated ceiling against Fillmore's actual goal (two
 coarse, unlabeled kinds rather than named roles) is from `FINDINGS.md`
 §11.4.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+- “the hammer broke the window,” → `eoreader6/prior-art-teachable-language-comprehender.md#b7151-7178`
+- “The case notions comprise a set of universal,…” → `fillmore-1968#b74814-74970`, `fillmore-1968#b74971-75033`, `fillmore-1968#b75033-75092` *(+0 segment(s) not located)*
+- “as far as I know, [it] has never…” → `eoreader6/prior-art-teachable-language-comprehender.md#b8604-8653` *(+1 segment(s) not located)*
+- “This paper shows that the output of state-of-the-art…” → `reverb-2011#b589-653`, `reverb-2011#b655-779` *(+1 segment(s) not located)*
+- “That is `discoverRelationVocab` and the ≥2-distinct-surfaces recurrence requirement,…” → `eoreader6/prior-art-teachable-language-comprehender.md#b9502-9789`
+- “the acquisition of X by Y, the deployment…” → `eoreader6/prior-art-teachable-language-comprehender.md#b9890-9958`
+- “Charles Fillmore, The Case for Case, 1968” → `eoreader6/prior-art-teachable-language-comprehender.md#b6904-6947`
+- “the mouth is language-specific by construction, the organ…” → `eoreader6/scripts/experiments/README.md#b6685-6748`
+
+Quoted spans **not located in any obtained source** and not explained by a known gap — each is either the book's own illustrative speech, or a passage that reads as verbatim and is not, which is itself a finding to resolve:
+
+- “the thing before the verb is the doer”
+- “none of these cases can be interpreted as…”
+- “reading as filling a template”
+- “who does this with what”
+
+<!-- anchors:end -->
+
 <!-- nav:start -->
 [← 6.1 — A Short History of Machines That Were Said to Read](601-a-short-history-of-machines-that-were-said-to-read.md) · [Contents](000-index.md) · [6.3 — What's Actually New Here →](603-whats-actually-new-here.md)
 <!-- nav:end -->

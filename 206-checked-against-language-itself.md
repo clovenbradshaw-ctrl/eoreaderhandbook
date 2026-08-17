@@ -140,6 +140,23 @@ inter-model kappa figures, the per-language z-score table, and the
 coordinate-geometry (α/η/Ω) test and its three negative results are all
 drawn directly from those two entries.
 
+<!-- anchors:start -->
+
+---
+
+**Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
+
+
+Not located because a source this chapter names is **not yet obtained** (`eoreader4.2/docs/eo-wiki.md` — see the manifest's `unobtained` list for each one's reason):
+
+- “Empirically strong on proportionality and face-level clustering; mixed…”
+- “the axes track something real”
+- “these axes are better than some other three…”
+- “EO Lexical Analysis v2 — Results Report”
+- “The Lexical Analysis: EO's Preliminary Empirical Grounding”
+
+<!-- anchors:end -->
+
 <!-- nav:start -->
 [← 2.5 — Why All Three Have to Agree](205-why-all-three-have-to-agree.md) · [Contents](000-index.md) · [2.7 — Tried Against a Rival →](207-tried-against-a-rival.md)
 <!-- nav:end -->
