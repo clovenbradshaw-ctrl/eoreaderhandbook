@@ -132,12 +132,15 @@ codebase itself cites.
 - “Attention Is All You Need” → `attention-2017#b174-199`
 - “there is no ledger. You cannot ask which…” → `eoreader6/prior-art-teachable-language-comprehender.md#b20194-20315`
 
+**Attested by secondary witnesses** — the primary is not obtained (see the manifest's `unobtained` list), so the anchor names the bytes of an independent source that quotes the passage. A witness says what the witness quotes, never what the primary's own edition reads:
+
+- “On the Dangers of Stochastic Parrots” → `attest-parrots-citing#b165015-165051` *(witness for `bender-gebru-2021-stochastic-parrots`)*
+
 Not located because a source this chapter names is **not yet obtained** (`eo-constitution/CONSTITUTION.md`, `bender-gebru-2021-stochastic-parrots` — see the manifest's `unobtained` list for each one's reason):
 
 - “was that answer based on this document, or…”
 - “what's already in the document”
 - “what's already inside the model”
-- “On the Dangers of Stochastic Parrots”
 - “what the model already knew”
 - “Does this mechanism build a nothing, or weight…”
 

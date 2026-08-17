@@ -1,0 +1,408 @@
+IOSR Journal Of Humanities And Social Science (IOSR-JHSS) 
+Volume 25, Issue 6, Series 3 (June. 2020) 51-57 
+e-ISSN: 2279-0837, p-ISSN: 2279-0845.  
+www.iosrjournals.org 
+DOI: 10.9790/0837-2506035157                               www.iosrjournals.org                                               51 |Page 
+ 
+Pragmatics: The Study Of Its Historical Overview, Meanings, 
+Scope And The Context In Language Use  
+ 
+Ogba ThankGod Igiri, Ph.D, Awa Jacinta Onyekachi, Ph.D, 
+Ogayi Martin Chukwuemeka, Ph. D 
+Department of Linguistics and Literary Studies (English Unit) Ebonyi State University, Abakaliki, Ebonyi State, 
+Nigeria 
+ 
+Abstract: Speakers and writers often mean much more than they say/write and expect their hearers/listeners to 
+understand them. They will generally assume that some aspects of meanings that are not exp ressed in words are 
+deducible from the context. This assumption is based on their shared environment, values, social conventions or 
+world view which guides them to interpret meanings beyond words or grammatical structures. Ultimately the 
+goal is to rightly  interpret the speakers intended meaning. The notion of the speakers or writer ’ s intended 
+meaning is a very crucial element in the study of pragmatics. As one can see in this study, traditional pragmatics 
+is all about investigating the speaker/writer inten ded meaning rather than what is expressed in words. So, the 
+aims of this study are thus: to define pragmatics in ones own words and words of other scholars of the 
+discipline, describe the origin of pragmatics, examine the principles/goals of pragmatics, th e scope of 
+pragmatics, and the brief explanation of the context in language use. 
+Key words: Pragmatics, historical overview scope and context in language use. 
+------------------------------------------------------------------------------------------------- -------------------------------------- 
+Date of Submission: 01-06-2020                                                                           Date of Acceptance: 16-06-2020 
+---------------------------------------------------------------------------------------------------------------------------------------    
+ 
+I. INTRODUCTION 
+This study will introduce one of the first significant studies that developed to what today is known as 
+pragmatics and subsequent efforts that have popularized the discipline. One will  also see how these pioneering 
+efforts attempted to broaden the scope of pragmatics and the extent of improvement thereafter as more language 
+scholars became interested in the field. 
+So, the general aim of this study is to demonstrate how language as a soc ial phenomenon functions in practical 
+social situations contrary to the view that it is a more cognitive skill that should be studied from a formal 
+structuralist point of view. It therefore attempts to show how speakers and writers make language choices to  
+achieve their intentions. And this they do effectively because the context guides them to encode and interpret 
+meanings beyond words or grammatical structures. The overall aim of this study therefore is to expose one to 
+the crucial notion of speaker/write r’ s (contextual) intended meaning –  making process and not just to give one 
+the head knowledge but also to impact practically on one’ s language performances at the end of this study.    
+ 
+The Origin of Pragmatics   
+The origin of modern pragmatics is attribu table to Charles M orris (1938), a  philosopher who was 
+concerned with the study of the science of signs or “ semiotics” . According to Morris , semiotics consisted of 
+three (3) broad branches such as (a) syntax  being the formal relation of signs to one another  (b) semantics being 
+the formal relations of signs to objects to which they refer (c) pragmatics being the formal relations of signs to 
+interpreter which is the language user. 
+Within each of these branches (eg syntax) Morris also distinguished between “ pure studies”  and “ descriptive 
+studies”  pure studies concerned with the explanation  or elaboration of a sign system and symbols used to 
+describe language called metalanguage. While descriptive studies are the application of the metalanguage to a 
+particular language, i.e. descriptions of signs (or words) and their usages. 
+Interestingly, Morris broad use of pragmatics has been retained in some quarters and` this explains the 
+use of the term in disciplines such as sociolinguistics , psycholinguistics, communicatio n etc. Pragmatics is also 
+used within analytical philosophy. 
+Another scholar in this concept is Carnap in 1938. Carnap like Morris was a philosopher and logician. His work 
+is quite influential because of his attempt to narrow down the scope of pragmatics. He also distinguished a 
+tracheotomy of semiotics as follows. 
+(i) If in an investigation explicit reference is made to the speaker, or to put it in more general terms, to the 
+user of the language, then we assign it (the investigation) to the field of pragmatics . 
+
+Pragmatics: The Study Of Its Historical Overview, Meanings, Scope And The Context In .. 
+DOI: 10.9790/0837-2506035157                               www.iosrjournals.org                                               52 |Page 
+ 
+(ii) If we abstract from the user of the language and analyze only the expressions and their designate, 
+(references) we are in the field of semantics. 
+(iii) And finally, if we abstract from the designate also and analyze only the relations between the 
+expressions, we are in (logical) syntax (quoted from Levinson, 1983:3). 
+Carnap retained Morris ’  idea of pragmatics as an investigation in which explicit reference is made to 
+the speaker  or the user of  the language and equated pragmatics with descriptive semiotics (for mal study of 
+meaning). Like Morris, he made a distinction between pure and descriptive studies, equating pragmatics with 
+the` latter. He also added a pure pragmatics to include concepts like belief, utterance and intention and how they 
+relate to each other . This latter idea (ie pure pragmatics) has since been dropped. In the 1960 ’ s Carnap’ s 
+definition of pragmatics as requiring reference to the user was adopted within linguistics, especially within a 
+movement called “ generative semantics” . 
+It is necessary to mention here that Carnap’ s definition of pragmatics as requiring reference to the user 
+of the language is as too narrow as it is too broad. According to Le vinson (1983), it is too broad because it 
+admits such studies as “ ships of the tongue”  or word asso ciations and studies in linguistics pragmatics should 
+be restricted to investigations that have at least some linguistics implications. On the other hand, it is too narrow 
+because if we take words like I and you for example, they identify particular partic ipants (or users) and their role 
+in the speech event, just as words like here and now indicate the place and time of the event (not necessarily 
+referring to the user). Therefore it is argued that Carnap ’ s definition might be modified  to say something like 
+“ if in an investigation explicit reference is made to the speaker, or to put it in more general terms, to the user of 
+the language, and those linguistic investigations that make necessary reference to aspect of the context, then we 
+assign it to the field of pragmatics”.  
+ 
+Meanings of Pragmatics 
+Quite a number of language scholars have defined pragmatic, which are of interest to us in this study. 
+These definitions throw some light on the nature, principles and scope of pragmatic. Let ’ s look at a few of 
+them. 
+Leech and short (1981 , P. 290) maintain that pragmatics is “ the investigation into that aspect of 
+meaning which is derived not from  the formal properties of words, but from the way in which utterances are 
+used and how they relate to the context in which  they are uttered. Notice the word “ utterances”  not necessarily 
+sentences. 
+Leech (1983, P. 6 ) defines pragmatics as “ the study of those aspects of the relationship situations” , 
+the speech situation enables the speaker use language to achieve a particular ef fect on the mind of the hearer ” . 
+Thus the speech is goal-oriented (ie the meaning which the speaker or writer intends to communicate).  
+Levinson (1983,P.22) sees pragmatics as “ the study of those aspects of the relationship between language and 
+context that  are relevant to the writing of grammars ” . Notice in this definition that interest is mainly in the 
+inter-relation of language and principles of language use that are context dependent.  
+For Yule (1996, P. 127) pragmatics is “ the study of intended speaker m eaning” . It is “ in many ways …  the 
+study of invisible meaning or how we recognize what is meant even when it isn ’ t actually said (or written). 
+ 
+Principles/goals of pragmatics 
+From the above definitions of pragmatics you will notice that there some common f eatures that will help us 
+understand better the principles and goals of pragmatics. All the definitions stress the following:  
+Language use i.e. language in actual speech situations (language performance rather than mere cognitive skills). 
+In other words, w hat is important is how language users communicate in oral conservations or in writing not 
+necessarily how grammatically correct the sentences are. 
+Discourse/utterance rather than sentence. The context of the speech –  location of participants in a 
+conversation/discourse. 
+- Goal of utterance/discourse or speaker’ s intention. 
+- Participants in a conversation/discourse situation, their roles, relationship and identities, since these 
+have some influence on how meanings are encoded and interpreted. 
+Shared assumptions/knowledge, cultures, or conventions of participants in communication.  
+- The fact that interaction do not rely only on their knowledge of the language system when they 
+interpret meaning but also their knowledge of the world, cultures, conventions or world v iew. 
+In stressing utterances in communication/rather than structural sentences, a pragmatics analyst seeks to explain 
+what communication actually “ do”  with language whether consciously or unconsciously. Let’ s look at this 
+illustration. Jide a lights  from a taxi. Luckily he sees a friend of his (Mark) standing nearly. He goes forward to 
+talk to Mark while the taxi waits for him. 
+ 
+ 
+
+Pragmatics: The Study Of Its Historical Overview, Meanings, Scope And The Context In .. 
+DOI: 10.9790/0837-2506035157                               www.iosrjournals.org                                               53 |Page 
+ 
+Jide: Mark, what’ s up? Do you have some change on you? 
+Mark: What I have is not enough to pay a taxi fare  “ do you have some change on you?”  Mark immediately 
+understands` that Jide is not asking a yes or no question, to pay his taxi fare, so he gives an explanatory answer. 
+Again he takes it for granted that “ what’ s up”  is a form of greeting than a question. Now “ yes”  or “ no”  
+would have been the right answer to the second question if ti was asked in a different context, say a bank. Of 
+course, you know that if they were total strangers Mark will certainly not use the same words, hence “ what up”  
+was not only a greeting but also a means o n initiating a conversation/discourse. It also indicates that some 
+psychological bond or relation exists between them. Hence Jide right assumed that Mark would interpret his 
+“ questions”  correctly. 
+ 
+The Scope of Pragmatics 
+By scope, we mean the levels to wh ich the study of pragmatics have been extended. For the purpose of our 
+present study, we must mention that linguistic pragmatics as it is used today is a lot more restricted than when 
+the term “ pragmatics”  was first used by Charles Morris (1938). Morris wa s interested in semiotics –  The 
+general study of signs and symbols pragmatics was define as the “ relation of signs to the interpreters” . Morris 
+then extended the scope of pragmatics to include psychological, biological and sociological phenomena which 
+occur in the functioning of signs Levinson (1983). This will include what is known today as psycholinguistics, 
+sociolinguistics, neurolinguistics among others. Today, linguistics pragmatics mostly dwells on those factors of 
+language use that govern the choices  individuals make in social interaction and the effects of those choices on 
+other (crystal, 1987). 
+In recent times however, extended researches in cultural studies and social discourse argue in favour of 
+discourse pragmatics rather than the traditional lin guistic pragmatics. Fairclough (1989) for instance argues that 
+rather than see language us as an individual ’ s strategies of encoding meaning to achieve some particular effects 
+on the learner or reader, we should be concerned with the fact  that social conve ntions and ideologies, define 
+peoples roles, identifies and language performance, people simply communicate in some particular ways as the 
+society determines. While people can manipulate language to achieve certain purposes, they in some 
+circumstances are actually ruled by social convention. In the same vein, pragmatic study has thrown some lights 
+in the study of literature giving rise to literary pragmatics, while the application of pragmatics to computational 
+linguistics has also developed into computational pragmatics, etc. 
+ 
+Utterance meaning and sentence meaning 
+This has to do with utterance meaning versus sentence meaning . In the definition of pragmatics by 
+Leech as we have seen in this study, one will notice that one of the principles of pragmatics is the emphasis on 
+“ utterance”  meaning rather than word or sentence meaning,  and how such utterances relate  to the context in 
+which they are used. The difference between an utterance and a sentence is the fact that an utterance need not be 
+syntactically perfect the same way we expect a sentence to be. A sentence must satisfy some basic grammatical 
+rules (eg, subject/verb/complement structural pattern). An utterance on the other hand doesn ’ t even have to be 
+a sentence it may be a word like “ settle” , a phrase li ke “ area boy” , a contracted form like “ what’ s up”  or 
+an exclamation like “ hei or oah!”  The “ meaning”  we associate` with these utterances is defined in terms of 
+their functions or the intention of the speaker in uttering them. While sentence meaning is a fu nction of the 
+words in the sentence together with the overall sense of the sentence utterance meaning relies much more on the 
+intention of the utterance in relation to the context.    
+ 
+The concept of the context in language use 
+For detail understanding of this study, the writers further examined the context in language use. In this 
+subheading, the writers outlined and explained` the followings: 
+- Meaning and features of context 
+- Linguistics context 
+- Physical/environmental context 
+- Interpersonal context 
+- Situational/socio-cultural context 
+- Institutional context 
+- Components of discourse context 
+- Text and context 
+ 
+Meaning and features of context 
+ Context refers to the situation, within which language functions. It may be physical/environmental, 
+social context or institu tional situation, including events, time, culture or social/conventions that can influence 
+language use. The first use of the term “ context of situation”  is attributable to Bronislaw Malinowski, a social 
+
+Pragmatics: The Study Of Its Historical Overview, Meanings, Scope And The Context In .. 
+DOI: 10.9790/0837-2506035157                               www.iosrjournals.org                                               54 |Page 
+ 
+anthropologist, who in his study of language behavio urs among some native Indians concluded that language is 
+a “ made of action ”  and as social behaviour is closely tied to the relevant social situation in which it is used 
+(Malinowski, 1935). Meaning of words was not to be restricted to sounds  of utterances o r their grammatical 
+structure but must include the “ pragmatics context”  in which they are uttered. J. R. Firth (a linguistics) 
+expounded this study and in his contextual theory of meaning argues that context is the bedrock of any linguistic 
+enterprise because “ normal linguistic behaviour as a whole is meaning effort, directed towards the maintenance  
+of appropriate patterns of life ”  (Firth 1957:223). Since every utterance occurs within a “ culturally determined 
+context of situation ”  meaning si tied to that co ntext about the speaker and the ways he perceives himself, his 
+roles in the society and his relationship with other members of the society. As pragmatics  investigates context 
+base meaning it will be impossible to talk about pragmatics without reference to the context in which utterance 
+are made. And as a matter of fact, linguistics codes are actually selected and used according to some social sets 
+of standards. It is contextual considerations that make the difference between structural linguistics and socio -
+linguistics, pragmatics and discourse analysis. We shall also look at the features of context as we examine the 
+various types of contexts.    
+ 
+Linguistics context 
+ This refers to the set of words in the same sentence or utterance. This forms the linguisti c environment 
+that determines the sense of the words in the context. For example, if the word “ shoot”  appears in a linguistic 
+context along with other words like “ dribble”  ‘ penalty”  “ goal” , or “ over the bar” , we immediately 
+understand the shoot that is meant. If on the other hand, the same word appears with words  like “ soldier” , 
+“ artillery”  or “ war” , the meaning is immediately known. The linguistic context (also known as co -text) of a 
+word or words therefore has a strong effect on what we may think such wor ds mean. Generally,  words occur 
+together and frequently used with some particular words with which they collocate.  
+ 
+Physical/environmental context 
+Again we know that words mean in the basis of the physical or environmental context. As we saw and have 
+explained before, the meaning of the word “ drink”  on a library shelve is different from its meaning on the door 
+of a canteen. The physical context definitely influenced our interpretation of the word. Our understanding of 
+words or expressions is much more tied to the physical context particularly in terms of the time and place being 
+referred to in the expressions. Other features of the context include: 
+- Participants e.g. boys, girls, men, traders. 
+- Ongoing activity e.g. playing, chatting, debating 
+- The place e.g. church, class, stadium, dining table. 
+- The time e.g. time of the day or season 
+Hymes (1964) identifies the following general contextual features: 
+- Participants, i.e. people involved, e.g. husband and wife, neigbhours, colleagues, teachers and students 
+etc. 
+- Topic, i.e. what the discourse is about, e.g. politics, religion, race, health, etc. 
+- Setting, i.e. where the event takes place, e.g. home, at work, at school, etc. 
+- Channel, e.g. medium –  speech, writing, non-verbal. 
+- Code (dialect/style) 
+- Message form (debate, chat , etc) 
+However, all of the above features  may not rigidly be ascribed to the physical context. For example, the 
+channel/medium or code through which the piece of discourse is carried out are determined by other variables 
+such as education, age, statu s, or class which may well be described as some features of the social -cultural 
+context.  
+ 
+Interpersonal context 
+The interpretation context focuses lgnize the influence of socio -cultural variables that affect the production of 
+discourse, or text. But the fa ct remains that individual speakers or writers do make linguistic choices and decide 
+what to say and how to say it.  Therefore factors that place constraint on their ability to do this (e.g. state of the 
+mind) is of interest of pragmatic analysts.  
+Situational/socio-cultural context 
+Unlike the other contexts discussed above, the situational context concerns mainly with socio -cultural 
+considerations. The context of culture  includes beliefs, value system, religion, conventions that control 
+individuals’  behavio ur and their relationship with others. These socio cultural rules of behaviour often guide 
+them in order to communicate effectively with one another. Some beliefs or conventions may be considered as 
+universal, while some are culture-specific, especially those that guide utterances, non-verbal communication and 
+other forms of social behaviour that may be interpreted meaningfully. 
+
+Pragmatics: The Study Of Its Historical Overview, Meanings, Scope And The Context In .. 
+DOI: 10.9790/0837-2506035157                               www.iosrjournals.org                                               55 |Page 
+ 
+Knowledge of socio -cultural rules of behaviours brings up the idea of “ communicative competence”  which 
+according to Dell Hymes (19 72) is the ability of the speaker to know when to speaker, when not and as to what 
+to talk about with whom, when, where and in what manner. This competence is integral with attitudes, values  
+and motivations concerning language, its features and uses in the  most suitable and appropriate contexts. Take a 
+newspaper headline  like “ The butcher of Zamfara”  for an example how would a non -Nigerian interpret it 
+considering the general meaning of “ butcher” ? How would you interpret  it –  as a Nigerian who is familiar 
+with the controversy surrounding the implementation of the Sharia in the Northern states? Take  
+A little child: (Scribbles unintelligibly on the surface of a white paper and presents it to his father, smiling)  
+Daddy see…!  
+Father: *hugs the child) ah…  beautiful, this is the most brilliant writing I ‘ ve ever seen 
+You will agree with me that the father has applied the best communicative etiquette in his response to his 
+child’ s writing, considering the context and the participant in the communication event . 
+ 
+Institutional context 
+Much of what we refer to here as “ institutional context”  may have actually been covered as part of the 
+social/cultural context, but it is necessary to identify certain elements of the context in some specialized kind of 
+settings like educational institutions, which impose some constraints in language use. Take a convent or a purely 
+Islamic institutions for example: There are certain convention there that govern people ’ s mode of communicate 
+and behaviour which is not justice “ social”  or “ cu ltural”  we consider this as institutional and much of this 
+institutional standards or “ common sense assumptions”  (Faire Cough, 1989), determine social behaviour and 
+individuals simply imbibe them as natural and unchanging. For example, there are certain wa ys people must 
+greet one another in some of these places. Expressions such as “ bless you’  or “ it is well”  in some Christian 
+mission universities have become almost institutionalized that people are made to believe that unless they greet 
+each other that way  they may never be enjoy certain privileges . In some cases these rather peculiar manner of 
+expression help to identify the individuals and the institutions they are associated with.  
+ 
+Components of discourse context 
+M.A.K Halliday (1976) identifies three co mponents of the context which we shall discuss in this sub -section. 
+According to Halliday, situation types can be represented as a complex of three dimensions, namely:  
+(i) The ongoing activity 
+(ii) The role relationships 
+(iii) The symbolic channel (i.e. the medium, either written or spoken). 
+ The ongoing activity is referred to as the field which is the total event in which the text (or utterance is 
+functioning). It is the primary aim of the discourse and what subject matter the interactant must explore. 
+According to Hudson (1980), the field of discourse is the “ what about the shy”  of discourse. It may 
+be political, religious, academic, health, manage etc. very often an individuals cho lce of words in a conversation 
+is governed by the field of discourse. 
+The role relationship are referred to as the tenor. It is the “ with whom”  of discourse. The tenor shows the kinds 
+of social relationships that exists among interactants types of role interaction (how they take turns and what 
+influences it) and how temporal or permanent such relationships are. It also mirrors the identities of the people 
+involved. Some social variables such as age, status, education etc influence how individuals assign roles to one 
+another in conversations. 
+The mode of discourse is the function of the text in the event, including the medium of expression. This is the 
+third component of the dimensions of the context. Hudson calls it “ the how”  of discourse. Again the subject 
+matter of a discourse and the relationship between the interactants often determine the best mode of expressing 
+the text, either in writing or verbally. Legal documents for example demand writing while interpersonal 
+communication is usually done orally. The choice of words is also influenced by the formality or informality of 
+the relationship that exists among speakers or writers. Look at this example: two people address the same person 
+(Oluwatosin Adeyemi) in the following terms. 
+A: You’ re welcome Miss Adeyemi (formal) 
+B: Hi Tosin! (informal) 
+ 
+Text and context 
+Igiri T. O. et al (2018:46-47) a text can simply be described as a type of written or spoken discourse or a 
+sequence of paragraphs that represent an extended unit of speech. A text is not just a random collection of 
+sentences. A text must be meaningful, in the sense that th e`lliday and Hasan (1976) as quoted by the same Igiri 
+T. O. et al (2018) described a text as “ a semantic unit”  typically in any text, every sentence except the first 
+exhibits some form of cohesion with the preceding (Halliday and Hasan, 1976:292) in Igiri T. O. et al (2018). 
+
+Pragmatics: The Study Of Its Historical Overview, Meanings, Scope And The Context In .. 
+DOI: 10.9790/0837-2506035157                               www.iosrjournals.org                                               56 |Page 
+ 
+They maintain that texts are classified into gaurs on the communicator. Although there are different 
+ways of classifying texts, sox text types are generally recognized, and they are: recount report, procedure, 
+explanation, exposition, a nd experimental report. Each of  these text types has different linguistic  structures and 
+features. For instance, a report is written in the past tense since it is an account of something the communicator 
+had experienced some time ago. 
+In the same Igiri T. O. et al (2018:6 -7) the word “ context”  is a commonly used expression, which 
+may mean different things to different people. Its general meaning is the set of facts that surrounds particular 
+events of view. Context is everything that surrounds the production  of a piece of communication. These include 
+the physical situation, the communicators, their cultural norms and expected behaviour, and the expressions that 
+precede and follow a particular expression. All these features of context help language speakers to  interpret 
+meaning appropriately. Linguistics is particularly interested in the linguistic use.  
+ 
+II. DISCUSSION 
+We can see that interest in the study of the nature of meaning is not just a linguistic affair, but a 
+concern that cuts across discipline. This expl ains why earlier studies of meaning began with philosophers (e.g. 
+Charles Morris and Carnap). It is interesting to note that the search, for both linguistic and social meanings is an 
+ongoing activity and the results of these studies have further thrown sig nificant lights on the true nature of 
+meaning. 
+So, we can therefore maintain that pragmatics as a linguistic  discipline is a worthwhile academic endeavour as it 
+exposes us to interesting insights to the actual functions of language in social interactions. Thus, the study of 
+language has been extended significantly beyond mere description of linguistic properties to the various creative 
+ways individual communicators construct meaning in different socio -cultural contexts. Pragmatics has also been 
+above to account for social meanings which formal semantics has tended to overlook, giving new insights to the 
+understanding of literary texts and in fact helping to formulate strategies for the teaching and learning of 
+language. 
+We have been able to look at the` feat ures and types of contexts namely: linguistic context, physical 
+environmental context, interpersonal context, situational/socio -cultural context and institutional context. All 
+these context types dictate meaning and effective communicators are able to comb ine the features of each in 
+their communication. It is important to note here that virtually  all of these contexts have a part to play in any 
+particular piece of discourse or conversation. For example two people in a discussion will generally choose 
+words that belong to the same linguistic context and possibly apply analogies that are relevant to both their 
+environmental and cultural contexts. They may even go ahead to speak certain slang that belong to their` 
+professional or institutional context which non -member may not readily understand. Effective communication 
+always do this. We have also  looked at the components fo discourse context as field, tenor and mode, where 
+field stands for the topic/theme of the communicative event, tenor as the role relationsh ips between interactants 
+and mode as the choice of the medium of expression, either written or spoken. A written piece of discourse or an 
+utterance is referred to as text which depends on the context for its meaning.  
+ 
+III. CONCLUSION 
+The first use of the term “ pragmatics”  is associated with Charles Morris and Carnap in the 1930’ s. 
+These were philosophers who were interested in the study of semiotics (the science of signs) and how the 
+meaning associated with signs may be described in linguistics terms. Hence, th ey distinguished three (3) 
+branches of semiotics as syntax, semantics and pragmatics. While Morris used the term “ interpreter”  to explain 
+the focus of pragmatic study, Carnap used the expression “ the user of the language” .  Carnap identified the fact 
+that since the investigation of meaning is user based, it must therefore seek to find what intention the user has 
+for using some particular words or sentences. It is the intention of the speaker that indicates the functions of the 
+utterance and what results that  are anticipated. This view of linguistic pragmatics was eventually adopted 
+generally, dropping other broader psychological and sociological aspects of signs proposed by Charles Morris.  
+The study also examined the various definitions of pragmatics which en able us see the actual concerns 
+and goals of linguistic pragmatics. All the definitions agree that pragmatics is a study of meaning from the point 
+of view of the language user, showing what chooses he/she makes and how these capture his/her intentions in 
+some particular contexts. Hence, pragmatics stresses utterances rather than sentences, utterance functions/goals 
+rather than grammaticalness and the kinds of cultures/conventions which influence how speakers/writers encode 
+and interpret meaning. We have also examined some areas of study where pragmatic principles have been quite 
+useful in the interpretation of meaning giving rise to discourse pragmatics, literacy pragmatics, computational 
+pragmatics among others. 
+As a matter of fact, pragmatics has been defi ned by many scholars as the study of context –  based 
+meaning. In other words, the study of pragmatics is the study of how language use is influenced by the context. 
+
+Pragmatics: The Study Of Its Historical Overview, Meanings, Scope And The Context In .. 
+DOI: 10.9790/0837-2506035157                               www.iosrjournals.org                                               57 |Page 
+ 
+Context is the central “ influencer”  of meaning especially considering how people interact w ith one another in 
+different situations. 
+In your own personal interactions and relationships, you will agree that all the time you were able to 
+communicate effectively with people because you recognize the kind of social attitudes and convention that 
+guided four interactions and you responded exactly the way you were expected to respond. You were able to 
+apply your knowledge of the society and its cultures in your interactions and you talked when you should and 
+kept silent at other times. All these are fact ors of the context which determined the way you related with others 
+as a member of the same society. 
+ 
+REFERENCES 
+[1]. Babajide, A. (ed) (2000). Studies in English language. Ibadan: Enicrownfit. 
+[2]. Crystal, D. (1987). The Cambridge encyclopedia of language. Cambridge: CUP. 
+[3]. Fairclough, N. (1989). Language and power. London: Longman. 
+[4]. Firth, J. R. (1957). Papers in linguistics. London: Edward Irnold. 
+[5]. Halliday, M. A. K. and Ruqaiya Hasan (1976). Cohesion in English. London: Essex. 
+[6]. Hudson, R. A. (1980). Sociolinguistics. Cambridge: CUP. 
+[7]. Hymes, D. (1972). On communicative competence. Philadelphia: University of Pennsylvania Press. 
+[8]. Igiri, T. O. et al (2018). An introduction to discourse analysis . Onitsha: West and Solomon publishing 
+Co. Ltd. 
+[9]. Lavandera, B. (1988). The study of language in its social cultural context. In Newmeyer (ed). Linguistics. 
+The Cambridge Survey, 4, 1-13. 
+[10]. Leech, G. (1983). Principles of pragmatics. London: Longman. 
+[11]. Levinson, S. (1983). Pragmatics. Cambridge: Cambridge University Press. 
+[12]. Wales, K. (1989). A dictionary of stylistics. London: Longman. 
+[13]. Yule, G. (1996). The study of language 2nd ed. Cambridge: CUP. 
+ 
+Ogba ThankGod Igiri, Ph.D. “ Pragmatics: The Study of Its Historical Overview, Meanings, 
+Scope And The Context In Language Use. ” IOSR Journal of Humanities and Social Science 
+(IOSR-JHSS), 25(6), 2020, pp. 51-57. 
+ 
+ 

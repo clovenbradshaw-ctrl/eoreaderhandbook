@@ -117,16 +117,19 @@ visible.
 **Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
 
 
+**Attested by secondary witnesses** — the primary is not obtained (see the manifest's `unobtained` list), so the anchor names the bytes of an independent source that quotes the passage. A witness says what the witness quotes, never what the primary's own edition reads:
+
+- “the relations of signs to the objects to…” → `attest-morris-eric#b7605-7634` *(witness for `morris-1938-foundations-theory-of-signs`)* *(+1 segment(s) not located)*
+- “the relation of signs to interpreters.” → `attest-morris-eric#b7730-7767` *(witness for `morris-1938-foundations-theory-of-signs`)*
+- “Foundations of the Theory of Signs” → `attest-morris-eric#b47613-47647` *(witness for `morris-1938-foundations-theory-of-signs`)*
+
 Not located because a source this chapter names is **not yet obtained** (`morris-1938-foundations-theory-of-signs` — see the manifest's `unobtained` list for each one's reason):
 
 - “The dog bit the man”
 - “the dog bit the man”
 - “the man bit the dog”
 - “the formal relations of signs to one another”
-- “the relations of signs to the objects to…”
-- “the relation of signs to interpreters.”
 - “the dog bit the man.”
-- “Foundations of the Theory of Signs”
 
 <!-- anchors:end -->
 

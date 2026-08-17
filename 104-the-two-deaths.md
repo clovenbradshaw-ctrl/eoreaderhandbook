@@ -120,7 +120,7 @@ those fields — not something the codebase itself cites.
 
 **Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
 
-- “Two deaths, one conformance family each: Confabulation —…” → `eoreader6/SEED.md#b2822-2964` *(+2 segment(s) not located)*
+- “Two deaths, one conformance family each: Confabulation —…” → `eoreader6/SEED.md#b2666-2964`
 
 <!-- anchors:end -->
 

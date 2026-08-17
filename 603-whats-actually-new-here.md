@@ -152,7 +152,7 @@ output — it is the record of how the output came to be."*
 
 **Byte anchors** (generated — `node scripts/anchor-quotes.mjs`, verified by `--verify`; sources and their provenance in `sources/MANIFEST.json`). Each anchor is the UTF-8 byte range of the quoted words in the snapshot the manifest names:
 
-- “`resolvePronouns` returns 638 bindings and 820 gaps, and…” → `eoreader6/prior-art-teachable-language-comprehender.md#b21252-21482`, `eoreader6/prior-art-teachable-language-comprehender.md#b21483-21564`, `eoreader6/prior-art-teachable-language-comprehender.md#b21597-21631` *(+1 segment(s) not located)*
+- “`resolvePronouns` returns 638 bindings and 820 gaps, and…” → `eoreader6/prior-art-teachable-language-comprehender.md#b21252-21631`
 - “Knowledge Vault had confidence; PROV-O has provenance vocabulary;…” → `eoreader6/prior-art-teachable-language-comprehender.md#b21919-22050`
 - “The closest prior art is the LCF proof-kernel…” → `eoreader6/prior-art-teachable-language-comprehender.md#b22617-22931`
 - “Machine reading, as a field, has approximately no…” → `eoreader6/prior-art-teachable-language-comprehender.md#b23099-23166`

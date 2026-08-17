@@ -13,6 +13,97 @@
       "retrievedAt": "2026-08-16T23:34:12.698Z"
     },
     {
+      "id": "attest-bateson-bale",
+      "kind": "web-attestation",
+      "attests": "bateson-1972-steps-to-an-ecology-of-mind",
+      "title": "Bale, Gregory Bateson Cybernetics and the Social Behavioral Sciences",
+      "path": "sources/web/attest-bateson-bale.txt",
+      "bytes": 182074,
+      "sha256": "52ac1cf5761781e126a98107775e090d5132a092cfbe11f5e0035580f421fa51",
+      "origin": {
+        "url": "http://www.narberthpa.com/Bale/lsbale_dop/bothcybernet.pdf"
+      },
+      "retrievedAt": "2026-08-17T01:57:41.537Z"
+    },
+    {
+      "id": "attest-bateson-leydesdorff",
+      "kind": "web-attestation",
+      "attests": "bateson-1972-steps-to-an-ecology-of-mind",
+      "title": "Leydesdorff, Toward a Calculus of Redundancy, arXiv 1701.02455",
+      "path": "sources/web/attest-bateson-leydesdorff.txt",
+      "bytes": 65566,
+      "sha256": "78c39b8e8b12c23f2bc0f9a7269a9eeaccc41f6eff11d7bbb5068fbaa9401347",
+      "origin": {
+        "url": "https://arxiv.org/pdf/1701.02455"
+      },
+      "retrievedAt": "2026-08-17T02:00:16.808Z"
+    },
+    {
+      "id": "attest-bateson-polanyi",
+      "kind": "web-attestation",
+      "attests": "bateson-1972-steps-to-an-ecology-of-mind",
+      "title": "Form Substance and Difference chapter, Polanyi Society hosted reading",
+      "path": "sources/web/attest-bateson-polanyi.txt",
+      "bytes": 41602,
+      "sha256": "de5d89869a2fe4620b585157297d6d783ac525a636676a6d4da60c90824284f9",
+      "origin": {
+        "url": "https://polanyisociety.org/2021Zoom/June2021/Bateson.Steps.Form%20Substance%20Difference.pdf"
+      },
+      "retrievedAt": "2026-08-17T01:57:41.420Z"
+    },
+    {
+      "id": "attest-chow-reject-survey",
+      "kind": "web-attestation",
+      "attests": "chow-1970-optimum-recognition-error",
+      "title": "Machine Learning with a Reject Option survey, arXiv 2107.11277",
+      "path": "sources/web/attest-chow-reject-survey.txt",
+      "bytes": 134164,
+      "sha256": "71fbb573ee8f400fb419d647f27d8307b4b209d5ff7bf2dabe408799c179cf26",
+      "origin": {
+        "url": "https://arxiv.org/pdf/2107.11277"
+      },
+      "retrievedAt": "2026-08-17T01:57:41.840Z"
+    },
+    {
+      "id": "attest-morris-eric",
+      "kind": "web-attestation",
+      "attests": "morris-1938-foundations-theory-of-signs",
+      "title": "Education Quarterly Reviews article on Morris semiotics, ERIC EJ1340800",
+      "path": "sources/web/attest-morris-eric.txt",
+      "bytes": 50134,
+      "sha256": "a1649df5826147b7bddf561571452828de201e06b4d60cbda5dc74a0beaa7055",
+      "origin": {
+        "url": "https://files.eric.ed.gov/fulltext/EJ1340800.pdf"
+      },
+      "retrievedAt": "2026-08-17T01:57:41.631Z"
+    },
+    {
+      "id": "attest-morris-iosr",
+      "kind": "web-attestation",
+      "attests": "morris-1938-foundations-theory-of-signs",
+      "title": "Pragmatics historical overview, IOSR JHSS 25.6",
+      "path": "sources/web/attest-morris-iosr.txt",
+      "bytes": 34333,
+      "sha256": "2e8994e5f3cde9bab081b522fe64664f76c75c253ad1493ddf4ec4c61edd7059",
+      "origin": {
+        "url": "https://www.iosrjournals.org/iosr-jhss/papers/Vol.%2025%20Issue6/Series-3/I2506035157.pdf"
+      },
+      "retrievedAt": "2026-08-17T01:57:41.750Z"
+    },
+    {
+      "id": "attest-parrots-citing",
+      "kind": "web-attestation",
+      "attests": "bender-gebru-2021-stochastic-parrots",
+      "title": "Ethical and social risks of harm from Language Models, arXiv 2112.04359",
+      "path": "sources/web/attest-parrots-citing.txt",
+      "bytes": 246281,
+      "sha256": "8ae5ac0d4d746420c86ca8bc7906038108a321bb9754a0c935d26d33c01d6546",
+      "origin": {
+        "url": "https://arxiv.org/pdf/2112.04359"
+      },
+      "retrievedAt": "2026-08-17T01:57:41.933Z"
+    },
+    {
       "id": "eoreader6/11-terrain-occupancy-and-the-two-ascents.md",
       "kind": "local-snapshot",
       "path": "sources/local/eoreader6/11-terrain-occupancy-and-the-two-ascents.md",

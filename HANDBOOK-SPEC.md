@@ -93,6 +93,34 @@ source's own words at quote boundaries ("What kind of thing is this?"
 where CUBE.md's bytes read "what…"; "to be is to be…" where Quine's page
 reads "To be is to be…").
 
+**v0.8.2 changelog (attestation witnesses):** for the primaries that cannot
+be lawfully obtained (Bateson, Morris, Chow, Bender & Gebru), the registry
+now holds ATTESTATION sources — independent open-access academic documents
+that quote the same passages — typed as exactly that: `kind:
+"web-attestation"`, each naming the primary it `attests`, consulted only
+when no primary contains a segment, never allowed to outbid a primary,
+never backported from (a witness can itself misquote), and rendered in the
+chapter blocks under their own heading: a witness anchor says what the
+witness quotes, never what the primary's own edition reads. Eight
+quotations moved from unlocated to attested this way: Bateson's
+"difference which makes a difference" passages (the Polanyi Society's
+hosted "Form, Substance and Difference" chapter; Leydesdorff arXiv
+1701.02455, which carries the p. 315 citation), Morris's semantics and
+pragmatics definitions plus Peirce's representamen definition (ERIC
+EJ1340800, IOSR JHSS 25.6), and the Chow and Bender & Gebru titles
+(bibliographies of arXiv 2107.11277 and 2112.04359). One finding surfaced
+rather than smoothed: both independent Morris witnesses give the
+syntactics definition as "the formal **relation** of signs to one another"
+(singular) where this book's Chapter 0.2 quotes "relations" — with the
+primary unobtained, the disagreement stands recorded in the chapter's
+unlocated list instead of being silently harmonized either way. The pass
+also hardened the matcher, each fix caught by `--verify`: byte offsets
+walk code points (an astral emoji in a cited title drifted every later
+offset), dashes fold to space (PDF extraction drops em-dashes), blockquote
+markers and quotation-mark glyphs shed symmetrically. Current state: 250
+quotations — 91 anchored, 8 partially, 8 attested, 132 verified spans, 0
+round-trip failures.
+
 **Purpose of this file:** decide, on paper, what the handbook teaches, in what
 order, to whom, using what material — before spending the effort to write it.
 It follows the same discipline the rest of this lineage asks of everything

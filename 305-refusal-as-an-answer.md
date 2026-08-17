@@ -159,13 +159,16 @@ is precise, not because it describes eoreader6 itself.
 - “this same act at different grains, not three…” → `eoreader6/CUBE.md#b5200-5270`
 - “type error before null... Never spend a measurement…” → `eoreader6/SEED.md#b4777-4833`
 
+**Attested by secondary witnesses** — the primary is not obtained (see the manifest's `unobtained` list), so the anchor names the bytes of an independent source that quotes the passage. A witness says what the witness quotes, never what the primary's own edition reads:
+
+- “On Optimum Recognition Error and Reject Tradeoff” → `attest-chow-reject-survey#b92827-92875` *(witness for `chow-1970-optimum-recognition-error`)*
+
 Not located because a source this chapter names is **not yet obtained** (`eoreader4.2/docs/eo-wiki.md`, `eochat/essay.md`, `chow-1970-optimum-recognition-error` — see the manifest's `unobtained` list for each one's reason):
 
 - “there wasn't a real ground to measure against…”
 - “90% of its content words were not carried…”
 - “exceeded the fold budget and were dropped, not…”
 - “there was more than the space available, and…”
-- “On Optimum Recognition Error and Reject Tradeoff”
 - “I decline to classify this one”
 - “the evidence didn't clear the gate”
 - “not printed rather than printed unsupported.”
